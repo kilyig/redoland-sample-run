@@ -53,3 +53,4 @@
 {"eid": "e000122", "year": 2, "phase": "convo", "kind": "say", "speaker": "a001", "who": "Bram", "audience": ["a001", "a009"], "text": "You didn't answer me last year \u2014 maybe the timing was wrong, or maybe you were weighing me up. Either way, here we are again and I'm asking the same thing: are you thinking past this season, or not?", "payload": {}}
 {"eid": "e000123", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e000124", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
+{"eid": "e000125", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
