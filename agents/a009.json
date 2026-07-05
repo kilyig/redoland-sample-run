@@ -160,6 +160,13 @@
    "text": "A child costs three food and I'm sitting on two \u2014 that math doesn't work yet, but I hear what you're offering and I'm not closing the door. What I want to know is whether you'd still look my way if I came to you hungry sometime, or if your eye moves when the numbers stop adding up.",
    "who": "Ryn",
    "year": 1
+  },
+  {
+   "eid": "e000022",
+   "kind": "say",
+   "text": "If you came to me hungry I'd hand you food before you finished asking \u2014 not because it's smart, which it is, but because that's the kind of man I want to be to you. My eye doesn't move with the numbers, Ryn. It moved once, and it landed here.",
+   "who": "Dav",
+   "year": 1
   }
  ],
  "memory_summary": "",
