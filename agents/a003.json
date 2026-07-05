@@ -615,6 +615,13 @@
    "text": "Taric gathers Esa to talk.",
    "who": "Taric",
    "year": 2
+  },
+  {
+   "eid": "e000153",
+   "kind": "say",
+   "text": "Esa, with Ryn tied to Dav now I want to be straight with you \u2014 if things go hard this year, it's you I'm counting on and I'd rather we say that plainly than dance around it. I've got three food, you've got one, and I can spare you something to make sure you're not the weak one in the room when it matters.",
+   "who": "Taric",
+   "year": 2
   }
  ],
  "memory_summary": "",
