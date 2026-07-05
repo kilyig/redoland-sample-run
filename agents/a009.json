@@ -692,6 +692,13 @@
    "text": "Bram gathers Ryn to talk.",
    "who": "Bram",
    "year": 2
+  },
+  {
+   "eid": "e000122",
+   "kind": "say",
+   "text": "You didn't answer me last year \u2014 maybe the timing was wrong, or maybe you were weighing me up. Either way, here we are again and I'm asking the same thing: are you thinking past this season, or not?",
+   "who": "Bram",
+   "year": 2
   }
  ],
  "memory_summary": "",
