@@ -461,6 +461,13 @@
    "text": "Ryn's right that naming fears only gets us so far \u2014 so here's something concrete: Roan has three food, Taric has three, and neither of them moved with Bram or Mako today. That tells me they're either waiting to see which way this village tips, or they'd rather be asked than overlooked. One of us should talk to them before Mako decides his silence was just patience.",
    "who": "Kael",
    "year": 2
+  },
+  {
+   "eid": "e000084",
+   "kind": "say",
+   "text": "Roan and Taric both know which way I lean \u2014 we spoke last year \u2014 so I could go to Taric without it looking like a sudden move. Give me the afternoon and I'll bring back a plain answer: is he standing with us, or is he still weighing it?",
+   "who": "Esa",
+   "year": 2
   }
  ],
  "memory_summary": "",
