@@ -314,6 +314,13 @@
    "text": "Pile's empty again and Bram and Mako each walked away with four \u2014 I wanted us in the same room before anyone else started counting who's allied with whom. Ryn, you took early this year, which was smart; I'm glad you're here. The question I keep turning over is whether we let that pattern run until someone with strong arms and a full larder decides the rest of us are easier to take from than the pile is.",
    "who": "Kael",
    "year": 2
+  },
+  {
+   "eid": "e000081",
+   "kind": "say",
+   "text": "Bram and Mako moving in pairs like that wasn't accident \u2014 they were watching each other's timing, and I don't think either of them is eating alone at the end of a hard year. The one I'd name a threat before Kael's question even lands is Mako: eighty-three strength, five food now, and we know nothing about what he wants because he hasn't said a word to any of us.",
+   "who": "Sela",
+   "year": 2
   }
  ],
  "memory_summary": "",
@@ -322,7 +329,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "female",
  "siblings": [],
  "strength": 73,
