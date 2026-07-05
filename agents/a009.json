@@ -125,6 +125,13 @@
    "text": "Bram takes 1 from the pile (pile now 3).",
    "who": "Bram",
    "year": 1
+  },
+  {
+   "eid": "e000017",
+   "kind": "convo",
+   "text": "Dav gathers Ryn to talk.",
+   "who": "Dav",
+   "year": 1
   }
  ],
  "memory_summary": "",
