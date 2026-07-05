@@ -125,6 +125,13 @@
    "text": "If you came to me hungry I'd hand you food before you finished asking \u2014 not because it's smart, which it is, but because that's the kind of man I want to be to you. My eye doesn't move with the numbers, Ryn. It moved once, and it landed here.",
    "who": "Dav",
    "year": 1
+  },
+  {
+   "eid": "e000023",
+   "kind": "say",
+   "text": "That's either the truest thing anyone's said to me since we got here, or the best-crafted lie \u2014 and right now I can't tell which, and that bothers me less than it should. I'm going to take my two from the pile and eat well this winter, and if you're still saying the same thing come next year when the numbers are harder, I'll believe you.",
+   "who": "Ryn",
+   "year": 1
   }
  ],
  "memory_summary": "",
