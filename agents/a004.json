@@ -167,6 +167,13 @@
    "text": "Ryn, we're not asking you to choose against him right now \u2014 just to let us hear what he said so we're not each guessing blind. Whatever it was, it stays between these four.",
    "who": "Sela",
    "year": 1
+  },
+  {
+   "eid": "e000038",
+   "kind": "say",
+   "text": "Ryn, I'll wait as long as you need \u2014 but I want to say plainly that whatever Dav promised you, he's one person, and we're three. That's not nothing, especially when a lean year turns and people start weighing who's worth protecting.",
+   "who": "Esa",
+   "year": 1
   }
  ],
  "memory_summary": "",
