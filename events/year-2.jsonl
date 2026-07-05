@@ -108,3 +108,4 @@
 {"eid": "e000177", "year": 2, "phase": "convo", "kind": "say", "speaker": "a001", "who": "Bram", "audience": ["a001", "a007"], "text": "You've got more food than most and you're young \u2014 I respect that. I'm Bram. What are you building toward here, or are you just taking it year by year?", "payload": {}}
 {"eid": "e000178", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e000179", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
+{"eid": "e000180", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
