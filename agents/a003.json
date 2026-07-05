@@ -363,6 +363,13 @@
    "text": "Esa, go to Taric \u2014 and if he's open, find out whether Roan came with him or separate, because I want to know if those two already talk to each other. The more I think about it, the more seven feels like a number Mako and Bram would have to reckon with instead of just wait out.",
    "who": "Ryn",
    "year": 2
+  },
+  {
+   "eid": "e000086",
+   "kind": "say",
+   "text": "Esa, go \u2014 and when you find Taric, don't pitch it as an alliance yet, just remind him that Mako's arms are longer than his and see what his face does. Ryn, while she's gone I want to think about what we actually offer Roan and Taric besides a number \u2014 because a man weighing his options isn't moved by headcount alone, he's moved by what that headcount does for him when the year turns ugly.",
+   "who": "Kael",
+   "year": 2
   }
  ],
  "memory_summary": "",
