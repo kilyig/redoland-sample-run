@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 31,
  "alive": true,
  "birth_year": 0,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 4,
  "health": 3,
  "hp": 100,
  "id": "a001",
@@ -75,6 +75,13 @@
    "kind": "take",
    "text": "Roan takes 2 from the pile (pile now 4).",
    "who": "Roan",
+   "year": 1
+  },
+  {
+   "eid": "e000016",
+   "kind": "take",
+   "text": "Bram takes 1 from the pile (pile now 3).",
+   "who": "Bram",
    "year": 1
   }
  ],
