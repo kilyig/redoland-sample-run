@@ -489,6 +489,13 @@
    "text": "Ryn, we're all waiting on you and I'd rather not hold the room past its welcome \u2014 so say your piece, and then I need to go find Taric before the afternoon's gone.",
    "who": "Esa",
    "year": 2
+  },
+  {
+   "eid": "e000104",
+   "kind": "say",
+   "text": "I'll bleed with you \u2014 that's a yes, and it's not given lightly from me. But I want it on record in this room that Dav spoke to me last year and again I haven't closed that door entirely, and if that changes how any of you count me, I'd rather you say so now than find out sideways later.",
+   "who": "Ryn",
+   "year": 2
   }
  ],
  "memory_summary": "",
