@@ -1,5 +1,5 @@
 {
- "actions_used_year": 4,
+ "actions_used_year": 5,
  "age": 42,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 2,
  "health": 3,
  "hp": 100,
  "id": "a005",
@@ -350,6 +350,13 @@
    "kind": "say",
    "text": "Give me one, keep two \u2014 you'll need the buffer as much as I will, and I won't eat what you can't spare. But yes, take that off the table now so we can think straight, because Ryn and the three-way talk is what matters before nightfall.",
    "who": "Dell",
+   "year": 2
+  },
+  {
+   "eid": "e000145",
+   "kind": "give",
+   "text": "Dav gives 1 food to Dell.",
+   "who": "Dav",
    "year": 2
   }
  ],

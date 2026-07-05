@@ -750,6 +750,13 @@
    "text": "You just had a child with Dav. That changes the answer I was looking for.",
    "who": "Bram",
    "year": 2
+  },
+  {
+   "eid": "e000145",
+   "kind": "give",
+   "text": "Dav gives 1 food to Dell.",
+   "who": "Dav",
+   "year": 2
   }
  ],
  "memory_summary": "",
