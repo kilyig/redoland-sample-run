@@ -321,6 +321,13 @@
    "text": "Kael gathers Vela, Esa, Sela, Ryn to talk.",
    "who": "Kael",
    "year": 2
+  },
+  {
+   "eid": "e000080",
+   "kind": "say",
+   "text": "Pile's empty again and Bram and Mako each walked away with four \u2014 I wanted us in the same room before anyone else started counting who's allied with whom. Ryn, you took early this year, which was smart; I'm glad you're here. The question I keep turning over is whether we let that pattern run until someone with strong arms and a full larder decides the rest of us are easier to take from than the pile is.",
+   "who": "Kael",
+   "year": 2
   }
  ],
  "memory_summary": "",
