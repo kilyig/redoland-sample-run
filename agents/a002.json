@@ -237,6 +237,13 @@
    "text": "Esa's right that honesty is the better rope to bind with, and I'll add one thing she can say true: Taric has three food and Mako has five, and strength that lopsided doesn't stay patient forever. If Taric's thinking at all, he's already done that math.",
    "who": "Vela",
    "year": 2
+  },
+  {
+   "eid": "e000089",
+   "kind": "say",
+   "text": "Esa, go \u2014 and tell him I said his name, because I've been watching him and he'll know it's not flattery. Kael, on what we offer: we're five people who've already shown we'll warn each other before we move, and that's rarer than food.",
+   "who": "Sela",
+   "year": 2
   }
  ],
  "memory_summary": "",
