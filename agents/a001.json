@@ -1,5 +1,5 @@
 {
- "actions_used_year": 3,
+ "actions_used_year": 4,
  "age": 32,
  "alive": true,
  "birth_year": 0,
@@ -208,6 +208,13 @@
    "kind": "birth",
    "text": "Dell (female, age 21; str 85, int 2517, mem 17973; O68 C62 E57 A60 N48) is born to Ryn and Dav.",
    "who": "the village",
+   "year": 2
+  },
+  {
+   "eid": "e000141",
+   "kind": "convo",
+   "text": "Bram gathers Ryn to talk.",
+   "who": "Bram",
    "year": 2
   }
  ],
