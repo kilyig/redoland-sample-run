@@ -671,6 +671,13 @@
    "text": "Taric gathers Esa, Ryn to talk.",
    "who": "Taric",
    "year": 2
+  },
+  {
+   "eid": "e000114",
+   "kind": "say",
+   "text": "Pile's gone and I'm sitting on three \u2014 same as last year, same as I said I'd do. Bram took four total and Mako took four; that's the pair I'd watch now, not just Dav. We still standing together if it comes to a head?",
+   "who": "Taric",
+   "year": 2
   }
  ],
  "memory_summary": "",
