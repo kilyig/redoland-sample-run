@@ -302,6 +302,13 @@
    "text": "Dell, I'm your father \u2014 I know you came into the world fast and I don't expect that word to mean much yet, but I want it to mean something before the years get hard. You've got strength I didn't have at your age and a mother who's sharper than most men here \u2014 lean on both. Stay close to me this season and I'll make sure you don't go hungry.",
    "who": "Dav",
    "year": 2
+  },
+  {
+   "eid": "e000133",
+   "kind": "say",
+   "text": "I hear you, and I'm glad you said it first \u2014 I've been watching how you move and you don't waste words, so I'll believe you mean them. What do you need from me to make that promise stick?",
+   "who": "Dell",
+   "year": 2
   }
  ],
  "memory_summary": "",
