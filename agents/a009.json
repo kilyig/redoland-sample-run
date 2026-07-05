@@ -517,6 +517,13 @@
    "text": "Kael, while Esa's gone \u2014 what's your read on Vela? She's oldest in this circle and she took quiet and small from the pile, which is either wisdom or a woman who's already decided she doesn't need to fight for much longer.",
    "who": "Sela",
    "year": 2
+  },
+  {
+   "eid": "e000092",
+   "kind": "say",
+   "text": "Vela, I'd hear your own answer to Sela's question before Kael gives his \u2014 you know what your quiet means better than any of us do, and I'd rather hear it from you than watch someone else name it for you.",
+   "who": "Esa",
+   "year": 2
   }
  ],
  "memory_summary": "",
