@@ -2,7 +2,7 @@
  "branch": "main",
  "cursor": {
   "last": "a007",
-  "phase": "scramble",
+  "phase": "year_end",
   "steps": 33
  },
  "next_aid": 10,
@@ -678,7 +678,7 @@
    2352885818,
    3244532150,
    2981872969,
-   15
+   27
   ],
   null
  ],
