@@ -124,3 +124,4 @@
 {"eid": "e000193", "year": 2, "phase": "convo", "kind": "convo", "speaker": "a001", "who": "Bram", "audience": ["a001", "a007"], "text": "Bram gathers Sela to talk.", "payload": {}}
 {"eid": "e000194", "year": 2, "phase": "convo", "kind": "say", "speaker": "a001", "who": "Bram", "audience": ["a001", "a007"], "text": "Year by year keeps you alive, but it's not enough \u2014 I know that much. I haven't decided who's worth planning with yet. What are you offering?", "payload": {}}
 {"eid": "e000195", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a005", "who": "Dav", "audience": ["a005"], "text": "", "payload": {}}
+{"eid": "e000196", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
