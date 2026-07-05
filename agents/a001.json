@@ -1,5 +1,5 @@
 {
- "actions_used_year": 6,
+ "actions_used_year": 7,
  "age": 32,
  "alive": true,
  "birth_year": 0,
@@ -291,6 +291,13 @@
    "eid": "e000196",
    "kind": "pass",
    "text": "",
+   "who": "Bram",
+   "year": 2
+  },
+  {
+   "eid": "e000201",
+   "kind": "convo",
+   "text": "Bram gathers Sela to talk.",
    "who": "Bram",
    "year": 2
   }
