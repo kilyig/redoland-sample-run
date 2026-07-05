@@ -82,3 +82,4 @@
 {"eid": "e000151", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a005", "who": "Dav", "audience": ["a005"], "text": "", "payload": {}}
 {"eid": "e000152", "year": 2, "phase": "convo", "kind": "convo", "speaker": "a006", "who": "Taric", "audience": ["a006", "a003"], "text": "Taric gathers Esa to talk.", "payload": {}}
 {"eid": "e000153", "year": 2, "phase": "convo", "kind": "say", "speaker": "a006", "who": "Taric", "audience": ["a006", "a003"], "text": "Esa, with Ryn tied to Dav now I want to be straight with you \u2014 if things go hard this year, it's you I'm counting on and I'd rather we say that plainly than dance around it. I've got three food, you've got one, and I can spare you something to make sure you're not the weak one in the room when it matters.", "payload": {}}
+{"eid": "e000154", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
