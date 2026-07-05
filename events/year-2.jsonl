@@ -5,3 +5,4 @@
 {"eid": "e000074", "year": 2, "phase": "scramble", "kind": "take", "speaker": "a001", "who": "Bram", "audience": "public", "text": "Bram takes 2 from the pile (pile now 7).", "payload": {"amount": 2}}
 {"eid": "e000075", "year": 2, "phase": "scramble", "kind": "take", "speaker": "a008", "who": "Mako", "audience": "public", "text": "Mako takes 2 from the pile (pile now 5).", "payload": {"amount": 2}}
 {"eid": "e000076", "year": 2, "phase": "scramble", "kind": "take", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela takes 1 from the pile (pile now 4).", "payload": {"amount": 1}}
+{"eid": "e000077", "year": 2, "phase": "scramble", "kind": "take", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela takes 2 from the pile (pile now 2).", "payload": {"amount": 2}}
