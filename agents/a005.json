@@ -1,14 +1,16 @@
 {
- "actions_used_year": 2,
+ "actions_used_year": 3,
  "age": 42,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
- "children": [],
+ "children": [
+  "a011"
+ ],
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 5,
+ "food": 3,
  "health": 3,
  "hp": 100,
  "id": "a005",
@@ -265,6 +267,27 @@
    "text": "Mako and Bram moved together, yes \u2014 I saw it too, and I don't like what it means for how this village is going to settle. I'm not inside their circle and I'm not angling to be; my loyalty runs to blood first and to people who've earned it second, and right now the only person in this village working their way toward earning it is standing in front of me. If it comes to sides, Ryn, I'd rather we be a side.",
    "who": "Dav",
    "year": 2
+  },
+  {
+   "eid": "e000127",
+   "kind": "proposal",
+   "text": "Dav draws Ryn aside to talk.",
+   "who": "Dav",
+   "year": 2
+  },
+  {
+   "eid": "e000128",
+   "kind": "propose",
+   "text": "Dav: have a child with me \u2014 I'll put in 2 of 3 food.",
+   "who": "Dav",
+   "year": 2
+  },
+  {
+   "eid": "e000129",
+   "kind": "birth",
+   "text": "Dell (female, age 21; str 85, int 2517, mem 17973; O68 C62 E57 A60 N48) is born to Ryn and Dav.",
+   "who": "the village",
+   "year": 2
   }
  ],
  "memory_summary": "",
@@ -272,7 +295,7 @@
  "mother_note": "",
  "name": "Dav",
  "parents": [],
- "repro_done_year": false,
+ "repro_done_year": true,
  "says_used_year": 2,
  "sex": "male",
  "siblings": [],

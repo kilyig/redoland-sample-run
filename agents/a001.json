@@ -202,6 +202,13 @@
    "text": "You didn't answer me last year \u2014 maybe the timing was wrong, or maybe you were weighing me up. Either way, here we are again and I'm asking the same thing: are you thinking past this season, or not?",
    "who": "Bram",
    "year": 2
+  },
+  {
+   "eid": "e000129",
+   "kind": "birth",
+   "text": "Dell (female, age 21; str 85, int 2517, mem 17973; O68 C62 E57 A60 N48) is born to Ryn and Dav.",
+   "who": "the village",
+   "year": 2
   }
  ],
  "memory_summary": "",

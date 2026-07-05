@@ -1,12 +1,12 @@
 {
  "branch": "main",
  "cursor": {
-  "last": "a009",
+  "last": "a005",
   "phase": "scramble",
-  "steps": 21
+  "steps": 22
  },
- "next_aid": 10,
- "next_eid": 126,
+ "next_aid": 11,
+ "next_eid": 129,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,
@@ -678,13 +678,14 @@
    2352885818,
    3244532150,
    2981872969,
-   392
+   422
   ],
   null
  ],
  "used_names": [
   "Bram",
   "Dav",
+  "Dell",
   "Esa",
   "Kael",
   "Mako",
