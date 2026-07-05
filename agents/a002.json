@@ -244,6 +244,13 @@
    "text": "Esa, go \u2014 and tell him I said his name, because I've been watching him and he'll know it's not flattery. Kael, on what we offer: we're five people who've already shown we'll warn each other before we move, and that's rarer than food.",
    "who": "Sela",
    "year": 2
+  },
+  {
+   "eid": "e000090",
+   "kind": "say",
+   "text": "I'll go now \u2014 and Sela, I'll say your name to him the way you mean it, not as a courtesy.",
+   "who": "Esa",
+   "year": 2
   }
  ],
  "memory_summary": "",
