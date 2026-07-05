@@ -489,6 +489,13 @@
    "text": "I'll go, but I want to say this plainly before I do: if Taric asks what we're offering, I won't lie to him \u2014 a man who's been lied into an alliance is worse than no ally at all. What I can honestly promise him is five pairs of eyes watching for trouble and a fair share of whatever we decide together, and that's worth more than anything Mako could give him silently.",
    "who": "Esa",
    "year": 2
+  },
+  {
+   "eid": "e000088",
+   "kind": "say",
+   "text": "Esa's right that honesty is the better rope to bind with, and I'll add one thing she can say true: Taric has three food and Mako has five, and strength that lopsided doesn't stay patient forever. If Taric's thinking at all, he's already done that math.",
+   "who": "Vela",
+   "year": 2
   }
  ],
  "memory_summary": "",
