@@ -778,6 +778,13 @@
    "text": "Taric gathers Esa, Ryn to talk.",
    "who": "Taric",
    "year": 2
+  },
+  {
+   "eid": "e000150",
+   "kind": "say",
+   "text": "Ryn just had Dav's child, which changes things \u2014 I'm not sure where her loyalties sit now, and I'm not going to pretend I am. Esa, you and I still solid?",
+   "who": "Taric",
+   "year": 2
   }
  ],
  "memory_summary": "",
