@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 46,
  "alive": true,
  "birth_year": 0,
@@ -208,6 +208,13 @@
    "kind": "take",
    "text": "Dav takes 2 from the pile (pile now 0).",
    "who": "Dav",
+   "year": 2
+  },
+  {
+   "eid": "e000113",
+   "kind": "convo",
+   "text": "Taric gathers Esa, Ryn to talk.",
+   "who": "Taric",
    "year": 2
   }
  ],
