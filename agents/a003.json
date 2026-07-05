@@ -146,6 +146,13 @@
    "text": "Kael gathers Ryn, Sela, Esa to talk.",
    "who": "Kael",
    "year": 1
+  },
+  {
+   "eid": "e000029",
+   "kind": "say",
+   "text": "Good, you three came. With the pile empty and Bram already hauling three pieces out of it, I want to know who we can actually trust in this village \u2014 and I figure the four of us are a decent place to start.",
+   "who": "Kael",
+   "year": 1
   }
  ],
  "memory_summary": "",
