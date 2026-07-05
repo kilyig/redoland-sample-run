@@ -55,6 +55,13 @@
    "text": "Taric gathers Esa, Ryn to talk.",
    "who": "Taric",
    "year": 1
+  },
+  {
+   "eid": "e000007",
+   "kind": "say",
+   "text": "Ten food left and three of us haven't touched it yet \u2014 that's the kind of gap that gets noticed. I want us to each take two, no more, and agree to watch each other's backs if Dav or Mako start looking hungry and ambitious.",
+   "who": "Taric",
+   "year": 1
   }
  ],
  "memory_summary": "",
