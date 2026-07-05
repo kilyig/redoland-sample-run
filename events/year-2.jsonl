@@ -130,3 +130,4 @@
 {"eid": "e000199", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e000200", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e000201", "year": 2, "phase": "convo", "kind": "convo", "speaker": "a001", "who": "Bram", "audience": ["a001", "a007"], "text": "Bram gathers Sela to talk.", "payload": {}}
+{"eid": "e000202", "year": 2, "phase": "convo", "kind": "say", "speaker": "a001", "who": "Bram", "audience": ["a001", "a007"], "text": "You keep asking what I'm offering like this is a market \u2014 maybe tell me first what you actually need, and I'll tell you if I've got it.", "payload": {}}
