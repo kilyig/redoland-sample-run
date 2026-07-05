@@ -316,6 +316,13 @@
    "text": "Nothing from you yet \u2014 just eyes open and your back not turned when I'm in the same corner of the village. Bram and Mako have been moving like a pair, and two strong men sharing food is the start of something that can tip a whole season. If either of them comes to you with an offer, hear it, then tell me before you answer.",
    "who": "Dav",
    "year": 2
+  },
+  {
+   "eid": "e000135",
+   "kind": "say",
+   "text": "Bram's got eight food and Mako's got five \u2014 that's more than anyone else in this village, and you're right that they didn't get there by accident. I'll keep your ear before I give anyone an answer, but I want to know what you're building toward, not just what you're watching against.",
+   "who": "Dell",
+   "year": 2
   }
  ],
  "memory_summary": "",
