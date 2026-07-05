@@ -743,6 +743,13 @@
    "text": "Bram gathers Ryn to talk.",
    "who": "Bram",
    "year": 2
+  },
+  {
+   "eid": "e000142",
+   "kind": "say",
+   "text": "You just had a child with Dav. That changes the answer I was looking for.",
+   "who": "Bram",
+   "year": 2
   }
  ],
  "memory_summary": "",

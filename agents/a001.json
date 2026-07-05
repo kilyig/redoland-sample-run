@@ -216,6 +216,13 @@
    "text": "Bram gathers Ryn to talk.",
    "who": "Bram",
    "year": 2
+  },
+  {
+   "eid": "e000142",
+   "kind": "say",
+   "text": "You just had a child with Dav. That changes the answer I was looking for.",
+   "who": "Bram",
+   "year": 2
   }
  ],
  "memory_summary": "",
@@ -224,7 +231,7 @@
  "name": "Bram",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "male",
  "siblings": [],
  "strength": 58,
