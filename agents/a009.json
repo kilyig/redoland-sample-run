@@ -216,6 +216,13 @@
    "text": "Good, you three came. With the pile empty and Bram already hauling three pieces out of it, I want to know who we can actually trust in this village \u2014 and I figure the four of us are a decent place to start.",
    "who": "Kael",
    "year": 1
+  },
+  {
+   "eid": "e000030",
+   "kind": "say",
+   "text": "Bram taking three doesn't sit well with me either \u2014 though I notice Dav's sitting on four and nobody's named him yet. I'm willing to say I trust this circle more than most, but I'd want to know what Sela and Ryn think before we start making promises.",
+   "who": "Esa",
+   "year": 1
   }
  ],
  "memory_summary": "",
