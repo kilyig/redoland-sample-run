@@ -1,6 +1,6 @@
 {
  "actions_used_year": 0,
- "age": 42,
+ "age": 43,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 1,
  "health": 3,
  "hp": 100,
  "id": "a003",
@@ -243,6 +243,13 @@
    "kind": "say",
    "text": "Ryn, Sela's already offered you the lightest promise this circle can ask for \u2014 and I'll add only this: I've got three food, same as you, and I'm not looking to spend it on a man who counted his words before he came to talk. Whatever you decide about Dav, know that I'd sooner see a child of yours standing in this village than watch him spend you like coin.",
    "who": "Kael",
+   "year": 1
+  },
+  {
+   "eid": "e000062",
+   "kind": "eat",
+   "text": "eats 1 food",
+   "who": "Esa",
    "year": 1
   }
  ],

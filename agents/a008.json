@@ -1,6 +1,6 @@
 {
  "actions_used_year": 0,
- "age": 33,
+ "age": 34,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 1,
  "health": 3,
  "hp": 100,
  "id": "a008",
@@ -96,6 +96,13 @@
    "kind": "take",
    "text": "Bram takes 1 from the pile (pile now 0).",
    "who": "Bram",
+   "year": 1
+  },
+  {
+   "eid": "e000067",
+   "kind": "eat",
+   "text": "eats 1 food",
+   "who": "Mako",
    "year": 1
   }
  ],
