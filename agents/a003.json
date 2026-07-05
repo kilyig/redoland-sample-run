@@ -139,6 +139,13 @@
    "text": "Bram takes 1 from the pile (pile now 0).",
    "who": "Bram",
    "year": 1
+  },
+  {
+   "eid": "e000028",
+   "kind": "convo",
+   "text": "Kael gathers Ryn, Sela, Esa to talk.",
+   "who": "Kael",
+   "year": 1
   }
  ],
  "memory_summary": "",
