@@ -58,3 +58,4 @@
 {"eid": "e000127", "year": 2, "phase": "proposal", "kind": "proposal", "speaker": "a005", "who": "Dav", "audience": ["a005", "a009"], "text": "Dav draws Ryn aside to talk.", "payload": {}}
 {"eid": "e000128", "year": 2, "phase": "proposal", "kind": "propose", "speaker": "a005", "who": "Dav", "audience": ["a005", "a009"], "text": "Dav: have a child with me \u2014 I'll put in 2 of 3 food.", "payload": {}}
 {"eid": "e000129", "year": 2, "phase": "proposal", "kind": "birth", "speaker": "village", "who": "the village", "audience": "public", "text": "Dell (female, age 21; str 85, int 2517, mem 17973; O68 C62 E57 A60 N48) is born to Ryn and Dav.", "payload": {"child": "a011", "mother": "a009", "father": "a005"}}
+{"eid": "e000130", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}

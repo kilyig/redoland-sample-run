@@ -545,6 +545,13 @@
    "text": "Dell (female, age 21; str 85, int 2517, mem 17973; O68 C62 E57 A60 N48) is born to Ryn and Dav.",
    "who": "the village",
    "year": 2
+  },
+  {
+   "eid": "e000130",
+   "kind": "pass",
+   "text": "",
+   "who": "Sela",
+   "year": 2
   }
  ],
  "memory_summary": "",
