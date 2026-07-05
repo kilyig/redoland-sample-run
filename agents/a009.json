@@ -76,6 +76,13 @@
    "text": "Ryn, you've been quiet \u2014 you in on this, or do I need to convince you? Esa's right that we don't want to wave it around, but a quiet nod between three people costs nothing and could matter a lot when winter bites.",
    "who": "Taric",
    "year": 1
+  },
+  {
+   "eid": "e000010",
+   "kind": "say",
+   "text": "I'm in \u2014 two each, no more, and we keep this between us. Dav's the one I'd watch; he's already sitting on four and he's the strongest here by a good margin. If he moves on someone, I want to know we're not each standing alone.",
+   "who": "Ryn",
+   "year": 1
   }
  ],
  "memory_summary": "",
@@ -84,7 +91,7 @@
  "name": "Ryn",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "female",
  "siblings": [],
  "strength": 71,
