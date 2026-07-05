@@ -545,6 +545,13 @@
    "text": "Ryn put the number plainly and I'll put the other half of it plainly: I've got two food and a body that heals if it's fed, same as anyone here, and I'm not going anywhere quietly. Vela, you said you're still counting \u2014 then count this: five people who've already shown they warn each other before they move is worth more than anything Mako's silence can offer, because silence doesn't stop a raid. I'd rather have you named and standing with us than useful to someone else by accident.",
    "who": "Kael",
    "year": 2
+  },
+  {
+   "eid": "e000096",
+   "kind": "say",
+   "text": "Vela, I count you in \u2014 and not just because the math is clean, but because a woman who knows when to stay small and when to move is exactly who I want at my back when the year turns. That said, I want to name the thing no one's said yet: Esa's gone to Taric, and if he comes back with Roan, we're seven, and seven people can make a rule about the pile that Mako and Bram have to choose to break.",
+   "who": "Sela",
+   "year": 2
   }
  ],
  "memory_summary": "",
