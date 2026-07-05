@@ -188,6 +188,13 @@
    "text": "Mako takes 2 from the pile (pile now 5).",
    "who": "Mako",
    "year": 2
+  },
+  {
+   "eid": "e000076",
+   "kind": "take",
+   "text": "Vela takes 1 from the pile (pile now 4).",
+   "who": "Vela",
+   "year": 2
   }
  ],
  "memory_summary": "",
