@@ -510,6 +510,13 @@
    "text": "I'll go now \u2014 and Sela, I'll say your name to him the way you mean it, not as a courtesy.",
    "who": "Esa",
    "year": 2
+  },
+  {
+   "eid": "e000091",
+   "kind": "say",
+   "text": "Kael, while Esa's gone \u2014 what's your read on Vela? She's oldest in this circle and she took quiet and small from the pile, which is either wisdom or a woman who's already decided she doesn't need to fight for much longer.",
+   "who": "Sela",
+   "year": 2
   }
  ],
  "memory_summary": "",
