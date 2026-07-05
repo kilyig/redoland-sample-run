@@ -195,6 +195,13 @@
    "text": "Mako's silence is the thing that keeps catching in my mind too \u2014 a man that strong who says nothing is either content or he's already decided he doesn't need to talk his way into what he wants. I'd rather have Roan or Taric standing with us than let Mako and Bram build any more of a pattern without knowing where the rest of the village sits. Five of us in this room right now is something; let's not waste it by only naming fears.",
    "who": "Ryn",
    "year": 2
+  },
+  {
+   "eid": "e000083",
+   "kind": "say",
+   "text": "Ryn's right that naming fears only gets us so far \u2014 so here's something concrete: Roan has three food, Taric has three, and neither of them moved with Bram or Mako today. That tells me they're either waiting to see which way this village tips, or they'd rather be asked than overlooked. One of us should talk to them before Mako decides his silence was just patience.",
+   "who": "Kael",
+   "year": 2
   }
  ],
  "memory_summary": "",
