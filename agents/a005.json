@@ -365,6 +365,13 @@
    "text": "Dell gathers Dav, Ryn to talk.",
    "who": "Dell",
    "year": 2
+  },
+  {
+   "eid": "e000147",
+   "kind": "say",
+   "text": "We're finally all three in the same place, so let me say it plain: Bram's holding eight food and Mako five, they're already moving as a pair, and the old ones \u2014 Vela, Kael, Taric \u2014 are pushing fifty and won't hold their weight much longer. That means this village tips toward whoever builds the stronger unit before the next pile drops. I want to know we're that unit \u2014 you two, me \u2014 and I want to know what each of us is willing to do when the moment comes.",
+   "who": "Dell",
+   "year": 2
   }
  ],
  "memory_summary": "",
