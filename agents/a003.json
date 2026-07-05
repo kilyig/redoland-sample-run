@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 2,
  "health": 3,
  "hp": 100,
  "id": "a003",
@@ -620,6 +620,13 @@
    "eid": "e000153",
    "kind": "say",
    "text": "Esa, with Ryn tied to Dav now I want to be straight with you \u2014 if things go hard this year, it's you I'm counting on and I'd rather we say that plainly than dance around it. I've got three food, you've got one, and I can spare you something to make sure you're not the weak one in the room when it matters.",
+   "who": "Taric",
+   "year": 2
+  },
+  {
+   "eid": "e000165",
+   "kind": "give",
+   "text": "Taric gives 1 food to Esa.",
    "who": "Taric",
    "year": 2
   }
