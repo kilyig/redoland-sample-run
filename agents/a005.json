@@ -132,6 +132,13 @@
    "text": "That's either the truest thing anyone's said to me since we got here, or the best-crafted lie \u2014 and right now I can't tell which, and that bothers me less than it should. I'm going to take my two from the pile and eat well this winter, and if you're still saying the same thing come next year when the numbers are harder, I'll believe you.",
    "who": "Ryn",
    "year": 1
+  },
+  {
+   "eid": "e000024",
+   "kind": "say",
+   "text": "Then I'll be saying it. And Ryn \u2014 the pile's down to three, and I've got four stored. If winter bites harder than expected, you know where to find me.",
+   "who": "Dav",
+   "year": 1
   }
  ],
  "memory_summary": "",
@@ -140,7 +147,7 @@
  "name": "Dav",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [],
  "strength": 80,
