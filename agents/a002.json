@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 45,
  "alive": true,
  "birth_year": 0,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 3,
  "health": 3,
  "hp": 100,
  "id": "a002",
@@ -26,6 +26,13 @@
    "kind": "narrate",
    "text": "Year 1: 15 food appears in the pile for 10 people.",
    "who": "the village",
+   "year": 1
+  },
+  {
+   "eid": "e000003",
+   "kind": "take",
+   "text": "Vela takes 1 from the pile (pile now 14).",
+   "who": "Vela",
    "year": 1
   }
  ],
