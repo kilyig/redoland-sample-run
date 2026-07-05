@@ -258,6 +258,13 @@
    "text": "You said the same thing last year and you're still saying it, which counts for something \u2014 but I need to ask you straight before we go any further: where do you stand with Mako and Bram? Because those two moved together at the pile today like men who'd already talked, and a child between us means nothing if the village splits down a line and I find out I chose the wrong side of it.",
    "who": "Ryn",
    "year": 2
+  },
+  {
+   "eid": "e000112",
+   "kind": "say",
+   "text": "Mako and Bram moved together, yes \u2014 I saw it too, and I don't like what it means for how this village is going to settle. I'm not inside their circle and I'm not angling to be; my loyalty runs to blood first and to people who've earned it second, and right now the only person in this village working their way toward earning it is standing in front of me. If it comes to sides, Ryn, I'd rather we be a side.",
+   "who": "Dav",
+   "year": 2
   }
  ],
  "memory_summary": "",
@@ -266,7 +273,7 @@
  "name": "Dav",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "male",
  "siblings": [],
  "strength": 80,
