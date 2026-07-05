@@ -650,6 +650,13 @@
    "text": "Ryn, I said it last year and here I am saying it again \u2014 nothing's changed for me, and I've got five stored now, which means if you're willing, we can actually talk about that child before the season closes.",
    "who": "Dav",
    "year": 2
+  },
+  {
+   "eid": "e000111",
+   "kind": "say",
+   "text": "You said the same thing last year and you're still saying it, which counts for something \u2014 but I need to ask you straight before we go any further: where do you stand with Mako and Bram? Because those two moved together at the pile today like men who'd already talked, and a child between us means nothing if the village splits down a line and I find out I chose the wrong side of it.",
+   "who": "Ryn",
+   "year": 2
   }
  ],
  "memory_summary": "",
@@ -658,7 +665,7 @@
  "name": "Ryn",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "female",
  "siblings": [],
  "strength": 71,
