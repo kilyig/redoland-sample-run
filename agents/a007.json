@@ -622,6 +622,13 @@
    "text": "",
    "who": "Sela",
    "year": 2
+  },
+  {
+   "eid": "e000193",
+   "kind": "convo",
+   "text": "Bram gathers Sela to talk.",
+   "who": "Bram",
+   "year": 2
   }
  ],
  "memory_summary": "",
