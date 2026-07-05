@@ -87,3 +87,4 @@
 {"eid": "e000156", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e000157", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e000158", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
+{"eid": "e000159", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a005", "who": "Dav", "audience": ["a005"], "text": "", "payload": {}}
