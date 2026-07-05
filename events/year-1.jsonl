@@ -3,3 +3,4 @@
 {"eid": "e000003", "year": 1, "phase": "scramble", "kind": "take", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela takes 1 from the pile (pile now 14).", "payload": {"amount": 1}}
 {"eid": "e000004", "year": 1, "phase": "scramble", "kind": "take", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela takes 2 from the pile (pile now 12).", "payload": {"amount": 2}}
 {"eid": "e000005", "year": 1, "phase": "scramble", "kind": "take", "speaker": "a005", "who": "Dav", "audience": "public", "text": "Dav takes 2 from the pile (pile now 10).", "payload": {"amount": 2}}
+{"eid": "e000006", "year": 1, "phase": "convo", "kind": "convo", "speaker": "a006", "who": "Taric", "audience": ["a006", "a003", "a009"], "text": "Taric gathers Esa, Ryn to talk.", "payload": {}}

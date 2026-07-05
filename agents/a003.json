@@ -48,6 +48,13 @@
    "text": "Dav takes 2 from the pile (pile now 10).",
    "who": "Dav",
    "year": 1
+  },
+  {
+   "eid": "e000006",
+   "kind": "convo",
+   "text": "Taric gathers Esa, Ryn to talk.",
+   "who": "Taric",
+   "year": 1
   }
  ],
  "memory_summary": "",
