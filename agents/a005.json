@@ -160,6 +160,13 @@
    "text": "Bram takes 1 from the pile (pile now 0).",
    "who": "Bram",
    "year": 1
+  },
+  {
+   "eid": "e000045",
+   "kind": "pass",
+   "text": "",
+   "who": "Dav",
+   "year": 1
   }
  ],
  "memory_summary": "",
