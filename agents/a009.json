@@ -132,6 +132,13 @@
    "text": "Dav gathers Ryn to talk.",
    "who": "Dav",
    "year": 1
+  },
+  {
+   "eid": "e000018",
+   "kind": "say",
+   "text": "Ryn, I've had my eye on you since we drew our first lots \u2014 you move like someone who's been leaned on and learned to lean back. I'm not fishing for anything today, just wanted you to know there's a man here who notices. Maybe next year we talk about something more.",
+   "who": "Dav",
+   "year": 1
   }
  ],
  "memory_summary": "",
