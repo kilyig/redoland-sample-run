@@ -97,6 +97,13 @@
    "text": "Ryn, I've had my eye on you since we drew our first lots \u2014 you move like someone who's been leaned on and learned to lean back. I'm not fishing for anything today, just wanted you to know there's a man here who notices. Maybe next year we talk about something more.",
    "who": "Dav",
    "year": 1
+  },
+  {
+   "eid": "e000019",
+   "kind": "say",
+   "text": "That's a careful way to open, and I won't pretend I didn't notice you watching. I'm not opposed to talking more \u2014 next year or sooner \u2014 but I'd want to know what \"more\" means to you before I let my guard down.",
+   "who": "Ryn",
+   "year": 1
   }
  ],
  "memory_summary": "",
