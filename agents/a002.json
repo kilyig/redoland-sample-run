@@ -279,6 +279,13 @@
    "text": "Vela, I believe you \u2014 and I'd rather have a woman who counts quietly than one who shouts and burns through goodwill before the hard years arrive. But I'll say what nobody's said yet: you've got three food and you're forty-six, and if a bad year comes and someone strong decides the oldest among us is the easiest target, five of us standing together is what keeps that calculation from happening. That's what we're offering you, same as Taric \u2014 not flattery, just math.",
    "who": "Ryn",
    "year": 2
+  },
+  {
+   "eid": "e000095",
+   "kind": "say",
+   "text": "Ryn put the number plainly and I'll put the other half of it plainly: I've got two food and a body that heals if it's fed, same as anyone here, and I'm not going anywhere quietly. Vela, you said you're still counting \u2014 then count this: five people who've already shown they warn each other before they move is worth more than anything Mako's silence can offer, because silence doesn't stop a raid. I'd rather have you named and standing with us than useful to someone else by accident.",
+   "who": "Kael",
+   "year": 2
   }
  ],
  "memory_summary": "",
