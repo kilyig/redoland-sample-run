@@ -62,6 +62,13 @@
    "text": "Ten food left and three of us haven't touched it yet \u2014 that's the kind of gap that gets noticed. I want us to each take two, no more, and agree to watch each other's backs if Dav or Mako start looking hungry and ambitious.",
    "who": "Taric",
    "year": 1
+  },
+  {
+   "eid": "e000008",
+   "kind": "say",
+   "text": "Two each sounds fair to me \u2014 I'll take mine after you both, so it looks spread out. And yes, I'll back you if Dav or Mako get ideas, though I'd rather we stay quiet about it and not give them reason to act first.",
+   "who": "Esa",
+   "year": 1
   }
  ],
  "memory_summary": "",
