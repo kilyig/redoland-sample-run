@@ -167,6 +167,13 @@
    "text": "Dav worries me more than Bram, honestly \u2014 four food and the strongest arms in the village is a dangerous combination. I'll keep faith with the three of you, but let's not name ourselves an alliance too loudly or we'll make enemies before we need them.",
    "who": "Sela",
    "year": 1
+  },
+  {
+   "eid": "e000032",
+   "kind": "say",
+   "text": "Dav already talked to me today \u2014 alone \u2014 and I want you three to know that before someone else does. He said all the right things, and I'm not sure yet whether that makes him an ally worth having or a threat that's gotten smart. Either way, four food and the strongest arms and now private conversations \u2014 Sela's right to worry, and I think we'd be foolish not to.",
+   "who": "Ryn",
+   "year": 1
   }
  ],
  "memory_summary": "",
