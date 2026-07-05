@@ -286,6 +286,13 @@
    "text": "Ryn, if Dav's offer was a child, I'd understand the silence \u2014 that's not nothing to a woman our age, and I'm not judging it. But I'd ask you to think about what his four food and his strength look like in year three when this village is leaner and he's already got your loyalty counted in his ledger.",
    "who": "Sela",
    "year": 1
+  },
+  {
+   "eid": "e000040",
+   "kind": "say",
+   "text": "Ryn, Sela just said the thing I didn't want to say first \u2014 and she's right. A child is worth wanting, but a man who opens with that in year one is buying loyalty cheap while his food and his arms are still new. Take your time, but know that whatever you decide about him, we're not going anywhere.",
+   "who": "Esa",
+   "year": 1
   }
  ],
  "memory_summary": "",
