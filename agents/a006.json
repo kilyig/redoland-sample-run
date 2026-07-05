@@ -1,5 +1,5 @@
 {
- "actions_used_year": 2,
+ "actions_used_year": 3,
  "age": 46,
  "alive": true,
  "birth_year": 0,
@@ -249,6 +249,13 @@
    "eid": "e000150",
    "kind": "say",
    "text": "Ryn just had Dav's child, which changes things \u2014 I'm not sure where her loyalties sit now, and I'm not going to pretend I am. Esa, you and I still solid?",
+   "who": "Taric",
+   "year": 2
+  },
+  {
+   "eid": "e000152",
+   "kind": "convo",
+   "text": "Taric gathers Esa to talk.",
    "who": "Taric",
    "year": 2
   }

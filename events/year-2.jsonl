@@ -80,3 +80,4 @@
 {"eid": "e000149", "year": 2, "phase": "convo", "kind": "convo", "speaker": "a006", "who": "Taric", "audience": ["a006", "a003", "a009"], "text": "Taric gathers Esa, Ryn to talk.", "payload": {}}
 {"eid": "e000150", "year": 2, "phase": "convo", "kind": "say", "speaker": "a006", "who": "Taric", "audience": ["a006", "a003", "a009"], "text": "Ryn just had Dav's child, which changes things \u2014 I'm not sure where her loyalties sit now, and I'm not going to pretend I am. Esa, you and I still solid?", "payload": {}}
 {"eid": "e000151", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a005", "who": "Dav", "audience": ["a005"], "text": "", "payload": {}}
+{"eid": "e000152", "year": 2, "phase": "convo", "kind": "convo", "speaker": "a006", "who": "Taric", "audience": ["a006", "a003"], "text": "Taric gathers Esa to talk.", "payload": {}}
