@@ -580,6 +580,13 @@
    "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
    "year": 2
+  },
+  {
+   "eid": "e000170",
+   "kind": "pass",
+   "text": "",
+   "who": "Sela",
+   "year": 2
   }
  ],
  "memory_summary": "",
