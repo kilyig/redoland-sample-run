@@ -139,6 +139,13 @@
    "text": "Ryn telling us that changes things \u2014 a man who moves fast to build private ties is building something, and I'd rather know what it is before he decides we're in the way of it. Does anyone here know what he actually wants, besides surviving? Because strength and food together only sit still for so long.",
    "who": "Sela",
    "year": 1
+  },
+  {
+   "eid": "e000034",
+   "kind": "say",
+   "text": "I don't know what Dav wants, but a man that strong doesn't need to talk his way into anything \u2014 which means he's either smarter than he looks or he's already decided he needs something he can't just take. Ryn, what did he actually say to you? Because the words matter less than what he was fishing for.",
+   "who": "Kael",
+   "year": 1
   }
  ],
  "memory_summary": "",
