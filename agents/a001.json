@@ -104,6 +104,13 @@
    "text": "Bram gathers Ryn to talk.",
    "who": "Bram",
    "year": 1
+  },
+  {
+   "eid": "e000053",
+   "kind": "say",
+   "text": "You moved fast at the end there \u2014 I noticed. I've got five food now, which is enough to last, but this village is full of strong people and a lean year could change everything quick. I want to know if you're the kind of person who plans ahead or just takes what she can reach.",
+   "who": "Bram",
+   "year": 1
   }
  ],
  "memory_summary": "",
@@ -112,7 +119,7 @@
  "name": "Bram",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "male",
  "siblings": [],
  "strength": 58,
