@@ -153,6 +153,13 @@
    "text": "Ryn, I won't push you if you're not ready to say \u2014 but the four of us are standing here right now, and Dav doesn't know that. Whatever he offered you or asked of you, you're worth more as someone we trust than as someone he's already started counting.",
    "who": "Sela",
    "year": 1
+  },
+  {
+   "eid": "e000036",
+   "kind": "say",
+   "text": "Ryn, whatever he fished for \u2014 I'd hear it now, because the four of us deciding together is worth more than any one of us deciding alone with Dav's words still warm in our ears.",
+   "who": "Esa",
+   "year": 1
   }
  ],
  "memory_summary": "",
