@@ -209,6 +209,13 @@
    "text": "Roan and Taric both know which way I lean \u2014 we spoke last year \u2014 so I could go to Taric without it looking like a sudden move. Give me the afternoon and I'll bring back a plain answer: is he standing with us, or is he still weighing it?",
    "who": "Esa",
    "year": 2
+  },
+  {
+   "eid": "e000085",
+   "kind": "say",
+   "text": "Esa, go to Taric \u2014 and if he's open, find out whether Roan came with him or separate, because I want to know if those two already talk to each other. The more I think about it, the more seven feels like a number Mako and Bram would have to reckon with instead of just wait out.",
+   "who": "Ryn",
+   "year": 2
   }
  ],
  "memory_summary": "",
