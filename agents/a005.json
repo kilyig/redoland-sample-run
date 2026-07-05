@@ -13,7 +13,22 @@
  "hp": 100,
  "id": "a005",
  "intelligence_tokens": 4286,
- "memory_raw": [],
+ "memory_raw": [
+  {
+   "eid": "e000001",
+   "kind": "narrate",
+   "text": "The village is founded by 10 people.",
+   "who": "the village",
+   "year": 1
+  },
+  {
+   "eid": "e000002",
+   "kind": "narrate",
+   "text": "Year 1: 15 food appears in the pile for 10 people.",
+   "who": "the village",
+   "year": 1
+  }
+ ],
  "memory_summary": "",
  "memory_tokens": 29207,
  "mother_note": "",
