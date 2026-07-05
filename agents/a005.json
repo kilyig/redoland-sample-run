@@ -344,6 +344,13 @@
    "text": "Soon \u2014 I'll bring Ryn in before the day's out. But Dell, one thing first: you're carrying my blood and your mother's sharpness in that frame of yours, and I need to know you're fed before anything else \u2014 you're sitting on nothing right now, and I've got three stored.",
    "who": "Dav",
    "year": 2
+  },
+  {
+   "eid": "e000139",
+   "kind": "say",
+   "text": "Give me one, keep two \u2014 you'll need the buffer as much as I will, and I won't eat what you can't spare. But yes, take that off the table now so we can think straight, because Ryn and the three-way talk is what matters before nightfall.",
+   "who": "Dell",
+   "year": 2
   }
  ],
  "memory_summary": "",
