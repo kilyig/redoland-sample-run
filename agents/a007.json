@@ -503,6 +503,13 @@
    "text": "Ryn, the question isn't whether Dav's useful \u2014 he is, plainly \u2014 it's whether a child binds him to you or just to the child, because a man who's joined by blood isn't the same as a man who's joined by choice. If you take that offer, I'd want to know before you do, not after, so this room can decide together whether we're gaining a wall or building a door that opens from his side.",
    "who": "Vela",
    "year": 2
+  },
+  {
+   "eid": "e000108",
+   "kind": "say",
+   "text": "Ryn, a child with Dav makes him a father, not a brother \u2014 and fathers protect their own first, which might not be us when the counting starts. Before you answer him, I want to know whether he's said anything that sounds like he's choosing sides, or whether he's kept every door open the same way he's kept yours.",
+   "who": "Sela",
+   "year": 2
   }
  ],
  "memory_summary": "",
@@ -511,7 +518,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "female",
  "siblings": [],
  "strength": 73,
