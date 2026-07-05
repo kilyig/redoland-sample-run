@@ -757,6 +757,13 @@
    "text": "Dav gives 1 food to Dell.",
    "who": "Dav",
    "year": 2
+  },
+  {
+   "eid": "e000146",
+   "kind": "convo",
+   "text": "Dell gathers Dav, Ryn to talk.",
+   "who": "Dell",
+   "year": 2
   }
  ],
  "memory_summary": "",
