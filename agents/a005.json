@@ -330,6 +330,13 @@
    "text": "What I'm building toward is simple: you, me, and Ryn still alive and fed when the old ones start dropping \u2014 because Vela, Kael, and Taric are all pushing fifty and this village is going to reshape itself around whoever's left standing. Bram and Mako are hoarding because they're scared, or because they're hungry for something bigger than food \u2014 either way, when the moment comes to move against them, I want us on the same side of it with enough strength to make it stick. You're eighty-five in strength, Dell \u2014 that's not nothing, that's the thing men bargain around.",
    "who": "Dav",
    "year": 2
+  },
+  {
+   "eid": "e000137",
+   "kind": "say",
+   "text": "That's the first time I've heard you say it plain \u2014 us three, as a unit, holding the village shape after the old ones go \u2014 and I'm not going to pretend it doesn't land right. Mako's eighty-three in strength and Bram's got the food; if they're already paired, we need Ryn folded into this before the next pile drops, not after. When can the three of us talk together?",
+   "who": "Dell",
+   "year": 2
   }
  ],
  "memory_summary": "",
