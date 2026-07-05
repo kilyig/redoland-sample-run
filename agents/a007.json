@@ -132,6 +132,13 @@
    "text": "Dav already talked to me today \u2014 alone \u2014 and I want you three to know that before someone else does. He said all the right things, and I'm not sure yet whether that makes him an ally worth having or a threat that's gotten smart. Either way, four food and the strongest arms and now private conversations \u2014 Sela's right to worry, and I think we'd be foolish not to.",
    "who": "Ryn",
    "year": 1
+  },
+  {
+   "eid": "e000033",
+   "kind": "say",
+   "text": "Ryn telling us that changes things \u2014 a man who moves fast to build private ties is building something, and I'd rather know what it is before he decides we're in the way of it. Does anyone here know what he actually wants, besides surviving? Because strength and food together only sit still for so long.",
+   "who": "Sela",
+   "year": 1
   }
  ],
  "memory_summary": "",
@@ -140,7 +147,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "female",
  "siblings": [],
  "strength": 73,
