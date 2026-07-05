@@ -2,3 +2,4 @@
 {"eid": "e000002", "year": 1, "phase": "setup", "kind": "narrate", "speaker": "village", "who": "the village", "audience": "public", "text": "Year 1: 15 food appears in the pile for 10 people.", "payload": {}}
 {"eid": "e000003", "year": 1, "phase": "scramble", "kind": "take", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela takes 1 from the pile (pile now 14).", "payload": {"amount": 1}}
 {"eid": "e000004", "year": 1, "phase": "scramble", "kind": "take", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela takes 2 from the pile (pile now 12).", "payload": {"amount": 2}}
+{"eid": "e000005", "year": 1, "phase": "scramble", "kind": "take", "speaker": "a005", "who": "Dav", "audience": "public", "text": "Dav takes 2 from the pile (pile now 10).", "payload": {"amount": 2}}
