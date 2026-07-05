@@ -188,6 +188,13 @@
    "text": "Ryn, Sela just said the thing I didn't want to say first \u2014 and she's right. A child is worth wanting, but a man who opens with that in year one is buying loyalty cheap while his food and his arms are still new. Take your time, but know that whatever you decide about him, we're not going anywhere.",
    "who": "Esa",
    "year": 1
+  },
+  {
+   "eid": "e000041",
+   "kind": "say",
+   "text": "Ryn, I've said my piece twice now and I mean it \u2014 but the silence itself tells us something, and I think we all hear it. Whatever Dav offered, you don't owe us a confession; you owe us only this: don't let him use you against us without warning us first. That's a thin ask, and if you can give it, I'll count you as close as anyone I have.",
+   "who": "Sela",
+   "year": 1
   }
  ],
  "memory_summary": "",
