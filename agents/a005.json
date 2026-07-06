@@ -1590,6 +1590,13 @@
    "text": "Ryn gathers Dav, Dell to talk.",
    "who": "Ryn",
    "year": 4
+  },
+  {
+   "eid": "e001137",
+   "kind": "say",
+   "text": "Pile's gone and I walked away with nothing again \u2014 Dav, you took your two like we agreed, but Vela doubled back and cleaned out what was left before I could move, and now I'm sitting on three food with a year ahead of me and Dell still young enough to need more than I can give alone. I want to know if we're holding to the same plan or if the rules we set last night need to change, because a family that agreed on fair shares shouldn't be the one coming up empty while Vela eats six.",
+   "who": "Ryn",
+   "year": 4
   }
  ],
  "memory_summary": "",
