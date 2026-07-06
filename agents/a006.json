@@ -2407,6 +2407,13 @@
    "text": "Good \u2014 then we split the work and meet back before dark. One thing I want said before we scatter: if either of you finds that Kael or Roan has already been approached by Mako's people, don't push, just listen and come back and tell me, because the worst thing we can do right now is drive a man toward the side he's still deciding against.",
    "who": "Taric",
    "year": 5
+  },
+  {
+   "eid": "e001838",
+   "kind": "say",
+   "text": "Understood \u2014 I'm going. And if Kael's already been touched by Mako's hand, I'll smile, share nothing, and come back with that news instead of a headache.",
+   "who": "Esa",
+   "year": 5
   }
  ],
  "memory_summary": "",
