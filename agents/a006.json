@@ -2330,6 +2330,13 @@
    "text": "Vela's right about what Mako's doing, and I want us to be clear-eyed about Sela \u2014 she's young and strong and she just had Bram's child, so she's already made her first real tie and it wasn't to this room. I'll give you that food now, Taric. What I want in return from both of you is simple: if Mako or Bram moves against anyone in this circle this year, we answer together without waiting to count odds first.",
    "who": "Esa",
    "year": 5
+  },
+  {
+   "eid": "e001827",
+   "kind": "say",
+   "text": "You have my word on that, same as last year \u2014 and I'll add Ryn to the question Esa just raised, because she stood with us against Bram once but she's Dav's woman now and Dav took food from the pile today while Mako and Bram walked away fat, which puts her household closer to that circle than to ours. If it comes to a fight this year, I want to know before we're in it whether Ryn stands with us or steps aside \u2014 not after.",
+   "who": "Taric",
+   "year": 5
   }
  ],
  "memory_summary": "",
@@ -2338,7 +2345,7 @@
  "name": "Taric",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "male",
  "siblings": [],
  "strength": 38,
