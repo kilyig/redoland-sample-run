@@ -2232,6 +2232,13 @@
    "text": "Taric gathers Vela, Esa to talk.",
    "who": "Taric",
    "year": 6
+  },
+  {
+   "eid": "e002270",
+   "kind": "say",
+   "text": "Pile's gone again and I walked away with two this time, which is better than last year but still thin \u2014 Mako's sitting on six and hasn't said a word to anyone I can see, and that quiet is starting to feel like a man who's decided something. I want us to name now what we do if he moves before the year's out, not after.",
+   "who": "Taric",
+   "year": 6
   }
  ],
  "memory_summary": "",
