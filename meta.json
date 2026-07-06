@@ -1,29 +1,12 @@
 {
  "branch": "main",
  "cursor": {
-  "fight": {
-   "attackers": [
-    "a005",
-    "a009",
-    "a011"
-   ],
-   "defenders": [
-    "a003"
-   ],
-   "demand": 2,
-   "fallen": [],
-   "initiator": "a005",
-   "muster_pass": 2,
-   "round": 0,
-   "sub": "decide",
-   "target": "a003"
-  },
   "last": "a005",
-  "phase": "fight",
+  "phase": "scramble",
   "steps": 376
  },
  "next_aid": 14,
- "next_eid": 2669,
+ "next_eid": 2670,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,

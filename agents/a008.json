@@ -1975,6 +1975,13 @@
    "text": "Attackers [Ryn, Dav, Dell] (str 236) vs defenders [Esa] (str 33).",
    "who": "the village",
    "year": 6
+  },
+  {
+   "eid": "e002670",
+   "kind": "submit",
+   "text": "Esa submits; Dav takes 2 food without a fight.",
+   "who": "the village",
+   "year": 6
   }
  ],
  "memory_summary": "",
