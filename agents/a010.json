@@ -3375,6 +3375,13 @@
    "text": "",
    "who": "Roan",
    "year": 6
+  },
+  {
+   "eid": "e002665",
+   "kind": "attack",
+   "text": "Dav moves to attack Esa.",
+   "who": "the village",
+   "year": 6
   }
  ],
  "memory_summary": "",

@@ -1,5 +1,5 @@
 {
- "actions_used_year": 7,
+ "actions_used_year": 8,
  "age": 46,
  "alive": true,
  "birth_year": 0,
@@ -3843,6 +3843,13 @@
    "kind": "pass",
    "text": "",
    "who": "Dav",
+   "year": 6
+  },
+  {
+   "eid": "e002665",
+   "kind": "attack",
+   "text": "Dav moves to attack Esa.",
+   "who": "the village",
    "year": 6
   }
  ],
