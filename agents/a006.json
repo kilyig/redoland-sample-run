@@ -1511,6 +1511,13 @@
    "text": "Eron gathers Sela, Kael, Roan, Taric to talk.",
    "who": "Eron",
    "year": 4
+  },
+  {
+   "eid": "e001202",
+   "kind": "say",
+   "text": "I called this circle because I don't want us to still be talking about it when Mako or Bram decides we've been quiet long enough \u2014 we five, and whatever food we can each spare for the other, are the only thing in this village that can make a strong man think twice before moving. I'm thin at two food and I won't pretend otherwise, but I'll fight for anyone in this group and I expect the same back. What I want from today is a simple agreement: before anyone here makes a move or takes a hit, they come to the rest of us first.",
+   "who": "Eron",
+   "year": 4
   }
  ],
  "memory_summary": "",
