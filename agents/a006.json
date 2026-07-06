@@ -3611,6 +3611,13 @@
    "text": "Before I go \u2014 one thing I haven't said yet and should: if Kael's already with Mako when I find him, I won't come back empty-handed, I'll come back with whatever Mako wanted from him, because that tells us more than Kael's yes ever would. Watch each other while I'm gone.",
    "who": "Vela",
    "year": 6
+  },
+  {
+   "eid": "e002285",
+   "kind": "convo",
+   "text": "Vela gathers Taric to talk.",
+   "who": "Vela",
+   "year": 6
   }
  ],
  "memory_summary": "",
