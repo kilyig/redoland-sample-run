@@ -73,3 +73,4 @@
 {"eid": "e000542", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e000543", "year": 3, "phase": "scramble", "kind": "give", "speaker": "a005", "who": "Dav", "audience": "public", "text": "Dav gives 2 food to Ryn.", "payload": {"target": "a009", "amount": 2}}
 {"eid": "e000544", "year": 3, "phase": "convo", "kind": "convo", "speaker": "a001", "who": "Bram", "audience": ["a001", "a009"], "text": "Bram gathers Ryn to talk.", "payload": {}}
+{"eid": "e000545", "year": 3, "phase": "convo", "kind": "say", "speaker": "a001", "who": "Bram", "audience": ["a001", "a009"], "text": "You've got a daughter now, and Dav's feeding her \u2014 I see how that goes. I'm telling you straight: I've got seven food, I'm thirty-three, and I'm still without kin of my own. If you've got any interest in changing that for both of us, I'm listening.", "payload": {}}
