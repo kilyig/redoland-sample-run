@@ -2344,6 +2344,13 @@
    "text": "Vela, I watched you pull three times for Bram this round and I need to hear from your own mouth what you think that buys you \u2014 because this circle kept you fed and safe for five years, and I'm not going to watch that get traded away to a man who's been circling us like a creditor.",
    "who": "Kael",
    "year": 6
+  },
+  {
+   "eid": "e002307",
+   "kind": "say",
+   "text": "Kael's right to ask it, and Vela owes this room an answer \u2014 but I'll say what I'm watching while we wait for it: Bram's got four food and Mako's sitting on six and neither of them has said a word to anyone today, which means this circle needs to be pulling the same direction before one of those two decides the quiet is over. Vela, I'm not your enemy in this room, but three times is a pattern and patterns get named.",
+   "who": "Esa",
+   "year": 6
   }
  ],
  "memory_summary": "In year one Taric pulled me and Ryn into a quiet pact \u2014 two each from the pile, watch each other's backs \u2014 and that felt like the first real thing in this village. Kael's circle followed: me, Sela, Vela, Ryn, all swearing to bleed together, though Ryn dragged her feet and Dav's name hung in the air the whole time. Then Ryn had Dav's child and I felt the circle shift \u2014 she didn't leave us, but she stopped being fully ours.\n\nTaric is the one I trust. He gave me food when I was thin and named me plainly as the person he counts on \u2014 I've given back twice now, so the debt runs both ways, which is how I want it. His talk of a child stings a little; the window on my side is closed and we both know it, but he still chose me to stand with, and that's not nothing.\n\nBram tried to take Roan and the whole village stood against him until he backed down. I was in that line. He hasn't forgiven it, and I haven't forgotten that he tried.\n\nVela fed Bram three times out of a circle that swore to stand together \u2014 that's a quiet betrayal I've noted and haven't named to her face yet. Mako's been fat and silent for four years running, and silence on a man that strong is the thing that frightens me most.",
@@ -2352,7 +2359,7 @@
  "name": "Esa",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [],
  "strength": 33,
