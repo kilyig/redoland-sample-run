@@ -3355,6 +3355,13 @@
    "text": "That's the thing about you, Mako \u2014 you've kept your word by staying quiet for three years, and that's a stranger kind of proof than most men offer. I've got two children already and a third would cost me food I'm counting close, but I'll say this much: if you're still sitting on six food and feeding the child before yourself when winter comes, I'll have a real answer for you then.",
    "who": "Sela",
    "year": 6
+  },
+  {
+   "eid": "e002349",
+   "kind": "say",
+   "text": "Winter's still a ways off, but I won't make you wait that long to see \u2014 I'll give three food to start the child now, if you'll match it, and you'll watch how I carry it from the first day.",
+   "who": "Mako",
+   "year": 6
   }
  ],
  "memory_summary": "",
