@@ -2360,6 +2360,13 @@
    "text": "Bram took four total and Mako took two \u2014 between them they're sitting on sixteen food while Dav pulled the last one and I walked away with nothing either. That's not hunger driving him, that's a man building toward something, and Vela handing him food last year means she's already decided whose side she's on when it tips. We need to talk about what we're doing before next year's pile, not after.",
    "who": "Dell",
    "year": 5
+  },
+  {
+   "eid": "e001791",
+   "kind": "say",
+   "text": "Sixteen food between two strong men and Vela feeding them on top of it \u2014 they don't need to raid anyone, they can just wait until the rest of us are hungry enough to deal on their terms. Ryn, you've got six and Dell's got two; I've got one, which means I'm the weak point in this circle right now and I know it. Before we talk about next year's pile, tell me what we're willing to do \u2014 because I don't think Bram's building toward a conversation.",
+   "who": "Dav",
+   "year": 5
   }
  ],
  "memory_summary": "",
@@ -2368,7 +2375,7 @@
  "name": "Dav",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "male",
  "siblings": [],
  "strength": 80,
