@@ -2724,6 +2724,13 @@
    "text": "Vela, I've asked it gentle and I've asked it plain and Esa's backed me both times, so I'll ask it one last way: if Bram's got something on you \u2014 a debt, a promise, a threat \u2014 say it now and this circle helps you carry it, because three gifts to the same man in a single day isn't loyalty, it's a leash, and I want to know whose hand is holding the other end.",
    "who": "Kael",
    "year": 6
+  },
+  {
+   "eid": "e002309",
+   "kind": "say",
+   "text": "Vela, I've watched you five years and I know you don't give without a reason \u2014 so give us the reason now, because what Kael just offered you is the best deal in this room: say the thing and we carry it with you, or stay silent and carry it alone while we start wondering what else you haven't said.",
+   "who": "Esa",
+   "year": 6
   }
  ],
  "memory_summary": "",
