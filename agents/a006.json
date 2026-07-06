@@ -2316,6 +2316,13 @@
    "text": "Taric, I've got three food after taking two from the pile \u2014 I'll give you one now, same as I've done before, and I don't need a debt named for it between us. But Vela, I want to hear what you're thinking about Mako, because a strong quiet man buying Sela's goodwill while Bram just fathered her child is a pattern I'm not sure I'm reading right.",
    "who": "Esa",
    "year": 5
+  },
+  {
+   "eid": "e001825",
+   "kind": "say",
+   "text": "Mako giving food to Sela right after Bram fathered her child isn't generosity \u2014 it's a man who just watched Bram produce something and decided to get closer to the pair of them before the rest of us noticed. Two strong men circling one woman and her newborn is either a rivalry or a merger, and neither outcome is good for anyone in this room. Esa, give Taric his food, and let's think about whether Sela still belongs to our count or whether she's already been bought.",
+   "who": "Vela",
+   "year": 5
   }
  ],
  "memory_summary": "",
