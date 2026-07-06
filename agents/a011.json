@@ -2456,6 +2456,13 @@
    "text": "Ryn gathers Dav, Dell to talk.",
    "who": "Ryn",
    "year": 5
+  },
+  {
+   "eid": "e001789",
+   "kind": "say",
+   "text": "Pile's gone and I got nothing \u2014 Bram doubled back and took two more before I could reach it, and now I'm sitting on six food with a year to feed myself and no certainty about what Vela's doing with her two. Tell me what either of you saw at the pile, because someone moved fast and it wasn't this circle.",
+   "who": "Ryn",
+   "year": 5
   }
  ],
  "memory_summary": "",
