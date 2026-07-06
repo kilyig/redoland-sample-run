@@ -181,3 +181,4 @@
 {"eid": "e000250", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e000251", "year": 2, "phase": "convo", "kind": "convo", "speaker": "a010", "who": "Roan", "audience": ["a010", "a007"], "text": "Roan gathers Sela to talk.", "payload": {}}
 {"eid": "e000252", "year": 2, "phase": "convo", "kind": "say", "speaker": "a010", "who": "Roan", "audience": ["a010", "a007"], "text": "Looking out for each other \u2014 what does that mean to you exactly? I've got my own food sorted for now, but I'm not blind to the fact that Bram and Mako grabbed twice from the pile and that changes things.", "payload": {}}
+{"eid": "e000253", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
