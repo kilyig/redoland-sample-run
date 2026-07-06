@@ -1259,6 +1259,13 @@
    "text": "Esa gives 1 food to Taric.",
    "who": "Esa",
    "year": 3
+  },
+  {
+   "eid": "e000664",
+   "kind": "attack",
+   "text": "Bram moves to attack Roan.",
+   "who": "the village",
+   "year": 3
   }
  ],
  "memory_summary": "",

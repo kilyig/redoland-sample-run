@@ -192,3 +192,5 @@
 {"eid": "e000661", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e000662", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a005", "who": "Dav", "audience": ["a005"], "text": "", "payload": {}}
 {"eid": "e000663", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
+{"eid": "e000664", "year": 3, "phase": "fight", "kind": "attack", "speaker": "village", "who": "the village", "audience": "public", "text": "Bram moves to attack Roan.", "payload": {"initiator": "a001", "target": "a010"}}
+{"eid": "e000665", "year": 3, "phase": "fight", "kind": "under_attack", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "You are under attack by Bram.", "payload": {}}
