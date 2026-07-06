@@ -2585,6 +2585,13 @@
    "text": "Sela. I have two food and you have none \u2014 take one, but listen to me first: Mako is sitting on seven and hasn't said a word to anyone, and that's not patience, that's a man who's already made a decision.",
    "who": "Nessa",
    "year": 5
+  },
+  {
+   "eid": "e001874",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 5
   }
  ],
  "memory_summary": "",
