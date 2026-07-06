@@ -2675,6 +2675,13 @@
    "text": "Nine and early is exactly right \u2014 don't let anyone see you counting it. Ryn and Mako together is a worse pairing than Bram ever was; she's got strength and he's got food and neither of them has shown us what they want. Get Kael tonight, before that picture changes.",
    "who": "Roan",
    "year": 6
+  },
+  {
+   "eid": "e002295",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 6
   }
  ],
  "memory_summary": "",

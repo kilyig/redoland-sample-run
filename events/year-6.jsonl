@@ -62,3 +62,4 @@
 {"eid": "e002292", "year": 6, "phase": "convo", "kind": "say", "speaker": "a010", "who": "Roan", "audience": ["a010", "a012"], "text": "Nine and early is exactly right \u2014 don't let anyone see you counting it. Ryn and Mako together is a worse pairing than Bram ever was; she's got strength and he's got food and neither of them has shown us what they want. Get Kael tonight, before that picture changes.", "payload": {}}
 {"eid": "e002293", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e002294", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a013", "who": "Nessa", "audience": ["a013"], "text": "", "payload": {}}
+{"eid": "e002295", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 1 food to Ryn.", "payload": {"target": "a009", "amount": 1}}
