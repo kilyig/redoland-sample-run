@@ -1233,6 +1233,13 @@
    "text": "Esa, take the food back \u2014 I'll name what happened at the pile myself: I was late, same as you, and by the time I got there the quick hands had already cleared it. Vela, I'm not accusing you in front of this room, but five in two pulls when the pile only had fifteen for twelve people is a number that needs explaining, because the rest of us are doing sums and coming up short.",
    "who": "Kael",
    "year": 4
+  },
+  {
+   "eid": "e001255",
+   "kind": "say",
+   "text": "Vela, I've got no quarrel with a person feeding themselves, but five out of fifteen when half the room went empty is the kind of thing that makes people start counting who owes what \u2014 so I'd rather hear your reason now, in this room, than find out later you had one and didn't offer it.",
+   "who": "Esa",
+   "year": 4
   }
  ],
  "memory_summary": "",
