@@ -1350,6 +1350,13 @@
    "text": "Mako giving food to Sela right after Bram fathered her child isn't generosity \u2014 it's a man who just watched Bram produce something and decided to get closer to the pair of them before the rest of us noticed. Two strong men circling one woman and her newborn is either a rivalry or a merger, and neither outcome is good for anyone in this room. Esa, give Taric his food, and let's think about whether Sela still belongs to our count or whether she's already been bought.",
    "who": "Vela",
    "year": 5
+  },
+  {
+   "eid": "e001826",
+   "kind": "say",
+   "text": "Vela's right about what Mako's doing, and I want us to be clear-eyed about Sela \u2014 she's young and strong and she just had Bram's child, so she's already made her first real tie and it wasn't to this room. I'll give you that food now, Taric. What I want in return from both of you is simple: if Mako or Bram moves against anyone in this circle this year, we answer together without waiting to count odds first.",
+   "who": "Esa",
+   "year": 5
   }
  ],
  "memory_summary": "In year one Taric pulled me and Ryn into a quiet pact \u2014 two each from the pile, watch each other's backs \u2014 and that felt like the first real thing in this village. Kael's circle followed: me, Sela, Vela, Ryn, all swearing to bleed together, though Ryn dragged her feet and Dav's name hung in the air the whole time. Then Ryn had Dav's child and I felt the circle shift \u2014 she didn't leave us, but she stopped being fully ours.\n\nTaric is the one I trust. He gave me food when I was thin and named me plainly as the person he counts on \u2014 I've given back twice now, so the debt runs both ways, which is how I want it. His talk of a child stings a little; the window on my side is closed and we both know it, but he still chose me to stand with, and that's not nothing.\n\nBram tried to take Roan and the whole village stood against him until he backed down. I was in that line. He hasn't forgiven it, and I haven't forgotten that he tried.\n\nVela fed Bram three times out of a circle that swore to stand together \u2014 that's a quiet betrayal I've noted and haven't named to her face yet. Mako's been fat and silent for four years running, and silence on a man that strong is the thing that frightens me most.",
@@ -1358,7 +1365,7 @@
  "name": "Esa",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "female",
  "siblings": [],
  "strength": 33,
