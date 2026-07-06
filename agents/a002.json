@@ -923,6 +923,13 @@
    "text": "Dav's the one I'd name \u2014 he's got Ryn's child and two food in his hand that came from her, and that makes him his own circle right now, not ours. I won't say he's an enemy, but don't go to him with what we're building until we know which way he'd jump if Mako ever opened his mouth.",
    "who": "Vela",
    "year": 4
+  },
+  {
+   "eid": "e001193",
+   "kind": "say",
+   "text": "That's good counsel \u2014 Dav I'll leave alone for now. One more thing before I go: if Mako does start moving, don't wait to send word, just come find me directly, because the worst way this ends is with each of us thinking the other already knows.",
+   "who": "Taric",
+   "year": 4
   }
  ],
  "memory_summary": "",
