@@ -1583,6 +1583,13 @@
    "text": "Mako takes 2 from the pile (pile now 0).",
    "who": "Mako",
    "year": 4
+  },
+  {
+   "eid": "e001136",
+   "kind": "convo",
+   "text": "Ryn gathers Dav, Dell to talk.",
+   "who": "Ryn",
+   "year": 4
   }
  ],
  "memory_summary": "",
