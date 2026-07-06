@@ -1646,6 +1646,13 @@
    "text": "Roan's the right target and the right reason, but Sela's the hinge \u2014 she had Roan's child, which means she's already chosen something, and if she's leaning toward Mako it's because nobody's given her a better offer. Dell, you're the one who was supposed to talk to her last year; tell me what she said, because I don't want Dav walking into that conversation blind.",
    "who": "Ryn",
    "year": 4
+  },
+  {
+   "eid": "e001145",
+   "kind": "say",
+   "text": "Dell, answer your mother \u2014 what did Sela actually say to you last year, because if that conversation went nowhere I need to know before I walk into it thinking I've got a soft approach already laid.",
+   "who": "Dav",
+   "year": 4
   }
  ],
  "memory_summary": "",
@@ -1654,7 +1661,7 @@
  "name": "Dav",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [],
  "strength": 80,
