@@ -965,6 +965,13 @@
    "text": "Nessa, I'm still waiting on your read of Mako \u2014 but while I'm thinking about it, four food between the two of us isn't much of a wall if he decides this is the year he stops being quiet. You should be sleeping closer to me, not spreading food around people whose blood doesn't run yours.",
    "who": "Bram",
    "year": 6
+  },
+  {
+   "eid": "e002369",
+   "kind": "convo",
+   "text": "Bram gathers Nessa to talk.",
+   "who": "Bram",
+   "year": 6
   }
  ],
  "memory_summary": "",
