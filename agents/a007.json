@@ -1681,6 +1681,13 @@
    "text": "Roan's feelings about it don't change what I said \u2014 the promise holds because it's built on what keeps your children alive, not on whether he approves of me. But I'll say this too: if he wants to object, he can come say it to my face, and we'll settle what kind of village this actually is.",
    "who": "Bram",
    "year": 4
+  },
+  {
+   "eid": "e001171",
+   "kind": "say",
+   "text": "\"Settle it to his face\" is a threat dressed as a principle, and I want you to hear me name it plainly: I'm not a thing Roan and you settle. What I'll give you is this \u2014 I'll think on it through the year, and if you're still standing with six food and no raids to your name when the pile opens again, I'll give you a real answer then.",
+   "who": "Sela",
+   "year": 4
   }
  ],
  "memory_summary": "",
@@ -1689,7 +1696,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [],
  "strength": 73,
