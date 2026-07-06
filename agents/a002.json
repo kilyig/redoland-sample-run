@@ -580,6 +580,13 @@
    "text": "Ryn, we've circled your answer long enough and the room's getting impatient \u2014 I'll say it plainly so you don't have to: if you stay with us, we make sure you eat at year's end, and Dell too, because a hungry mother is a liability none of us can afford. But I need a yes or a no before Esa walks out that door, because Roan's worth asking and I won't spend her on an errand if this circle has a crack in it already.",
    "who": "Vela",
    "year": 3
+  },
+  {
+   "eid": "e000522",
+   "kind": "say",
+   "text": "Ryn, the room's been patient and Vela's put it plain \u2014 I'll add only this: Dell is three days old and already eating better than Taric, and the woman who keeps Dell fed through the next lean year is standing in this circle, not across from it with Mako and Bram. Give us your answer and let Esa move.",
+   "who": "Kael",
+   "year": 3
   }
  ],
  "memory_summary": "",
