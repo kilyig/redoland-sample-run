@@ -496,6 +496,13 @@
    "text": "Dav takes 2 from the pile (pile now 2).",
    "who": "Dav",
    "year": 3
+  },
+  {
+   "eid": "e000478",
+   "kind": "take",
+   "text": "Dell takes 2 from the pile (pile now 0).",
+   "who": "Dell",
+   "year": 3
   }
  ],
  "memory_summary": "",
