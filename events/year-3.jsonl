@@ -637,3 +637,4 @@
 {"eid": "e001106", "year": 3, "phase": "convo", "kind": "say", "speaker": "a012", "who": "Eron", "audience": ["a012", "a010"], "text": "Watching him every day \u2014 seven food when no one else cleared two is either luck or planning, and Bram doesn't rely on luck. If he comes for anyone this year, I think it's you or Kael he moves on first; you're both worth targeting and neither of you has the numbers he'd fear.", "payload": {}}
 {"eid": "e001107", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e001108", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a005", "who": "Dav", "audience": ["a005"], "text": "", "payload": {}}
+{"eid": "e001109", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
