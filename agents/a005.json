@@ -2899,6 +2899,13 @@
    "text": "Sela gives 1 food to Eron.",
    "who": "Sela",
    "year": 5
+  },
+  {
+   "eid": "e002006",
+   "kind": "pass",
+   "text": "",
+   "who": "Dav",
+   "year": 5
   }
  ],
  "memory_summary": "",
