@@ -2038,6 +2038,13 @@
    "text": "Roan gives 1 food to Esa.",
    "who": "Roan",
    "year": 6
+  },
+  {
+   "eid": "e002727",
+   "kind": "give",
+   "text": "Esa gives 1 food to Taric.",
+   "who": "Esa",
+   "year": 6
   }
  ],
  "memory_summary": "",
