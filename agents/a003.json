@@ -1028,6 +1028,13 @@
    "text": "Dell takes 2 from the pile (pile now 0).",
    "who": "Dell",
    "year": 3
+  },
+  {
+   "eid": "e000511",
+   "kind": "convo",
+   "text": "Kael gathers Vela, Esa, Sela, Ryn to talk.",
+   "who": "Kael",
+   "year": 3
   }
  ],
  "memory_summary": "",
