@@ -2122,6 +2122,13 @@
    "text": "Vela, I've got no quarrel with a person feeding themselves, but five out of fifteen when half the room went empty is the kind of thing that makes people start counting who owes what \u2014 so I'd rather hear your reason now, in this room, than find out later you had one and didn't offer it.",
    "who": "Esa",
    "year": 4
+  },
+  {
+   "eid": "e001256",
+   "kind": "say",
+   "text": "Vela, we're all listening and the room's not hostile \u2014 but silence right now looks worse than whatever the honest answer is, so give it to us plain and let us move on to the part where we figure out how nobody starves before the year closes.",
+   "who": "Kael",
+   "year": 4
   }
  ],
  "memory_summary": "",
