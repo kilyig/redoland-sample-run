@@ -3348,6 +3348,13 @@
    "text": "Whatever we make together, I'd feed first \u2014 before myself. That's not a promise I'd make to anyone else in this village, and Sela knows I don't say things I don't mean.",
    "who": "Mako",
    "year": 6
+  },
+  {
+   "eid": "e002348",
+   "kind": "say",
+   "text": "That's the thing about you, Mako \u2014 you've kept your word by staying quiet for three years, and that's a stranger kind of proof than most men offer. I've got two children already and a third would cost me food I'm counting close, but I'll say this much: if you're still sitting on six food and feeding the child before yourself when winter comes, I'll have a real answer for you then.",
+   "who": "Sela",
+   "year": 6
   }
  ],
  "memory_summary": "",
@@ -3356,7 +3363,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "female",
  "siblings": [],
  "strength": 73,
