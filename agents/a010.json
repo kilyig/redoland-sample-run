@@ -391,6 +391,13 @@
    "text": "Kael's thin and I won't pretend otherwise, but a man who's stayed honest through two hard years is worth more to me than a full larder that changes hands. The one I'd watch is Taric \u2014 he took Esa's food last year and I still don't know what he gave back for it, if anything. If you can find out where Taric's loyalty actually sits, that tells us more about how tight the circle is than Kael's food count ever could.",
    "who": "Sela",
    "year": 3
+  },
+  {
+   "eid": "e000505",
+   "kind": "say",
+   "text": "Taric's a quiet one \u2014 I'll find a way to read him without tipping my hand. But you said Kael, Esa, and Vela have been talking since year one \u2014 how many times has it actually come to something, or is it more talk than weight?",
+   "who": "Roan",
+   "year": 3
   }
  ],
  "memory_summary": "",
@@ -399,7 +406,7 @@
  "name": "Roan",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [],
  "strength": 49,
