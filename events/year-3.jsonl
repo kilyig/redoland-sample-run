@@ -258,3 +258,4 @@
 {"eid": "e000727", "year": 3, "phase": "proposal", "kind": "propose", "speaker": "a001", "who": "Bram", "audience": ["a001", "a011"], "text": "Bram: have a child with me \u2014 I'll put in 2 of 3 food.", "payload": {}}
 {"eid": "e000728", "year": 3, "phase": "proposal", "kind": "reject", "speaker": "a011", "who": "Dell", "audience": ["a001", "a011"], "text": "Dell declines.", "payload": {}}
 {"eid": "e000729", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
+{"eid": "e000730", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
