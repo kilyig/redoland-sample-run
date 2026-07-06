@@ -4486,6 +4486,13 @@
    "text": "Mako gives 1 food to Zinn.",
    "who": "Mako",
    "year": 6
+  },
+  {
+   "eid": "e002695",
+   "kind": "pass",
+   "text": "",
+   "who": "Taric",
+   "year": 6
   }
  ],
  "memory_summary": "",
