@@ -1623,6 +1623,13 @@
    "text": "Vela takes 2 from the pile (pile now 7).",
    "who": "Vela",
    "year": 5
+  },
+  {
+   "eid": "e001777",
+   "kind": "take",
+   "text": "Kael takes 2 from the pile (pile now 5).",
+   "who": "Kael",
+   "year": 5
   }
  ],
  "memory_summary": "",
