@@ -1751,6 +1751,13 @@
    "text": "Sela, I'll hear your answer in a moment, but first I want to say plain: Bram tried to take my food in front of this village and the whole circle turned him back \u2014 a child between you doesn't undo that, and it doesn't buy him a seat here. Eron's right to name it.",
    "who": "Roan",
    "year": 5
+  },
+  {
+   "eid": "e001843",
+   "kind": "say",
+   "text": "Sela, I'll say what Roan left in the air: Bram's got ten food and eighty-three strength in Mako's pocket, and a child with you is the fastest way to put a question mark over this circle's loyalties without ever asking to join it. Tell me plainly \u2014 did you go to him, or did he come to you?",
+   "who": "Kael",
+   "year": 5
   }
  ],
  "memory_summary": "",
