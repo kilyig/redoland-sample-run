@@ -587,6 +587,13 @@
    "text": "Agreed \u2014 no one answers alone, and if either of them catches me without you two near, I'll stall and find you before I say anything that counts. But I want us thinking past defense too: Sela's sitting on six food and she's twenty-five and strong, and she hasn't paired with anyone \u2014 that's worth a quiet word before Mako gets there first.",
    "who": "Dell",
    "year": 3
+  },
+  {
+   "eid": "e000482",
+   "kind": "say",
+   "text": "Sela's the right instinct \u2014 twenty-five, eighty-three in strength, six food, and nobody's claimed her yet, which means she's either careful or waiting to see which way this village settles. Dell, you're the one to make that approach; you're close in age and she's less likely to read it as a move from a man twice her years. Don't promise her anything tonight, just find out what she's watching for.",
+   "who": "Dav",
+   "year": 3
   }
  ],
  "memory_summary": "",
