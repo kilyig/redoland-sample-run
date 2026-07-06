@@ -1196,6 +1196,13 @@
    "text": "You're at two now, which is better \u2014 but keep your head down this year, don't give anyone a reason to look your way. If the pile comes up light again, you come to me first, not Sela, not Bram, me.",
    "who": "Nessa",
    "year": 5
+  },
+  {
+   "eid": "e001948",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 5
   }
  ],
  "memory_summary": "",
