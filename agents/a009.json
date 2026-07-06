@@ -1282,6 +1282,13 @@
    "text": "Ryn, we've been waiting longer than the day can spare \u2014 Vela's offer is sitting there and Esa needs to move, so yes or no, right now, and I'll respect whichever it is.",
    "who": "Kael",
    "year": 3
+  },
+  {
+   "eid": "e000525",
+   "kind": "say",
+   "text": "Ryn, Vela's food is on the table and Kael's out of patience, and honestly so am I \u2014 not because I don't understand what you're weighing, but because every moment you don't answer is a moment Mako's had more time to count than we have. Say yes and let me go find Roan, or say no and I'll still make sure you eat, but either way I need to walk out that door knowing what I'm walking back to.",
+   "who": "Esa",
+   "year": 3
   }
  ],
  "memory_summary": "",
