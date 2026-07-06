@@ -3597,6 +3597,13 @@
    "text": "Then I'll go to Kael while Vela goes \u2014 better he hears the same story from two directions than none at all, and if Mako's already been at his door I want to know before Vela comes back alone with bad news. Taric, you're the one he respects most after Bram's business; if I soften him and he still won't move, send you in to close it.",
    "who": "Esa",
    "year": 6
+  },
+  {
+   "eid": "e002283",
+   "kind": "say",
+   "text": "Then go, both of you, and don't let the day get long \u2014 I'll stay where I can be seen and keep Mako's eyes on something unremarkable while you move. If either of you comes back with Kael already spoken for, don't bring it here; find me alone first so we can decide how to tell the other what it means.",
+   "who": "Taric",
+   "year": 6
   }
  ],
  "memory_summary": "",
@@ -3605,7 +3612,7 @@
  "name": "Taric",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "male",
  "siblings": [],
  "strength": 38,
