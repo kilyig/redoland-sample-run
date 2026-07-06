@@ -1800,6 +1800,13 @@
    "text": "You're my blood, Nessa, and that means something real in a place like this \u2014 not words, real. I've got ten food and I'll teach you what I know about when to take and when to wait, but first I need to know you understand what this village will do to someone who looks weak.",
    "who": "Bram",
    "year": 5
+  },
+  {
+   "eid": "e001879",
+   "kind": "say",
+   "text": "I understand it. I've watched Taric hold one food for three years running and nobody trades with him anymore \u2014 they don't fear him, they just don't think of him. But I want to know what you see in Mako, because he's not weak and he's not talking, and that worries me more than anyone who is.",
+   "who": "Nessa",
+   "year": 5
   }
  ],
  "memory_summary": "",
