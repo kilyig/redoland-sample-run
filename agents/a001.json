@@ -1,5 +1,5 @@
 {
- "actions_used_year": 8,
+ "actions_used_year": 9,
  "age": 33,
  "alive": true,
  "birth_year": 0,
@@ -859,6 +859,27 @@
    "kind": "pass",
    "text": "",
    "who": "Bram",
+   "year": 3
+  },
+  {
+   "eid": "e000726",
+   "kind": "proposal",
+   "text": "Bram draws Dell aside to talk.",
+   "who": "Bram",
+   "year": 3
+  },
+  {
+   "eid": "e000727",
+   "kind": "propose",
+   "text": "Bram: have a child with me \u2014 I'll put in 2 of 3 food.",
+   "who": "Bram",
+   "year": 3
+  },
+  {
+   "eid": "e000728",
+   "kind": "reject",
+   "text": "Dell declines.",
+   "who": "Dell",
    "year": 3
   }
  ],

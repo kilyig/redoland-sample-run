@@ -254,3 +254,6 @@
 {"eid": "e000723", "year": 3, "phase": "convo", "kind": "convo", "speaker": "a005", "who": "Dav", "audience": ["a005", "a011", "a009"], "text": "Dav gathers Dell, Ryn to talk.", "payload": {}}
 {"eid": "e000724", "year": 3, "phase": "convo", "kind": "say", "speaker": "a005", "who": "Dav", "audience": ["a005", "a011", "a009"], "text": "Dell's been gone long enough that Sela's either listening or she isn't \u2014 either way, I want us to talk about Bram before she gets back, because a man who tries to attack Roan with the whole village watching isn't afraid anymore, he's testing something.", "payload": {}}
 {"eid": "e000725", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
+{"eid": "e000726", "year": 3, "phase": "proposal", "kind": "proposal", "speaker": "a001", "who": "Bram", "audience": ["a001", "a011"], "text": "Bram draws Dell aside to talk.", "payload": {}}
+{"eid": "e000727", "year": 3, "phase": "proposal", "kind": "propose", "speaker": "a001", "who": "Bram", "audience": ["a001", "a011"], "text": "Bram: have a child with me \u2014 I'll put in 2 of 3 food.", "payload": {}}
+{"eid": "e000728", "year": 3, "phase": "proposal", "kind": "reject", "speaker": "a011", "who": "Dell", "audience": ["a001", "a011"], "text": "Dell declines.", "payload": {}}

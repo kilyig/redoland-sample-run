@@ -1035,6 +1035,27 @@
    "text": "Dell's been gone long enough that Sela's either listening or she isn't \u2014 either way, I want us to talk about Bram before she gets back, because a man who tries to attack Roan with the whole village watching isn't afraid anymore, he's testing something.",
    "who": "Dav",
    "year": 3
+  },
+  {
+   "eid": "e000726",
+   "kind": "proposal",
+   "text": "Bram draws Dell aside to talk.",
+   "who": "Bram",
+   "year": 3
+  },
+  {
+   "eid": "e000727",
+   "kind": "propose",
+   "text": "Bram: have a child with me \u2014 I'll put in 2 of 3 food.",
+   "who": "Bram",
+   "year": 3
+  },
+  {
+   "eid": "e000728",
+   "kind": "reject",
+   "text": "Dell declines.",
+   "who": "Dell",
+   "year": 3
   }
  ],
  "memory_summary": "",
