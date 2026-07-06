@@ -205,3 +205,4 @@
 {"eid": "e000674", "year": 3, "phase": "fight", "kind": "muster", "speaker": "village", "who": "the village", "audience": "public", "text": "Attackers [Bram] (str 58) vs defenders [Roan, Vela, Ryn, Esa, Sela, Dav, Taric, Kael, Dell] (str 509).", "payload": {"attackers": ["a001"], "defenders": ["a002", "a003", "a004", "a005", "a006", "a007", "a009", "a010", "a011"]}}
 {"eid": "e000675", "year": 3, "phase": "fight", "kind": "cancel", "speaker": "village", "who": "the village", "audience": "public", "text": "Bram thinks better of it and calls off the attack.", "payload": {}}
 {"eid": "e000676", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
+{"eid": "e000677", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
