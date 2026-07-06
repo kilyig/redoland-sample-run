@@ -2274,6 +2274,13 @@
    "text": "Then go, both of you, and don't let the day get long \u2014 I'll stay where I can be seen and keep Mako's eyes on something unremarkable while you move. If either of you comes back with Kael already spoken for, don't bring it here; find me alone first so we can decide how to tell the other what it means.",
    "who": "Taric",
    "year": 6
+  },
+  {
+   "eid": "e002284",
+   "kind": "say",
+   "text": "Before I go \u2014 one thing I haven't said yet and should: if Kael's already with Mako when I find him, I won't come back empty-handed, I'll come back with whatever Mako wanted from him, because that tells us more than Kael's yes ever would. Watch each other while I'm gone.",
+   "who": "Vela",
+   "year": 6
   }
  ],
  "memory_summary": "In year one Taric pulled me and Ryn into a quiet pact \u2014 two each from the pile, watch each other's backs \u2014 and that felt like the first real thing in this village. Kael's circle followed: me, Sela, Vela, Ryn, all swearing to bleed together, though Ryn dragged her feet and Dav's name hung in the air the whole time. Then Ryn had Dav's child and I felt the circle shift \u2014 she didn't leave us, but she stopped being fully ours.\n\nTaric is the one I trust. He gave me food when I was thin and named me plainly as the person he counts on \u2014 I've given back twice now, so the debt runs both ways, which is how I want it. His talk of a child stings a little; the window on my side is closed and we both know it, but he still chose me to stand with, and that's not nothing.\n\nBram tried to take Roan and the whole village stood against him until he backed down. I was in that line. He hasn't forgiven it, and I haven't forgotten that he tried.\n\nVela fed Bram three times out of a circle that swore to stand together \u2014 that's a quiet betrayal I've noted and haven't named to her face yet. Mako's been fat and silent for four years running, and silence on a man that strong is the thing that frightens me most.",

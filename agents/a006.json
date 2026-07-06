@@ -3604,6 +3604,13 @@
    "text": "Then go, both of you, and don't let the day get long \u2014 I'll stay where I can be seen and keep Mako's eyes on something unremarkable while you move. If either of you comes back with Kael already spoken for, don't bring it here; find me alone first so we can decide how to tell the other what it means.",
    "who": "Taric",
    "year": 6
+  },
+  {
+   "eid": "e002284",
+   "kind": "say",
+   "text": "Before I go \u2014 one thing I haven't said yet and should: if Kael's already with Mako when I find him, I won't come back empty-handed, I'll come back with whatever Mako wanted from him, because that tells us more than Kael's yes ever would. Watch each other while I'm gone.",
+   "who": "Vela",
+   "year": 6
   }
  ],
  "memory_summary": "",
