@@ -2337,6 +2337,13 @@
    "text": "You have my word on that, same as last year \u2014 and I'll add Ryn to the question Esa just raised, because she stood with us against Bram once but she's Dav's woman now and Dav took food from the pile today while Mako and Bram walked away fat, which puts her household closer to that circle than to ours. If it comes to a fight this year, I want to know before we're in it whether Ryn stands with us or steps aside \u2014 not after.",
    "who": "Taric",
    "year": 5
+  },
+  {
+   "eid": "e001828",
+   "kind": "say",
+   "text": "Taric's right to name it now \u2014 Ryn's loyalty was already half-gone when she had Dav's child, and I won't count on someone who has a reason to step away when it turns ugly. Vela, you've been quiet about where you stand with Bram after what you gave him last year; I need that answered plainly before I trust this circle to hold when Mako decides to stop being fat and silent.",
+   "who": "Esa",
+   "year": 5
   }
  ],
  "memory_summary": "",
