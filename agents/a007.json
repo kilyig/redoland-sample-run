@@ -2353,6 +2353,13 @@
    "text": "Bram, you're not wrong that the math changes \u2014 but I want to hear it said plainly: if I say yes, you're promising a child, not just a number at my back. Give me your word on that, clear as you gave it about the raid, and I'll give you my answer before you walk out this door.",
    "who": "Sela",
    "year": 5
+  },
+  {
+   "eid": "e001814",
+   "kind": "say",
+   "text": "You have my word \u2014 a child, not a number. I'll put in two food, you put in one, same as I offered the first time I asked. Say yes.",
+   "who": "Bram",
+   "year": 5
   }
  ],
  "memory_summary": "",
