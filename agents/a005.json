@@ -1,5 +1,5 @@
 {
- "actions_used_year": 4,
+ "actions_used_year": 5,
  "age": 44,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 0,
  "health": 2,
  "hp": 100,
  "id": "a005",
@@ -1883,6 +1883,13 @@
    "kind": "give",
    "text": "Roan gives 1 food to Taric.",
    "who": "Roan",
+   "year": 4
+  },
+  {
+   "eid": "e001270",
+   "kind": "give",
+   "text": "Dav gives 1 food to Ryn.",
+   "who": "Dav",
    "year": 4
   }
  ],
