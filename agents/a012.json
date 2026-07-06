@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 22,
  "alive": true,
  "birth_year": 3,
@@ -208,6 +208,13 @@
    "kind": "give",
    "text": "Dav gives 1 food to Ryn.",
    "who": "Dav",
+   "year": 4
+  },
+  {
+   "eid": "e001175",
+   "kind": "convo",
+   "text": "Eron gathers Roan to talk.",
+   "who": "Eron",
    "year": 4
   }
  ],

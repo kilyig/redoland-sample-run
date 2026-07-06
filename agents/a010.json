@@ -1093,6 +1093,13 @@
    "text": "Dav. I'm asking you plain: when Bram makes his next move, are you with me, or are you with whoever's holding the most food that year?",
    "who": "Roan",
    "year": 4
+  },
+  {
+   "eid": "e001175",
+   "kind": "convo",
+   "text": "Eron gathers Roan to talk.",
+   "who": "Eron",
+   "year": 4
   }
  ],
  "memory_summary": "",
