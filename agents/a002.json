@@ -867,6 +867,13 @@
    "text": "Taric, you're right and I won't pretend otherwise \u2014 I moved twice and I moved fast, and I knew it when I did it. I've got eight food and you've got one, and that's not a gap I want sitting between two people who've stood in the same line when Bram came looking for a fight. Tell me what you need to get through the year and I'll see what I can do.",
    "who": "Vela",
    "year": 4
+  },
+  {
+   "eid": "e001185",
+   "kind": "say",
+   "text": "Two food would keep me breathing without putting you thin \u2014 but I'm not asking for charity, I'm asking because I think you and I both do better when neither of us is the desperate one in the room. You've seen how this village moves when someone gets hungry enough to calculate. What would make this a trade rather than a gift?",
+   "who": "Taric",
+   "year": 4
   }
  ],
  "memory_summary": "",
