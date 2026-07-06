@@ -1156,6 +1156,13 @@
    "text": "Good \u2014 that's what I needed to hear, and I won't forget you said it in front of me. Ryn, I'll bring you everything Sela says before the night's out; if she's willing, we'll go into next year four strong instead of three thin. Dav, hold those two until I'm back.",
    "who": "Dell",
    "year": 3
+  },
+  {
+   "eid": "e000493",
+   "kind": "say",
+   "text": "Dav, when Dell comes back tonight \u2014 whatever Sela says \u2014 I want us to sleep knowing we've got a plan for the pile that doesn't leave me scrambling alone while you two move first. And if she's not willing, we plan without her, the three of us, and we hold tight.",
+   "who": "Ryn",
+   "year": 3
   }
  ],
  "memory_summary": "",
@@ -1164,7 +1171,7 @@
  "name": "Ryn",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [],
  "strength": 71,
