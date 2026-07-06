@@ -2526,6 +2526,13 @@
    "text": "Dell, go \u2014 and if Roan asks why your father didn't come himself, tell him I'm the one who sent you, not the one who stayed back. Ryn, while she walks, tell me honestly: if Roan comes in with Sela and Eron, that's six people against Bram and Mako's strength advantage shrinks to almost nothing \u2014 are you ready to name that out loud before it becomes necessary, or do we keep pretending we're just building a family?",
    "who": "Dav",
    "year": 5
+  },
+  {
+   "eid": "e001799",
+   "kind": "say",
+   "text": "I'm ready to name it \u2014 we're building a wall, not a family, except that the wall only holds if it's also a family, and I stopped pretending those were different things the year Dell was born. Six people against their sixteen is still a hard fight, Dav, but it's a fight we survive; two against sixteen isn't.",
+   "who": "Ryn",
+   "year": 5
   }
  ],
  "memory_summary": "",
