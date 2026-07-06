@@ -194,3 +194,6 @@
 {"eid": "e000663", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
 {"eid": "e000664", "year": 3, "phase": "fight", "kind": "attack", "speaker": "village", "who": "the village", "audience": "public", "text": "Bram moves to attack Roan.", "payload": {"initiator": "a001", "target": "a010"}}
 {"eid": "e000665", "year": 3, "phase": "fight", "kind": "under_attack", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "You are under attack by Bram.", "payload": {}}
+{"eid": "e000666", "year": 3, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Sela joins the defenders.", "payload": {}}
+{"eid": "e000667", "year": 3, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Kael joins the defenders.", "payload": {}}
+{"eid": "e000668", "year": 3, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Esa joins the defenders.", "payload": {}}

@@ -678,6 +678,27 @@
    "text": "Bram moves to attack Roan.",
    "who": "the village",
    "year": 3
+  },
+  {
+   "eid": "e000666",
+   "kind": "join",
+   "text": "Sela joins the defenders.",
+   "who": "the village",
+   "year": 3
+  },
+  {
+   "eid": "e000667",
+   "kind": "join",
+   "text": "Kael joins the defenders.",
+   "who": "the village",
+   "year": 3
+  },
+  {
+   "eid": "e000668",
+   "kind": "join",
+   "text": "Esa joins the defenders.",
+   "who": "the village",
+   "year": 3
   }
  ],
  "memory_summary": "",
