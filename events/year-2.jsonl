@@ -288,3 +288,4 @@
 {"eid": "e000357", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e000358", "year": 2, "phase": "convo", "kind": "convo", "speaker": "a006", "who": "Taric", "audience": ["a006", "a003"], "text": "Taric gathers Esa to talk.", "payload": {}}
 {"eid": "e000359", "year": 2, "phase": "convo", "kind": "say", "speaker": "a006", "who": "Taric", "audience": ["a006", "a003"], "text": "Sela's young and strong \u2014 twenty-four, stronger than me by a wide margin \u2014 and she's been quiet in a way that makes me wonder if Mako's already talking to her. If those two are moving together, that's the strongest pair in this village, and we'd need Roan or Kael on our side just to make the math uncomfortable for them.", "payload": {}}
+{"eid": "e000360", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
