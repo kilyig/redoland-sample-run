@@ -1168,6 +1168,13 @@
    "text": "Dell gives 1 food to Ryn.",
    "who": "Dell",
    "year": 3
+  },
+  {
+   "eid": "e000537",
+   "kind": "convo",
+   "text": "Taric gathers Esa to talk.",
+   "who": "Taric",
+   "year": 3
   }
  ],
  "memory_summary": "",
