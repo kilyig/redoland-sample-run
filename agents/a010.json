@@ -1051,6 +1051,13 @@
    "text": "Bram holding six food with the pile dry is the part that keeps me up \u2014 a man that stocked doesn't wait long before he starts thinking about what else he can take. I'm glad you're saying this out loud, Dell, and I mean to hold you and your father to it; what I need to know is whether you two move first when the sign is clear, or whether you wait on me to call it.",
    "who": "Roan",
    "year": 4
+  },
+  {
+   "eid": "e001155",
+   "kind": "say",
+   "text": "We move when the sign is clear, and we don't wait on you to call it \u2014 if Bram takes a step toward your food or your son, you'll see me and Dav already moving before you finish naming it. What I need from you is simpler: when that moment comes, don't flinch and don't negotiate with him alone first, because a man who tried once in front of everyone will take a private conversation as weakness.",
+   "who": "Dell",
+   "year": 4
   }
  ],
  "memory_summary": "",
