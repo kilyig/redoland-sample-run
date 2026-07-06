@@ -888,6 +888,13 @@
    "text": "Sela, I've got a son in this room and a daughter just born into it, and I'll not watch either of them grow up in a circle that can't trust its own \u2014 so I'm going to stop asking and start telling you what happens next: you say what Mako wants, or I pull back from standing between you and whatever comes your way, and I mean that with no anger, just arithmetic.",
    "who": "Roan",
    "year": 5
+  },
+  {
+   "eid": "e001853",
+   "kind": "say",
+   "text": "Roan's said it better than I can \u2014 so I'll only add the one thing left to name: Sela, I've stood in your corner since year one, and I'll stay there, but not blind. If Mako already owns a piece of what you owe, tell us now and we figure out how to undo it together, because the price of silence is that we start planning around you instead of with you.",
+   "who": "Kael",
+   "year": 5
   }
  ],
  "memory_summary": "",
