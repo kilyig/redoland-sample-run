@@ -1352,6 +1352,13 @@
    "text": "",
    "who": "Ryn",
    "year": 3
+  },
+  {
+   "eid": "e000561",
+   "kind": "convo",
+   "text": "Bram gathers Ryn to talk.",
+   "who": "Bram",
+   "year": 3
   }
  ],
  "memory_summary": "",
