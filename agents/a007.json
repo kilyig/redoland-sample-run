@@ -2304,6 +2304,13 @@
    "text": "Fair enough. I kept to myself because there was nothing worth saying until now \u2014 the pile's empty and you're down to nothing while Bram's sitting on twelve. I'd rather have one person I can trust at my back than stay comfortable and quiet while that gap keeps growing.",
    "who": "Mako",
    "year": 5
+  },
+  {
+   "eid": "e001807",
+   "kind": "convo",
+   "text": "Bram gathers Sela to talk.",
+   "who": "Bram",
+   "year": 5
   }
  ],
  "memory_summary": "",
