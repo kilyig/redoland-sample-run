@@ -156,3 +156,4 @@
 {"eid": "e002386", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a006", "who": "Taric", "audience": "public", "text": "Taric gives 1 food to Vela.", "payload": {"target": "a002", "amount": 1}}
 {"eid": "e002387", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 1 food to Dav.", "payload": {"target": "a005", "amount": 1}}
 {"eid": "e002388", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa gives 1 food to Zinn.", "payload": {"target": "a014", "amount": 1}}
+{"eid": "e002389", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 1 food to Ryn.", "payload": {"target": "a009", "amount": 1}}
