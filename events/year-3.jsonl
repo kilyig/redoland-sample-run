@@ -133,3 +133,4 @@
 {"eid": "e000602", "year": 3, "phase": "convo", "kind": "say", "speaker": "a006", "who": "Taric", "audience": ["a006", "a003"], "text": "You want proof before you risk anything \u2014 fine, that's honest, and I respect it more than easy agreement. But I'm the one sitting on one food, Esa; if I give you something now I'm the one who starves if the year turns, and that doesn't make me a bound partner, it makes me desperate. Tell me what you need from me that doesn't cost me the only margin I have.", "payload": {}}
 {"eid": "e000603", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e000604", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
+{"eid": "e000605", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
