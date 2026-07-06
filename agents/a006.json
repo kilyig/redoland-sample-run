@@ -1469,6 +1469,13 @@
    "text": "Agreed \u2014 take the two and consider it done, and I'll start with Kael; he's got nothing today and nothing tomorrow and that makes him either the most dangerous man in this village or the most willing to be useful, and I'd rather find out which while there's still time to matter.",
    "who": "Taric",
    "year": 4
+  },
+  {
+   "eid": "e001190",
+   "kind": "say",
+   "text": "Kael's a good door to knock on first \u2014 a hungry man with nothing to lose either finds religion fast or starts doing arithmetic that hurts the people nearest him, and I'd rather Kael find us before he finds the second option. When you talk to him, don't pitch it as protection; pitch it as the same trade we just made \u2014 something honest and mutual, because Kael's proud and he'll smell charity before you've finished the sentence.",
+   "who": "Vela",
+   "year": 4
   }
  ],
  "memory_summary": "",
