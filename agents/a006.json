@@ -1441,6 +1441,13 @@
    "text": "Two food would keep me breathing without putting you thin \u2014 but I'm not asking for charity, I'm asking because I think you and I both do better when neither of us is the desperate one in the room. You've seen how this village moves when someone gets hungry enough to calculate. What would make this a trade rather than a gift?",
    "who": "Taric",
    "year": 4
+  },
+  {
+   "eid": "e001186",
+   "kind": "say",
+   "text": "Two food is fair, and you'll have them \u2014 but what I want in return is simple: if someone comes for me and you're close enough to matter, you stand. Not a blood oath, just the same thing you did when Bram moved on Roan. That's the trade.",
+   "who": "Vela",
+   "year": 4
   }
  ],
  "memory_summary": "",
