@@ -601,6 +601,13 @@
    "text": "Bram thinks better of it and calls off the attack.",
    "who": "the village",
    "year": 3
+  },
+  {
+   "eid": "e000698",
+   "kind": "pass",
+   "text": "",
+   "who": "Roan",
+   "year": 3
   }
  ],
  "memory_summary": "",
