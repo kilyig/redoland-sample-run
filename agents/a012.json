@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "Eron, the village will always look peaceful until it isn't \u2014 Bram smiled at me for two years before he moved against me with nothing but his own hunger driving him, and you should never forget a man who showed you that. Sela and her people \u2014 Kael, Esa, Vela, Taric \u2014 they stood without being asked, and that is the rarest thing this world produces; hold onto them like they are blood, because in the ways that matter they are. Watch Dav's family: they plan quietly and eat well, and quiet planning in a hungry place always comes at someone else's cost. I am not a hard man and I don't ask you to be one, but be harder to move than you look \u2014 that alone will keep you alive when words run out.",
- "food": 2,
+ "food": 3,
  "health": 3,
  "hp": 100,
  "id": "a012",
@@ -1209,6 +1209,13 @@
    "kind": "give",
    "text": "Dav gives 1 food to Ryn.",
    "who": "Dav",
+   "year": 5
+  },
+  {
+   "eid": "e001953",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Eron.",
+   "who": "Nessa",
    "year": 5
   }
  ],
