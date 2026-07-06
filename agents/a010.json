@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 2,
  "health": 3,
  "hp": 100,
  "id": "a010",
@@ -888,6 +888,13 @@
    "eid": "e001062",
    "kind": "say",
    "text": "Father. The pile came up empty this year and you're sitting at one food \u2014 that worries me. I have two; take one.",
+   "who": "Eron",
+   "year": 3
+  },
+  {
+   "eid": "e001065",
+   "kind": "give",
+   "text": "Eron gives 1 food to Roan.",
    "who": "Eron",
    "year": 3
   }
