@@ -1,5 +1,5 @@
 {
- "actions_used_year": 4,
+ "actions_used_year": 5,
  "age": 37,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 2,
  "health": 2,
  "hp": 100,
  "id": "a010",
@@ -3409,6 +3409,13 @@
    "kind": "submit",
    "text": "Esa submits; Dav takes 2 food without a fight.",
    "who": "the village",
+   "year": 6
+  },
+  {
+   "eid": "e002673",
+   "kind": "give",
+   "text": "Roan gives 1 food to Sela.",
+   "who": "Roan",
    "year": 6
   }
  ],

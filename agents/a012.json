@@ -2246,6 +2246,13 @@
    "text": "Esa submits; Dav takes 2 food without a fight.",
    "who": "the village",
    "year": 6
+  },
+  {
+   "eid": "e002673",
+   "kind": "give",
+   "text": "Roan gives 1 food to Sela.",
+   "who": "Roan",
+   "year": 6
   }
  ],
  "memory_summary": "",
