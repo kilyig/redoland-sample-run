@@ -133,3 +133,4 @@
 {"eid": "e001904", "year": 5, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 1 food to Dav.", "payload": {"target": "a005", "amount": 1}}
 {"eid": "e001905", "year": 5, "phase": "scramble", "kind": "give", "speaker": "a003", "who": "Esa", "audience": "public", "text": "Esa gives 1 food to Taric.", "payload": {"target": "a006", "amount": 1}}
 {"eid": "e001906", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
+{"eid": "e001907", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a012", "who": "Eron", "audience": ["a012"], "text": "", "payload": {}}
