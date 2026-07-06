@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 0,
  "age": 25,
  "alive": true,
  "birth_year": 0,
@@ -853,6 +853,13 @@
    "text": "eats 1 food",
    "who": "Sela",
    "year": 2
+  },
+  {
+   "eid": "e000470",
+   "kind": "narrate",
+   "text": "Year 3: 15 food appears in the pile for 11 people.",
+   "who": "the village",
+   "year": 3
   }
  ],
  "memory_summary": "",
@@ -861,7 +868,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 6,
+ "says_used_year": 0,
  "sex": "female",
  "siblings": [],
  "strength": 73,
