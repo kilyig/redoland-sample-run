@@ -300,3 +300,4 @@
 {"eid": "e002071", "year": 5, "phase": "scramble", "kind": "give", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela gives 1 food to Eron.", "payload": {"target": "a012", "amount": 1}}
 {"eid": "e002072", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e002073", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
+{"eid": "e002074", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
