@@ -7,3 +7,4 @@
 {"eid": "e001778", "year": 5, "phase": "scramble", "kind": "take", "speaker": "a001", "who": "Bram", "audience": "public", "text": "Bram takes 2 from the pile (pile now 3).", "payload": {"amount": 2}}
 {"eid": "e001779", "year": 5, "phase": "scramble", "kind": "take", "speaker": "a008", "who": "Mako", "audience": "public", "text": "Mako takes 2 from the pile (pile now 1).", "payload": {"amount": 2}}
 {"eid": "e001780", "year": 5, "phase": "scramble", "kind": "take", "speaker": "a005", "who": "Dav", "audience": "public", "text": "Dav takes 1 from the pile (pile now 0).", "payload": {"amount": 1}}
+{"eid": "e001781", "year": 5, "phase": "convo", "kind": "convo", "speaker": "a007", "who": "Sela", "audience": ["a007", "a012"], "text": "Sela gathers Eron to talk.", "payload": {}}

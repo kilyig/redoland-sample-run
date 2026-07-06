@@ -755,6 +755,13 @@
    "text": "Dav takes 1 from the pile (pile now 0).",
    "who": "Dav",
    "year": 5
+  },
+  {
+   "eid": "e001781",
+   "kind": "convo",
+   "text": "Sela gathers Eron to talk.",
+   "who": "Sela",
+   "year": 5
   }
  ],
  "memory_summary": "",
