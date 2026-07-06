@@ -468,6 +468,13 @@
    "text": "Sela declines.",
    "who": "Sela",
    "year": 2
+  },
+  {
+   "eid": "e000350",
+   "kind": "pass",
+   "text": "",
+   "who": "Bram",
+   "year": 2
   }
  ],
  "memory_summary": "",
