@@ -1,5 +1,5 @@
 {
- "actions_used_year": 4,
+ "actions_used_year": 5,
  "age": 47,
  "alive": true,
  "birth_year": 0,
@@ -677,6 +677,13 @@
    "kind": "say",
    "text": "A child would do it \u2014 yours and mine, something we'd both have cause to protect. I know you're forty-four and the window's narrow, but it's still open, and three food between us buys more than another year of watching each other's backs from a distance.",
    "who": "Taric",
+   "year": 3
+  },
+  {
+   "eid": "e000586",
+   "kind": "proposal",
+   "text": "Taric cannot offer a child to Esa: Taric cannot spare the 2 food they offered (holds 1).",
+   "who": "the village",
    "year": 3
   }
  ],
