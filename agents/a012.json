@@ -1581,6 +1581,13 @@
    "text": "Then it's settled \u2014 Kael and Roan before nightfall, and one food to Sela now. But Nessa, while I've still got you: Ryn and Mako together worries me more than anything else in this village right now, and I want to know if you've heard anything from Bram's side about what those two have said to each other, because your father listens to things I can't reach.",
    "who": "Eron",
    "year": 6
+  },
+  {
+   "eid": "e002266",
+   "kind": "say",
+   "text": "Bram hasn't said anything to me about Ryn and Mako specifically, but he doesn't have to \u2014 if those two had spoken, Bram would have gone quiet in a particular way and he hasn't, which means either they haven't talked yet or they were careful enough that even he missed it. Either way, the silence itself is the warning: a man like Mako doesn't need words to build an alliance, he just needs someone to stand still long enough to be counted as his.",
+   "who": "Nessa",
+   "year": 6
   }
  ],
  "memory_summary": "",
