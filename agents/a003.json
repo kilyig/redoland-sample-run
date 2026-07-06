@@ -1322,6 +1322,13 @@
    "text": "Taric gathers Esa to talk.",
    "who": "Taric",
    "year": 3
+  },
+  {
+   "eid": "e000602",
+   "kind": "say",
+   "text": "You want proof before you risk anything \u2014 fine, that's honest, and I respect it more than easy agreement. But I'm the one sitting on one food, Esa; if I give you something now I'm the one who starves if the year turns, and that doesn't make me a bound partner, it makes me desperate. Tell me what you need from me that doesn't cost me the only margin I have.",
+   "who": "Taric",
+   "year": 3
   }
  ],
  "memory_summary": "",
