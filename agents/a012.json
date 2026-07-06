@@ -1546,6 +1546,13 @@
    "text": "Bram counts everything, but he's not going to come at you over food when you're his son and I'm his daughter \u2014 what he'd see is family holding, not hoarding. What I'd worry about is Mako seeing those nine and deciding you're worth the risk of a fight before anyone else can stop him; you're strong but he's stronger, and he's got Ryn running near him lately which means he might not come alone.",
    "who": "Nessa",
    "year": 6
+  },
+  {
+   "eid": "e002261",
+   "kind": "say",
+   "text": "Ryn near Mako is the piece I didn't have \u2014 that's two of the strongest in this village moving together, and if they decide to make an example of someone it won't be a fair fight. I'm going to find Kael and Roan before nightfall and make sure they know what we're looking at; nine food means nothing if I'm standing alone when Mako decides the count favors him.",
+   "who": "Eron",
+   "year": 6
   }
  ],
  "memory_summary": "",
@@ -1557,7 +1564,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "male",
  "siblings": [
   "a013"
