@@ -1084,6 +1084,13 @@
    "text": "Ryn, the room's been patient and Vela's put it plain \u2014 I'll add only this: Dell is three days old and already eating better than Taric, and the woman who keeps Dell fed through the next lean year is standing in this circle, not across from it with Mako and Bram. Give us your answer and let Esa move.",
    "who": "Kael",
    "year": 3
+  },
+  {
+   "eid": "e000523",
+   "kind": "say",
+   "text": "Ryn, I've got four food and I'll put one of them in front of Dell right now if you give us a yes \u2014 not as a bribe, as a demonstration that what we're promising isn't just words while the year's still young.",
+   "who": "Vela",
+   "year": 3
   }
  ],
  "memory_summary": "",
