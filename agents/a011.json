@@ -1630,6 +1630,13 @@
    "text": "Roan, Bram came for you once with the whole village watching and he still moved \u2014 that means you're already on his list whether you want to be or not, and I want you to know that when he moves again, my father and I will be standing where we stood last time, except next time I want that decided before the first punch, not after.",
    "who": "Dell",
    "year": 4
+  },
+  {
+   "eid": "e001154",
+   "kind": "say",
+   "text": "Bram holding six food with the pile dry is the part that keeps me up \u2014 a man that stocked doesn't wait long before he starts thinking about what else he can take. I'm glad you're saying this out loud, Dell, and I mean to hold you and your father to it; what I need to know is whether you two move first when the sign is clear, or whether you wait on me to call it.",
+   "who": "Roan",
+   "year": 4
   }
  ],
  "memory_summary": "",
