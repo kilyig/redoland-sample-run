@@ -2339,6 +2339,13 @@
    "text": "He said he'd rather have one person he can trust at his back than stay comfortable while you sit on twelve food \u2014 and he named you by implication, not by accident. I don't know yet whether that's a man who's finally decided to move or a man who's decided I'm the easiest door to knock on first. Either way, you should know he's talking now.",
    "who": "Sela",
    "year": 5
+  },
+  {
+   "eid": "e001812",
+   "kind": "say",
+   "text": "Mako's got eight food and eighty-three strength and he's just started talking \u2014 that's not a coincidence, and it's not small talk. If he's circling you it's because you've got nothing to take and you're not attached to anyone who'd stop him, which is exactly the problem I've been trying to fix for a year. Say yes to me now, and the next time he knocks on your door the math changes for both of us.",
+   "who": "Bram",
+   "year": 5
   }
  ],
  "memory_summary": "",
