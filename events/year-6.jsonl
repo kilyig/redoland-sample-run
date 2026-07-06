@@ -164,3 +164,4 @@
 {"eid": "e002394", "year": 6, "phase": "convo", "kind": "convo", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012", "a013"], "text": "Zinn gathers Eron, Nessa to talk.", "payload": {}}
 {"eid": "e002395", "year": 6, "phase": "convo", "kind": "say", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012", "a013"], "text": "Nessa, I saw you gave me another food \u2014 I won't forget that, but don't leave yourself short on my account. Eron, what are you sitting at right now?", "payload": {}}
 {"eid": "e002396", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e002397", "year": 6, "phase": "convo", "kind": "convo", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012", "a013"], "text": "Zinn gathers Eron, Nessa to talk.", "payload": {}}
