@@ -149,3 +149,4 @@
 {"eid": "e001920", "year": 5, "phase": "scramble", "kind": "give", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn gives 1 food to Dell.", "payload": {"target": "a011", "amount": 1}}
 {"eid": "e001921", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e001922", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
+{"eid": "e001923", "year": 5, "phase": "convo", "kind": "convo", "speaker": "a013", "who": "Nessa", "audience": ["a013", "a012"], "text": "Nessa gathers Eron to talk.", "payload": {}}
