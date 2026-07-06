@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 44,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 2,
  "health": 2,
  "hp": 100,
  "id": "a005",
@@ -1687,6 +1687,13 @@
    "kind": "say",
    "text": "I found her and she listened \u2014 she didn't say yes to anything but she didn't close the door either, and then she had Roan's child before I could go back, which told me she'd already made a choice I didn't get ahead of. That's on me. The question now is whether Roan's more afraid of Bram coming back for him than he is loyal to whatever Mako's offering, because if Bram tried once, Roan knows it's not over.",
    "who": "Dell",
+   "year": 4
+  },
+  {
+   "eid": "e001151",
+   "kind": "give",
+   "text": "Dav gives 1 food to Ryn.",
+   "who": "Dav",
    "year": 4
   }
  ],
