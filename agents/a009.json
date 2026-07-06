@@ -1128,6 +1128,13 @@
    "text": "Dav, I'm waiting \u2014 say it plain, in front of Dell, right now, and then we can talk about Sela and everything else. You've got three food and I've got one, and I carried your child through a lean year on the strength of your word alone.",
    "who": "Ryn",
    "year": 3
+  },
+  {
+   "eid": "e000489",
+   "kind": "say",
+   "text": "Dav, I'll go find Sela the moment you say it \u2014 but Ryn's not moving from this spot until you do, and neither am I, because a family that can't hold its word in private can't hold anything when the pile runs short again.",
+   "who": "Dell",
+   "year": 3
   }
  ],
  "memory_summary": "",
