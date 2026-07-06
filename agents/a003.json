@@ -1301,6 +1301,13 @@
    "text": "",
    "who": "Esa",
    "year": 3
+  },
+  {
+   "eid": "e000592",
+   "kind": "convo",
+   "text": "Taric gathers Esa to talk.",
+   "who": "Taric",
+   "year": 3
   }
  ],
  "memory_summary": "",
