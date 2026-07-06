@@ -1,5 +1,5 @@
 {
- "actions_used_year": 2,
+ "actions_used_year": 3,
  "age": 33,
  "alive": true,
  "birth_year": 0,
@@ -641,6 +641,13 @@
    "eid": "e000562",
    "kind": "say",
    "text": "You've got food and you're not stupid \u2014 I'll give you that. But I've got Dell to think about, and Dav's still useful to her. What exactly are you offering that he isn't?",
+   "who": "Bram",
+   "year": 3
+  },
+  {
+   "eid": "e000565",
+   "kind": "convo",
+   "text": "Bram gathers Ryn to talk.",
    "who": "Bram",
    "year": 3
   }
