@@ -2969,6 +2969,13 @@
    "text": "Kael gathers Vela, Esa, Ryn, Roan to talk.",
    "who": "Kael",
    "year": 6
+  },
+  {
+   "eid": "e002409",
+   "kind": "say",
+   "text": "Vela, Zinn just arrived from Sela and Mako's blood, which means Mako's already planted two roots in this circle \u2014 first Sela, now a child \u2014 and Bram knows it, which is exactly why he's been keeping you warm and grateful. You want to survive past fifty, so do I, and I'm not going to lie to you about the math: you've got more years in you than Bram is counting on, but only if the people standing next to you when he finally moves aren't the ones you've been feeding him with.",
+   "who": "Kael",
+   "year": 6
   }
  ],
  "memory_summary": "",
