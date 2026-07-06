@@ -1226,6 +1226,13 @@
    "text": "Taric's already with me \u2014 he said it plainly to my face, and he backed it with food, so I'll vouch for him here. Roan I don't know as well, but two food and no move toward Mako or Bram tells me he's still deciding, and a man still deciding can be asked. I'd go to Roan if this circle wants me to, same as I went to Taric.",
    "who": "Esa",
    "year": 3
+  },
+  {
+   "eid": "e000517",
+   "kind": "say",
+   "text": "Esa, go to Roan \u2014 and when you find him, tell him Taric's already in, because a man still weighing his options moves faster when he knows he's not the first. Ryn, I want to hear what you think Dav does if Mako finally opens his mouth and makes an offer, because your answer to that shapes everything else we're planning here.",
+   "who": "Kael",
+   "year": 3
   }
  ],
  "memory_summary": "",
