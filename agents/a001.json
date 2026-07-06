@@ -1665,6 +1665,13 @@
    "text": "The pile's gone and I've got twelve food \u2014 I said I'd be here, and I am. A year passed without a raid and without breaking a word I gave you. That offer still stands.",
    "who": "Bram",
    "year": 5
+  },
+  {
+   "eid": "e001809",
+   "kind": "say",
+   "text": "You kept your word, and twelve food is real weight \u2014 I won't pretend it doesn't land differently now that I'm sitting on nothing. But Mako just found me and said words I haven't heard him say to anyone in four years, and I'd be a fool not to tell you that before you hear it sideways.",
+   "who": "Sela",
+   "year": 5
   }
  ],
  "memory_summary": "",
