@@ -166,3 +166,4 @@
 {"eid": "e002396", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e002397", "year": 6, "phase": "convo", "kind": "convo", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012", "a013"], "text": "Zinn gathers Eron, Nessa to talk.", "payload": {}}
 {"eid": "e002398", "year": 6, "phase": "convo", "kind": "say", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012", "a013"], "text": "Eron's got five and I've got three now \u2014 pile's empty so we're all eating what we carry. Nessa, you're at one, that's thin going into year-end; I can spare you one if it means you wake up next year.", "payload": {}}
+{"eid": "e002399", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela gives 1 food to Zinn.", "payload": {"target": "a014", "amount": 1}}

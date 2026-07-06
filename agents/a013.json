@@ -1119,6 +1119,13 @@
    "text": "Eron's got five and I've got three now \u2014 pile's empty so we're all eating what we carry. Nessa, you're at one, that's thin going into year-end; I can spare you one if it means you wake up next year.",
    "who": "Zinn",
    "year": 6
+  },
+  {
+   "eid": "e002399",
+   "kind": "give",
+   "text": "Sela gives 1 food to Zinn.",
+   "who": "Sela",
+   "year": 6
   }
  ],
  "memory_summary": "",
