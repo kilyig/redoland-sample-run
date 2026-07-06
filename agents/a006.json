@@ -1623,6 +1623,13 @@
    "text": "Esa gathers Bram, Taric to talk.",
    "who": "Esa",
    "year": 4
+  },
+  {
+   "eid": "e001234",
+   "kind": "say",
+   "text": "Taric hasn't answered and I'm not going to wait on it \u2014 Bram, you've got six food and strength enough to matter, and I've got one food and a promise I'm trying to build into something real before the year turns hard. What I want to know is whether Roan's still a grudge or whether that's done, because if it's done, you and I have something to talk about.",
+   "who": "Esa",
+   "year": 4
   }
  ],
  "memory_summary": "",
