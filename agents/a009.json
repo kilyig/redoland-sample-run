@@ -2234,6 +2234,13 @@
    "text": "Esa gives 1 food to Taric.",
    "who": "Esa",
    "year": 4
+  },
+  {
+   "eid": "e001336",
+   "kind": "give",
+   "text": "Dav gives 1 food to Vela.",
+   "who": "Dav",
+   "year": 4
   }
  ],
  "memory_summary": "",
