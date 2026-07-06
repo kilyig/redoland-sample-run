@@ -150,3 +150,4 @@
 {"eid": "e002380", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a012", "who": "Eron", "audience": "public", "text": "Eron gives 1 food to Roan.", "payload": {"target": "a010", "amount": 1}}
 {"eid": "e002381", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn gives 1 food to Dell.", "payload": {"target": "a011", "amount": 1}}
 {"eid": "e002382", "year": 6, "phase": "convo", "kind": "convo", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012", "a013"], "text": "Zinn gathers Eron, Nessa to talk.", "payload": {}}
+{"eid": "e002383", "year": 6, "phase": "convo", "kind": "say", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012", "a013"], "text": "The pile came up empty again and I've got two food going into the year's end \u2014 you two all right on what you're holding?", "payload": {}}
