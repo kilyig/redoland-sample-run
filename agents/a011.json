@@ -1868,6 +1868,13 @@
    "text": "",
    "who": "Dell",
    "year": 4
+  },
+  {
+   "eid": "e001329",
+   "kind": "give",
+   "text": "Esa gives 1 food to Taric.",
+   "who": "Esa",
+   "year": 4
   }
  ],
  "memory_summary": "",
