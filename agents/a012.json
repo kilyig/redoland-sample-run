@@ -1623,6 +1623,13 @@
    "text": "Roan gathers Eron to talk.",
    "who": "Roan",
    "year": 6
+  },
+  {
+   "eid": "e002290",
+   "kind": "say",
+   "text": "Eron, the pile's empty and I've got three \u2014 I'll stay on my feet, but tell me how you're sitting, and whether Mako or Bram made any move toward you this year before the taking was done.",
+   "who": "Roan",
+   "year": 6
   }
  ],
  "memory_summary": "",

@@ -57,3 +57,4 @@
 {"eid": "e002287", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a005", "who": "Dav", "audience": "public", "text": "Dav gives 1 food to Ryn.", "payload": {"target": "a009", "amount": 1}}
 {"eid": "e002288", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela gives 1 food to Bram.", "payload": {"target": "a001", "amount": 1}}
 {"eid": "e002289", "year": 6, "phase": "convo", "kind": "convo", "speaker": "a010", "who": "Roan", "audience": ["a010", "a012"], "text": "Roan gathers Eron to talk.", "payload": {}}
+{"eid": "e002290", "year": 6, "phase": "convo", "kind": "say", "speaker": "a010", "who": "Roan", "audience": ["a010", "a012"], "text": "Eron, the pile's empty and I've got three \u2014 I'll stay on my feet, but tell me how you're sitting, and whether Mako or Bram made any move toward you this year before the taking was done.", "payload": {}}
