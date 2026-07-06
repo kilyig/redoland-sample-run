@@ -3264,6 +3264,13 @@
    "text": "Eron, you've been feeding me half the year out of your own stores \u2014 I need to know what that's left you with, because I won't watch my son starve to keep me upright. And Nessa, Bram's put a lot of food your way since you were born, and I want to know whether that feels like a father to you or like a man who expects you to remember it.",
    "who": "Sela",
    "year": 6
+  },
+  {
+   "eid": "e002327",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 6
   }
  ],
  "memory_summary": "",

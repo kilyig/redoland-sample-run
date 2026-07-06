@@ -1,5 +1,5 @@
 {
- "actions_used_year": 3,
+ "actions_used_year": 4,
  "age": 25,
  "alive": true,
  "birth_year": 2,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "Dell \u2014 you came into a village that's already sorting itself into those who share and those who take, and the trick of it is that the takers don't announce themselves. Watch Bram and Mako; they moved as one at the pile before anyone else had eaten, and men who coordinate that early are already thinking about who they can afford to leave behind. Your blood is your anchor: Ryn stood beside me when it cost her something, and that makes her as close to kin as anyone not born from the same line. Trust people who say the same thing two years running when the numbers are hard \u2014 and trust nobody who only finds you useful when the pile is full.",
- "food": 2,
+ "food": 1,
  "health": 2,
  "hp": 100,
  "id": "a011",
@@ -3337,6 +3337,13 @@
    "kind": "say",
    "text": "Ryn, Dell \u2014 pile ran fair this year and for the first time in three years I'm not handing my food across the room the moment I take it, which means I want to talk about Mako before Dell comes back from Sela with an answer we're not ready for. He's sitting on six with no obligations and no one he's fed, and that kind of stillness in a strong man either breaks into generosity or it breaks into something we don't want to be standing in front of unprepared. Tell me what you both saw him doing while the pile was moving \u2014 not what you think he's planning, what you actually saw.",
    "who": "Dav",
+   "year": 6
+  },
+  {
+   "eid": "e002327",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
    "year": 6
   }
  ],

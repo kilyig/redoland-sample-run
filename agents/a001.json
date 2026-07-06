@@ -2465,6 +2465,13 @@
    "text": "",
    "who": "Bram",
    "year": 6
+  },
+  {
+   "eid": "e002327",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 6
   }
  ],
  "memory_summary": "",
