@@ -2050,6 +2050,13 @@
    "text": "I've got two food and I'll give you one, Kael \u2014 a man at zero is a liability to himself and everyone standing near him, and I'd rather spend one now than watch you fold when it counts. But I want to know what happened at the pile, because I didn't get there in time and five to Vela in two pulls is something we should have stopped before it finished.",
    "who": "Esa",
    "year": 4
+  },
+  {
+   "eid": "e001254",
+   "kind": "say",
+   "text": "Esa, take the food back \u2014 I'll name what happened at the pile myself: I was late, same as you, and by the time I got there the quick hands had already cleared it. Vela, I'm not accusing you in front of this room, but five in two pulls when the pile only had fifteen for twelve people is a number that needs explaining, because the rest of us are doing sums and coming up short.",
+   "who": "Kael",
+   "year": 4
   }
  ],
  "memory_summary": "",
