@@ -820,6 +820,13 @@
    "text": "Ryn, you won't scramble \u2014 the two food I promised you are already spoken for in my head, not sitting loose. And if Dell comes back tonight with Sela half-convinced, the play is simple: we go into that pile next year four abreast and nobody takes more than their share because nobody has to. That's what safety looks like when it's built right.",
    "who": "Dav",
    "year": 3
+  },
+  {
+   "eid": "e000495",
+   "kind": "say",
+   "text": "Four abreast sounds right, and I'll sleep easier knowing those two are already spoken for \u2014 but I want us to agree on a number before Dell gets back: two each from the pile, no more, so we don't hand Bram and Mako an excuse to name us the same threat we're calling them. A family that eats fair is harder to rally against than one that just eats big.",
+   "who": "Ryn",
+   "year": 3
   }
  ],
  "memory_summary": "",
