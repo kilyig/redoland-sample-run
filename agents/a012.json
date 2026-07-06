@@ -874,6 +874,13 @@
    "text": "Sela, I've asked you plain and I've asked you gentle, and I've watched this room empty itself out waiting \u2014 so I'll say the last thing I've got: if Mako bought something from you that touches this circle, I need to know it now, not when he comes to collect it.",
    "who": "Roan",
    "year": 5
+  },
+  {
+   "eid": "e001851",
+   "kind": "say",
+   "text": "Sela, I've got nothing left to say that hasn't been said \u2014 but I'm watching your face right now and what I see there is someone who made a deal they're not sure they can keep, and that silence is its own answer. Tell us what it cost you before Mako tells us himself, because he will, and on his terms.",
+   "who": "Eron",
+   "year": 5
   }
  ],
  "memory_summary": "",
@@ -885,7 +892,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "male",
  "siblings": [
   "a013"
