@@ -327,3 +327,4 @@
 {"eid": "e002557", "year": 6, "phase": "proposal", "kind": "reject", "speaker": "a010", "who": "Roan", "audience": ["a013", "a010"], "text": "Roan declines.", "payload": {}}
 {"eid": "e002558", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
 {"eid": "e002559", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e002560", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
