@@ -1,6 +1,6 @@
 {
  "actions_used_year": 6,
- "age": 44,
+ "age": 45,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -11,7 +11,7 @@
  "death_year": null,
  "father_note": "",
  "food": 0,
- "health": 2,
+ "health": 1,
  "hp": 100,
  "id": "a005",
  "intelligence_tokens": 4286,
@@ -2267,6 +2267,13 @@
    "eid": "e001746",
    "kind": "pass",
    "text": "",
+   "who": "Dav",
+   "year": 4
+  },
+  {
+   "eid": "e001762",
+   "kind": "eat",
+   "text": "eats 0 food",
    "who": "Dav",
    "year": 4
   }

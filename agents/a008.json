@@ -1,6 +1,6 @@
 {
  "actions_used_year": 1,
- "age": 36,
+ "age": 37,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 7,
+ "food": 6,
  "health": 3,
  "hp": 100,
  "id": "a008",
@@ -586,6 +586,13 @@
    "kind": "give",
    "text": "Sela gives 1 food to Eron.",
    "who": "Sela",
+   "year": 4
+  },
+  {
+   "eid": "e001765",
+   "kind": "eat",
+   "text": "eats 1 food",
+   "who": "Mako",
    "year": 4
   }
  ],
