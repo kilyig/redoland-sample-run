@@ -1672,6 +1672,13 @@
    "text": "Dav's standing right here, Roan \u2014 I'm not his mouth, I'm his daughter, and if you want to hear him speak for himself, ask him directly like you just did, because he's earned the right to answer without me translating.",
    "who": "Dell",
    "year": 4
+  },
+  {
+   "eid": "e001160",
+   "kind": "say",
+   "text": "Dav. I'm asking you plain: when Bram makes his next move, are you with me, or are you with whoever's holding the most food that year?",
+   "who": "Roan",
+   "year": 4
   }
  ],
  "memory_summary": "",
