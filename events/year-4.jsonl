@@ -435,3 +435,4 @@
 {"eid": "e001562", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
 {"eid": "e001563", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
 {"eid": "e001564", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
+{"eid": "e001565", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
