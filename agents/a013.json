@@ -90,6 +90,13 @@
    "text": "I understand it. I've watched Taric hold one food for three years running and nobody trades with him anymore \u2014 they don't fear him, they just don't think of him. But I want to know what you see in Mako, because he's not weak and he's not talking, and that worries me more than anyone who is.",
    "who": "Nessa",
    "year": 5
+  },
+  {
+   "eid": "e001881",
+   "kind": "give",
+   "text": "Dav gives 1 food to Ryn.",
+   "who": "Dav",
+   "year": 5
   }
  ],
  "memory_summary": "",
