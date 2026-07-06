@@ -1098,6 +1098,13 @@
    "text": "Mako's got seven food and eighty-three strength and no allies I can see \u2014 that makes him a threat to everyone here, not just me. I'm not looking to move with him or against him until I have to, but if he comes for someone's food I'll weigh who I stand to lose more: him or the person he's taking from. Right now, that math favors you.",
    "who": "Bram",
    "year": 4
+  },
+  {
+   "eid": "e001165",
+   "kind": "say",
+   "text": "That's honest enough to work with \u2014 a man who says he'll weigh the math is a man I can read when the moment comes, which is more than Mako's silence ever offered. But I've got Eron to think about now, and a second child costs me food I'm already counting close. What are you actually building toward, Bram \u2014 a family, or a number that makes you harder to push?",
+   "who": "Sela",
+   "year": 4
   }
  ],
  "memory_summary": "",
