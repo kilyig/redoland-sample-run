@@ -203,3 +203,4 @@
 {"eid": "e000672", "year": 3, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Dav joins the defenders.", "payload": {}}
 {"eid": "e000673", "year": 3, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Dell joins the defenders.", "payload": {}}
 {"eid": "e000674", "year": 3, "phase": "fight", "kind": "muster", "speaker": "village", "who": "the village", "audience": "public", "text": "Attackers [Bram] (str 58) vs defenders [Roan, Vela, Ryn, Esa, Sela, Dav, Taric, Kael, Dell] (str 509).", "payload": {"attackers": ["a001"], "defenders": ["a002", "a003", "a004", "a005", "a006", "a007", "a009", "a010", "a011"]}}
+{"eid": "e000675", "year": 3, "phase": "fight", "kind": "cancel", "speaker": "village", "who": "the village", "audience": "public", "text": "Bram thinks better of it and calls off the attack.", "payload": {}}
