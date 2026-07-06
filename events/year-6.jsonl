@@ -220,3 +220,4 @@
 {"eid": "e002450", "year": 6, "phase": "convo", "kind": "say", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "You're right \u2014 four, and I should have counted right the first time. Eron and Nessa, both. I'll be watching how the pile moves next year; you've got strength on you, and if it comes to a fight, I want us standing on the same side of it.", "payload": {}}
 {"eid": "e002451", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e002452", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela gives 1 food to Zinn.", "payload": {"target": "a014", "amount": 1}}
+{"eid": "e002453", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a008", "who": "Mako", "audience": "public", "text": "Mako gives 1 food to Zinn.", "payload": {"target": "a014", "amount": 1}}
