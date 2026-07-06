@@ -3807,6 +3807,13 @@
    "text": "Dell gives 1 food to Dav.",
    "who": "Dell",
    "year": 6
+  },
+  {
+   "eid": "e002388",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Zinn.",
+   "who": "Nessa",
+   "year": 6
   }
  ],
  "memory_summary": "",
