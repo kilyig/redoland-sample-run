@@ -1,6 +1,6 @@
 {
  "actions_used_year": 10,
- "age": 42,
+ "age": 43,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 6,
+ "food": 5,
  "health": 3,
  "hp": 100,
  "id": "a009",
@@ -1925,6 +1925,13 @@
    "kind": "give",
    "text": "Taric gives 1 food to Esa.",
    "who": "Taric",
+   "year": 5
+  },
+  {
+   "eid": "e002226",
+   "kind": "eat",
+   "text": "eats 1 food",
+   "who": "Ryn",
    "year": 5
   }
  ],

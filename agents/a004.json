@@ -1,6 +1,6 @@
 {
  "actions_used_year": 1,
- "age": 49,
+ "age": 50,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 2,
  "health": 3,
  "hp": 100,
  "id": "a004",
@@ -2377,6 +2377,13 @@
    "eid": "e002215",
    "kind": "pass",
    "text": "",
+   "who": "Kael",
+   "year": 5
+  },
+  {
+   "eid": "e002221",
+   "kind": "eat",
+   "text": "eats 1 food",
    "who": "Kael",
    "year": 5
   }
