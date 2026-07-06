@@ -272,6 +272,13 @@
    "text": "Roan gives 1 food to Dav.",
    "who": "Roan",
    "year": 6
+  },
+  {
+   "eid": "e002434",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 6
   }
  ],
  "memory_summary": "",
