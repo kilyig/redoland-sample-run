@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 36,
  "alive": true,
  "birth_year": 0,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 5,
+ "food": 7,
  "health": 3,
  "hp": 100,
  "id": "a008",
@@ -446,6 +446,13 @@
    "kind": "take",
    "text": "Vela takes 3 from the pile (pile now 2).",
    "who": "Vela",
+   "year": 4
+  },
+  {
+   "eid": "e001135",
+   "kind": "take",
+   "text": "Mako takes 2 from the pile (pile now 0).",
+   "who": "Mako",
    "year": 4
   }
  ],
