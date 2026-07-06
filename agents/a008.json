@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 38,
  "alive": true,
  "birth_year": 0,
@@ -1419,6 +1419,13 @@
    "kind": "give",
    "text": "Eron gives 1 food to Sela.",
    "who": "Eron",
+   "year": 6
+  },
+  {
+   "eid": "e002342",
+   "kind": "convo",
+   "text": "Mako gathers Sela to talk.",
+   "who": "Mako",
    "year": 6
   }
  ],

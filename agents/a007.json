@@ -3306,6 +3306,13 @@
    "text": "Eron gives 1 food to Sela.",
    "who": "Eron",
    "year": 6
+  },
+  {
+   "eid": "e002342",
+   "kind": "convo",
+   "text": "Mako gathers Sela to talk.",
+   "who": "Mako",
+   "year": 6
   }
  ],
  "memory_summary": "",
