@@ -2834,6 +2834,13 @@
    "text": "Dell gives 1 food to Dav.",
    "who": "Dell",
    "year": 5
+  },
+  {
+   "eid": "e001965",
+   "kind": "pass",
+   "text": "",
+   "who": "Taric",
+   "year": 5
   }
  ],
  "memory_summary": "",
