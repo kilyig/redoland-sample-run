@@ -1574,6 +1574,13 @@
    "text": "",
    "who": "Taric",
    "year": 4
+  },
+  {
+   "eid": "e001219",
+   "kind": "convo",
+   "text": "Esa gathers Bram, Taric to talk.",
+   "who": "Esa",
+   "year": 4
   }
  ],
  "memory_summary": "",
