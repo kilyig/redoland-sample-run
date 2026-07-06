@@ -1063,6 +1063,13 @@
    "text": "Ryn, Vela's not wrong to ask it straight \u2014 but I'll say the part she left unspoken: you've got one food and a child who just ate five, and if Dav decides his loyalties run toward Mako, you're the one left hungry and undefended. That's not a threat from us, it's the math he'd be doing on you. I'd rather know your answer now so we can make sure it never comes to that.",
    "who": "Kael",
    "year": 3
+  },
+  {
+   "eid": "e000520",
+   "kind": "say",
+   "text": "Ryn, Kael laid the math out plain and I won't soften it \u2014 a man who chose you for what you could give him doesn't automatically become someone who protects you when the cost goes up. But I'll say this too: whatever you decide about Dav, I'm not leaving you short of food at year's end, and that's a promise I can keep right now with three food in my hands.",
+   "who": "Esa",
+   "year": 3
   }
  ],
  "memory_summary": "",
