@@ -590,3 +590,4 @@
 {"eid": "e001059", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a005", "who": "Dav", "audience": ["a005"], "text": "", "payload": {}}
 {"eid": "e001060", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e001061", "year": 3, "phase": "convo", "kind": "convo", "speaker": "a012", "who": "Eron", "audience": ["a012", "a010"], "text": "Eron gathers Roan to talk.", "payload": {}}
+{"eid": "e001062", "year": 3, "phase": "convo", "kind": "say", "speaker": "a012", "who": "Eron", "audience": ["a012", "a010"], "text": "Father. The pile came up empty this year and you're sitting at one food \u2014 that worries me. I have two; take one.", "payload": {}}

@@ -883,6 +883,13 @@
    "text": "Eron gathers Roan to talk.",
    "who": "Eron",
    "year": 3
+  },
+  {
+   "eid": "e001062",
+   "kind": "say",
+   "text": "Father. The pile came up empty this year and you're sitting at one food \u2014 that worries me. I have two; take one.",
+   "who": "Eron",
+   "year": 3
   }
  ],
  "memory_summary": "",
