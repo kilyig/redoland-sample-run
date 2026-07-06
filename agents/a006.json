@@ -3534,6 +3534,13 @@
    "text": "I'll go to Kael today \u2014 but I want us clear on one thing first: if Mako's already spoken to him, I won't push Kael toward us, I'll just listen and bring that back, because a man being courted from two directions at once is more useful as a warning than a failed recruit. Esa, while I'm gone, keep your eyes on Ryn \u2014 she's got five food and Dav's at her elbow, and that household's been its own quiet calculation for two years now.",
    "who": "Vela",
    "year": 6
+  },
+  {
+   "eid": "e002274",
+   "kind": "say",
+   "text": "Ryn with five food is the number I keep coming back to \u2014 Dav's got two and she's holding the surplus in that household, which means she's the one deciding how fat they are, not him. If Mako's looking for a quiet alliance, a woman with food and a strong man at her side is exactly who he'd go to before anyone else. Vela, when you're done with Kael, I want to know if either of them has been near Ryn today.",
+   "who": "Taric",
+   "year": 6
   }
  ],
  "memory_summary": "",
@@ -3542,7 +3549,7 @@
  "name": "Taric",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "male",
  "siblings": [],
  "strength": 38,
