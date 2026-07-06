@@ -117,3 +117,4 @@
 {"eid": "e000586", "year": 3, "phase": "proposal", "kind": "proposal", "speaker": "village", "who": "the village", "audience": ["a006", "a003"], "text": "Taric cannot offer a child to Esa: Taric cannot spare the 2 food they offered (holds 1).", "payload": {}}
 {"eid": "e000587", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e000588", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
+{"eid": "e000589", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
