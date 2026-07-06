@@ -1483,6 +1483,13 @@
    "text": "You're right about Kael's pride \u2014 I've seen it in the way he took just one in year one, like he was making a point. I'll go to him as an equal, not a man with a hand out. Before I do: is there anyone you'd tell me to stay away from, someone who's already spoken for in a direction I shouldn't cross?",
    "who": "Taric",
    "year": 4
+  },
+  {
+   "eid": "e001192",
+   "kind": "say",
+   "text": "Dav's the one I'd name \u2014 he's got Ryn's child and two food in his hand that came from her, and that makes him his own circle right now, not ours. I won't say he's an enemy, but don't go to him with what we're building until we know which way he'd jump if Mako ever opened his mouth.",
+   "who": "Vela",
+   "year": 4
   }
  ],
  "memory_summary": "",
