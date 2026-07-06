@@ -1,6 +1,6 @@
 {
  "actions_used_year": 2,
- "age": 44,
+ "age": 45,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 1,
  "health": 3,
  "hp": 100,
  "id": "a003",
@@ -1866,6 +1866,13 @@
    "eid": "e001114",
    "kind": "pass",
    "text": "",
+   "who": "Esa",
+   "year": 3
+  },
+  {
+   "eid": "e001117",
+   "kind": "eat",
+   "text": "eats 1 food",
    "who": "Esa",
    "year": 3
   }

@@ -1,6 +1,6 @@
 {
  "actions_used_year": 1,
- "age": 34,
+ "age": 35,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -11,7 +11,7 @@
  "death_year": null,
  "father_note": "",
  "food": 2,
- "health": 3,
+ "health": 2,
  "hp": 100,
  "id": "a010",
  "intelligence_tokens": 1196,
@@ -958,6 +958,13 @@
    "eid": "e001113",
    "kind": "pass",
    "text": "",
+   "who": "Roan",
+   "year": 3
+  },
+  {
+   "eid": "e001124",
+   "kind": "eat",
+   "text": "eats 0 food",
    "who": "Roan",
    "year": 3
   }

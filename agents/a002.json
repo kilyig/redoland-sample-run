@@ -1,6 +1,6 @@
 {
  "actions_used_year": 1,
- "age": 47,
+ "age": 48,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 4,
+ "food": 3,
  "health": 3,
  "hp": 100,
  "id": "a002",
@@ -775,6 +775,13 @@
    "kind": "give",
    "text": "Eron gives 1 food to Roan.",
    "who": "Eron",
+   "year": 3
+  },
+  {
+   "eid": "e001116",
+   "kind": "eat",
+   "text": "eats 1 food",
+   "who": "Vela",
    "year": 3
   }
  ],
