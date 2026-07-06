@@ -128,3 +128,4 @@
 {"eid": "e000597", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e000598", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e000599", "year": 3, "phase": "convo", "kind": "convo", "speaker": "a001", "who": "Bram", "audience": ["a001", "a009"], "text": "Bram gathers Ryn to talk.", "payload": {}}
+{"eid": "e000600", "year": 3, "phase": "convo", "kind": "say", "speaker": "a001", "who": "Bram", "audience": ["a001", "a009"], "text": "You're right that Dav won't last \u2014 but ten years isn't a lifetime, and you've been alone three years already without making a move that stuck. What I want to know is whether you'll still be standing when it matters, or whether you'll fold the first time someone stronger comes for your food.", "payload": {}}
