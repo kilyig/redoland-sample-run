@@ -244,6 +244,13 @@
    "text": "Lean on me when you need to \u2014 that's what this is for. But two food is thin, and I want you to think about who else in that circle might spare one without making a fuss about it; Sela gave you food the day you were born, and she hasn't forgotten you're hers too.",
    "who": "Roan",
    "year": 4
+  },
+  {
+   "eid": "e001180",
+   "kind": "say",
+   "text": "Sela's the first door I'll knock on then \u2014 she's kept me in her eye since year one and I doubt that's changed. But I want to name something plainly, father: if we end this year thin and the pile runs light again next time, the two of us talking alone won't be enough \u2014 we need Kael and Sela and Taric inside the same conversation before someone like Mako decides the quiet ones are easier targets. Worth thinking on before the year closes.",
+   "who": "Eron",
+   "year": 4
   }
  ],
  "memory_summary": "",
@@ -255,7 +262,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "male",
  "siblings": [],
  "strength": 56,
