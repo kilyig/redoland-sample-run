@@ -2134,6 +2134,13 @@
    "text": "Roan gives 1 food to Sela.",
    "who": "Roan",
    "year": 5
+  },
+  {
+   "eid": "e002179",
+   "kind": "pass",
+   "text": "",
+   "who": "Vela",
+   "year": 5
   }
  ],
  "memory_summary": "",
