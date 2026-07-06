@@ -127,3 +127,4 @@
 {"eid": "e001898", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a005", "who": "Dav", "audience": ["a005"], "text": "", "payload": {}}
 {"eid": "e001899", "year": 5, "phase": "convo", "kind": "convo", "speaker": "a013", "who": "Nessa", "audience": ["a013", "a012"], "text": "Nessa gathers Eron to talk.", "payload": {}}
 {"eid": "e001900", "year": 5, "phase": "convo", "kind": "say", "speaker": "a013", "who": "Nessa", "audience": ["a013", "a012"], "text": "Eron, Mako has seven food and he's said nothing to anyone all year \u2014 that's not a man being careful, that's a man who's already counted the board and likes what he sees. Watch yourself around him, and don't let him catch you alone.", "payload": {}}
+{"eid": "e001901", "year": 5, "phase": "scramble", "kind": "give", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela gives 1 food to Taric.", "payload": {"target": "a006", "amount": 1}}

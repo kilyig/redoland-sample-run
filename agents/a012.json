@@ -1035,6 +1035,13 @@
    "text": "Eron, Mako has seven food and he's said nothing to anyone all year \u2014 that's not a man being careful, that's a man who's already counted the board and likes what he sees. Watch yourself around him, and don't let him catch you alone.",
    "who": "Nessa",
    "year": 5
+  },
+  {
+   "eid": "e001901",
+   "kind": "give",
+   "text": "Vela gives 1 food to Taric.",
+   "who": "Vela",
+   "year": 5
   }
  ],
  "memory_summary": "",
