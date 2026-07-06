@@ -2745,6 +2745,13 @@
    "text": "Vela, I've got a son in this village and I've got three food between me and the ground, so I'm going to be shorter than Kael: tell us what Bram said to you, or when he moves on one of us, we move on him without checking where you're standing first.",
    "who": "Roan",
    "year": 6
+  },
+  {
+   "eid": "e002312",
+   "kind": "say",
+   "text": "Vela, Roan just put the floor under you and I'm not going to add another word to it \u2014 I'm going to watch your face and wait, because everything you say from here is the truth of what the last five years meant to you.",
+   "who": "Kael",
+   "year": 6
   }
  ],
  "memory_summary": "",
