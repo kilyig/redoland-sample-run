@@ -2500,6 +2500,13 @@
    "text": "Eron gave back to Sela and Roan both \u2014 he's not just taking, he's building something, and I'd rather know where that lands before I decide he's a drain. But I hear you on the food, and I won't pretend four is comfortable when Mako's walking around with six and nobody's said a word to him about it.",
    "who": "Bram",
    "year": 6
+  },
+  {
+   "eid": "e002338",
+   "kind": "give",
+   "text": "Eron gives 1 food to Sela.",
+   "who": "Eron",
+   "year": 6
   }
  ],
  "memory_summary": "",
