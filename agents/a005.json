@@ -827,6 +827,13 @@
    "text": "Four abreast sounds right, and I'll sleep easier knowing those two are already spoken for \u2014 but I want us to agree on a number before Dell gets back: two each from the pile, no more, so we don't hand Bram and Mako an excuse to name us the same threat we're calling them. A family that eats fair is harder to rally against than one that just eats big.",
    "who": "Ryn",
    "year": 3
+  },
+  {
+   "eid": "e000496",
+   "kind": "say",
+   "text": "Two each from the pile \u2014 I'll hold to that, and I'll be the first one to step back if I'm tempted to take more. Ryn, a family that eats fair because it decided to is stronger than one that eats fair because it had to. Let's call it a rule between the three of us \u2014 four, if Dell brings Sela in \u2014 and name anyone who breaks it in front of the others.",
+   "who": "Dav",
+   "year": 3
   }
  ],
  "memory_summary": "",
@@ -835,7 +842,7 @@
  "name": "Dav",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "male",
  "siblings": [],
  "strength": 80,
