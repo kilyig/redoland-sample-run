@@ -1149,6 +1149,13 @@
    "text": "Ryn, I'm keeping two food back for you \u2014 I said it when it cost me nothing and I'm saying it now when it costs me something, because that's the only way the words mean anything. You carried Dell into this world on my promise and I will not let that stand unpaid. Dell, go find Sela.",
    "who": "Dav",
    "year": 3
+  },
+  {
+   "eid": "e000492",
+   "kind": "say",
+   "text": "Good \u2014 that's what I needed to hear, and I won't forget you said it in front of me. Ryn, I'll bring you everything Sela says before the night's out; if she's willing, we'll go into next year four strong instead of three thin. Dav, hold those two until I'm back.",
+   "who": "Dell",
+   "year": 3
   }
  ],
  "memory_summary": "",
