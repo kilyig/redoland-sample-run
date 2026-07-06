@@ -1632,6 +1632,13 @@
    "text": "Mako waited because he knew the pile was deep enough \u2014 seven food going in, now he's sitting on seven still, and a man that calm when everyone else is scrambling isn't patient, he's confident, which means he thinks he's already got whatever he needs and doesn't have to hurry for anything. That's the part I want to understand before next year: what does he think he has? Because if it's an arrangement with Bram, those two together at eighty-three and fifty-eight in strength with fourteen food between them is a problem we can't solve by just getting to the pile faster.",
    "who": "Dell",
    "year": 4
+  },
+  {
+   "eid": "e001143",
+   "kind": "say",
+   "text": "Mako's seven and Bram's six \u2014 that's thirteen food between two strong men, and neither of them has a child or a woman, which means all of that is muscle and stored time with nowhere to go but into a move against someone. I want to talk to Roan before next year, because he's sitting on four, he just had a son with Sela, and Bram already tried to take from him once \u2014 a man Bram targeted once is a man who remembers it. If we can bring Roan in without Sela pulling him toward Mako instead, we change the numbers in this village without throwing a single punch.",
+   "who": "Dav",
+   "year": 4
   }
  ],
  "memory_summary": "",
@@ -1640,7 +1647,7 @@
  "name": "Dav",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "male",
  "siblings": [],
  "strength": 80,
