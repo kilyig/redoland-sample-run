@@ -3324,6 +3324,13 @@
    "text": "Taric gives 1 food to Kael.",
    "who": "Taric",
    "year": 6
+  },
+  {
+   "eid": "e002315",
+   "kind": "convo",
+   "text": "Dav gathers Ryn, Dell to talk.",
+   "who": "Dav",
+   "year": 6
   }
  ],
  "memory_summary": "",
