@@ -138,3 +138,4 @@
 {"eid": "e001265", "year": 4, "phase": "scramble", "kind": "give", "speaker": "a012", "who": "Eron", "audience": "public", "text": "Eron gives 1 food to Kael.", "payload": {"target": "a004", "amount": 1}}
 {"eid": "e001266", "year": 4, "phase": "scramble", "kind": "give", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela gives 1 food to Bram.", "payload": {"target": "a001", "amount": 1}}
 {"eid": "e001267", "year": 4, "phase": "scramble", "kind": "give", "speaker": "a010", "who": "Roan", "audience": "public", "text": "Roan gives 1 food to Taric.", "payload": {"target": "a006", "amount": 1}}
+{"eid": "e001268", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a012", "who": "Eron", "audience": ["a012"], "text": "", "payload": {}}
