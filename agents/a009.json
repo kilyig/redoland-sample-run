@@ -1114,6 +1114,13 @@
    "text": "Dav, say it \u2014 and mean it the way you meant it that first night when you told me you'd hand it over before I finished asking, because Dell's right that she needs to hear it and so do I. And Dell \u2014 for Sela, what we're offering her is simple: she joins a family that already has a child in it, which means blood ties and reasons to hold together that go deeper than a good year's food count. That's rarer than six food, and if she's smart enough to still be standing alone, she's smart enough to know it.",
    "who": "Ryn",
    "year": 3
+  },
+  {
+   "eid": "e000487",
+   "kind": "say",
+   "text": "Ryn's right that blood ties are the offer \u2014 but Sela's going to ask what blood ties have done for Kael and Taric lately, so we need a sharper answer ready than family feeling. What I can give her is true: Dav's the strongest man left worth trusting, I'm eighty-five, and if she comes in with us, nobody in this village is touching her food without touching all three of us first. Dav \u2014 say what you owe Ryn, then let me go find Sela before the night's gone.",
+   "who": "Dell",
+   "year": 3
   }
  ],
  "memory_summary": "",
