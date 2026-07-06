@@ -918,6 +918,13 @@
    "text": "Eron gathers Roan to talk.",
    "who": "Eron",
    "year": 3
+  },
+  {
+   "eid": "e001099",
+   "kind": "say",
+   "text": "That means more to me than you know, Eron \u2014 but keep it. You're young and you need your strength, and a father who drains his son is no kind of father.",
+   "who": "Eron",
+   "year": 3
   }
  ],
  "memory_summary": "",
