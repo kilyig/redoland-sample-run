@@ -2466,6 +2466,13 @@
    "text": "Sela, every person in this room has bled something for you and I'm not going to be the one who makes you feel cornered \u2014 but Mako's gift lands on the same breath as Nessa's birth, and that's not coincidence, that's a man marking territory. Tell us what you know about what he wants, and we'll work with whatever the rest of it is.",
    "who": "Roan",
    "year": 5
+  },
+  {
+   "eid": "e001848",
+   "kind": "say",
+   "text": "Sela, everyone in this room has already said what needed saying \u2014 I'll only add this: Nessa is my blood and I won't turn from her, whatever her father is, but that doesn't mean Bram gets anything from me through her. Tell us what Mako wants and we can figure the rest out together.",
+   "who": "Eron",
+   "year": 5
   }
  ],
  "memory_summary": "",
