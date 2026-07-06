@@ -2717,6 +2717,13 @@
    "text": "Sela just had Mako's child \u2014 which means he's not without attachments anymore, and that changes the count. A man with a daughter looks different than a man alone, and I'd rather know whose side Sela's on now before we decide what Mako's angle is.",
    "who": "Bram",
    "year": 6
+  },
+  {
+   "eid": "e002407",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 6
   }
  ],
  "memory_summary": "",
