@@ -2,3 +2,4 @@
 {"eid": "e002232", "year": 6, "phase": "scramble", "kind": "take", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela takes 2 from the pile (pile now 13).", "payload": {"amount": 2}}
 {"eid": "e002233", "year": 6, "phase": "scramble", "kind": "take", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell takes 2 from the pile (pile now 11).", "payload": {"amount": 2}}
 {"eid": "e002234", "year": 6, "phase": "scramble", "kind": "take", "speaker": "a001", "who": "Bram", "audience": "public", "text": "Bram takes 2 from the pile (pile now 9).", "payload": {"amount": 2}}
+{"eid": "e002235", "year": 6, "phase": "scramble", "kind": "take", "speaker": "a010", "who": "Roan", "audience": "public", "text": "Roan takes 2 from the pile (pile now 7).", "payload": {"amount": 2}}
