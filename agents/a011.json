@@ -2533,6 +2533,13 @@
    "text": "I'm ready to name it \u2014 we're building a wall, not a family, except that the wall only holds if it's also a family, and I stopped pretending those were different things the year Dell was born. Six people against their sixteen is still a hard fight, Dav, but it's a fight we survive; two against sixteen isn't.",
    "who": "Ryn",
    "year": 5
+  },
+  {
+   "eid": "e001800",
+   "kind": "say",
+   "text": "Ryn, take that two back \u2014 I'm not eating your food when you walked away from the pile with nothing and I took the last one out of your hands. Give me the year to fix that, and let Dell come back with Roan's answer before we start counting who's carrying what.",
+   "who": "Dav",
+   "year": 5
   }
  ],
  "memory_summary": "",
