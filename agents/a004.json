@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 0,
+ "food": 1,
  "health": 3,
  "hp": 100,
  "id": "a004",
@@ -992,6 +992,13 @@
    "kind": "pass",
    "text": "",
    "who": "Kael",
+   "year": 4
+  },
+  {
+   "eid": "e001264",
+   "kind": "give",
+   "text": "Roan gives 1 food to Kael.",
+   "who": "Roan",
    "year": 4
   }
  ],
