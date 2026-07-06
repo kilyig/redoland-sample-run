@@ -2554,6 +2554,13 @@
    "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
    "year": 5
+  },
+  {
+   "eid": "e001869",
+   "kind": "give",
+   "text": "Bram gives 2 food to Nessa.",
+   "who": "Bram",
+   "year": 5
   }
  ],
  "memory_summary": "",
