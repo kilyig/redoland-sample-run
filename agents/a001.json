@@ -2136,6 +2136,13 @@
    "text": "",
    "who": "Bram",
    "year": 5
+  },
+  {
+   "eid": "e001991",
+   "kind": "give",
+   "text": "Dell gives 1 food to Dav.",
+   "who": "Dell",
+   "year": 5
   }
  ],
  "memory_summary": "",
