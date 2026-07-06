@@ -214,3 +214,4 @@
 {"eid": "e001341", "year": 4, "phase": "convo", "kind": "say", "speaker": "a004", "who": "Kael", "audience": ["a004", "a002", "a003", "a007", "a009", "a010"], "text": "Vela's been giving food to Bram three times over while sitting in this circle and saying nothing \u2014 that's not stockpiling for herself, that's feeding a man who tried to raid Roan last year, and I want to know what she thinks that buys her before the rest of us decide it costs her our protection.", "payload": {}}
 {"eid": "e001342", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e001343", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
+{"eid": "e001344", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
