@@ -1427,6 +1427,13 @@
    "text": "Vela, you moved fast today and walked away with five \u2014 I'm not saying that's wrong, but it leaves me empty-handed and you sitting heavier than anyone but Mako. I'd like to know we're on decent terms before that kind of gap starts meaning something neither of us wants.",
    "who": "Taric",
    "year": 4
+  },
+  {
+   "eid": "e001184",
+   "kind": "say",
+   "text": "Taric, you're right and I won't pretend otherwise \u2014 I moved twice and I moved fast, and I knew it when I did it. I've got eight food and you've got one, and that's not a gap I want sitting between two people who've stood in the same line when Bram came looking for a fight. Tell me what you need to get through the year and I'll see what I can do.",
+   "who": "Vela",
+   "year": 4
   }
  ],
  "memory_summary": "",
