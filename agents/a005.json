@@ -3886,6 +3886,13 @@
    "text": "Roan gives 1 food to Sela.",
    "who": "Roan",
    "year": 6
+  },
+  {
+   "eid": "e002674",
+   "kind": "pass",
+   "text": "",
+   "who": "Dav",
+   "year": 6
   }
  ],
  "memory_summary": "",
