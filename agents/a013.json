@@ -706,6 +706,13 @@
    "text": "Hold it \u2014 don't make that offer where anyone could hear you later and count it as debt between us, but I'm glad you said it, and I won't forget it. Go find Kael and Roan before the light changes, and keep your face easy when you do it \u2014 men who look worried when they're looking for allies already look like they're losing.",
    "who": "Nessa",
    "year": 6
+  },
+  {
+   "eid": "e002287",
+   "kind": "give",
+   "text": "Dav gives 1 food to Ryn.",
+   "who": "Dav",
+   "year": 6
   }
  ],
  "memory_summary": "",

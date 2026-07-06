@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 5,
+ "food": 6,
  "health": 3,
  "hp": 100,
  "id": "a009",
@@ -2113,6 +2113,13 @@
    "eid": "e002256",
    "kind": "say",
    "text": "Ryn, while Dell walks \u2014 you and I haven't had a quiet moment in three years that wasn't about food counts and threat angles, and I want to say plain that I know what it cost you to stay close to a man who kept going silent when you needed words. That debt doesn't clear just because we're still standing.",
+   "who": "Dav",
+   "year": 6
+  },
+  {
+   "eid": "e002287",
+   "kind": "give",
+   "text": "Dav gives 1 food to Ryn.",
    "who": "Dav",
    "year": 6
   }

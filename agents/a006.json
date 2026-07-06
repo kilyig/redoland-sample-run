@@ -3625,6 +3625,13 @@
    "text": "Taric, I found Kael before Esa did \u2014 he's not with Mako, but he's not happy, and the thing that's eating at him isn't food, it's that nobody's told him plainly where he stands with us after last year's silence in Kael's circle. I can fix that if I know I'm speaking for more than just myself.",
    "who": "Vela",
    "year": 6
+  },
+  {
+   "eid": "e002287",
+   "kind": "give",
+   "text": "Dav gives 1 food to Ryn.",
+   "who": "Dav",
+   "year": 6
   }
  ],
  "memory_summary": "",

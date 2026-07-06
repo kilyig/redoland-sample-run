@@ -1357,6 +1357,13 @@
    "text": "Vela takes 1 from the pile (pile now 0).",
    "who": "Vela",
    "year": 6
+  },
+  {
+   "eid": "e002287",
+   "kind": "give",
+   "text": "Dav gives 1 food to Ryn.",
+   "who": "Dav",
+   "year": 6
   }
  ],
  "memory_summary": "",
