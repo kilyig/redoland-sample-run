@@ -2526,6 +2526,13 @@
    "text": "Sela, the circle's said everything it has to say \u2014 what I'm left with is this: if you don't answer now, we don't fall apart, but we start building walls inside ourselves, and that's worse than any enemy outside.",
    "who": "Eron",
    "year": 5
+  },
+  {
+   "eid": "e001855",
+   "kind": "say",
+   "text": "Sela, I've been in this village forty-nine years and I've watched silence become a grave more than once \u2014 so I'm done asking and I'm telling you straight: you say what you promised Mako, right now, or when he comes to collect I step aside and let you settle it alone, and you know what my stepping aside costs you.",
+   "who": "Kael",
+   "year": 5
   }
  ],
  "memory_summary": "",
