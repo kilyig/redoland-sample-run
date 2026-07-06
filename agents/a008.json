@@ -1772,6 +1772,13 @@
    "text": "Zinn. I'm your father \u2014 that's not nothing, even if we only just met today. You've got three blood in your veins from this village: me, and through Sela, Nessa. Lean on that when things get thin.",
    "who": "Mako",
    "year": 6
+  },
+  {
+   "eid": "e002449",
+   "kind": "say",
+   "text": "Eron and Nessa are my blood too \u2014 four of us, not three. I've been watching out for them both and Sela's been feeding me; I know what family costs and I don't take it lightly.",
+   "who": "Zinn",
+   "year": 6
   }
  ],
  "memory_summary": "",
