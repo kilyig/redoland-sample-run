@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 23,
  "alive": true,
  "birth_year": 3,
@@ -796,6 +796,13 @@
    "kind": "give",
    "text": "Dell gives 1 food to Dav.",
    "who": "Dell",
+   "year": 5
+  },
+  {
+   "eid": "e001840",
+   "kind": "convo",
+   "text": "Eron gathers Sela, Roan, Kael, Taric to talk.",
+   "who": "Eron",
    "year": 5
   }
  ],
