@@ -300,6 +300,13 @@
    "text": "Eron, you're saying the right things, but I've been in this village longer than most and I've heard agreements like this dissolve the moment someone's hungry enough \u2014 so before I put my name to it, I want to know what you're offering the people in this room who are already thin, because a promise to fight together is worth less if half of us are too weak to stand. I'll back this circle and I'll back it with my body, but I'm forty-eight years old and I've watched soft words cost good people their lives.",
    "who": "Kael",
    "year": 4
+  },
+  {
+   "eid": "e001205",
+   "kind": "give",
+   "text": "Dav gives 1 food to Ryn.",
+   "who": "Dav",
+   "year": 4
   }
  ],
  "memory_summary": "",
