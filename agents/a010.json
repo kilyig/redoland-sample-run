@@ -2983,6 +2983,13 @@
    "text": "Kael's said the hard thing, so I'll say the soft one: Vela, I'm not asking you to cut Bram cold overnight, because a sudden change reads as guilt and guilt draws attention \u2014 I'm asking you to slow the giving, let him wonder, and let this circle remind you what five years of real standing is worth before you hand it to a man who's only been counting since year one.",
    "who": "Roan",
    "year": 6
+  },
+  {
+   "eid": "e002412",
+   "kind": "give",
+   "text": "Eron gives 1 food to Esa.",
+   "who": "Eron",
+   "year": 6
   }
  ],
  "memory_summary": "",
