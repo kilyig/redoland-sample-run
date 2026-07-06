@@ -1793,6 +1793,13 @@
    "text": "Sela, everyone in this room has already said what needed saying \u2014 I'll only add this: Nessa is my blood and I won't turn from her, whatever her father is, but that doesn't mean Bram gets anything from me through her. Tell us what Mako wants and we can figure the rest out together.",
    "who": "Eron",
    "year": 5
+  },
+  {
+   "eid": "e001849",
+   "kind": "say",
+   "text": "Sela, the room's run out of patience and I've run out of questions \u2014 you've heard seven of us say seven versions of the same thing, and the only explanation left for the silence is that what Mako wants is something you agreed to before Nessa was born. Tell us yes or no on that, and we'll decide together what it costs us.",
+   "who": "Kael",
+   "year": 5
   }
  ],
  "memory_summary": "",
