@@ -1476,6 +1476,13 @@
    "text": "Dell gives 1 food to Dav.",
    "who": "Dell",
    "year": 5
+  },
+  {
+   "eid": "e001822",
+   "kind": "convo",
+   "text": "Taric gathers Vela, Esa to talk.",
+   "who": "Taric",
+   "year": 5
   }
  ],
  "memory_summary": "",
