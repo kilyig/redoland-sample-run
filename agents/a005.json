@@ -1625,6 +1625,13 @@
    "text": "Dell, you've got five food and I've got four now \u2014 between us and your father's two that's nine, and I want to hold most of that into next year rather than eat it down, because the year after that I'll be forty-three and the pile won't get more generous. What I want from both of you tonight is a clear picture of where Mako sits, because a man who waited through the whole pile and then took the last two is either very patient or very sure he doesn't need to hurry.",
    "who": "Ryn",
    "year": 4
+  },
+  {
+   "eid": "e001142",
+   "kind": "say",
+   "text": "Mako waited because he knew the pile was deep enough \u2014 seven food going in, now he's sitting on seven still, and a man that calm when everyone else is scrambling isn't patient, he's confident, which means he thinks he's already got whatever he needs and doesn't have to hurry for anything. That's the part I want to understand before next year: what does he think he has? Because if it's an arrangement with Bram, those two together at eighty-three and fifty-eight in strength with fourteen food between them is a problem we can't solve by just getting to the pile faster.",
+   "who": "Dell",
+   "year": 4
   }
  ],
  "memory_summary": "",
