@@ -1723,6 +1723,13 @@
    "text": "We move when the sign is clear, and we don't wait on you to call it \u2014 if Bram takes a step toward your food or your son, you'll see me and Dav already moving before you finish naming it. What I need from you is simpler: when that moment comes, don't flinch and don't negotiate with him alone first, because a man who tried once in front of everyone will take a private conversation as weakness.",
    "who": "Dell",
    "year": 4
+  },
+  {
+   "eid": "e001156",
+   "kind": "say",
+   "text": "Good. Dav \u2014 you've been quiet through this, and you've got more weight to throw than any of us. I want to hear it from you, not just know you'll be there.",
+   "who": "Roan",
+   "year": 4
   }
  ],
  "memory_summary": "",
