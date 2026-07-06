@@ -132,6 +132,13 @@
    "text": "Zinn gathers Eron, Nessa to talk.",
    "who": "Zinn",
    "year": 6
+  },
+  {
+   "eid": "e002398",
+   "kind": "say",
+   "text": "Eron's got five and I've got three now \u2014 pile's empty so we're all eating what we carry. Nessa, you're at one, that's thin going into year-end; I can spare you one if it means you wake up next year.",
+   "who": "Zinn",
+   "year": 6
   }
  ],
  "memory_summary": "",
@@ -143,7 +150,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [
   "a012",
