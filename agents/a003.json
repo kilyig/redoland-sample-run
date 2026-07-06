@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 47,
  "alive": true,
  "birth_year": 0,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 5,
  "health": 2,
  "hp": 100,
  "id": "a003",
@@ -2154,6 +2154,13 @@
    "kind": "take",
    "text": "Taric takes 2 from the pile (pile now 3).",
    "who": "Taric",
+   "year": 6
+  },
+  {
+   "eid": "e002238",
+   "kind": "take",
+   "text": "Esa takes 2 from the pile (pile now 1).",
+   "who": "Esa",
    "year": 6
   }
  ],
