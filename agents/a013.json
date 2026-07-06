@@ -951,6 +951,13 @@
    "text": "",
    "who": "Nessa",
    "year": 6
+  },
+  {
+   "eid": "e002366",
+   "kind": "convo",
+   "text": "Bram gathers Nessa to talk.",
+   "who": "Bram",
+   "year": 6
   }
  ],
  "memory_summary": "",
