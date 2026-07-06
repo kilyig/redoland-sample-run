@@ -11,12 +11,12 @@
    ],
    "guard": 0,
    "initiator": "a008",
-   "last": null,
-   "opened": false
+   "last": "a008",
+   "opened": true
   }
  },
  "next_aid": 13,
- "next_eid": 1860,
+ "next_eid": 1861,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,
