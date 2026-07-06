@@ -1,5 +1,5 @@
 {
- "actions_used_year": 5,
+ "actions_used_year": 6,
  "age": 33,
  "alive": true,
  "birth_year": 0,
@@ -704,6 +704,13 @@
    "eid": "e000607",
    "kind": "say",
    "text": "I've held seven food through three lean years and nobody's taken a piece of it yet \u2014 that's your answer. I'm not asking you to trust me tomorrow, I'm asking you to look at what's in front of you: Mako's got six food and eighty-three strength and no one's given him a reason not to come for yours. I'd rather face that together than have you find out what alone costs when it's too late.",
+   "who": "Bram",
+   "year": 3
+  },
+  {
+   "eid": "e000611",
+   "kind": "convo",
+   "text": "Bram gathers Ryn to talk.",
    "who": "Bram",
    "year": 3
   }
