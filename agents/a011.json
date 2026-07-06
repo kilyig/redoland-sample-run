@@ -3212,6 +3212,13 @@
    "text": "Dell, go to Sela today, not tomorrow \u2014 and when you walk in, don't lead with us, lead with Eron, because a mother hears her son's name before she hears anything else. Ryn, here's your food.",
    "who": "Dav",
    "year": 6
+  },
+  {
+   "eid": "e002246",
+   "kind": "say",
+   "text": "Dell, take the food from your father and then walk \u2014 don't linger here where anyone can read the shape of us talking. And when you find Sela, remember she's not asking to be saved, she's asking to be seen; speak to her like a woman who's already made choices worth respecting.",
+   "who": "Ryn",
+   "year": 6
   }
  ],
  "memory_summary": "",
