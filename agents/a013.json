@@ -790,6 +790,13 @@
    "text": "",
    "who": "Nessa",
    "year": 6
+  },
+  {
+   "eid": "e002325",
+   "kind": "convo",
+   "text": "Sela gathers Eron, Nessa to talk.",
+   "who": "Sela",
+   "year": 6
   }
  ],
  "memory_summary": "",
