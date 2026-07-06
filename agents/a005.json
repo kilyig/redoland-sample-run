@@ -2374,6 +2374,13 @@
    "text": "Dav, take two of mine right now \u2014 I won't have you standing in front of Bram with one food and a prayer while Dell and I watch from behind you. After that we talk about Roan, because a man who already has Bram's attention and a new son to protect is either our strongest argument for building something bigger, or the first one Bram picks off to send a message, and I need to know which before the year moves.",
    "who": "Ryn",
    "year": 5
+  },
+  {
+   "eid": "e001793",
+   "kind": "say",
+   "text": "Roan's the argument, not the risk \u2014 Bram already named him a target once and Roan stood his ground, which means he's already decided something. What I want to know before we bring him in is whether Sela comes with him or whether having Eron means she's pulling toward whoever looks like the safest harbor, because if she drifts to Mako's side she takes Roan's strength with her whether he means it or not.",
+   "who": "Dell",
+   "year": 5
   }
  ],
  "memory_summary": "",
