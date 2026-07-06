@@ -277,3 +277,4 @@
 {"eid": "e000346", "year": 2, "phase": "proposal", "kind": "propose", "speaker": "a001", "who": "Bram", "audience": ["a001", "a007"], "text": "Bram: have a child with me \u2014 I'll put in 2 of 3 food.", "payload": {}}
 {"eid": "e000347", "year": 2, "phase": "proposal", "kind": "reject", "speaker": "a007", "who": "Sela", "audience": ["a001", "a007"], "text": "Sela declines.", "payload": {}}
 {"eid": "e000348", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e000349", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
