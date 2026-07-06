@@ -1989,6 +1989,13 @@
    "text": "Dell, I'm going to stop waiting for you to find the gentle way to say it \u2014 did you talk to Sela or not, and if you did, what came of it? Because Roan having a son with her changes the shape of this village whether we planned for it or not, and I'd rather know we lost that ground than walk into Dav's conversation with Roan pretending we didn't.",
    "who": "Ryn",
    "year": 4
+  },
+  {
+   "eid": "e001149",
+   "kind": "say",
+   "text": "Dell, I'm not angry \u2014 but your mother and I have been asking the same question three times now, and silence from you is an answer I can't work with. Did you find Sela or didn't you?",
+   "who": "Dav",
+   "year": 4
   }
  ],
  "memory_summary": "",
