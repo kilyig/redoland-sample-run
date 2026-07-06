@@ -1,5 +1,5 @@
 {
- "actions_used_year": 2,
+ "actions_used_year": 3,
  "age": 21,
  "alive": true,
  "birth_year": 3,
@@ -88,6 +88,13 @@
    "eid": "e001086",
    "kind": "pass",
    "text": "",
+   "who": "Eron",
+   "year": 3
+  },
+  {
+   "eid": "e001098",
+   "kind": "convo",
+   "text": "Eron gathers Roan to talk.",
    "who": "Eron",
    "year": 3
   }

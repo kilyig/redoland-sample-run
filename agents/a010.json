@@ -911,6 +911,13 @@
    "text": "",
    "who": "Roan",
    "year": 3
+  },
+  {
+   "eid": "e001098",
+   "kind": "convo",
+   "text": "Eron gathers Roan to talk.",
+   "who": "Eron",
+   "year": 3
   }
  ],
  "memory_summary": "",
