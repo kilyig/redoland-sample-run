@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 0,
  "age": 37,
  "alive": true,
  "birth_year": 0,
@@ -594,6 +594,13 @@
    "text": "eats 1 food",
    "who": "Mako",
    "year": 4
+  },
+  {
+   "eid": "e001772",
+   "kind": "narrate",
+   "text": "Year 5: 15 food appears in the pile for 12 people.",
+   "who": "the village",
+   "year": 5
   }
  ],
  "memory_summary": "",

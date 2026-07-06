@@ -2,11 +2,11 @@
  "branch": "main",
  "cursor": {
   "last": null,
-  "phase": "year_start",
+  "phase": "scramble",
   "steps": 0
  },
  "next_aid": 12,
- "next_eid": 1771,
+ "next_eid": 1772,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,
@@ -47,7 +47,7 @@
   "start_health": 3,
   "strength_sigma": 8.0
  },
- "pile": 0,
+ "pile": 15,
  "premise": "",
  "rng_state": [
   "__tuple__",
@@ -696,5 +696,5 @@
   "Taric",
   "Vela"
  ],
- "year": 4
+ "year": 5
 }
