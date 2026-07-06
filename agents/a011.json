@@ -2505,6 +2505,13 @@
    "text": "Then we talk to Roan today, before Bram does \u2014 and we don't go in asking, we go in telling him what we're building and letting him decide if he wants to be outside it. Sela's strength and my eighty-five are the argument; Dav, your one food is not the weak point you think it is, because what you're offering is two years of saying the same thing when it cost you.",
    "who": "Dell",
    "year": 5
+  },
+  {
+   "eid": "e001796",
+   "kind": "say",
+   "text": "Dell's right that you're not the weak point, Dav \u2014 but I want to hear from Roan before we decide what shape this conversation takes, because a man who's already been hit once either comes in grateful for a wall or he comes in suspicious that the wall has a price tag hidden in it, and I'd rather know which we're walking toward.",
+   "who": "Ryn",
+   "year": 5
   }
  ],
  "memory_summary": "",
