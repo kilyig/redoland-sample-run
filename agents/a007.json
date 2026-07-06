@@ -1618,6 +1618,13 @@
    "text": "Bram gathers Sela to talk.",
    "who": "Bram",
    "year": 4
+  },
+  {
+   "eid": "e001162",
+   "kind": "say",
+   "text": "You've got a son with Roan now \u2014 I saw that. I'll say it plainly: I want a child, I've got six food, and I'll cover two of the three myself. You already turned me down once, so tell me what's actually standing in the way.",
+   "who": "Bram",
+   "year": 4
   }
  ],
  "memory_summary": "",
