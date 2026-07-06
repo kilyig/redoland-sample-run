@@ -1065,6 +1065,13 @@
    "text": "Dav gathers Dell, Ryn to talk.",
    "who": "Dav",
    "year": 3
+  },
+  {
+   "eid": "e000480",
+   "kind": "say",
+   "text": "Pile's gone and Bram's sitting on seven, Mako on six \u2014 between them that's more than all three of us combined, and neither of them got that full by sharing. I want us to decide right now, before the year closes: if one of them comes to us with a deal, we hear it together, not alone.",
+   "who": "Dav",
+   "year": 3
   }
  ],
  "memory_summary": "",
