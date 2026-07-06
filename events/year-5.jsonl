@@ -139,3 +139,4 @@
 {"eid": "e001910", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e001911", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e001912", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
+{"eid": "e001913", "year": 5, "phase": "convo", "kind": "convo", "speaker": "a013", "who": "Nessa", "audience": ["a013", "a012"], "text": "Nessa gathers Eron to talk.", "payload": {}}
