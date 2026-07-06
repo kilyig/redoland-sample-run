@@ -7,3 +7,4 @@
 {"eid": "e000476", "year": 3, "phase": "scramble", "kind": "take", "speaker": "a008", "who": "Mako", "audience": "public", "text": "Mako takes 2 from the pile (pile now 4).", "payload": {"amount": 2}}
 {"eid": "e000477", "year": 3, "phase": "scramble", "kind": "take", "speaker": "a005", "who": "Dav", "audience": "public", "text": "Dav takes 2 from the pile (pile now 2).", "payload": {"amount": 2}}
 {"eid": "e000478", "year": 3, "phase": "scramble", "kind": "take", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell takes 2 from the pile (pile now 0).", "payload": {"amount": 2}}
+{"eid": "e000479", "year": 3, "phase": "convo", "kind": "convo", "speaker": "a005", "who": "Dav", "audience": ["a005", "a011", "a009"], "text": "Dav gathers Dell, Ryn to talk.", "payload": {}}
