@@ -1021,6 +1021,13 @@
    "text": "Vela, I've spoken twice and Kael's spoken twice and you've said nothing, which is itself an answer \u2014 so I'll stop waiting and say what the room is already thinking: eight food on a woman of forty-eight while Kael sits at zero is a stockpile, not a meal, and stockpiles invite counting. If you've got a reason we should feel good about that number, now's the last easy moment to give it.",
    "who": "Esa",
    "year": 4
+  },
+  {
+   "eid": "e001258",
+   "kind": "say",
+   "text": "Vela, I'll ask it one final time because I've known you three years and I'd rather not draw the wrong conclusion \u2014 either you say what you took so much for, or this circle starts treating your eight food the way we'd treat Mako's seven, and you know what that means for how safe you sleep.",
+   "who": "Kael",
+   "year": 4
   }
  ],
  "memory_summary": "",
