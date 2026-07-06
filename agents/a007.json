@@ -1926,6 +1926,13 @@
    "text": "Dav gives 1 food to Vela.",
    "who": "Dav",
    "year": 4
+  },
+  {
+   "eid": "e001339",
+   "kind": "pass",
+   "text": "",
+   "who": "Sela",
+   "year": 4
   }
  ],
  "memory_summary": "",
