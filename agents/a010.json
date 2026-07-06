@@ -2206,6 +2206,13 @@
    "text": "Dell gives 1 food to Dav.",
    "who": "Dell",
    "year": 5
+  },
+  {
+   "eid": "e001996",
+   "kind": "give",
+   "text": "Sela gives 1 food to Eron.",
+   "who": "Sela",
+   "year": 5
   }
  ],
  "memory_summary": "",
