@@ -104,3 +104,4 @@
 {"eid": "e001875", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e001876", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e001877", "year": 5, "phase": "convo", "kind": "convo", "speaker": "a001", "who": "Bram", "audience": ["a001", "a013"], "text": "Bram gathers Nessa to talk.", "payload": {}}
+{"eid": "e001878", "year": 5, "phase": "convo", "kind": "say", "speaker": "a001", "who": "Bram", "audience": ["a001", "a013"], "text": "You're my blood, Nessa, and that means something real in a place like this \u2014 not words, real. I've got ten food and I'll teach you what I know about when to take and when to wait, but first I need to know you understand what this village will do to someone who looks weak.", "payload": {}}
