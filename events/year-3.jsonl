@@ -134,3 +134,4 @@
 {"eid": "e000603", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e000604", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
 {"eid": "e000605", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
+{"eid": "e000606", "year": 3, "phase": "convo", "kind": "convo", "speaker": "a001", "who": "Bram", "audience": ["a001", "a009"], "text": "Bram gathers Ryn to talk.", "payload": {}}
