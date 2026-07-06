@@ -1021,6 +1021,13 @@
    "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
    "year": 5
+  },
+  {
+   "eid": "e001899",
+   "kind": "convo",
+   "text": "Nessa gathers Eron to talk.",
+   "who": "Nessa",
+   "year": 5
   }
  ],
  "memory_summary": "",

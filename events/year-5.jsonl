@@ -125,3 +125,4 @@
 {"eid": "e001896", "year": 5, "phase": "convo", "kind": "convo", "speaker": "a008", "who": "Mako", "audience": ["a008", "a007"], "text": "Mako gathers Sela to talk.", "payload": {}}
 {"eid": "e001897", "year": 5, "phase": "convo", "kind": "say", "speaker": "a008", "who": "Mako", "audience": ["a008", "a007"], "text": "You've got Nessa now, which means Bram's got a reason to keep you fed \u2014 but that's his reason, not yours, and those don't always run the same direction. I'll keep watching. If the day comes when his interest in you stops matching yours, I'll still be here.", "payload": {}}
 {"eid": "e001898", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a005", "who": "Dav", "audience": ["a005"], "text": "", "payload": {}}
+{"eid": "e001899", "year": 5, "phase": "convo", "kind": "convo", "speaker": "a013", "who": "Nessa", "audience": ["a013", "a012"], "text": "Nessa gathers Eron to talk.", "payload": {}}
