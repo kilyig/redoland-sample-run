@@ -76,3 +76,4 @@
 {"eid": "e000545", "year": 3, "phase": "convo", "kind": "say", "speaker": "a001", "who": "Bram", "audience": ["a001", "a009"], "text": "You've got a daughter now, and Dav's feeding her \u2014 I see how that goes. I'm telling you straight: I've got seven food, I'm thirty-three, and I'm still without kin of my own. If you've got any interest in changing that for both of us, I'm listening.", "payload": {}}
 {"eid": "e000546", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e000547", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
+{"eid": "e000548", "year": 3, "phase": "convo", "kind": "convo", "speaker": "a006", "who": "Taric", "audience": ["a006", "a003"], "text": "Taric gathers Esa to talk.", "payload": {}}
