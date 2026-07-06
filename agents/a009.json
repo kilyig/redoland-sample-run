@@ -2024,6 +2024,13 @@
    "text": "Mako's been watching Eron more than Bram this year \u2014 and Eron's been moving food to Sela, which means Sela's the one with the real stock right now, and a man like Mako doesn't watch someone that long without a reason. If he's thinking about a child with her he's too late, but if he's thinking about a deal with her he's not. Ryn, after Dav hands you that food, I want the three of us to decide whether we go to Sela first or whether we let Mako tip his hand.",
    "who": "Dell",
    "year": 6
+  },
+  {
+   "eid": "e002244",
+   "kind": "say",
+   "text": "We go to Sela first \u2014 a woman who's been moving food through Eron all year knows exactly what she's worth and she's already counting who's come to her and who hasn't, and I won't let Mako be the one who got there before us. Dell, you said her name to Roan once and it landed soft enough that he had a child with her \u2014 you're the one who walks through that door, not me.",
+   "who": "Ryn",
+   "year": 6
   }
  ],
  "memory_summary": "*[Memory compression: From the village's first days, Dav singled me out with careful words and a patient courtship \u2014 he said his eye landed once and stayed, and I half-believed him. I joined a loose understanding with Taric and Esa early on, and Kael's circle pulled me in and asked me plainly where I stood with Dav before I'd decided myself. I told them the truth \u2014 that he wanted a child \u2014 and then I gave him one. Dell came into the world strong, eighty-five in strength, and I felt something settle in me that I hadn't expected. Bram circled me for three years with food and offers I kept declining; the man never stopped counting. Dav promised me two food in front of Dell and said it when it cost him something, which mattered. Then year four came and Vela was feeding Bram quietly while sitting in our circle, and Bram tried to take from Roan and the whole village turned against him. Now Kael and this circle want to know whether Dav going to Mako would take me with him.]*\n\n---\n\nVela, I've sat on harder questions than this one and given slower answers \u2014 but this one I can answer fast, because the thing you're actually asking isn't about Dav, it's about Dell.\n\nIf Dav goes to Mako, he goes without me. Not because this circle has earned more from me than he has, but because Dell is my blood and she's standing closer to your side of that line than his, and a mother who follows a man away from her own child is a woman who's already stopped thinking clearly. I won't do that.\n\nWhat I need from you in return is plain: if Dav moves toward Mako and I'm left standing here with one hand empty, I need to know this circle holds. Not as a courtesy. As a wall.",
@@ -2032,7 +2039,7 @@
  "name": "Ryn",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "female",
  "siblings": [],
  "strength": 71,
