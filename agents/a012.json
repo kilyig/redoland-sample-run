@@ -1840,6 +1840,13 @@
    "text": "The pile came up empty again and I've got two food going into the year's end \u2014 you two all right on what you're holding?",
    "who": "Zinn",
    "year": 6
+  },
+  {
+   "eid": "e002386",
+   "kind": "give",
+   "text": "Taric gives 1 food to Vela.",
+   "who": "Taric",
+   "year": 6
   }
  ],
  "memory_summary": "",
