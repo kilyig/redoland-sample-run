@@ -939,6 +939,13 @@
    "text": "You already gave me enough by being here \u2014 but tell me, are you watching Bram? Seven food, pile empty, and he's never been the kind to hold that much without thinking about how to turn it into something.",
    "who": "Eron",
    "year": 3
+  },
+  {
+   "eid": "e001105",
+   "kind": "convo",
+   "text": "Eron gathers Roan to talk.",
+   "who": "Eron",
+   "year": 3
   }
  ],
  "memory_summary": "",
