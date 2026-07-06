@@ -1462,6 +1462,13 @@
    "text": "Mako's the name I'd have brought up myself if you hadn't \u2014 seven food and eighty-three strength and still no words to anyone is a man who doesn't think he needs words. The circle that stood against Bram is still mostly intact, and if Kael and Sela know Mako's sitting heaviest, they'll be thinking the same thing we are. I'll give you the two food now, and I'd rather we walk into whatever comes next already counted than scramble to find each other when the moment's already on top of us.",
    "who": "Vela",
    "year": 4
+  },
+  {
+   "eid": "e001189",
+   "kind": "say",
+   "text": "Agreed \u2014 take the two and consider it done, and I'll start with Kael; he's got nothing today and nothing tomorrow and that makes him either the most dangerous man in this village or the most willing to be useful, and I'd rather find out which while there's still time to matter.",
+   "who": "Taric",
+   "year": 4
   }
  ],
  "memory_summary": "",
@@ -1470,7 +1477,7 @@
  "name": "Taric",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [],
  "strength": 38,
