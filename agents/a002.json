@@ -2316,6 +2316,13 @@
    "text": "Esa, your offer is the right one \u2014 food now and a place at the pile next year is honest enough that Kael won't smell a trap in it. But don't go in making promises you'd need all of us to keep; say it as your own word first, and let him know the rest of us stand behind it if he asks.",
    "who": "Vela",
    "year": 6
+  },
+  {
+   "eid": "e002282",
+   "kind": "say",
+   "text": "Then I'll go to Kael while Vela goes \u2014 better he hears the same story from two directions than none at all, and if Mako's already been at his door I want to know before Vela comes back alone with bad news. Taric, you're the one he respects most after Bram's business; if I soften him and he still won't move, send you in to close it.",
+   "who": "Esa",
+   "year": 6
   }
  ],
  "memory_summary": "",
