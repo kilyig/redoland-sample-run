@@ -112,3 +112,4 @@
 {"eid": "e000581", "year": 3, "phase": "convo", "kind": "convo", "speaker": "a006", "who": "Taric", "audience": ["a006", "a003"], "text": "Taric gathers Esa to talk.", "payload": {}}
 {"eid": "e000582", "year": 3, "phase": "convo", "kind": "say", "speaker": "a006", "who": "Taric", "audience": ["a006", "a003"], "text": "A child would do it \u2014 yours and mine, something we'd both have cause to protect. I know you're forty-four and the window's narrow, but it's still open, and three food between us buys more than another year of watching each other's backs from a distance.", "payload": {}}
 {"eid": "e000583", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
+{"eid": "e000584", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
