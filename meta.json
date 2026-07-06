@@ -1,12 +1,12 @@
 {
  "branch": "main",
  "cursor": {
-  "last": "a004",
+  "last": "a006",
   "phase": "scramble",
-  "steps": 265
+  "steps": 266
  },
  "next_aid": 11,
- "next_eid": 793,
+ "next_eid": 794,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,
@@ -678,7 +678,7 @@
    3013887506,
    4182947451,
    876853667,
-   366
+   378
   ],
   null
  ],
