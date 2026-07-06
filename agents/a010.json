@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 33,
  "alive": true,
  "birth_year": 0,
@@ -208,6 +208,13 @@
    "kind": "give",
    "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
+   "year": 2
+  },
+  {
+   "eid": "e000251",
+   "kind": "convo",
+   "text": "Roan gathers Sela to talk.",
+   "who": "Roan",
    "year": 2
   }
  ],
