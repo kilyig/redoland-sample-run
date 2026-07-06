@@ -1574,6 +1574,13 @@
    "text": "Kael's not Bram's enemy \u2014 they're two careful men who've never had reason to test each other, and that's different. I trust Kael because he said hard things when it cost him, same reason I trust Roan, and neither of those has anything to do with Bram. Bring them in.",
    "who": "Nessa",
    "year": 6
+  },
+  {
+   "eid": "e002265",
+   "kind": "say",
+   "text": "Then it's settled \u2014 Kael and Roan before nightfall, and one food to Sela now. But Nessa, while I've still got you: Ryn and Mako together worries me more than anything else in this village right now, and I want to know if you've heard anything from Bram's side about what those two have said to each other, because your father listens to things I can't reach.",
+   "who": "Eron",
+   "year": 6
   }
  ],
  "memory_summary": "",
@@ -1585,7 +1592,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [
   "a013"
