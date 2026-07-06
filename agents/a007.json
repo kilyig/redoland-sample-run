@@ -2311,6 +2311,13 @@
    "text": "Bram gathers Sela to talk.",
    "who": "Bram",
    "year": 5
+  },
+  {
+   "eid": "e001808",
+   "kind": "say",
+   "text": "The pile's gone and I've got twelve food \u2014 I said I'd be here, and I am. A year passed without a raid and without breaking a word I gave you. That offer still stands.",
+   "who": "Bram",
+   "year": 5
   }
  ],
  "memory_summary": "",
