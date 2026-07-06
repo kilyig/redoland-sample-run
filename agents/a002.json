@@ -2267,6 +2267,13 @@
    "text": "Ryn with five food is the number I keep coming back to \u2014 Dav's got two and she's holding the surplus in that household, which means she's the one deciding how fat they are, not him. If Mako's looking for a quiet alliance, a woman with food and a strong man at her side is exactly who he'd go to before anyone else. Vela, when you're done with Kael, I want to know if either of them has been near Ryn today.",
    "who": "Taric",
    "year": 6
+  },
+  {
+   "eid": "e002275",
+   "kind": "say",
+   "text": "Taric, I'll watch for Ryn and Dav both \u2014 but while we're naming the quiet ones, Eron has nine food and he's Sela's boy and Roan's, which puts him inside two households that both circle Bram now. A young man that well-fed without having earned it yet is either generous or he's being managed by someone smarter, and I'd like to know which before Mako does.",
+   "who": "Vela",
+   "year": 6
   }
  ],
  "memory_summary": "",
@@ -2275,7 +2282,7 @@
  "name": "Vela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "female",
  "siblings": [],
  "strength": 26,
