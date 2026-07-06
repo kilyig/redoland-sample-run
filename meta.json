@@ -1,12 +1,12 @@
 {
  "branch": "main",
  "cursor": {
-  "last": "a008",
+  "last": "a001",
   "phase": "scramble",
-  "steps": 13
+  "steps": 14
  },
- "next_aid": 12,
- "next_eid": 1817,
+ "next_aid": 13,
+ "next_eid": 1820,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,
@@ -678,7 +678,7 @@
    222375756,
    3122150945,
    3686236320,
-   548
+   587
   ],
   null
  ],
@@ -690,6 +690,7 @@
   "Esa",
   "Kael",
   "Mako",
+  "Nessa",
   "Roan",
   "Ryn",
   "Sela",

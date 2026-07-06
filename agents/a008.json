@@ -692,6 +692,13 @@
    "text": "Mako gives 1 food to Sela.",
    "who": "Mako",
    "year": 5
+  },
+  {
+   "eid": "e001820",
+   "kind": "birth",
+   "text": "Nessa (female, age 21; str 54, int 5179, mem 19355; O66 C54 E43 A45 N67) is born to Sela and Bram.",
+   "who": "the village",
+   "year": 5
   }
  ],
  "memory_summary": "",

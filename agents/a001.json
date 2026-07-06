@@ -1,14 +1,16 @@
 {
- "actions_used_year": 3,
+ "actions_used_year": 4,
  "age": 35,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
- "children": [],
+ "children": [
+  "a013"
+ ],
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 12,
+ "food": 10,
  "health": 3,
  "hp": 100,
  "id": "a001",
@@ -1728,6 +1730,27 @@
    "text": "Mako gives 1 food to Sela.",
    "who": "Mako",
    "year": 5
+  },
+  {
+   "eid": "e001818",
+   "kind": "proposal",
+   "text": "Bram draws Sela aside to talk.",
+   "who": "Bram",
+   "year": 5
+  },
+  {
+   "eid": "e001819",
+   "kind": "propose",
+   "text": "Bram: have a child with me \u2014 I'll put in 2 of 3 food.",
+   "who": "Bram",
+   "year": 5
+  },
+  {
+   "eid": "e001820",
+   "kind": "birth",
+   "text": "Nessa (female, age 21; str 54, int 5179, mem 19355; O66 C54 E43 A45 N67) is born to Sela and Bram.",
+   "who": "the village",
+   "year": 5
   }
  ],
  "memory_summary": "",
@@ -1735,7 +1758,7 @@
  "mother_note": "",
  "name": "Bram",
  "parents": [],
- "repro_done_year": false,
+ "repro_done_year": true,
  "says_used_year": 5,
  "sex": "male",
  "siblings": [],
