@@ -47,3 +47,4 @@
 {"eid": "e001818", "year": 5, "phase": "proposal", "kind": "proposal", "speaker": "a001", "who": "Bram", "audience": ["a001", "a007"], "text": "Bram draws Sela aside to talk.", "payload": {}}
 {"eid": "e001819", "year": 5, "phase": "proposal", "kind": "propose", "speaker": "a001", "who": "Bram", "audience": ["a001", "a007"], "text": "Bram: have a child with me \u2014 I'll put in 2 of 3 food.", "payload": {}}
 {"eid": "e001820", "year": 5, "phase": "proposal", "kind": "birth", "speaker": "village", "who": "the village", "audience": "public", "text": "Nessa (female, age 21; str 54, int 5179, mem 19355; O66 C54 E43 A45 N67) is born to Sela and Bram.", "payload": {"child": "a013", "mother": "a007", "father": "a001"}}
+{"eid": "e001821", "year": 5, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 1 food to Dav.", "payload": {"target": "a005", "amount": 1}}
