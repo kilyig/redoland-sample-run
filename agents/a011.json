@@ -2449,6 +2449,13 @@
    "text": "Dav takes 1 from the pile (pile now 0).",
    "who": "Dav",
    "year": 5
+  },
+  {
+   "eid": "e001788",
+   "kind": "convo",
+   "text": "Ryn gathers Dav, Dell to talk.",
+   "who": "Ryn",
+   "year": 5
   }
  ],
  "memory_summary": "",
