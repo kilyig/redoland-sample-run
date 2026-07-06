@@ -1975,6 +1975,13 @@
    "text": "Dell hasn't answered yet, which tells me either the conversation with Sela went nowhere worth repeating or it went somewhere she hasn't decided how to tell us \u2014 Dell, I love you and I need the truth of it, not the version that keeps the peace in this room.",
    "who": "Ryn",
    "year": 4
+  },
+  {
+   "eid": "e001147",
+   "kind": "say",
+   "text": "Dell, your mother and I are both watching you right now and we're not moving until you give us something real \u2014 Sela had a child with Roan, which means whatever you said or didn't say last year already played out in a direction neither of us planned for, and I need to know if that's because you warned her off us or because she made her own choice before you got to her.",
+   "who": "Dav",
+   "year": 4
   }
  ],
  "memory_summary": "",
