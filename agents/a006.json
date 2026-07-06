@@ -1455,6 +1455,13 @@
    "text": "That's a trade I'll take \u2014 you have my word on it, same as I gave when Bram moved. But I'll say plainly: Mako walked away with seven and he's the strongest man here; if he's the one who comes for you, standing isn't enough without numbers behind it. Worth thinking now about who else we'd want at our shoulder before that becomes a question we're answering in the moment.",
    "who": "Taric",
    "year": 4
+  },
+  {
+   "eid": "e001188",
+   "kind": "say",
+   "text": "Mako's the name I'd have brought up myself if you hadn't \u2014 seven food and eighty-three strength and still no words to anyone is a man who doesn't think he needs words. The circle that stood against Bram is still mostly intact, and if Kael and Sela know Mako's sitting heaviest, they'll be thinking the same thing we are. I'll give you the two food now, and I'd rather we walk into whatever comes next already counted than scramble to find each other when the moment's already on top of us.",
+   "who": "Vela",
+   "year": 4
   }
  ],
  "memory_summary": "",
