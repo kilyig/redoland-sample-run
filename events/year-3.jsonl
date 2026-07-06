@@ -251,3 +251,4 @@
 {"eid": "e000720", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e000721", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
 {"eid": "e000722", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e000723", "year": 3, "phase": "convo", "kind": "convo", "speaker": "a005", "who": "Dav", "audience": ["a005", "a011", "a009"], "text": "Dav gathers Dell, Ryn to talk.", "payload": {}}

@@ -1021,6 +1021,13 @@
    "text": "",
    "who": "Dell",
    "year": 3
+  },
+  {
+   "eid": "e000723",
+   "kind": "convo",
+   "text": "Dav gathers Dell, Ryn to talk.",
+   "who": "Dav",
+   "year": 3
   }
  ],
  "memory_summary": "",
