@@ -3569,6 +3569,13 @@
    "text": "Eron's nine food is also a lever \u2014 a young man that fat is either going to spend it buying something or someone's going to decide to take it, and either way he ends the year thinner, which means whoever holds his loyalty now holds something that won't last. Vela, when you talk to Kael, don't just ask where the food came from \u2014 ask whether Eron's been seen near Mako, because a strong quiet man and a well-fed young one is a pairing I want to know about before it becomes a fact.",
    "who": "Esa",
    "year": 6
+  },
+  {
+   "eid": "e002279",
+   "kind": "say",
+   "text": "Vela, go now \u2014 if Kael's already halfway to Mako's door we've lost the timing. Esa, while she's moving, I want you and I to think about what we'd actually offer Kael to make him choose us over silence, because pride alone won't hold a hungry man when the cold comes.",
+   "who": "Taric",
+   "year": 6
   }
  ],
  "memory_summary": "",
@@ -3577,7 +3584,7 @@
  "name": "Taric",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "male",
  "siblings": [],
  "strength": 38,
