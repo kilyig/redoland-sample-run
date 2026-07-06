@@ -189,3 +189,4 @@
 {"eid": "e000658", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e000659", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e000660", "year": 3, "phase": "scramble", "kind": "give", "speaker": "a003", "who": "Esa", "audience": "public", "text": "Esa gives 1 food to Taric.", "payload": {"target": "a006", "amount": 1}}
+{"eid": "e000661", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
