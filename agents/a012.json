@@ -1,5 +1,5 @@
 {
- "actions_used_year": 2,
+ "actions_used_year": 3,
  "age": 22,
  "alive": true,
  "birth_year": 3,
@@ -249,6 +249,13 @@
    "eid": "e001180",
    "kind": "say",
    "text": "Sela's the first door I'll knock on then \u2014 she's kept me in her eye since year one and I doubt that's changed. But I want to name something plainly, father: if we end this year thin and the pile runs light again next time, the two of us talking alone won't be enough \u2014 we need Kael and Sela and Taric inside the same conversation before someone like Mako decides the quiet ones are easier targets. Worth thinking on before the year closes.",
+   "who": "Eron",
+   "year": 4
+  },
+  {
+   "eid": "e001196",
+   "kind": "convo",
+   "text": "Eron gathers Sela to talk.",
    "who": "Eron",
    "year": 4
   }
