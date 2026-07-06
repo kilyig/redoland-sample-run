@@ -3,7 +3,9 @@
  "cursor": {
   "fight": {
    "attackers": [
-    "a005"
+    "a005",
+    "a009",
+    "a011"
    ],
    "defenders": [
     "a003"
@@ -11,7 +13,7 @@
    "demand": 2,
    "fallen": [],
    "initiator": "a005",
-   "muster_pass": 0,
+   "muster_pass": 1,
    "round": 0,
    "sub": "muster",
    "target": "a003"
@@ -21,7 +23,7 @@
   "steps": 376
  },
  "next_aid": 14,
- "next_eid": 2666,
+ "next_eid": 2668,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,

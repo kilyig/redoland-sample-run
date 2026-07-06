@@ -622,6 +622,20 @@
    "text": "Dav moves to attack Esa.",
    "who": "the village",
    "year": 6
+  },
+  {
+   "eid": "e002667",
+   "kind": "join",
+   "text": "Dell joins the attackers.",
+   "who": "the village",
+   "year": 6
+  },
+  {
+   "eid": "e002668",
+   "kind": "join",
+   "text": "Ryn joins the attackers.",
+   "who": "the village",
+   "year": 6
   }
  ],
  "memory_summary": "",

@@ -434,3 +434,5 @@
 {"eid": "e002664", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a005", "who": "Dav", "audience": ["a005"], "text": "", "payload": {}}
 {"eid": "e002665", "year": 6, "phase": "fight", "kind": "attack", "speaker": "village", "who": "the village", "audience": "public", "text": "Dav moves to attack Esa.", "payload": {"initiator": "a005", "target": "a003"}}
 {"eid": "e002666", "year": 6, "phase": "fight", "kind": "under_attack", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "You are under attack by Dav.", "payload": {}}
+{"eid": "e002667", "year": 6, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Dell joins the attackers.", "payload": {}}
+{"eid": "e002668", "year": 6, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Ryn joins the attackers.", "payload": {}}
