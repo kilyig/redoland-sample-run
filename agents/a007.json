@@ -1660,6 +1660,13 @@
    "text": "Eron's not yours to count, and I'd want that understood before anything else \u2014 he's Roan's blood as much as mine, and any arrangement between us doesn't pull him out of that. But I hear what you're building, and I won't lie: a second child with six food behind it and a father who thinks in decades is worth sitting with. Give me something that tells me you'd stand for Eron the same as your own when things go lean, and I'll give you a real answer.",
    "who": "Sela",
    "year": 4
+  },
+  {
+   "eid": "e001168",
+   "kind": "say",
+   "text": "Eron's Roan's blood, I understand that \u2014 I'm not trying to claim him, I'm saying I wouldn't let him starve while your child with me ate. If Mako or anyone else came for your food when things went lean, they'd have to come through me too, and that's not a number Roan alone can offer you. That's what standing for Eron looks like from where I'm standing.",
+   "who": "Bram",
+   "year": 4
   }
  ],
  "memory_summary": "",
