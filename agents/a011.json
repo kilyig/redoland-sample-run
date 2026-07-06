@@ -3331,6 +3331,13 @@
    "text": "Dav gathers Ryn, Dell to talk.",
    "who": "Dav",
    "year": 6
+  },
+  {
+   "eid": "e002316",
+   "kind": "say",
+   "text": "Ryn, Dell \u2014 pile ran fair this year and for the first time in three years I'm not handing my food across the room the moment I take it, which means I want to talk about Mako before Dell comes back from Sela with an answer we're not ready for. He's sitting on six with no obligations and no one he's fed, and that kind of stillness in a strong man either breaks into generosity or it breaks into something we don't want to be standing in front of unprepared. Tell me what you both saw him doing while the pile was moving \u2014 not what you think he's planning, what you actually saw.",
+   "who": "Dav",
+   "year": 6
   }
  ],
  "memory_summary": "",
