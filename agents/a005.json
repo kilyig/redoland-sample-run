@@ -3109,6 +3109,13 @@
    "text": "Vela takes 1 from the pile (pile now 0).",
    "who": "Vela",
    "year": 6
+  },
+  {
+   "eid": "e002240",
+   "kind": "convo",
+   "text": "Dell gathers Dav, Ryn to talk.",
+   "who": "Dell",
+   "year": 6
   }
  ],
  "memory_summary": "",

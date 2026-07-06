@@ -7,3 +7,4 @@
 {"eid": "e002237", "year": 6, "phase": "scramble", "kind": "take", "speaker": "a006", "who": "Taric", "audience": "public", "text": "Taric takes 2 from the pile (pile now 3).", "payload": {"amount": 2}}
 {"eid": "e002238", "year": 6, "phase": "scramble", "kind": "take", "speaker": "a003", "who": "Esa", "audience": "public", "text": "Esa takes 2 from the pile (pile now 1).", "payload": {"amount": 2}}
 {"eid": "e002239", "year": 6, "phase": "scramble", "kind": "take", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela takes 1 from the pile (pile now 0).", "payload": {"amount": 1}}
+{"eid": "e002240", "year": 6, "phase": "convo", "kind": "convo", "speaker": "a011", "who": "Dell", "audience": ["a011", "a005", "a009"], "text": "Dell gathers Dav, Ryn to talk.", "payload": {}}

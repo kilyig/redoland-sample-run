@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 25,
  "alive": true,
  "birth_year": 2,
@@ -3169,6 +3169,13 @@
    "kind": "take",
    "text": "Vela takes 1 from the pile (pile now 0).",
    "who": "Vela",
+   "year": 6
+  },
+  {
+   "eid": "e002240",
+   "kind": "convo",
+   "text": "Dell gathers Dav, Ryn to talk.",
+   "who": "Dell",
    "year": 6
   }
  ],
