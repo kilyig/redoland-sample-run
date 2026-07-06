@@ -965,6 +965,13 @@
    "text": "",
    "who": "Bram",
    "year": 3
+  },
+  {
+   "eid": "e001052",
+   "kind": "birth",
+   "text": "Eron (male, age 21; str 56, int 3745, mem 19627; O46 C27 E50 A59 N43) is born to Sela and Roan.",
+   "who": "the village",
+   "year": 3
   }
  ],
  "memory_summary": "",

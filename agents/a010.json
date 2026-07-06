@@ -4,11 +4,13 @@
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
- "children": [],
+ "children": [
+  "a012"
+ ],
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 1,
  "health": 3,
  "hp": 100,
  "id": "a010",
@@ -839,6 +841,27 @@
    "text": "",
    "who": "Roan",
    "year": 3
+  },
+  {
+   "eid": "e001050",
+   "kind": "proposal",
+   "text": "Sela draws Roan aside to talk.",
+   "who": "Sela",
+   "year": 3
+  },
+  {
+   "eid": "e001051",
+   "kind": "propose",
+   "text": "Sela: have a child with me \u2014 I'll put in 2 of 3 food.",
+   "who": "Sela",
+   "year": 3
+  },
+  {
+   "eid": "e001052",
+   "kind": "birth",
+   "text": "Eron (male, age 21; str 56, int 3745, mem 19627; O46 C27 E50 A59 N43) is born to Sela and Roan.",
+   "who": "the village",
+   "year": 3
   }
  ],
  "memory_summary": "",
@@ -846,7 +869,7 @@
  "mother_note": "",
  "name": "Roan",
  "parents": [],
- "repro_done_year": false,
+ "repro_done_year": true,
  "says_used_year": 6,
  "sex": "male",
  "siblings": [],

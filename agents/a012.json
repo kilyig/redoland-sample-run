@@ -1,0 +1,45 @@
+{
+ "actions_used_year": 0,
+ "age": 21,
+ "alive": true,
+ "birth_year": 3,
+ "bore_this_year": false,
+ "children": [],
+ "death_cause": null,
+ "death_year": null,
+ "father_note": "Eron, the village will always look peaceful until it isn't \u2014 Bram smiled at me for two years before he moved against me with nothing but his own hunger driving him, and you should never forget a man who showed you that. Sela and her people \u2014 Kael, Esa, Vela, Taric \u2014 they stood without being asked, and that is the rarest thing this world produces; hold onto them like they are blood, because in the ways that matter they are. Watch Dav's family: they plan quietly and eat well, and quiet planning in a hungry place always comes at someone else's cost. I am not a hard man and I don't ask you to be one, but be harder to move than you look \u2014 that alone will keep you alive when words run out.",
+ "food": 0,
+ "health": 3,
+ "hp": 100,
+ "id": "a012",
+ "intelligence_tokens": 3745,
+ "memory_raw": [
+  {
+   "eid": "e001052",
+   "kind": "birth",
+   "text": "Eron (male, age 21; str 56, int 3745, mem 19627; O46 C27 E50 A59 N43) is born to Sela and Roan.",
+   "who": "the village",
+   "year": 3
+  }
+ ],
+ "memory_summary": "",
+ "memory_tokens": 19627,
+ "mother_note": "Eron, your blood runs from me and from Roan, who stood beside me when the village was still learning what it was \u2014 remember that he answered the call without being asked when Bram moved against us, and a man who does that once will likely do it again.\n\nTrust Kael and Esa before almost anyone else; they've said hard things honestly when lying would have cost them less, and that's the rarest thing I've found here. Vela is old and quiet and worth twice what she lets on \u2014 don't mistake her small footprint for weakness.\n\nWatch Dell and Dav: they love each other and they move fast, and a family that feeds itself first and asks later is not your enemy until it is \u2014 by which point it's too late to start counting.\n\nBram wronged no one in our blood yet, but he tested this village's patience and found it had teeth; he will try again when he thinks the numbers have shifted, so keep your own count and don't let him catch you standing alone.",
+ "name": "Eron",
+ "parents": [
+  "a007",
+  "a010"
+ ],
+ "repro_done_year": false,
+ "says_used_year": 0,
+ "sex": "male",
+ "siblings": [],
+ "strength": 56,
+ "traits": {
+  "agreeableness": 59,
+  "conscientiousness": 27,
+  "extraversion": 50,
+  "neuroticism": 43,
+  "openness": 46
+ }
+}
