@@ -3313,6 +3313,13 @@
    "text": "Mako gathers Sela to talk.",
    "who": "Mako",
    "year": 6
+  },
+  {
+   "eid": "e002343",
+   "kind": "say",
+   "text": "The pile went fast this year \u2014 you pulled early and smart. I've got six on me; I'm not worried about eating. Are you and Nessa sitting steady?",
+   "who": "Mako",
+   "year": 6
   }
  ],
  "memory_summary": "",
