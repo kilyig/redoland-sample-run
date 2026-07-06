@@ -3172,6 +3172,13 @@
    "text": "Go, Dell \u2014 and come back with more than her name this time. Dav, while she walks, tell me what you think Mako wants from a deal with Sela, because a man who's held six food without giving a scrap of it to anyone isn't building trust, he's building leverage, and I want to know what he thinks he's buying.",
    "who": "Ryn",
    "year": 6
+  },
+  {
+   "eid": "e002249",
+   "kind": "say",
+   "text": "Mako's not buying loyalty from Sela \u2014 he's buying Eron's strength and Roan's sword arm without having to offer either of them anything, because Sela's the thread that pulls all three. A man with six food and no one to protect has only one thing left to spend it on, and it's not a meal.",
+   "who": "Dell",
+   "year": 6
   }
  ],
  "memory_summary": "",
