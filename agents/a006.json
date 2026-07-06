@@ -3996,6 +3996,13 @@
    "text": "",
    "who": "Taric",
    "year": 6
+  },
+  {
+   "eid": "e002438",
+   "kind": "give",
+   "text": "Bram gives 1 food to Nessa.",
+   "who": "Bram",
+   "year": 6
   }
  ],
  "memory_summary": "",
