@@ -1765,6 +1765,13 @@
    "text": "Mako gathers Zinn to talk.",
    "who": "Mako",
    "year": 6
+  },
+  {
+   "eid": "e002448",
+   "kind": "say",
+   "text": "Zinn. I'm your father \u2014 that's not nothing, even if we only just met today. You've got three blood in your veins from this village: me, and through Sela, Nessa. Lean on that when things get thin.",
+   "who": "Mako",
+   "year": 6
   }
  ],
  "memory_summary": "",
@@ -1773,7 +1780,7 @@
  "name": "Mako",
  "parents": [],
  "repro_done_year": true,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "male",
  "siblings": [],
  "strength": 83,
