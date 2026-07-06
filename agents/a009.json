@@ -1380,6 +1380,13 @@
    "text": "Bram gathers Ryn to talk.",
    "who": "Bram",
    "year": 3
+  },
+  {
+   "eid": "e000566",
+   "kind": "say",
+   "text": "Dav's forty-three and his strength is in his arms, not his years \u2014 he won't be useful forever. I'm ten years younger than him, I've got food to spare, and I'm not splitting my attention between you and anyone else. That's what I'm offering.",
+   "who": "Bram",
+   "year": 3
   }
  ],
  "memory_summary": "",
