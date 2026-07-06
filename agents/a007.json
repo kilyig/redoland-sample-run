@@ -1583,6 +1583,13 @@
    "text": "Dav takes 2 from the pile (pile now 7).",
    "who": "Dav",
    "year": 4
+  },
+  {
+   "eid": "e001133",
+   "kind": "take",
+   "text": "Eron takes 2 from the pile (pile now 5).",
+   "who": "Eron",
+   "year": 4
   }
  ],
  "memory_summary": "",
