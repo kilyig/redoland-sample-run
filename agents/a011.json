@@ -2463,6 +2463,13 @@
    "text": "Pile's gone and I got nothing \u2014 Bram doubled back and took two more before I could reach it, and now I'm sitting on six food with a year to feed myself and no certainty about what Vela's doing with her two. Tell me what either of you saw at the pile, because someone moved fast and it wasn't this circle.",
    "who": "Ryn",
    "year": 5
+  },
+  {
+   "eid": "e001790",
+   "kind": "say",
+   "text": "Bram took four total and Mako took two \u2014 between them they're sitting on sixteen food while Dav pulled the last one and I walked away with nothing either. That's not hunger driving him, that's a man building toward something, and Vela handing him food last year means she's already decided whose side she's on when it tips. We need to talk about what we're doing before next year's pile, not after.",
+   "who": "Dell",
+   "year": 5
   }
  ],
  "memory_summary": "",
@@ -2474,7 +2481,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "female",
  "siblings": [],
  "strength": 85,
