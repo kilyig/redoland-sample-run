@@ -2571,6 +2571,13 @@
    "text": "Dell gives 1 food to Dav.",
    "who": "Dell",
    "year": 5
+  },
+  {
+   "eid": "e001872",
+   "kind": "convo",
+   "text": "Nessa gathers Sela to talk.",
+   "who": "Nessa",
+   "year": 5
   }
  ],
  "memory_summary": "",
