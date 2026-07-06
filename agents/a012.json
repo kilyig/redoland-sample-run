@@ -1966,6 +1966,13 @@
    "text": "Zinn gathers Eron, Nessa to talk.",
    "who": "Zinn",
    "year": 6
+  },
+  {
+   "eid": "e002415",
+   "kind": "say",
+   "text": "Nessa, you're at two now \u2014 that's still thinner than I'd like, and if you're one short by year-end you won't wake up. I've got four; I can give you one more and still eat.",
+   "who": "Zinn",
+   "year": 6
   }
  ],
  "memory_summary": "",
