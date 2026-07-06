@@ -101,3 +101,4 @@
 {"eid": "e001872", "year": 5, "phase": "convo", "kind": "convo", "speaker": "a013", "who": "Nessa", "audience": ["a013", "a007"], "text": "Nessa gathers Sela to talk.", "payload": {}}
 {"eid": "e001873", "year": 5, "phase": "convo", "kind": "say", "speaker": "a013", "who": "Nessa", "audience": ["a013", "a007"], "text": "Sela. I have two food and you have none \u2014 take one, but listen to me first: Mako is sitting on seven and hasn't said a word to anyone, and that's not patience, that's a man who's already made a decision.", "payload": {}}
 {"eid": "e001874", "year": 5, "phase": "scramble", "kind": "give", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn gives 1 food to Dell.", "payload": {"target": "a011", "amount": 1}}
+{"eid": "e001875", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
