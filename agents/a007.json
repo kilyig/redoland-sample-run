@@ -930,6 +930,13 @@
    "text": "Dell walking away with five while Bram and Mako still breathe easy \u2014 that's not luck, that's Dav's daughter finding her feet fast, and I don't like what it means for next year. I'll make our arrangement real, Roan, but I want it to mean something: if one of us takes a hit, the other doesn't wait to see how it lands. Can you promise me that plain?",
    "who": "Sela",
    "year": 3
+  },
+  {
+   "eid": "e000501",
+   "kind": "say",
+   "text": "Plain enough \u2014 if someone comes at you, I'm there, and I expect the same. I won't pretend I can match Mako or Dav alone, but together we're harder to push. That's worth more than promises, if we hold to it.",
+   "who": "Roan",
+   "year": 3
   }
  ],
  "memory_summary": "",
