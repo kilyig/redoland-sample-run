@@ -2290,6 +2290,13 @@
    "text": "Sela. You're young, strong \u2014 and you've got nothing left to eat. I've got a bit to spare; I'm not asking for anything back, just want to know you're not going to collapse before winter's out.",
    "who": "Mako",
    "year": 5
+  },
+  {
+   "eid": "e001786",
+   "kind": "say",
+   "text": "Mako, I've been watching you for four years and this is the first word you've said to anyone \u2014 so forgive me if I'm slow to take it as nothing more than kindness. I won't pretend I don't need food right now, but I'd want to know what you're actually building before I start counting myself as something you've helped.",
+   "who": "Sela",
+   "year": 5
   }
  ],
  "memory_summary": "",
@@ -2298,7 +2305,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "female",
  "siblings": [],
  "strength": 73,
