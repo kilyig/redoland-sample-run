@@ -608,6 +608,13 @@
    "text": "One food going into next year is thin \u2014 I know it, and I'm not going to pretend otherwise. Dell, if Sela's open to talking, feel out whether she'd share a little rather than hoard; six is more than she needs to eat well, and a goodwill gesture now costs her almost nothing. Dav, I'll need you to have something set aside for me if the pile runs lean again \u2014 you said once you'd hand it over before I finished asking, and now's the year I might need to know that was true.",
    "who": "Ryn",
    "year": 3
+  },
+  {
+   "eid": "e000485",
+   "kind": "say",
+   "text": "Dav, tell Ryn right now, in front of me, that you're keeping two back for her \u2014 I need to hear you say it, not just remember it. And Ryn, if Sela gives me anything useful tonight, I'll bring it straight to you both before I sleep, but my read is she's going to want something concrete before she moves toward us, and we should think about what we're actually offering her, not just what we're asking.",
+   "who": "Dell",
+   "year": 3
   }
  ],
  "memory_summary": "",
@@ -619,7 +626,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [],
  "strength": 85,
