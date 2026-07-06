@@ -1315,6 +1315,13 @@
    "text": "I hear you, and I won't pretend the idea doesn't pull at me \u2014 but three food between us means one of us eats thin this year and we start the next season already behind, with a child depending on us and Dav's household sitting fat. Give me something first: a share of your food now, something that shows you mean this as a real binding and not just words when you're scared.",
    "who": "Taric",
    "year": 3
+  },
+  {
+   "eid": "e000601",
+   "kind": "convo",
+   "text": "Taric gathers Esa to talk.",
+   "who": "Taric",
+   "year": 3
   }
  ],
  "memory_summary": "",
