@@ -1184,6 +1184,13 @@
    "text": "Dav gives 1 food to Ryn.",
    "who": "Dav",
    "year": 4
+  },
+  {
+   "eid": "e001232",
+   "kind": "give",
+   "text": "Dell gives 1 food to Dav.",
+   "who": "Dell",
+   "year": 4
   }
  ],
  "memory_summary": "",
