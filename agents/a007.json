@@ -1688,6 +1688,13 @@
    "text": "\"Settle it to his face\" is a threat dressed as a principle, and I want you to hear me name it plainly: I'm not a thing Roan and you settle. What I'll give you is this \u2014 I'll think on it through the year, and if you're still standing with six food and no raids to your name when the pile opens again, I'll give you a real answer then.",
    "who": "Sela",
    "year": 4
+  },
+  {
+   "eid": "e001172",
+   "kind": "say",
+   "text": "Fair enough \u2014 I said it wrong and you're right to call it that. You're not a thing to be settled, and I won't pretend the word didn't come out harder than I meant it. I'll be here at the next pile, same food and no raids, and we'll see if a year of patience earns what four years of asking didn't.",
+   "who": "Bram",
+   "year": 4
   }
  ],
  "memory_summary": "",
