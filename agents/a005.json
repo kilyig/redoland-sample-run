@@ -1611,6 +1611,13 @@
    "text": "Dav, I'll take the food \u2014 thank you, and I mean it the way you mean that kind of thing when it costs you. Dell, next year you move first, before Vela, before anyone \u2014 you're fast and you know the ground, and your mother being hungry again is not a thing I want to name a third time.",
    "who": "Ryn",
    "year": 4
+  },
+  {
+   "eid": "e001140",
+   "kind": "say",
+   "text": "Dell, your mother said it right \u2014 you moved first this year and it shows, you've got five food and both of us are still standing, so that instinct is already working. Next year we don't leave it to chance: you're at the pile before anyone else takes a second step, and if Vela or anyone else thinks about a second pass, they do it knowing we're watching and counting.",
+   "who": "Dav",
+   "year": 4
   }
  ],
  "memory_summary": "",
@@ -1619,7 +1626,7 @@
  "name": "Dav",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "male",
  "siblings": [],
  "strength": 80,
