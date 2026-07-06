@@ -1721,6 +1721,13 @@
    "text": "Then let's not give him time to think of a better word. I'll make the offer now \u2014 two food from me, one from you, and the child is ours.",
    "who": "Bram",
    "year": 5
+  },
+  {
+   "eid": "e001817",
+   "kind": "give",
+   "text": "Mako gives 1 food to Sela.",
+   "who": "Mako",
+   "year": 5
   }
  ],
  "memory_summary": "",

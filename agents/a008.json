@@ -1,5 +1,5 @@
 {
- "actions_used_year": 2,
+ "actions_used_year": 3,
  "age": 37,
  "alive": true,
  "birth_year": 0,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 8,
+ "food": 7,
  "health": 3,
  "hp": 100,
  "id": "a008",
@@ -683,6 +683,13 @@
    "eid": "e001787",
    "kind": "say",
    "text": "Fair enough. I kept to myself because there was nothing worth saying until now \u2014 the pile's empty and you're down to nothing while Bram's sitting on twelve. I'd rather have one person I can trust at my back than stay comfortable and quiet while that gap keeps growing.",
+   "who": "Mako",
+   "year": 5
+  },
+  {
+   "eid": "e001817",
+   "kind": "give",
+   "text": "Mako gives 1 food to Sela.",
    "who": "Mako",
    "year": 5
   }

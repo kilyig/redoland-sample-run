@@ -1455,6 +1455,13 @@
    "text": "Dav takes 1 from the pile (pile now 0).",
    "who": "Dav",
    "year": 5
+  },
+  {
+   "eid": "e001817",
+   "kind": "give",
+   "text": "Mako gives 1 food to Sela.",
+   "who": "Mako",
+   "year": 5
   }
  ],
  "memory_summary": "",

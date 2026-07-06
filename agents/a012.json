@@ -776,6 +776,13 @@
    "text": "Take it \u2014 here.",
    "who": "Eron",
    "year": 5
+  },
+  {
+   "eid": "e001817",
+   "kind": "give",
+   "text": "Mako gives 1 food to Sela.",
+   "who": "Mako",
+   "year": 5
   }
  ],
  "memory_summary": "",
