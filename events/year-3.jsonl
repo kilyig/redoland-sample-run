@@ -252,3 +252,4 @@
 {"eid": "e000721", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
 {"eid": "e000722", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e000723", "year": 3, "phase": "convo", "kind": "convo", "speaker": "a005", "who": "Dav", "audience": ["a005", "a011", "a009"], "text": "Dav gathers Dell, Ryn to talk.", "payload": {}}
+{"eid": "e000724", "year": 3, "phase": "convo", "kind": "say", "speaker": "a005", "who": "Dav", "audience": ["a005", "a011", "a009"], "text": "Dell's been gone long enough that Sela's either listening or she isn't \u2014 either way, I want us to talk about Bram before she gets back, because a man who tries to attack Roan with the whole village watching isn't afraid anymore, he's testing something.", "payload": {}}
