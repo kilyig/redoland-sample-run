@@ -1912,6 +1912,13 @@
    "text": "Esa gives 1 food to Taric.",
    "who": "Esa",
    "year": 4
+  },
+  {
+   "eid": "e001330",
+   "kind": "pass",
+   "text": "",
+   "who": "Sela",
+   "year": 4
   }
  ],
  "memory_summary": "",
