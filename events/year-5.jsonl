@@ -175,3 +175,4 @@
 {"eid": "e001946", "year": 5, "phase": "convo", "kind": "convo", "speaker": "a013", "who": "Nessa", "audience": ["a013", "a012"], "text": "Nessa gathers Eron to talk.", "payload": {}}
 {"eid": "e001947", "year": 5, "phase": "convo", "kind": "say", "speaker": "a013", "who": "Nessa", "audience": ["a013", "a012"], "text": "You're at two now, which is better \u2014 but keep your head down this year, don't give anyone a reason to look your way. If the pile comes up light again, you come to me first, not Sela, not Bram, me.", "payload": {}}
 {"eid": "e001948", "year": 5, "phase": "scramble", "kind": "give", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn gives 1 food to Dell.", "payload": {"target": "a011", "amount": 1}}
+{"eid": "e001949", "year": 5, "phase": "convo", "kind": "convo", "speaker": "a008", "who": "Mako", "audience": ["a008", "a007"], "text": "Mako gathers Sela to talk.", "payload": {}}
