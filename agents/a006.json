@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 48,
  "alive": true,
  "birth_year": 0,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 0,
  "health": 3,
  "hp": 100,
  "id": "a006",
@@ -1629,6 +1629,13 @@
    "kind": "say",
    "text": "Taric hasn't answered and I'm not going to wait on it \u2014 Bram, you've got six food and strength enough to matter, and I've got one food and a promise I'm trying to build into something real before the year turns hard. What I want to know is whether Roan's still a grudge or whether that's done, because if it's done, you and I have something to talk about.",
    "who": "Esa",
+   "year": 4
+  },
+  {
+   "eid": "e001238",
+   "kind": "give",
+   "text": "Taric gives 1 food to Esa.",
+   "who": "Taric",
    "year": 4
   }
  ],
