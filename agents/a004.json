@@ -853,6 +853,13 @@
    "text": "Kael gathers Vela, Esa, Sela, Ryn to talk.",
    "who": "Kael",
    "year": 3
+  },
+  {
+   "eid": "e000512",
+   "kind": "say",
+   "text": "Pile's gone again, and Dell just walked away with five of it \u2014 I don't blame the girl, she's new and hungry, but Dav's child eating twice while the rest of us count singles is a pattern worth naming before it becomes a habit.",
+   "who": "Kael",
+   "year": 3
   }
  ],
  "memory_summary": "",
@@ -861,7 +868,7 @@
  "name": "Kael",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "male",
  "siblings": [],
  "strength": 54,
