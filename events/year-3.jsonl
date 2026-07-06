@@ -151,3 +151,4 @@
 {"eid": "e000620", "year": 3, "phase": "proposal", "kind": "reject", "speaker": "a009", "who": "Ryn", "audience": ["a001", "a009"], "text": "Ryn declines.", "payload": {}}
 {"eid": "e000621", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e000622", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
+{"eid": "e000623", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
