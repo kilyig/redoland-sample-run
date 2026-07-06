@@ -1639,6 +1639,13 @@
    "text": "Mako's seven and Bram's six \u2014 that's thirteen food between two strong men, and neither of them has a child or a woman, which means all of that is muscle and stored time with nowhere to go but into a move against someone. I want to talk to Roan before next year, because he's sitting on four, he just had a son with Sela, and Bram already tried to take from him once \u2014 a man Bram targeted once is a man who remembers it. If we can bring Roan in without Sela pulling him toward Mako instead, we change the numbers in this village without throwing a single punch.",
    "who": "Dav",
    "year": 4
+  },
+  {
+   "eid": "e001144",
+   "kind": "say",
+   "text": "Roan's the right target and the right reason, but Sela's the hinge \u2014 she had Roan's child, which means she's already chosen something, and if she's leaning toward Mako it's because nobody's given her a better offer. Dell, you're the one who was supposed to talk to her last year; tell me what she said, because I don't want Dav walking into that conversation blind.",
+   "who": "Ryn",
+   "year": 4
   }
  ],
  "memory_summary": "",
