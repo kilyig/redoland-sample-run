@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 36,
  "alive": true,
  "birth_year": 0,
@@ -2436,6 +2436,13 @@
    "kind": "give",
    "text": "Taric gives 1 food to Kael.",
    "who": "Taric",
+   "year": 6
+  },
+  {
+   "eid": "e002303",
+   "kind": "convo",
+   "text": "Bram gathers Nessa to talk.",
+   "who": "Bram",
    "year": 6
   }
  ],
