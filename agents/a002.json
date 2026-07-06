@@ -594,6 +594,13 @@
    "text": "Ryn, I've got four food and I'll put one of them in front of Dell right now if you give us a yes \u2014 not as a bribe, as a demonstration that what we're promising isn't just words while the year's still young.",
    "who": "Vela",
    "year": 3
+  },
+  {
+   "eid": "e000524",
+   "kind": "say",
+   "text": "Ryn, we've been waiting longer than the day can spare \u2014 Vela's offer is sitting there and Esa needs to move, so yes or no, right now, and I'll respect whichever it is.",
+   "who": "Kael",
+   "year": 3
   }
  ],
  "memory_summary": "",
