@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 3,
  "health": 3,
  "hp": 100,
  "id": "a004",
@@ -2476,6 +2476,13 @@
    "kind": "give",
    "text": "Vela gives 1 food to Bram.",
    "who": "Vela",
+   "year": 6
+  },
+  {
+   "eid": "e002302",
+   "kind": "give",
+   "text": "Taric gives 1 food to Kael.",
+   "who": "Taric",
    "year": 6
   }
  ],
