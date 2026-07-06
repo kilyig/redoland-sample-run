@@ -1786,6 +1786,13 @@
    "text": "You're right \u2014 four, and I should have counted right the first time. Eron and Nessa, both. I'll be watching how the pile moves next year; you've got strength on you, and if it comes to a fight, I want us standing on the same side of it.",
    "who": "Mako",
    "year": 6
+  },
+  {
+   "eid": "e002452",
+   "kind": "give",
+   "text": "Sela gives 1 food to Zinn.",
+   "who": "Sela",
+   "year": 6
   }
  ],
  "memory_summary": "",
