@@ -1091,6 +1091,13 @@
    "text": "Nessa gives 1 food to Eron.",
    "who": "Nessa",
    "year": 6
+  },
+  {
+   "eid": "e002394",
+   "kind": "convo",
+   "text": "Zinn gathers Eron, Nessa to talk.",
+   "who": "Zinn",
+   "year": 6
   }
  ],
  "memory_summary": "",
