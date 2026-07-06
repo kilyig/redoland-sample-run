@@ -2225,6 +2225,13 @@
    "text": "Vela takes 1 from the pile (pile now 0).",
    "who": "Vela",
    "year": 6
+  },
+  {
+   "eid": "e002269",
+   "kind": "convo",
+   "text": "Taric gathers Vela, Esa to talk.",
+   "who": "Taric",
+   "year": 6
   }
  ],
  "memory_summary": "",
