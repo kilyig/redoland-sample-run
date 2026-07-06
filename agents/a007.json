@@ -1702,6 +1702,13 @@
    "text": "Eron gathers Sela to talk.",
    "who": "Eron",
    "year": 4
+  },
+  {
+   "eid": "e001197",
+   "kind": "say",
+   "text": "Sela, I'm sitting on two food with the year already thin \u2014 I won't pretend otherwise. You've looked out for me since the start and I'm not here to trade on that, but I wanted to check in and see how you're standing, and maybe talk about whether it's time we pulled Kael and Taric and Roan into a closer circle before someone with more food and fewer scruples decides the quiet ones are worth taking from.",
+   "who": "Eron",
+   "year": 4
   }
  ],
  "memory_summary": "",
