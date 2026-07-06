@@ -664,6 +664,13 @@
    "text": "Mako gathers Sela to talk.",
    "who": "Mako",
    "year": 5
+  },
+  {
+   "eid": "e001785",
+   "kind": "say",
+   "text": "Sela. You're young, strong \u2014 and you've got nothing left to eat. I've got a bit to spare; I'm not asking for anything back, just want to know you're not going to collapse before winter's out.",
+   "who": "Mako",
+   "year": 5
   }
  ],
  "memory_summary": "",
@@ -672,7 +679,7 @@
  "name": "Mako",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "male",
  "siblings": [],
  "strength": 83,
