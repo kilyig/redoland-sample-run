@@ -103,3 +103,4 @@
 {"eid": "e002333", "year": 6, "phase": "convo", "kind": "convo", "speaker": "a010", "who": "Roan", "audience": ["a010", "a012"], "text": "Roan gathers Eron to talk.", "payload": {}}
 {"eid": "e002334", "year": 6, "phase": "convo", "kind": "say", "speaker": "a010", "who": "Roan", "audience": ["a010", "a012"], "text": "Eron, one more thing before you go to Kael \u2014 Nessa fed you four times last year, and she's Bram's blood as much as mine; I'm not telling you to shut the door on her, but don't let her sit inside our planning until we know what she carries back to him.", "payload": {}}
 {"eid": "e002335", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a013", "who": "Nessa", "audience": ["a013"], "text": "", "payload": {}}
+{"eid": "e002336", "year": 6, "phase": "convo", "kind": "convo", "speaker": "a001", "who": "Bram", "audience": ["a001", "a013"], "text": "Bram gathers Nessa to talk.", "payload": {}}
