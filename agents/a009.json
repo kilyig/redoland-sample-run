@@ -1254,6 +1254,13 @@
    "text": "Ryn, Kael laid the math out plain and I won't soften it \u2014 a man who chose you for what you could give him doesn't automatically become someone who protects you when the cost goes up. But I'll say this too: whatever you decide about Dav, I'm not leaving you short of food at year's end, and that's a promise I can keep right now with three food in my hands.",
    "who": "Esa",
    "year": 3
+  },
+  {
+   "eid": "e000521",
+   "kind": "say",
+   "text": "Ryn, we've circled your answer long enough and the room's getting impatient \u2014 I'll say it plainly so you don't have to: if you stay with us, we make sure you eat at year's end, and Dell too, because a hungry mother is a liability none of us can afford. But I need a yes or a no before Esa walks out that door, because Roan's worth asking and I won't spend her on an errand if this circle has a crack in it already.",
+   "who": "Vela",
+   "year": 3
   }
  ],
  "memory_summary": "",
