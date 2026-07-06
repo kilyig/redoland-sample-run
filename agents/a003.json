@@ -1287,6 +1287,13 @@
    "text": "Taric cannot offer a child to Esa: Taric cannot spare the 2 food they offered (holds 1).",
    "who": "the village",
    "year": 3
+  },
+  {
+   "eid": "e000587",
+   "kind": "pass",
+   "text": "",
+   "who": "Esa",
+   "year": 3
   }
  ],
  "memory_summary": "",
