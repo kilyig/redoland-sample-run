@@ -881,6 +881,13 @@
    "text": "Dell declines.",
    "who": "Dell",
    "year": 3
+  },
+  {
+   "eid": "e000740",
+   "kind": "pass",
+   "text": "",
+   "who": "Bram",
+   "year": 3
   }
  ],
  "memory_summary": "",
