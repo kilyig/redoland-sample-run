@@ -2480,6 +2480,13 @@
    "text": "Sela, the room's run out of patience and I've run out of questions \u2014 you've heard seven of us say seven versions of the same thing, and the only explanation left for the silence is that what Mako wants is something you agreed to before Nessa was born. Tell us yes or no on that, and we'll decide together what it costs us.",
    "who": "Kael",
    "year": 5
+  },
+  {
+   "eid": "e001850",
+   "kind": "say",
+   "text": "Sela, I've asked you plain and I've asked you gentle, and I've watched this room empty itself out waiting \u2014 so I'll say the last thing I've got: if Mako bought something from you that touches this circle, I need to know it now, not when he comes to collect it.",
+   "who": "Roan",
+   "year": 5
   }
  ],
  "memory_summary": "",
