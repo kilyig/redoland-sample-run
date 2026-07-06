@@ -412,6 +412,13 @@
    "text": "Two years of words holding is two more than most alliances last \u2014 I'll grant you that. Get me in front of Kael and Esa together, and let's see if they take to me the way you have; I'd rather they size me up than wonder about me from the outside.",
    "who": "Roan",
    "year": 3
+  },
+  {
+   "eid": "e000508",
+   "kind": "say",
+   "text": "I'll set that up \u2014 but I want to warn Kael first, so he's not caught cold when you walk in. A man who's sitting on one food and hears a stranger's name without warning tends to count threats before he counts allies.",
+   "who": "Sela",
+   "year": 3
   }
  ],
  "memory_summary": "",
