@@ -183,3 +183,4 @@
 {"eid": "e002413", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn gives 1 food to Dell.", "payload": {"target": "a011", "amount": 1}}
 {"eid": "e002414", "year": 6, "phase": "convo", "kind": "convo", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012", "a013"], "text": "Zinn gathers Eron, Nessa to talk.", "payload": {}}
 {"eid": "e002415", "year": 6, "phase": "convo", "kind": "say", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012", "a013"], "text": "Nessa, you're at two now \u2014 that's still thinner than I'd like, and if you're one short by year-end you won't wake up. I've got four; I can give you one more and still eat.", "payload": {}}
+{"eid": "e002416", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
