@@ -2449,6 +2449,13 @@
    "text": "Vela, the silence is your answer and I've heard it \u2014 so I'm going to say what nobody else has said yet: if Bram's got you feeding him because you're fifty and you think he's the only one in this village who'll keep you alive past the years a woman can bear children, then name that fear out loud, because I'd rather know it than watch you disappear into his circle one food at a time.",
    "who": "Roan",
    "year": 6
+  },
+  {
+   "eid": "e002314",
+   "kind": "say",
+   "text": "Roan named the one thing I've been waiting for someone to say \u2014 Vela's fifty, same age as me, and the years a woman can bear children are behind her, which means Bram isn't offering her protection, he's offering her the feeling of it, and that's a much cheaper thing to buy. Vela, I don't need you to be ashamed of wanting to survive \u2014 I need you to understand that Bram's price goes up every time you pay it, and this circle's price stays fixed.",
+   "who": "Kael",
+   "year": 6
   }
  ],
  "memory_summary": "",

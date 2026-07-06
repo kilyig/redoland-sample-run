@@ -2547,6 +2547,13 @@
    "text": "Vela, the silence is your answer and I've heard it \u2014 so I'm going to say what nobody else has said yet: if Bram's got you feeding him because you're fifty and you think he's the only one in this village who'll keep you alive past the years a woman can bear children, then name that fear out loud, because I'd rather know it than watch you disappear into his circle one food at a time.",
    "who": "Roan",
    "year": 6
+  },
+  {
+   "eid": "e002314",
+   "kind": "say",
+   "text": "Roan named the one thing I've been waiting for someone to say \u2014 Vela's fifty, same age as me, and the years a woman can bear children are behind her, which means Bram isn't offering her protection, he's offering her the feeling of it, and that's a much cheaper thing to buy. Vela, I don't need you to be ashamed of wanting to survive \u2014 I need you to understand that Bram's price goes up every time you pay it, and this circle's price stays fixed.",
+   "who": "Kael",
+   "year": 6
   }
  ],
  "memory_summary": "Year 1, I pulled Ryn, Sela, and Esa into a circle early \u2014 we named Bram and Dav as threats, and Ryn told us Dav had already come to her alone with soft words. She stayed quiet about the details, which I filed away. Taric gave Esa a food unprompted, which counted for something.\n\nYear 2, I widened the circle to include Vela. We each swore plainly \u2014 I said I'd bleed with them, they said the same back \u2014 and that promise sat heavier than most words in this village. Esa went to Taric and he gave her food; we counted him ours. Ryn finally named it: Dav had offered her a child. We told her to decide before she answered him, but she'd already decided, because Dell was born before the year was out. Dav gave Dell food; Taric gave Esa food; Ryn fed her own child twice from her own hands. Those debts I noted.\n\nWhat I remember most: Bram and Mako moved in pairs off the pile two years running and never said a word to any of us. Mako's silence still sits like a stone in my chest. And Ryn \u2014 she's in our circle, she bled with us in word, but she made a child with a man none of us fully trust. The question of where Dav's loyalty actually runs is the one I haven't stopped asking.",
@@ -2555,7 +2562,7 @@
  "name": "Kael",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "male",
  "siblings": [],
  "strength": 54,
