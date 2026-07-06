@@ -1735,6 +1735,13 @@
    "text": "Roan gathers Eron to talk.",
    "who": "Roan",
    "year": 6
+  },
+  {
+   "eid": "e002334",
+   "kind": "say",
+   "text": "Eron, one more thing before you go to Kael \u2014 Nessa fed you four times last year, and she's Bram's blood as much as mine; I'm not telling you to shut the door on her, but don't let her sit inside our planning until we know what she carries back to him.",
+   "who": "Roan",
+   "year": 6
   }
  ],
  "memory_summary": "",
