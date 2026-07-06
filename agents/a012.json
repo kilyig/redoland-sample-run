@@ -1567,6 +1567,13 @@
    "text": "Sela gets one before the sun moves \u2014 but I want to know if you trust Kael the way I do, because if I'm bringing him and Roan into the same breath about Mako, I need to know you won't see that as me leaning on your father's enemies.",
    "who": "Eron",
    "year": 6
+  },
+  {
+   "eid": "e002264",
+   "kind": "say",
+   "text": "Kael's not Bram's enemy \u2014 they're two careful men who've never had reason to test each other, and that's different. I trust Kael because he said hard things when it cost him, same reason I trust Roan, and neither of those has anything to do with Bram. Bring them in.",
+   "who": "Nessa",
+   "year": 6
   }
  ],
  "memory_summary": "",
