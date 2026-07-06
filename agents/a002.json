@@ -853,6 +853,13 @@
    "text": "Taric gathers Vela to talk.",
    "who": "Taric",
    "year": 4
+  },
+  {
+   "eid": "e001183",
+   "kind": "say",
+   "text": "Vela, you moved fast today and walked away with five \u2014 I'm not saying that's wrong, but it leaves me empty-handed and you sitting heavier than anyone but Mako. I'd like to know we're on decent terms before that kind of gap starts meaning something neither of us wants.",
+   "who": "Taric",
+   "year": 4
   }
  ],
  "memory_summary": "",
