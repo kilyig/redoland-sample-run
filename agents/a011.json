@@ -643,6 +643,13 @@
    "text": "Dav, I'll go find Sela the moment you say it \u2014 but Ryn's not moving from this spot until you do, and neither am I, because a family that can't hold its word in private can't hold anything when the pile runs short again.",
    "who": "Dell",
    "year": 3
+  },
+  {
+   "eid": "e000490",
+   "kind": "say",
+   "text": "Dav, I've said my piece twice and Dell's said it once \u2014 we're both still standing here, and the silence between us is starting to tell its own story. Say what you promised or tell me the promise was less than you meant it, because I can work with the truth and I cannot work with nothing.",
+   "who": "Ryn",
+   "year": 3
   }
  ],
  "memory_summary": "",
