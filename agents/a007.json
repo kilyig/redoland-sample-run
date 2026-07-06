@@ -993,6 +993,13 @@
    "text": "That's sound \u2014 warn him, let him come to it ready. And Sela, one more thing while it's just us: Dell's young and already pulling more than her share, and she's Dav's blood. I'd want to know, before next year, whether your circle has a mind about that family or whether we're all just hoping they stay content.",
    "who": "Roan",
    "year": 3
+  },
+  {
+   "eid": "e000510",
+   "kind": "say",
+   "text": "Dav's been careful \u2014 two food from the pile, nothing loud, nothing that names him as the problem \u2014 but Dell taking five on her first year tells me she learned that from someone who's been planning longer than this village has existed. My circle hasn't named them a threat outright because Ryn's bond with Dav complicates it, and that's the honest answer. What I can tell you is that if they move together next year, Dav's arms and Dell's hunger and Ryn's loyalties all pointing the same direction \u2014 that's the thing I'd lose sleep over.",
+   "who": "Sela",
+   "year": 3
   }
  ],
  "memory_summary": "",
@@ -1001,7 +1008,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "female",
  "siblings": [],
  "strength": 73,
