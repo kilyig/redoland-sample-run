@@ -3247,6 +3247,13 @@
    "text": "Dell's right, and that makes Sela's answer worth more than I thought \u2014 she's not just one woman, she's three people's direction, and Mako's six food is a down payment on all of them. Dav, I want to know before Dell gets back: if Sela says yes to us, do we have anything real to offer her that Mako can't match or outbid in the same breath?",
    "who": "Ryn",
    "year": 6
+  },
+  {
+   "eid": "e002251",
+   "kind": "say",
+   "text": "What we have that Mako can't buy is a reason that doesn't expire \u2014 he's offering food, which runs out, but we're offering Eron a grandfather and a grandmother who've kept their word through lean years, and that's the kind of thing a mother holds onto long after the food is gone.",
+   "who": "Dell",
+   "year": 6
   }
  ],
  "memory_summary": "",
@@ -3258,7 +3265,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [],
  "strength": 85,
