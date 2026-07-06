@@ -1147,6 +1147,13 @@
    "text": "",
    "who": "Sela",
    "year": 3
+  },
+  {
+   "eid": "e000543",
+   "kind": "give",
+   "text": "Dav gives 2 food to Ryn.",
+   "who": "Dav",
+   "year": 3
   }
  ],
  "memory_summary": "",
