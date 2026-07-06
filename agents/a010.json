@@ -1737,6 +1737,13 @@
    "text": "Eron gathers Sela, Roan, Kael, Taric to talk.",
    "who": "Eron",
    "year": 5
+  },
+  {
+   "eid": "e001841",
+   "kind": "say",
+   "text": "Nessa just appeared \u2014 and she's Sela and Bram's daughter, which makes her my blood kin, and Bram's too. I need to know how that happened, Sela, and I need to know whether Bram thinks it gives him a thread into this circle \u2014 because if he does, we have a problem before we've even finished building what we're building.",
+   "who": "Eron",
+   "year": 5
   }
  ],
  "memory_summary": "",
