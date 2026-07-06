@@ -119,3 +119,4 @@
 {"eid": "e002349", "year": 6, "phase": "convo", "kind": "say", "speaker": "a008", "who": "Mako", "audience": ["a008", "a007"], "text": "Winter's still a ways off, but I won't make you wait that long to see \u2014 I'll give three food to start the child now, if you'll match it, and you'll watch how I carry it from the first day.", "payload": {}}
 {"eid": "e002350", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn gives 1 food to Dell.", "payload": {"target": "a011", "amount": 1}}
 {"eid": "e002351", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela gives 1 food to Eron.", "payload": {"target": "a012", "amount": 1}}
+{"eid": "e002352", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a005", "who": "Dav", "audience": "public", "text": "Dav gives 1 food to Ryn.", "payload": {"target": "a009", "amount": 1}}
