@@ -2381,6 +2381,13 @@
    "text": "Roan's the argument, not the risk \u2014 Bram already named him a target once and Roan stood his ground, which means he's already decided something. What I want to know before we bring him in is whether Sela comes with him or whether having Eron means she's pulling toward whoever looks like the safest harbor, because if she drifts to Mako's side she takes Roan's strength with her whether he means it or not.",
    "who": "Dell",
    "year": 5
+  },
+  {
+   "eid": "e001794",
+   "kind": "say",
+   "text": "Sela's a woman who stood against Bram before Eron was breathing \u2014 I don't read her as someone who drifts toward safety, I read her as someone who picks a wall and stands in front of it, and right now her wall is Roan. If we bring Roan in clean and honest, Sela follows because her son is already Roan's argument for us, not against us.",
+   "who": "Dav",
+   "year": 5
   }
  ],
  "memory_summary": "",
@@ -2389,7 +2396,7 @@
  "name": "Dav",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "male",
  "siblings": [],
  "strength": 80,
