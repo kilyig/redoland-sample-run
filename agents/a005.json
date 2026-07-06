@@ -3697,6 +3697,13 @@
    "text": "",
    "who": "Dav",
    "year": 6
+  },
+  {
+   "eid": "e002485",
+   "kind": "give",
+   "text": "Mako gives 1 food to Zinn.",
+   "who": "Mako",
+   "year": 6
   }
  ],
  "memory_summary": "",
