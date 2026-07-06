@@ -405,6 +405,13 @@
    "text": "It's come to something twice: Esa went to Taric on our behalf in year two, and every one of us said out loud we'd bleed for the others \u2014 which is more than most people in this village have ever put into words. Whether those words hold when Mako or Dav makes a real move, I don't know, but I haven't seen anyone in that circle flinch yet. That's not nothing.",
    "who": "Sela",
    "year": 3
+  },
+  {
+   "eid": "e000507",
+   "kind": "say",
+   "text": "Two years of words holding is two more than most alliances last \u2014 I'll grant you that. Get me in front of Kael and Esa together, and let's see if they take to me the way you have; I'd rather they size me up than wonder about me from the outside.",
+   "who": "Roan",
+   "year": 3
   }
  ],
  "memory_summary": "",
@@ -413,7 +420,7 @@
  "name": "Roan",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "male",
  "siblings": [],
  "strength": 49,
