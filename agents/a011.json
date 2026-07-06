@@ -3184,6 +3184,13 @@
    "text": "Mako's sitting on six, Bram on two and Nessa on whatever Bram's been feeding her \u2014 he's spread his food into a child and that's either the smartest thing he's done or the thing that finally makes him catchable. Ryn, you walked away empty again and I won't let that stand a third time; Dav, I need to know right now how much of your two you're keeping and how much you're giving her, because I want that settled before anyone else in this village starts asking us for favors.",
    "who": "Dell",
    "year": 6
+  },
+  {
+   "eid": "e002242",
+   "kind": "say",
+   "text": "Ryn gets one of my two before I've finished saying it \u2014 that's already decided. But Dell, I want to talk about Mako more than Bram right now: six food and no child, no woman, no one he's given so much as a scrap to all year \u2014 a man that still holding that much and that close to nothing is about to make a move, and I want to know what direction he's been looking before he does.",
+   "who": "Dav",
+   "year": 6
   }
  ],
  "memory_summary": "",
