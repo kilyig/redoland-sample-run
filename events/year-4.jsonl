@@ -399,3 +399,4 @@
 {"eid": "e001526", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e001527", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a012", "who": "Eron", "audience": ["a012"], "text": "", "payload": {}}
 {"eid": "e001528", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
+{"eid": "e001529", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
