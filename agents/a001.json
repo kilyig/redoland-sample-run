@@ -1982,6 +1982,13 @@
    "text": "",
    "who": "Bram",
    "year": 5
+  },
+  {
+   "eid": "e001940",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 5
   }
  ],
  "memory_summary": "",
