@@ -657,6 +657,13 @@
    "text": "Ryn near Mako is the piece I didn't have \u2014 that's two of the strongest in this village moving together, and if they decide to make an example of someone it won't be a fair fight. I'm going to find Kael and Roan before nightfall and make sure they know what we're looking at; nine food means nothing if I'm standing alone when Mako decides the count favors him.",
    "who": "Eron",
    "year": 6
+  },
+  {
+   "eid": "e002262",
+   "kind": "say",
+   "text": "Kael and Roan are the right people to tell, but don't frame it as asking for protection \u2014 frame it as giving them information, because men who feel useful are more reliable than men who feel needed. And Eron \u2014 give one food to Sela before anyone else sees your count; nine draws eyes, eight draws fewer.",
+   "who": "Nessa",
+   "year": 6
   }
  ],
  "memory_summary": "",
@@ -668,7 +675,7 @@
   "a001"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [
   "a012"
