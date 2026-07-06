@@ -3562,6 +3562,13 @@
    "text": "Kael will know Eron's food trail better than anyone \u2014 those two ate near each other in the lean years and a man with two food notices when a boy half his age holds nine. I'll ask it sideways, let Kael name the source himself, because if I go in pointing fingers he'll close up and I'll come back with nothing useful.",
    "who": "Vela",
    "year": 6
+  },
+  {
+   "eid": "e002278",
+   "kind": "say",
+   "text": "Eron's nine food is also a lever \u2014 a young man that fat is either going to spend it buying something or someone's going to decide to take it, and either way he ends the year thinner, which means whoever holds his loyalty now holds something that won't last. Vela, when you talk to Kael, don't just ask where the food came from \u2014 ask whether Eron's been seen near Mako, because a strong quiet man and a well-fed young one is a pairing I want to know about before it becomes a fact.",
+   "who": "Esa",
+   "year": 6
   }
  ],
  "memory_summary": "",
