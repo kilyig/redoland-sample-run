@@ -1723,6 +1723,13 @@
    "text": "Then let's not wait on it \u2014 I'll go to Roan first since he's already watching Mako with me, and you reach Kael; Taric will follow where those two lead. If we can sit the five of us before the year closes, we're harder to pick apart than anything Mako or Bram could put together on short notice.",
    "who": "Eron",
    "year": 4
+  },
+  {
+   "eid": "e001201",
+   "kind": "convo",
+   "text": "Eron gathers Sela, Kael, Roan, Taric to talk.",
+   "who": "Eron",
+   "year": 4
   }
  ],
  "memory_summary": "",

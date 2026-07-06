@@ -1504,6 +1504,13 @@
    "text": "You have my word on that \u2014 if Mako so much as shifts his weight in someone's direction, I'll be at your door before the dust settles. Go find Kael, and don't let him see you hurry, because a man who's watching the village as close as he is will read the pace of your walk.",
    "who": "Vela",
    "year": 4
+  },
+  {
+   "eid": "e001201",
+   "kind": "convo",
+   "text": "Eron gathers Sela, Kael, Roan, Taric to talk.",
+   "who": "Eron",
+   "year": 4
   }
  ],
  "memory_summary": "",
