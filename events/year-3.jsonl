@@ -95,3 +95,4 @@
 {"eid": "e000564", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e000565", "year": 3, "phase": "convo", "kind": "convo", "speaker": "a001", "who": "Bram", "audience": ["a001", "a009"], "text": "Bram gathers Ryn to talk.", "payload": {}}
 {"eid": "e000566", "year": 3, "phase": "convo", "kind": "say", "speaker": "a001", "who": "Bram", "audience": ["a001", "a009"], "text": "Dav's forty-three and his strength is in his arms, not his years \u2014 he won't be useful forever. I'm ten years younger than him, I've got food to spare, and I'm not splitting my attention between you and anyone else. That's what I'm offering.", "payload": {}}
+{"eid": "e000567", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
