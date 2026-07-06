@@ -1525,6 +1525,13 @@
    "text": "Vela's forty-eight and took six food \u2014 that's not hunger, that's hoarding against a death she can feel coming, and I won't let her desperation bleed into you. Ryn, I'm sitting on three right now; take one of mine before the day's out. Dell, the lesson here is that we agreed on fair shares among ourselves, not with the whole village \u2014 next year someone needs to move at the pile before Vela gets a second pass.",
    "who": "Dav",
    "year": 4
+  },
+  {
+   "eid": "e001139",
+   "kind": "say",
+   "text": "Dav, I'll take the food \u2014 thank you, and I mean it the way you mean that kind of thing when it costs you. Dell, next year you move first, before Vela, before anyone \u2014 you're fast and you know the ground, and your mother being hungry again is not a thing I want to name a third time.",
+   "who": "Ryn",
+   "year": 4
   }
  ],
  "memory_summary": "",
