@@ -68,3 +68,4 @@
 {"eid": "e000537", "year": 3, "phase": "convo", "kind": "convo", "speaker": "a006", "who": "Taric", "audience": ["a006", "a003"], "text": "Taric gathers Esa to talk.", "payload": {}}
 {"eid": "e000538", "year": 3, "phase": "convo", "kind": "say", "speaker": "a006", "who": "Taric", "audience": ["a006", "a003"], "text": "Pile's gone and I didn't get a piece of it \u2014 I've still got the one from last year, but that's a thin margin. Dell grabbed five in two pulls, which is bold for a child barely on her feet, and I'd wager Dav coached that. What did you manage to take?", "payload": {}}
 {"eid": "e000539", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e000540", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
