@@ -266,3 +266,4 @@
 {"eid": "e002037", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a005", "who": "Dav", "audience": ["a005"], "text": "", "payload": {}}
 {"eid": "e002038", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e002039", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e002040", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
