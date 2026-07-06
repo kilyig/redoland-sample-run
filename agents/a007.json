@@ -2543,6 +2543,13 @@
    "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
    "year": 5
+  },
+  {
+   "eid": "e001860",
+   "kind": "convo",
+   "text": "Mako gathers Sela to talk.",
+   "who": "Mako",
+   "year": 5
   }
  ],
  "memory_summary": "",
