@@ -650,6 +650,13 @@
    "text": "Dav, I've said my piece twice and Dell's said it once \u2014 we're both still standing here, and the silence between us is starting to tell its own story. Say what you promised or tell me the promise was less than you meant it, because I can work with the truth and I cannot work with nothing.",
    "who": "Ryn",
    "year": 3
+  },
+  {
+   "eid": "e000491",
+   "kind": "say",
+   "text": "Ryn, I'm keeping two food back for you \u2014 I said it when it cost me nothing and I'm saying it now when it costs me something, because that's the only way the words mean anything. You carried Dell into this world on my promise and I will not let that stand unpaid. Dell, go find Sela.",
+   "who": "Dav",
+   "year": 3
   }
  ],
  "memory_summary": "",
