@@ -2302,6 +2302,13 @@
    "text": "Vela, go now \u2014 if Kael's already halfway to Mako's door we've lost the timing. Esa, while she's moving, I want you and I to think about what we'd actually offer Kael to make him choose us over silence, because pride alone won't hold a hungry man when the cold comes.",
    "who": "Taric",
    "year": 6
+  },
+  {
+   "eid": "e002280",
+   "kind": "say",
+   "text": "Kael's got two food and a circle that owes him more than it's paid \u2014 if we're buying his answer, the honest offer is one food from me and a promise that when the pile comes next year, we pull him in before the fast hands clear it. That's not charity, that's a man who stood against Bram seeing that it cost him nothing and bought him something. Is that the offer you want me walking in with, or do you have a better one?",
+   "who": "Esa",
+   "year": 6
   }
  ],
  "memory_summary": "",
