@@ -1518,6 +1518,13 @@
    "text": "Vela takes 1 from the pile (pile now 0).",
    "who": "Vela",
    "year": 6
+  },
+  {
+   "eid": "e002257",
+   "kind": "convo",
+   "text": "Nessa gathers Eron to talk.",
+   "who": "Nessa",
+   "year": 6
   }
  ],
  "memory_summary": "",
