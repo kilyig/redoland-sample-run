@@ -1497,6 +1497,13 @@
    "text": "That's good counsel \u2014 Dav I'll leave alone for now. One more thing before I go: if Mako does start moving, don't wait to send word, just come find me directly, because the worst way this ends is with each of us thinking the other already knows.",
    "who": "Taric",
    "year": 4
+  },
+  {
+   "eid": "e001194",
+   "kind": "say",
+   "text": "You have my word on that \u2014 if Mako so much as shifts his weight in someone's direction, I'll be at your door before the dust settles. Go find Kael, and don't let him see you hurry, because a man who's watching the village as close as he is will read the pace of your walk.",
+   "who": "Vela",
+   "year": 4
   }
  ],
  "memory_summary": "",
