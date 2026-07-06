@@ -3291,6 +3291,27 @@
    "text": "",
    "who": "Roan",
    "year": 6
+  },
+  {
+   "eid": "e002555",
+   "kind": "proposal",
+   "text": "Nessa draws Roan aside to talk.",
+   "who": "Nessa",
+   "year": 6
+  },
+  {
+   "eid": "e002556",
+   "kind": "propose",
+   "text": "Nessa: have a child with me \u2014 I'll put in 1 of 3 food.",
+   "who": "Nessa",
+   "year": 6
+  },
+  {
+   "eid": "e002557",
+   "kind": "reject",
+   "text": "Roan declines.",
+   "who": "Roan",
+   "year": 6
   }
  ],
  "memory_summary": "",

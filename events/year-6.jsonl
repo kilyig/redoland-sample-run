@@ -322,3 +322,6 @@
 {"eid": "e002552", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
 {"eid": "e002553", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a013", "who": "Nessa", "audience": ["a013"], "text": "", "payload": {}}
 {"eid": "e002554", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
+{"eid": "e002555", "year": 6, "phase": "proposal", "kind": "proposal", "speaker": "a013", "who": "Nessa", "audience": ["a013", "a010"], "text": "Nessa draws Roan aside to talk.", "payload": {}}
+{"eid": "e002556", "year": 6, "phase": "proposal", "kind": "propose", "speaker": "a013", "who": "Nessa", "audience": ["a013", "a010"], "text": "Nessa: have a child with me \u2014 I'll put in 1 of 3 food.", "payload": {}}
+{"eid": "e002557", "year": 6, "phase": "proposal", "kind": "reject", "speaker": "a010", "who": "Roan", "audience": ["a013", "a010"], "text": "Roan declines.", "payload": {}}
