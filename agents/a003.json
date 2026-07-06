@@ -1000,6 +1000,13 @@
    "text": "Sela takes 2 from the pile (pile now 6).",
    "who": "Sela",
    "year": 3
+  },
+  {
+   "eid": "e000475",
+   "kind": "pass",
+   "text": "",
+   "who": "Esa",
+   "year": 3
   }
  ],
  "memory_summary": "",
