@@ -141,3 +141,4 @@
 {"eid": "e000610", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e000611", "year": 3, "phase": "convo", "kind": "convo", "speaker": "a001", "who": "Bram", "audience": ["a001", "a009"], "text": "Bram gathers Ryn to talk.", "payload": {}}
 {"eid": "e000612", "year": 3, "phase": "convo", "kind": "say", "speaker": "a001", "who": "Bram", "audience": ["a001", "a009"], "text": "Ryn, you've been circling this answer for three years \u2014 I'm done waiting for you to decide I'm worth the risk. Have a child with me: I'll put in two of the three food, you put in one, and whatever comes next we face with blood between us instead of just words.", "payload": {}}
+{"eid": "e000613", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
