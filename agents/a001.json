@@ -545,6 +545,13 @@
    "text": "Dell takes 3 from the pile (pile now 12).",
    "who": "Dell",
    "year": 3
+  },
+  {
+   "eid": "e000472",
+   "kind": "take",
+   "text": "Vela takes 2 from the pile (pile now 10).",
+   "who": "Vela",
+   "year": 3
   }
  ],
  "memory_summary": "",
