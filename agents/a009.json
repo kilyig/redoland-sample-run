@@ -1289,6 +1289,13 @@
    "text": "Ryn, Vela's food is on the table and Kael's out of patience, and honestly so am I \u2014 not because I don't understand what you're weighing, but because every moment you don't answer is a moment Mako's had more time to count than we have. Say yes and let me go find Roan, or say no and I'll still make sure you eat, but either way I need to walk out that door knowing what I'm walking back to.",
    "who": "Esa",
    "year": 3
+  },
+  {
+   "eid": "e000526",
+   "kind": "say",
+   "text": "Ryn, I've said what I can say and offered what I can offer \u2014 the next word in this room belongs to you, and the silence you're sitting in is starting to cost us more than whatever you're still working out. Give us your answer.",
+   "who": "Vela",
+   "year": 3
   }
  ],
  "memory_summary": "",
