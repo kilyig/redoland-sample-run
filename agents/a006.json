@@ -2414,6 +2414,13 @@
    "text": "Understood \u2014 I'm going. And if Kael's already been touched by Mako's hand, I'll smile, share nothing, and come back with that news instead of a headache.",
    "who": "Esa",
    "year": 5
+  },
+  {
+   "eid": "e001839",
+   "kind": "say",
+   "text": "Then we're moving \u2014 go well, both of you, and come back with something solid. I'll find Roan before he's had time to talk himself into patience.",
+   "who": "Vela",
+   "year": 5
   }
  ],
  "memory_summary": "",
