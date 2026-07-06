@@ -91,3 +91,4 @@
 {"eid": "e000560", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e000561", "year": 3, "phase": "convo", "kind": "convo", "speaker": "a001", "who": "Bram", "audience": ["a001", "a009"], "text": "Bram gathers Ryn to talk.", "payload": {}}
 {"eid": "e000562", "year": 3, "phase": "convo", "kind": "say", "speaker": "a001", "who": "Bram", "audience": ["a001", "a009"], "text": "You've got food and you're not stupid \u2014 I'll give you that. But I've got Dell to think about, and Dav's still useful to her. What exactly are you offering that he isn't?", "payload": {}}
+{"eid": "e000563", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
