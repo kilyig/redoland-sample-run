@@ -433,6 +433,13 @@
    "text": "Dav's been careful \u2014 two food from the pile, nothing loud, nothing that names him as the problem \u2014 but Dell taking five on her first year tells me she learned that from someone who's been planning longer than this village has existed. My circle hasn't named them a threat outright because Ryn's bond with Dav complicates it, and that's the honest answer. What I can tell you is that if they move together next year, Dav's arms and Dell's hunger and Ryn's loyalties all pointing the same direction \u2014 that's the thing I'd lose sleep over.",
    "who": "Sela",
    "year": 3
+  },
+  {
+   "eid": "e000531",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 3
   }
  ],
  "memory_summary": "",
