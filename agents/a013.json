@@ -1154,6 +1154,13 @@
    "text": "Bram gathers Nessa to talk.",
    "who": "Bram",
    "year": 6
+  },
+  {
+   "eid": "e002406",
+   "kind": "say",
+   "text": "Sela just had Mako's child \u2014 which means he's not without attachments anymore, and that changes the count. A man with a daughter looks different than a man alone, and I'd rather know whose side Sela's on now before we decide what Mako's angle is.",
+   "who": "Bram",
+   "year": 6
   }
  ],
  "memory_summary": "",
