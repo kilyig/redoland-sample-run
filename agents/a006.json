@@ -3653,6 +3653,13 @@
    "text": "",
    "who": "Taric",
    "year": 6
+  },
+  {
+   "eid": "e002300",
+   "kind": "give",
+   "text": "Vela gives 1 food to Bram.",
+   "who": "Vela",
+   "year": 6
   }
  ],
  "memory_summary": "",
