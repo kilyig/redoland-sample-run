@@ -1560,6 +1560,13 @@
    "text": "Bram, after what you pulled on Roan last year I wasn't sure I'd be speaking to you privately \u2014 but the pile's gone and neither of us got a piece of it, and I'd rather have that conversation now than after someone else decides our food is easier to take than theirs.",
    "who": "Esa",
    "year": 4
+  },
+  {
+   "eid": "e001211",
+   "kind": "give",
+   "text": "Sela gives 1 food to Eron.",
+   "who": "Sela",
+   "year": 4
   }
  ],
  "memory_summary": "",
