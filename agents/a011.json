@@ -3443,6 +3443,13 @@
    "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
    "year": 6
+  },
+  {
+   "eid": "e002384",
+   "kind": "convo",
+   "text": "Dav gathers Ryn, Dell to talk.",
+   "who": "Dav",
+   "year": 6
   }
  ],
  "memory_summary": "",
