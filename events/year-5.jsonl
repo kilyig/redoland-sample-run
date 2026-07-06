@@ -110,3 +110,4 @@
 {"eid": "e001881", "year": 5, "phase": "scramble", "kind": "give", "speaker": "a005", "who": "Dav", "audience": "public", "text": "Dav gives 1 food to Ryn.", "payload": {"target": "a009", "amount": 1}}
 {"eid": "e001882", "year": 5, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
 {"eid": "e001883", "year": 5, "phase": "scramble", "kind": "give", "speaker": "a001", "who": "Bram", "audience": "public", "text": "Bram gives 2 food to Nessa.", "payload": {"target": "a013", "amount": 2}}
+{"eid": "e001884", "year": 5, "phase": "scramble", "kind": "give", "speaker": "a010", "who": "Roan", "audience": "public", "text": "Roan gives 1 food to Sela.", "payload": {"target": "a007", "amount": 1}}
