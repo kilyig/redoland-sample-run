@@ -1952,6 +1952,13 @@
    "text": "Esa gathers Bram, Taric to talk.",
    "who": "Esa",
    "year": 4
+  },
+  {
+   "eid": "e001209",
+   "kind": "say",
+   "text": "Bram, after what you pulled on Roan last year I wasn't sure I'd be speaking to you privately \u2014 but the pile's gone and neither of us got a piece of it, and I'd rather have that conversation now than after someone else decides our food is easier to take than theirs.",
+   "who": "Esa",
+   "year": 4
   }
  ],
  "memory_summary": "",
@@ -1960,7 +1967,7 @@
  "name": "Esa",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "female",
  "siblings": [],
  "strength": 33,

@@ -79,3 +79,4 @@
 {"eid": "e001206", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
 {"eid": "e001207", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e001208", "year": 4, "phase": "convo", "kind": "convo", "speaker": "a003", "who": "Esa", "audience": ["a003", "a001", "a006"], "text": "Esa gathers Bram, Taric to talk.", "payload": {}}
+{"eid": "e001209", "year": 4, "phase": "convo", "kind": "say", "speaker": "a003", "who": "Esa", "audience": ["a003", "a001", "a006"], "text": "Bram, after what you pulled on Roan last year I wasn't sure I'd be speaking to you privately \u2014 but the pile's gone and neither of us got a piece of it, and I'd rather have that conversation now than after someone else decides our food is easier to take than theirs.", "payload": {}}
