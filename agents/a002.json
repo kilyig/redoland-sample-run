@@ -1014,6 +1014,13 @@
    "text": "Vela, we're all listening and the room's not hostile \u2014 but silence right now looks worse than whatever the honest answer is, so give it to us plain and let us move on to the part where we figure out how nobody starves before the year closes.",
    "who": "Kael",
    "year": 4
+  },
+  {
+   "eid": "e001257",
+   "kind": "say",
+   "text": "Vela, I've spoken twice and Kael's spoken twice and you've said nothing, which is itself an answer \u2014 so I'll stop waiting and say what the room is already thinking: eight food on a woman of forty-eight while Kael sits at zero is a stockpile, not a meal, and stockpiles invite counting. If you've got a reason we should feel good about that number, now's the last easy moment to give it.",
+   "who": "Esa",
+   "year": 4
   }
  ],
  "memory_summary": "",
