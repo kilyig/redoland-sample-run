@@ -1777,6 +1777,13 @@
    "text": "Vela gives 1 food to Bram.",
    "who": "Vela",
    "year": 4
+  },
+  {
+   "eid": "e001267",
+   "kind": "give",
+   "text": "Roan gives 1 food to Taric.",
+   "who": "Roan",
+   "year": 4
   }
  ],
  "memory_summary": "",
