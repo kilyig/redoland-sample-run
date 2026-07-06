@@ -4038,6 +4038,13 @@
    "text": "Dav gives 1 food to Dell.",
    "who": "Dav",
    "year": 6
+  },
+  {
+   "eid": "e002456",
+   "kind": "pass",
+   "text": "",
+   "who": "Taric",
+   "year": 6
   }
  ],
  "memory_summary": "",
