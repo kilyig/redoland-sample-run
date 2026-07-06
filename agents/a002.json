@@ -2428,6 +2428,13 @@
    "text": "Vela, the room's gone quiet and that silence is the last thing standing between you and us deciding you've already made your choice \u2014 so I'll say it one final time and I'll mean every word: Bram is not your family, he is not your blood, and whatever he offered you isn't worth what you'll lose here when Mako finally moves and you're standing on the wrong side of it.",
    "who": "Kael",
    "year": 6
+  },
+  {
+   "eid": "e002311",
+   "kind": "say",
+   "text": "Vela, I've got a son in this village and I've got three food between me and the ground, so I'm going to be shorter than Kael: tell us what Bram said to you, or when he moves on one of us, we move on him without checking where you're standing first.",
+   "who": "Roan",
+   "year": 6
   }
  ],
  "memory_summary": "",
