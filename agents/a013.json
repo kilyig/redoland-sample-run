@@ -909,6 +909,13 @@
    "text": "Eron gives 1 food to Sela.",
    "who": "Eron",
    "year": 6
+  },
+  {
+   "eid": "e002354",
+   "kind": "convo",
+   "text": "Bram gathers Nessa to talk.",
+   "who": "Bram",
+   "year": 6
   }
  ],
  "memory_summary": "",
