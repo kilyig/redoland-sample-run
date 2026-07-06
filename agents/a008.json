@@ -1476,6 +1476,13 @@
    "text": "Winter's still a ways off, but I won't make you wait that long to see \u2014 I'll give three food to start the child now, if you'll match it, and you'll watch how I carry it from the first day.",
    "who": "Mako",
    "year": 6
+  },
+  {
+   "eid": "e002350",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 6
   }
  ],
  "memory_summary": "",

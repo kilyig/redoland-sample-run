@@ -1749,6 +1749,13 @@
    "text": "Eron gives 1 food to Sela.",
    "who": "Eron",
    "year": 6
+  },
+  {
+   "eid": "e002350",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 6
   }
  ],
  "memory_summary": "",
