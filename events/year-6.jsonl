@@ -210,3 +210,4 @@
 {"eid": "e002440", "year": 6, "phase": "convo", "kind": "convo", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012", "a013"], "text": "Zinn gathers Eron, Nessa to talk.", "payload": {}}
 {"eid": "e002441", "year": 6, "phase": "convo", "kind": "say", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012", "a013"], "text": "Nessa, you're sitting at three now and Eron I see you've been moving food around \u2014 where are you landing? I need to know we're all going to eat before I stop counting.", "payload": {}}
 {"eid": "e002442", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
+{"eid": "e002443", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a005", "who": "Dav", "audience": ["a005"], "text": "", "payload": {}}
