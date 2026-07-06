@@ -2430,6 +2430,13 @@
    "text": "Ryn, take that two back \u2014 I'm not eating your food when you walked away from the pile with nothing and I took the last one out of your hands. Give me the year to fix that, and let Dell come back with Roan's answer before we start counting who's carrying what.",
    "who": "Dav",
    "year": 5
+  },
+  {
+   "eid": "e001801",
+   "kind": "say",
+   "text": "Keep the two \u2014 I'm sitting on six, you're sitting on one, and a man with one food is a man who skips a meal if anything goes sideways before the year closes. Dell's walking toward Roan right now and I don't want to spend her errand arguing over food I can spare.",
+   "who": "Ryn",
+   "year": 5
   }
  ],
  "memory_summary": "",
