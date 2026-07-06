@@ -846,6 +846,13 @@
    "text": "Dav gives 1 food to Ryn.",
    "who": "Dav",
    "year": 4
+  },
+  {
+   "eid": "e001182",
+   "kind": "convo",
+   "text": "Taric gathers Vela to talk.",
+   "who": "Taric",
+   "year": 4
   }
  ],
  "memory_summary": "",
