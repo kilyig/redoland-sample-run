@@ -2402,6 +2402,13 @@
    "text": "Dell's right that you're not the weak point, Dav \u2014 but I want to hear from Roan before we decide what shape this conversation takes, because a man who's already been hit once either comes in grateful for a wall or he comes in suspicious that the wall has a price tag hidden in it, and I'd rather know which we're walking toward.",
    "who": "Ryn",
    "year": 5
+  },
+  {
+   "eid": "e001797",
+   "kind": "say",
+   "text": "Ryn's right that we don't know which Roan we're meeting \u2014 grateful or suspicious \u2014 but the only way to find out is to walk toward him, and every hour we spend deciding is an hour Bram could spend deciding first. I'll go, alone, because two parents showing up together reads like pressure and one daughter reads like a conversation.",
+   "who": "Dell",
+   "year": 5
   }
  ],
  "memory_summary": "",
