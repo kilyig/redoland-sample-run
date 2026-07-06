@@ -559,6 +559,13 @@
    "text": "Ryn, I'll take Kael's question off the table for a moment and name the thing underneath it \u2014 if Dav goes with Mako, you go with Dav, and then this circle is five against a wall we helped build. Before you answer Kael, I want to know whether you'd stay with us over the father of your child, because that's the answer that actually shapes what we plan.",
    "who": "Vela",
    "year": 3
+  },
+  {
+   "eid": "e000519",
+   "kind": "say",
+   "text": "Ryn, Vela's not wrong to ask it straight \u2014 but I'll say the part she left unspoken: you've got one food and a child who just ate five, and if Dav decides his loyalties run toward Mako, you're the one left hungry and undefended. That's not a threat from us, it's the math he'd be doing on you. I'd rather know your answer now so we can make sure it never comes to that.",
+   "who": "Kael",
+   "year": 3
   }
  ],
  "memory_summary": "",
