@@ -757,6 +757,13 @@
    "text": "Dav, tell Ryn right now, in front of me, that you're keeping two back for her \u2014 I need to hear you say it, not just remember it. And Ryn, if Sela gives me anything useful tonight, I'll bring it straight to you both before I sleep, but my read is she's going to want something concrete before she moves toward us, and we should think about what we're actually offering her, not just what we're asking.",
    "who": "Dell",
    "year": 3
+  },
+  {
+   "eid": "e000486",
+   "kind": "say",
+   "text": "Dav, say it \u2014 and mean it the way you meant it that first night when you told me you'd hand it over before I finished asking, because Dell's right that she needs to hear it and so do I. And Dell \u2014 for Sela, what we're offering her is simple: she joins a family that already has a child in it, which means blood ties and reasons to hold together that go deeper than a good year's food count. That's rarer than six food, and if she's smart enough to still be standing alone, she's smart enough to know it.",
+   "who": "Ryn",
+   "year": 3
   }
  ],
  "memory_summary": "",
