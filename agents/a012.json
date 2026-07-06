@@ -1126,6 +1126,13 @@
    "text": "Nessa gathers Eron to talk.",
    "who": "Nessa",
    "year": 5
+  },
+  {
+   "eid": "e001924",
+   "kind": "say",
+   "text": "Eron, you've got one food right now and that's a thin rope to cross a winter on \u2014 I'm giving you one of mine, and I need you to eat it before anyone tallies what you're carrying.",
+   "who": "Nessa",
+   "year": 5
   }
  ],
  "memory_summary": "",
