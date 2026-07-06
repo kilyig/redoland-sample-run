@@ -458,3 +458,4 @@
 {"eid": "e002688", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e002689", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a014", "who": "Zinn", "audience": ["a014"], "text": "", "payload": {}}
 {"eid": "e002690", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a005", "who": "Dav", "audience": "public", "text": "Dav gives 1 food to Dell.", "payload": {"target": "a011", "amount": 1}}
+{"eid": "e002691", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
