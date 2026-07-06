@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 33,
  "alive": true,
  "birth_year": 0,
@@ -600,6 +600,13 @@
    "kind": "give",
    "text": "Dav gives 2 food to Ryn.",
    "who": "Dav",
+   "year": 3
+  },
+  {
+   "eid": "e000544",
+   "kind": "convo",
+   "text": "Bram gathers Ryn to talk.",
+   "who": "Bram",
    "year": 3
   }
  ],
