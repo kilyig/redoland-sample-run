@@ -3002,6 +3002,13 @@
    "text": "Sela gives 1 food to Eron.",
    "who": "Sela",
    "year": 5
+  },
+  {
+   "eid": "e002019",
+   "kind": "pass",
+   "text": "",
+   "who": "Dell",
+   "year": 5
   }
  ],
  "memory_summary": "",
