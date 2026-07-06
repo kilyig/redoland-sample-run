@@ -2449,6 +2449,13 @@
    "text": "Sela, I'll say what Roan left in the air: Bram's got ten food and eighty-three strength in Mako's pocket, and a child with you is the fastest way to put a question mark over this circle's loyalties without ever asking to join it. Tell me plainly \u2014 did you go to him, or did he come to you?",
    "who": "Kael",
    "year": 5
+  },
+  {
+   "eid": "e001844",
+   "kind": "say",
+   "text": "Sela's had her own mind since before any of us sat in a circle together, and I'm not going to drag her in front of it like she owes us a confession \u2014 but I want to know one thing, and I'll want a straight answer: does Bram know Nessa is his, and if he does, what did he say when he found out?",
+   "who": "Roan",
+   "year": 5
   }
  ],
  "memory_summary": "",
