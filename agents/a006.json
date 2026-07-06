@@ -3520,6 +3520,13 @@
    "text": "Mako's six food and eighty-three strength means he doesn't need allies to take what he wants from most of us \u2014 so if he moves, it won't be a raid we can talk him out of, it'll be a decision already made. I want Kael and Roan ready to answer fast, not after we've sent two messages and waited. Can we agree right now that if Mako touches anyone in this circle, all three of us call out loud and we don't wait to count who shows up?",
    "who": "Esa",
    "year": 6
+  },
+  {
+   "eid": "e002272",
+   "kind": "say",
+   "text": "Agreed \u2014 if Mako moves, we call out loud and sort the count after, not before. But I want Kael spoken to before this day is out, not tomorrow, because a man sitting on two food after missing the pile has already done his arithmetic and I'd rather he's done it with us in the picture. Vela, you've got more food and more history with him than either of us \u2014 will you go?",
+   "who": "Taric",
+   "year": 6
   }
  ],
  "memory_summary": "",
@@ -3528,7 +3535,7 @@
  "name": "Taric",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "male",
  "siblings": [],
  "strength": 38,
