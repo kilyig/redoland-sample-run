@@ -3758,6 +3758,13 @@
    "text": "Dell gives 1 food to Ryn.",
    "who": "Dell",
    "year": 6
+  },
+  {
+   "eid": "e002377",
+   "kind": "birth",
+   "text": "Zinn (female, age 21; str 83, int 3731, mem 17577; O57 C37 E30 A40 N34) is born to Sela and Mako.",
+   "who": "the village",
+   "year": 6
   }
  ],
  "memory_summary": "",

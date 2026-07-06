@@ -1,12 +1,12 @@
 {
  "branch": "main",
  "cursor": {
-  "last": "a011",
+  "last": "a008",
   "phase": "scramble",
-  "steps": 71
+  "steps": 72
  },
- "next_aid": 13,
- "next_eid": 2374,
+ "next_aid": 14,
+ "next_eid": 2377,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,
@@ -678,7 +678,7 @@
    3085642404,
    1992062898,
    2739520439,
-   33
+   70
   ],
   null
  ],
@@ -695,7 +695,8 @@
   "Ryn",
   "Sela",
   "Taric",
-  "Vela"
+  "Vela",
+  "Zinn"
  ],
  "year": 6
 }

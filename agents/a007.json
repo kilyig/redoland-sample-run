@@ -3,10 +3,11 @@
  "age": 28,
  "alive": true,
  "birth_year": 0,
- "bore_this_year": false,
+ "bore_this_year": true,
  "children": [
   "a012",
-  "a013"
+  "a013",
+  "a014"
  ],
  "death_cause": null,
  "death_year": null,
@@ -3404,6 +3405,27 @@
    "text": "Dell gives 1 food to Ryn.",
    "who": "Dell",
    "year": 6
+  },
+  {
+   "eid": "e002375",
+   "kind": "proposal",
+   "text": "Mako draws Sela aside to talk.",
+   "who": "Mako",
+   "year": 6
+  },
+  {
+   "eid": "e002376",
+   "kind": "propose",
+   "text": "Mako: have a child with me \u2014 I'll put in 3 of 3 food.",
+   "who": "Mako",
+   "year": 6
+  },
+  {
+   "eid": "e002377",
+   "kind": "birth",
+   "text": "Zinn (female, age 21; str 83, int 3731, mem 17577; O57 C37 E30 A40 N34) is born to Sela and Mako.",
+   "who": "the village",
+   "year": 6
   }
  ],
  "memory_summary": "",
@@ -3411,7 +3433,7 @@
  "mother_note": "",
  "name": "Sela",
  "parents": [],
- "repro_done_year": false,
+ "repro_done_year": true,
  "says_used_year": 6,
  "sex": "female",
  "siblings": [],

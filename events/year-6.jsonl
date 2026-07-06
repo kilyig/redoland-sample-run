@@ -142,3 +142,6 @@
 {"eid": "e002372", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a013", "who": "Nessa", "audience": ["a013"], "text": "", "payload": {}}
 {"eid": "e002373", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
 {"eid": "e002374", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 1 food to Ryn.", "payload": {"target": "a009", "amount": 1}}
+{"eid": "e002375", "year": 6, "phase": "proposal", "kind": "proposal", "speaker": "a008", "who": "Mako", "audience": ["a008", "a007"], "text": "Mako draws Sela aside to talk.", "payload": {}}
+{"eid": "e002376", "year": 6, "phase": "proposal", "kind": "propose", "speaker": "a008", "who": "Mako", "audience": ["a008", "a007"], "text": "Mako: have a child with me \u2014 I'll put in 3 of 3 food.", "payload": {}}
+{"eid": "e002377", "year": 6, "phase": "proposal", "kind": "birth", "speaker": "village", "who": "the village", "audience": "public", "text": "Zinn (female, age 21; str 83, int 3731, mem 17577; O57 C37 E30 A40 N34) is born to Sela and Mako.", "payload": {"child": "a014", "mother": "a007", "father": "a008"}}
