@@ -636,6 +636,13 @@
    "text": "Eron, the pile went dry before I could reach it \u2014 I'm sitting on four food and you've got nine, which means this year you're the one who looks worth watching. Don't let anyone see you spending freely, and if Mako starts talking to you, you come find me before you answer him.",
    "who": "Nessa",
    "year": 6
+  },
+  {
+   "eid": "e002259",
+   "kind": "say",
+   "text": "Nine doesn't make me safe, it makes me a target \u2014 I've been watching Mako all year and he's already got six, which means if he decides to move on someone he's got the strength for it and half an excuse. You're right that I'll come to you first, but Nessa, I need you to tell me straight: is Bram watching my count, because if he sees me sitting heavy while you're at four, he might think I'm hoarding from his daughter and that's a different kind of trouble.",
+   "who": "Eron",
+   "year": 6
   }
  ],
  "memory_summary": "",
