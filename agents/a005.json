@@ -2465,6 +2465,13 @@
    "text": "Ryn, while Dell finds Roan \u2014 Taric and Esa have been feeding each other for two years running, which means they're already thinking in pairs, and two more people standing between us and Bram's next move is worth a quiet word before the year gets loud.",
    "who": "Dav",
    "year": 5
+  },
+  {
+   "eid": "e001806",
+   "kind": "say",
+   "text": "Taric's fifty-nine in strength and Esa's thirty-three \u2014 they're not muscle, they're numbers, and numbers matter when it comes to who flinches first. If they've been feeding each other through two hard years they're already loyal to something, and I'd rather that something be folded into us than standing neutral when Bram picks his moment. Talk to them, Dav \u2014 but wait until I'm back with Roan's answer so we're not making promises we haven't counted yet.",
+   "who": "Dell",
+   "year": 5
   }
  ],
  "memory_summary": "",
