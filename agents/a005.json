@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 45,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 0,
+ "food": 1,
  "health": 1,
  "hp": 100,
  "id": "a005",
@@ -2331,6 +2331,13 @@
    "kind": "take",
    "text": "Mako takes 2 from the pile (pile now 1).",
    "who": "Mako",
+   "year": 5
+  },
+  {
+   "eid": "e001780",
+   "kind": "take",
+   "text": "Dav takes 1 from the pile (pile now 0).",
+   "who": "Dav",
    "year": 5
   }
  ],
