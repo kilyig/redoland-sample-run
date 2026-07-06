@@ -1303,6 +1303,13 @@
    "text": "Ryn, I've watched you think long enough to know you're not slow \u2014 which means you're not still deciding, you've already decided and you're waiting for something. Tell us what that something is, because I'd rather give it to you than watch Vela's food sit unclaimed while we all pretend we're not holding our breath.",
    "who": "Esa",
    "year": 3
+  },
+  {
+   "eid": "e000528",
+   "kind": "say",
+   "text": "Ryn, Esa just named it exactly right \u2014 you've already decided, and holding it back now isn't caution, it's a negotiation. So let's finish it: what do you want from us that we haven't already offered?",
+   "who": "Vela",
+   "year": 3
   }
  ],
  "memory_summary": "",
