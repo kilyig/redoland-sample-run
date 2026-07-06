@@ -1702,6 +1702,13 @@
    "text": "Dell gathers Dav, Roan to talk.",
    "who": "Dell",
    "year": 4
+  },
+  {
+   "eid": "e001153",
+   "kind": "say",
+   "text": "Roan, Bram came for you once with the whole village watching and he still moved \u2014 that means you're already on his list whether you want to be or not, and I want you to know that when he moves again, my father and I will be standing where we stood last time, except next time I want that decided before the first punch, not after.",
+   "who": "Dell",
+   "year": 4
   }
  ],
  "memory_summary": "",
