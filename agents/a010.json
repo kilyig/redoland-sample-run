@@ -1842,6 +1842,13 @@
    "text": "Sela, I've been in this village forty-nine years and I've watched silence become a grave more than once \u2014 so I'm done asking and I'm telling you straight: you say what you promised Mako, right now, or when he comes to collect I step aside and let you settle it alone, and you know what my stepping aside costs you.",
    "who": "Kael",
    "year": 5
+  },
+  {
+   "eid": "e001856",
+   "kind": "say",
+   "text": "Sela, Kael's stepping aside is the last thing any of us can afford, and I won't be far behind him \u2014 so I'm done with words and I'm telling you the same thing with a face: you've got until this room goes quiet to give us something we can work with, because silence after that is a choice, and we'll all live by it.",
+   "who": "Roan",
+   "year": 5
   }
  ],
  "memory_summary": "",
@@ -1850,7 +1857,7 @@
  "name": "Roan",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "male",
  "siblings": [],
  "strength": 49,
