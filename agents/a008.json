@@ -1448,6 +1448,13 @@
    "text": "I'm waiting to see if you're the kind of person who asks that question and means it. You've got Nessa with Bram, which is a tie I don't want to cut \u2014 but I'm thirty-eight with no blood in this village, and that's the thing I think about most when the pile runs short. If you're asking because you want an honest answer, then yes \u2014 I'd want a child with you, if you'd have it.",
    "who": "Mako",
    "year": 6
+  },
+  {
+   "eid": "e002346",
+   "kind": "say",
+   "text": "Thirty-eight with no blood is a dangerous way to grow old here \u2014 I know that math, I've lived it. But Nessa ties me to Bram whether I like it or not, and a child with you on top of that makes me the thread every man in this village is pulling on. Tell me what you'd give her \u2014 not me, her \u2014 and I'll know whether you're thinking like a father or just like a man who wants to stop being alone.",
+   "who": "Sela",
+   "year": 6
   }
  ],
  "memory_summary": "",
