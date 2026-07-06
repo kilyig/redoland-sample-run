@@ -1679,6 +1679,13 @@
    "text": "What did he say.",
    "who": "Bram",
    "year": 5
+  },
+  {
+   "eid": "e001811",
+   "kind": "say",
+   "text": "He said he'd rather have one person he can trust at his back than stay comfortable while you sit on twelve food \u2014 and he named you by implication, not by accident. I don't know yet whether that's a man who's finally decided to move or a man who's decided I'm the easiest door to knock on first. Either way, you should know he's talking now.",
+   "who": "Sela",
+   "year": 5
   }
  ],
  "memory_summary": "",
