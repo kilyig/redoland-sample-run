@@ -426,3 +426,4 @@
 {"eid": "e000895", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a005", "who": "Dav", "audience": ["a005"], "text": "", "payload": {}}
 {"eid": "e000896", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e000897", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
+{"eid": "e000898", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
