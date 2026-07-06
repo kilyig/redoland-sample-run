@@ -818,6 +818,13 @@
    "text": "Mako gathers Sela to talk.",
    "who": "Mako",
    "year": 5
+  },
+  {
+   "eid": "e001897",
+   "kind": "say",
+   "text": "You've got Nessa now, which means Bram's got a reason to keep you fed \u2014 but that's his reason, not yours, and those don't always run the same direction. I'll keep watching. If the day comes when his interest in you stops matching yours, I'll still be here.",
+   "who": "Mako",
+   "year": 5
   }
  ],
  "memory_summary": "",
@@ -826,7 +833,7 @@
  "name": "Mako",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [],
  "strength": 83,
