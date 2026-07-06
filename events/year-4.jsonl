@@ -483,3 +483,4 @@
 {"eid": "e001610", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e001611", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
 {"eid": "e001612", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
+{"eid": "e001613", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
