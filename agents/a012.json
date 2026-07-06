@@ -1098,6 +1098,13 @@
    "text": "You've only got two food heading into next year \u2014 that's not enough if the pile comes up short again. Bram will give to me before he gives to you, but I'll make sure some of it reaches you; that's not charity, that's blood. Just stay visible, stay useful, and give Mako nothing to count against you.",
    "who": "Nessa",
    "year": 5
+  },
+  {
+   "eid": "e001916",
+   "kind": "give",
+   "text": "Bram gives 2 food to Nessa.",
+   "who": "Bram",
+   "year": 5
   }
  ],
  "memory_summary": "",
