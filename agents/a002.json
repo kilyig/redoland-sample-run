@@ -1581,6 +1581,13 @@
    "text": "Roan's going to need a reason, not just a warning \u2014 so when I find him I'll remind him that Bram walked away with ten food and Eron's going to need to eat for years yet, and let that land before I say anything about sides. Taric, keep your one food out of sight while you're standing visible; a hungry man with nothing shows is easier to dismiss, and I don't want Bram reading our numbers before we've finished counting them.",
    "who": "Vela",
    "year": 5
+  },
+  {
+   "eid": "e001837",
+   "kind": "say",
+   "text": "Good \u2014 then we split the work and meet back before dark. One thing I want said before we scatter: if either of you finds that Kael or Roan has already been approached by Mako's people, don't push, just listen and come back and tell me, because the worst thing we can do right now is drive a man toward the side he's still deciding against.",
+   "who": "Taric",
+   "year": 5
   }
  ],
  "memory_summary": "",
