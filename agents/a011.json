@@ -3219,6 +3219,13 @@
    "text": "Dell, take the food from your father and then walk \u2014 don't linger here where anyone can read the shape of us talking. And when you find Sela, remember she's not asking to be saved, she's asking to be seen; speak to her like a woman who's already made choices worth respecting.",
    "who": "Ryn",
    "year": 6
+  },
+  {
+   "eid": "e002247",
+   "kind": "say",
+   "text": "I hear you both \u2014 I'm going and I won't waste another breath here. But before I go, Ryn, you're sitting on five now with Dav's food and I've got three; if Mako moves on anyone while I'm walking toward Sela, don't stand alone \u2014 make noise and I'll come back running.",
+   "who": "Dell",
+   "year": 6
   }
  ],
  "memory_summary": "",
@@ -3230,7 +3237,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [],
  "strength": 85,
