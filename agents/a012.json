@@ -1616,6 +1616,13 @@
    "text": "Vela gives 1 food to Bram.",
    "who": "Vela",
    "year": 6
+  },
+  {
+   "eid": "e002289",
+   "kind": "convo",
+   "text": "Roan gathers Eron to talk.",
+   "who": "Roan",
+   "year": 6
   }
  ],
  "memory_summary": "",
