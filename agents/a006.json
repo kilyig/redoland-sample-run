@@ -1637,6 +1637,13 @@
    "text": "Taric gives 1 food to Esa.",
    "who": "Taric",
    "year": 4
+  },
+  {
+   "eid": "e001246",
+   "kind": "pass",
+   "text": "",
+   "who": "Taric",
+   "year": 4
   }
  ],
  "memory_summary": "",
