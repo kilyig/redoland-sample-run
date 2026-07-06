@@ -2823,6 +2823,13 @@
    "text": "Mako gathers Sela to talk.",
    "who": "Mako",
    "year": 5
+  },
+  {
+   "eid": "e001950",
+   "kind": "say",
+   "text": "Sela's had time to think, and Bram's been feeding Nessa well enough \u2014 if she's warmed to him over that, pushing harder right now would only push her away. Keep it light, leave the door open.\n\nRyn and Dell keep trading that one food back and forth \u2014 somebody's going to run short if it goes on much longer. Just something I noticed.",
+   "who": "Mako",
+   "year": 5
   }
  ],
  "memory_summary": "",
