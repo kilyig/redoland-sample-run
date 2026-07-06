@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 7,
+ "food": 8,
  "health": 2,
  "hp": 100,
  "id": "a007",
@@ -2906,6 +2906,13 @@
    "kind": "pass",
    "text": "",
    "who": "Sela",
+   "year": 5
+  },
+  {
+   "eid": "e001972",
+   "kind": "give",
+   "text": "Eron gives 1 food to Sela.",
+   "who": "Eron",
    "year": 5
   }
  ],
