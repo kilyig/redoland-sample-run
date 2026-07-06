@@ -286,3 +286,4 @@
 {"eid": "e000355", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e000356", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a005", "who": "Dav", "audience": ["a005"], "text": "", "payload": {}}
 {"eid": "e000357", "year": 2, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
+{"eid": "e000358", "year": 2, "phase": "convo", "kind": "convo", "speaker": "a006", "who": "Taric", "audience": ["a006", "a003"], "text": "Taric gathers Esa to talk.", "payload": {}}
