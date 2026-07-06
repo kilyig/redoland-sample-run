@@ -895,6 +895,13 @@
    "text": "Esa, go to Roan \u2014 and when you find him, tell him Taric's already in, because a man still weighing his options moves faster when he knows he's not the first. Ryn, I want to hear what you think Dav does if Mako finally opens his mouth and makes an offer, because your answer to that shapes everything else we're planning here.",
    "who": "Kael",
    "year": 3
+  },
+  {
+   "eid": "e000518",
+   "kind": "say",
+   "text": "Ryn, I'll take Kael's question off the table for a moment and name the thing underneath it \u2014 if Dav goes with Mako, you go with Dav, and then this circle is five against a wall we helped build. Before you answer Kael, I want to know whether you'd stay with us over the father of your child, because that's the answer that actually shapes what we plan.",
+   "who": "Vela",
+   "year": 3
   }
  ],
  "memory_summary": "",
