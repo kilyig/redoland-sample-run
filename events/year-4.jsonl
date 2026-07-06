@@ -103,3 +103,4 @@
 {"eid": "e001230", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e001231", "year": 4, "phase": "scramble", "kind": "give", "speaker": "a005", "who": "Dav", "audience": "public", "text": "Dav gives 1 food to Ryn.", "payload": {"target": "a009", "amount": 1}}
 {"eid": "e001232", "year": 4, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 1 food to Dav.", "payload": {"target": "a005", "amount": 1}}
+{"eid": "e001233", "year": 4, "phase": "convo", "kind": "convo", "speaker": "a003", "who": "Esa", "audience": ["a003", "a001", "a006"], "text": "Esa gathers Bram, Taric to talk.", "payload": {}}
