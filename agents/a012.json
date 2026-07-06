@@ -1525,6 +1525,13 @@
    "text": "Nessa gathers Eron to talk.",
    "who": "Nessa",
    "year": 6
+  },
+  {
+   "eid": "e002258",
+   "kind": "say",
+   "text": "Eron, the pile went dry before I could reach it \u2014 I'm sitting on four food and you've got nine, which means this year you're the one who looks worth watching. Don't let anyone see you spending freely, and if Mako starts talking to you, you come find me before you answer him.",
+   "who": "Nessa",
+   "year": 6
   }
  ],
  "memory_summary": "",
