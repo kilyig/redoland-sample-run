@@ -1126,6 +1126,13 @@
    "text": "Eron's Roan's blood, I understand that \u2014 I'm not trying to claim him, I'm saying I wouldn't let him starve while your child with me ate. If Mako or anyone else came for your food when things went lean, they'd have to come through me too, and that's not a number Roan alone can offer you. That's what standing for Eron looks like from where I'm standing.",
    "who": "Bram",
    "year": 4
+  },
+  {
+   "eid": "e001169",
+   "kind": "say",
+   "text": "Roan stood with Eron against Bram's raid last year \u2014 that means something to me, and I won't pretend it doesn't complicate what you're offering. But you're not wrong that six food and your arms together is a wall Roan can't build alone. Tell me this: if Roan objects, do you still hold to what you just said, or does the promise only stand if he's quiet about it?",
+   "who": "Sela",
+   "year": 4
   }
  ],
  "memory_summary": "",
