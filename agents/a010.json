@@ -1205,6 +1205,13 @@
    "text": "",
    "who": "Roan",
    "year": 4
+  },
+  {
+   "eid": "e001251",
+   "kind": "convo",
+   "text": "Kael gathers Vela, Esa, Sela, Ryn, Roan to talk.",
+   "who": "Kael",
+   "year": 4
   }
  ],
  "memory_summary": "",

@@ -121,3 +121,4 @@
 {"eid": "e001248", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a012", "who": "Eron", "audience": ["a012"], "text": "", "payload": {}}
 {"eid": "e001249", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e001250", "year": 4, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
+{"eid": "e001251", "year": 4, "phase": "convo", "kind": "convo", "speaker": "a004", "who": "Kael", "audience": ["a004", "a002", "a003", "a007", "a009", "a010"], "text": "Kael gathers Vela, Esa, Sela, Ryn, Roan to talk.", "payload": {}}

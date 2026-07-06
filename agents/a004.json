@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 48,
  "alive": true,
  "birth_year": 0,
@@ -929,6 +929,13 @@
    "kind": "give",
    "text": "Taric gives 1 food to Esa.",
    "who": "Taric",
+   "year": 4
+  },
+  {
+   "eid": "e001251",
+   "kind": "convo",
+   "text": "Kael gathers Vela, Esa, Sela, Ryn, Roan to talk.",
+   "who": "Kael",
    "year": 4
   }
  ],
