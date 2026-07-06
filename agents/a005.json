@@ -3116,6 +3116,13 @@
    "text": "Dell gathers Dav, Ryn to talk.",
    "who": "Dell",
    "year": 6
+  },
+  {
+   "eid": "e002241",
+   "kind": "say",
+   "text": "Mako's sitting on six, Bram on two and Nessa on whatever Bram's been feeding her \u2014 he's spread his food into a child and that's either the smartest thing he's done or the thing that finally makes him catchable. Ryn, you walked away empty again and I won't let that stand a third time; Dav, I need to know right now how much of your two you're keeping and how much you're giving her, because I want that settled before anyone else in this village starts asking us for favors.",
+   "who": "Dell",
+   "year": 6
   }
  ],
  "memory_summary": "",
