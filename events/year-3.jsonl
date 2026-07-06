@@ -631,3 +631,4 @@
 {"eid": "e001100", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
 {"eid": "e001101", "year": 3, "phase": "convo", "kind": "convo", "speaker": "a012", "who": "Eron", "audience": ["a012", "a010"], "text": "Eron gathers Roan to talk.", "payload": {}}
 {"eid": "e001102", "year": 3, "phase": "convo", "kind": "say", "speaker": "a012", "who": "Eron", "audience": ["a012", "a010"], "text": "You already gave me enough by being here \u2014 but tell me, are you watching Bram? Seven food, pile empty, and he's never been the kind to hold that much without thinking about how to turn it into something.", "payload": {}}
+{"eid": "e001103", "year": 3, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
