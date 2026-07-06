@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 6,
+ "food": 7,
  "health": 2,
  "hp": 100,
  "id": "a007",
@@ -2885,6 +2885,13 @@
    "kind": "give",
    "text": "Dell gives 1 food to Dav.",
    "who": "Dell",
+   "year": 5
+  },
+  {
+   "eid": "e001966",
+   "kind": "give",
+   "text": "Eron gives 1 food to Sela.",
+   "who": "Eron",
    "year": 5
   }
  ],
