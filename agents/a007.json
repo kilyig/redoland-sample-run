@@ -1674,6 +1674,13 @@
    "text": "Roan stood with Eron against Bram's raid last year \u2014 that means something to me, and I won't pretend it doesn't complicate what you're offering. But you're not wrong that six food and your arms together is a wall Roan can't build alone. Tell me this: if Roan objects, do you still hold to what you just said, or does the promise only stand if he's quiet about it?",
    "who": "Sela",
    "year": 4
+  },
+  {
+   "eid": "e001170",
+   "kind": "say",
+   "text": "Roan's feelings about it don't change what I said \u2014 the promise holds because it's built on what keeps your children alive, not on whether he approves of me. But I'll say this too: if he wants to object, he can come say it to my face, and we'll settle what kind of village this actually is.",
+   "who": "Bram",
+   "year": 4
   }
  ],
  "memory_summary": "",
