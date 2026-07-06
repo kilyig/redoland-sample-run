@@ -1,5 +1,5 @@
 {
- "actions_used_year": 2,
+ "actions_used_year": 3,
  "age": 25,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 4,
+ "food": 3,
  "health": 3,
  "hp": 100,
  "id": "a007",
@@ -1512,6 +1512,13 @@
    "kind": "birth",
    "text": "Eron (male, age 21; str 56, int 3745, mem 19627; O46 C27 E50 A59 N43) is born to Sela and Roan.",
    "who": "the village",
+   "year": 3
+  },
+  {
+   "eid": "e001055",
+   "kind": "give",
+   "text": "Sela gives 1 food to Eron.",
+   "who": "Sela",
    "year": 3
   }
  ],
