@@ -1,5 +1,5 @@
 {
- "actions_used_year": 3,
+ "actions_used_year": 4,
  "age": 44,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 0,
  "health": 2,
  "hp": 100,
  "id": "a005",
@@ -1805,6 +1805,13 @@
    "eid": "e001226",
    "kind": "pass",
    "text": "",
+   "who": "Dav",
+   "year": 4
+  },
+  {
+   "eid": "e001231",
+   "kind": "give",
+   "text": "Dav gives 1 food to Ryn.",
    "who": "Dav",
    "year": 4
   }
