@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 2,
  "health": 1,
  "hp": 100,
  "id": "a005",
@@ -2954,6 +2954,13 @@
    "kind": "give",
    "text": "Dav gives 1 food to Ryn.",
    "who": "Dav",
+   "year": 5
+  },
+  {
+   "eid": "e002034",
+   "kind": "give",
+   "text": "Dell gives 1 food to Dav.",
+   "who": "Dell",
    "year": 5
   }
  ],
