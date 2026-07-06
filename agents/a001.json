@@ -1,5 +1,5 @@
 {
- "actions_used_year": 7,
+ "actions_used_year": 8,
  "age": 32,
  "alive": true,
  "birth_year": 0,
@@ -305,6 +305,13 @@
    "eid": "e000202",
    "kind": "say",
    "text": "You keep asking what I'm offering like this is a market \u2014 maybe tell me first what you actually need, and I'll tell you if I've got it.",
+   "who": "Bram",
+   "year": 2
+  },
+  {
+   "eid": "e000206",
+   "kind": "convo",
+   "text": "Bram gathers Sela to talk.",
    "who": "Bram",
    "year": 2
   }

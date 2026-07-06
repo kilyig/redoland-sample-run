@@ -657,6 +657,13 @@
    "text": "You keep asking what I'm offering like this is a market \u2014 maybe tell me first what you actually need, and I'll tell you if I've got it.",
    "who": "Bram",
    "year": 2
+  },
+  {
+   "eid": "e000206",
+   "kind": "convo",
+   "text": "Bram gathers Sela to talk.",
+   "who": "Bram",
+   "year": 2
   }
  ],
  "memory_summary": "",
