@@ -986,6 +986,13 @@
    "text": "Pile's gone before half of us got near it \u2014 Vela took five, Dav took two and fed Ryn three more, and Mako walked away with two more on top of whatever he's still sitting on from last year. I'm at zero food and I need to know who in this room can spare one before the year closes, because a man who can't eat doesn't defend anyone. What are we each holding?",
    "who": "Kael",
    "year": 4
+  },
+  {
+   "eid": "e001253",
+   "kind": "say",
+   "text": "I've got two food and I'll give you one, Kael \u2014 a man at zero is a liability to himself and everyone standing near him, and I'd rather spend one now than watch you fold when it counts. But I want to know what happened at the pile, because I didn't get there in time and five to Vela in two pulls is something we should have stopped before it finished.",
+   "who": "Esa",
+   "year": 4
   }
  ],
  "memory_summary": "",
