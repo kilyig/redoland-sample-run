@@ -748,6 +748,27 @@
    "text": "",
    "who": "Sela",
    "year": 2
+  },
+  {
+   "eid": "e000345",
+   "kind": "proposal",
+   "text": "Bram draws Sela aside to talk.",
+   "who": "Bram",
+   "year": 2
+  },
+  {
+   "eid": "e000346",
+   "kind": "propose",
+   "text": "Bram: have a child with me \u2014 I'll put in 2 of 3 food.",
+   "who": "Bram",
+   "year": 2
+  },
+  {
+   "eid": "e000347",
+   "kind": "reject",
+   "text": "Sela declines.",
+   "who": "Sela",
+   "year": 2
   }
  ],
  "memory_summary": "",

@@ -1,5 +1,5 @@
 {
- "actions_used_year": 8,
+ "actions_used_year": 9,
  "age": 32,
  "alive": true,
  "birth_year": 0,
@@ -446,6 +446,27 @@
    "kind": "pass",
    "text": "",
    "who": "Bram",
+   "year": 2
+  },
+  {
+   "eid": "e000345",
+   "kind": "proposal",
+   "text": "Bram draws Sela aside to talk.",
+   "who": "Bram",
+   "year": 2
+  },
+  {
+   "eid": "e000346",
+   "kind": "propose",
+   "text": "Bram: have a child with me \u2014 I'll put in 2 of 3 food.",
+   "who": "Bram",
+   "year": 2
+  },
+  {
+   "eid": "e000347",
+   "kind": "reject",
+   "text": "Sela declines.",
+   "who": "Sela",
    "year": 2
   }
  ],
