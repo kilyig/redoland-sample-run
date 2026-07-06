@@ -1,6 +1,6 @@
 {
  "actions_used_year": 2,
- "age": 34,
+ "age": 35,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 5,
+ "food": 4,
  "health": 3,
  "hp": 100,
  "id": "a008",
@@ -201,6 +201,13 @@
    "kind": "give",
    "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
+   "year": 2
+  },
+  {
+   "eid": "e000466",
+   "kind": "eat",
+   "text": "eats 1 food",
+   "who": "Mako",
    "year": 2
   }
  ],

@@ -1,6 +1,6 @@
 {
  "actions_used_year": 7,
- "age": 46,
+ "age": 47,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 1,
  "health": 3,
  "hp": 100,
  "id": "a006",
@@ -543,6 +543,13 @@
    "eid": "e000451",
    "kind": "pass",
    "text": "",
+   "who": "Taric",
+   "year": 2
+  },
+  {
+   "eid": "e000464",
+   "kind": "eat",
+   "text": "eats 1 food",
    "who": "Taric",
    "year": 2
   }

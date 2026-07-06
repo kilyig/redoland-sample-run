@@ -1,6 +1,6 @@
 {
  "actions_used_year": 5,
- "age": 42,
+ "age": 43,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 1,
  "health": 3,
  "hp": 100,
  "id": "a005",
@@ -643,6 +643,13 @@
    "eid": "e000458",
    "kind": "pass",
    "text": "",
+   "who": "Dav",
+   "year": 2
+  },
+  {
+   "eid": "e000463",
+   "kind": "eat",
+   "text": "eats 1 food",
    "who": "Dav",
    "year": 2
   }
