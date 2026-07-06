@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 37,
  "alive": true,
  "birth_year": 0,
@@ -656,6 +656,13 @@
    "kind": "take",
    "text": "Dav takes 1 from the pile (pile now 0).",
    "who": "Dav",
+   "year": 5
+  },
+  {
+   "eid": "e001784",
+   "kind": "convo",
+   "text": "Mako gathers Sela to talk.",
+   "who": "Mako",
    "year": 5
   }
  ],

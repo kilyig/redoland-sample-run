@@ -2276,6 +2276,13 @@
    "text": "Take it \u2014 here.",
    "who": "Eron",
    "year": 5
+  },
+  {
+   "eid": "e001784",
+   "kind": "convo",
+   "text": "Mako gathers Sela to talk.",
+   "who": "Mako",
+   "year": 5
   }
  ],
  "memory_summary": "",
