@@ -1287,6 +1287,41 @@
    "text": "Esa joins the defenders.",
    "who": "the village",
    "year": 3
+  },
+  {
+   "eid": "e000669",
+   "kind": "join",
+   "text": "Taric joins the defenders.",
+   "who": "the village",
+   "year": 3
+  },
+  {
+   "eid": "e000670",
+   "kind": "join",
+   "text": "Vela joins the defenders.",
+   "who": "the village",
+   "year": 3
+  },
+  {
+   "eid": "e000671",
+   "kind": "join",
+   "text": "Ryn joins the defenders.",
+   "who": "the village",
+   "year": 3
+  },
+  {
+   "eid": "e000672",
+   "kind": "join",
+   "text": "Dav joins the defenders.",
+   "who": "the village",
+   "year": 3
+  },
+  {
+   "eid": "e000673",
+   "kind": "join",
+   "text": "Dell joins the defenders.",
+   "who": "the village",
+   "year": 3
   }
  ],
  "memory_summary": "",
