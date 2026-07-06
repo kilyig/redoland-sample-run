@@ -958,6 +958,13 @@
    "text": "Ryn, I've said what I can say and offered what I can offer \u2014 the next word in this room belongs to you, and the silence you're sitting in is starting to cost us more than whatever you're still working out. Give us your answer.",
    "who": "Vela",
    "year": 3
+  },
+  {
+   "eid": "e000527",
+   "kind": "say",
+   "text": "Ryn, I've watched you think long enough to know you're not slow \u2014 which means you're not still deciding, you've already decided and you're waiting for something. Tell us what that something is, because I'd rather give it to you than watch Vela's food sit unclaimed while we all pretend we're not holding our breath.",
+   "who": "Esa",
+   "year": 3
   }
  ],
  "memory_summary": "",
