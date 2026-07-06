@@ -307,6 +307,13 @@
    "text": "Nessa, you're sitting at three now and Eron I see you've been moving food around \u2014 where are you landing? I need to know we're all going to eat before I stop counting.",
    "who": "Zinn",
    "year": 6
+  },
+  {
+   "eid": "e002447",
+   "kind": "convo",
+   "text": "Mako gathers Zinn to talk.",
+   "who": "Mako",
+   "year": 6
   }
  ],
  "memory_summary": "",
