@@ -3793,6 +3793,13 @@
    "text": "Ryn joins the attackers.",
    "who": "the village",
    "year": 6
+  },
+  {
+   "eid": "e002669",
+   "kind": "muster",
+   "text": "Attackers [Ryn, Dav, Dell] (str 236) vs defenders [Esa] (str 33).",
+   "who": "the village",
+   "year": 6
   }
  ],
  "memory_summary": "",
