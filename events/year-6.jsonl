@@ -192,3 +192,4 @@
 {"eid": "e002422", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela gives 1 food to Taric.", "payload": {"target": "a006", "amount": 1}}
 {"eid": "e002423", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
 {"eid": "e002424", "year": 6, "phase": "scramble", "kind": "pass", "speaker": "a013", "who": "Nessa", "audience": ["a013"], "text": "", "payload": {}}
+{"eid": "e002425", "year": 6, "phase": "scramble", "kind": "give", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela gives 1 food to Zinn.", "payload": {"target": "a014", "amount": 1}}

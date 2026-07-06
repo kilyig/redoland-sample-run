@@ -3933,6 +3933,13 @@
    "text": "",
    "who": "Taric",
    "year": 6
+  },
+  {
+   "eid": "e002425",
+   "kind": "give",
+   "text": "Sela gives 1 food to Zinn.",
+   "who": "Sela",
+   "year": 6
   }
  ],
  "memory_summary": "",
