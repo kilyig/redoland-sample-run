@@ -2731,6 +2731,13 @@
    "text": "Vela, I've watched you five years and I know you don't give without a reason \u2014 so give us the reason now, because what Kael just offered you is the best deal in this room: say the thing and we carry it with you, or stay silent and carry it alone while we start wondering what else you haven't said.",
    "who": "Esa",
    "year": 6
+  },
+  {
+   "eid": "e002310",
+   "kind": "say",
+   "text": "Vela, the room's gone quiet and that silence is the last thing standing between you and us deciding you've already made your choice \u2014 so I'll say it one final time and I'll mean every word: Bram is not your family, he is not your blood, and whatever he offered you isn't worth what you'll lose here when Mako finally moves and you're standing on the wrong side of it.",
+   "who": "Kael",
+   "year": 6
   }
  ],
  "memory_summary": "",
