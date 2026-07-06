@@ -3149,6 +3149,13 @@
    "text": "Vela gives 1 food to Esa.",
    "who": "Vela",
    "year": 5
+  },
+  {
+   "eid": "e002090",
+   "kind": "pass",
+   "text": "",
+   "who": "Taric",
+   "year": 5
   }
  ],
  "memory_summary": "",
