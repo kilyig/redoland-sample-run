@@ -235,3 +235,4 @@
 {"eid": "e003032", "year": 7, "phase": "convo", "kind": "say", "speaker": "a002", "who": "Vela", "audience": ["a002", "a001", "a003", "a006", "a010"], "text": "Bram, the room's still waiting and I'm not going to let it fill with my own voice again \u2014 you've heard what I'm asking, you know what I've given, and a man who doesn't answer when the question's this plain has already answered.", "payload": {}}
 {"eid": "e003033", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e003034", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
+{"eid": "e003035", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
