@@ -4075,6 +4075,13 @@
    "text": "Vela gathers Bram, Esa, Taric, Roan to talk.",
    "who": "Vela",
    "year": 7
+  },
+  {
+   "eid": "e002955",
+   "kind": "say",
+   "text": "Bram, I've fed you three times over the years and I've never asked for more than the door staying open \u2014 I'm asking now: if Mako moves on anyone in this room, will you stand with us, and I want your answer before the others give theirs, because yours is the one that decides the weight of the rest.",
+   "who": "Vela",
+   "year": 7
   }
  ],
  "memory_summary": "",
