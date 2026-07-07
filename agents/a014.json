@@ -1378,6 +1378,13 @@
    "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
    "year": 7
+  },
+  {
+   "eid": "e002993",
+   "kind": "convo",
+   "text": "Mako gathers Zinn to talk.",
+   "who": "Mako",
+   "year": 7
   }
  ],
  "memory_summary": "",
