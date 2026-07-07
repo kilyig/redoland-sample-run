@@ -4850,6 +4850,13 @@
    "text": "Kael gathers Esa, Taric, Roan to talk.",
    "who": "Kael",
    "year": 7
+  },
+  {
+   "eid": "e002865",
+   "kind": "say",
+   "text": "Ryn just handed Dell two food without blinking, which means that cluster is feeding itself now and not looking our way \u2014 so I want to know, before the day gets older, whether the three of you are still standing where you were, because I've got five food and I'm not spending any of it until I know who's next to me when Mako decides quiet is over.",
+   "who": "Kael",
+   "year": 7
   }
  ],
  "memory_summary": "",
