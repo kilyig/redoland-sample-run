@@ -2442,6 +2442,13 @@
    "text": "Eron, you're at four food and Zinn's at nine \u2014 between the three of us we're sitting heavier than most, but I want to know what either of you heard near the pile this morning, because Kael walked away with three and didn't say a word to anyone about it, and that's new for him.",
    "who": "Nessa",
    "year": 7
+  },
+  {
+   "eid": "e002845",
+   "kind": "say",
+   "text": "Kael's been quiet all year and then takes three without a word \u2014 that's a man deciding he's done asking permission. I didn't hear anything near the pile, but I've got eyes: Dell's sitting at eight, I'm at nine, and if Kael starts thinking about what's heavy he'll look our way before he looks at Roan.",
+   "who": "Zinn",
+   "year": 7
   }
  ],
  "memory_summary": "",
