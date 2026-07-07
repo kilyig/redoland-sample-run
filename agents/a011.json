@@ -3989,6 +3989,13 @@
    "text": "You lead, I'll hold the frame behind you \u2014 but if he asks about food, I'm the one who answers, because I've got six left and that number lands louder than anything either of us can say about loyalty.",
    "who": "Dell",
    "year": 7
+  },
+  {
+   "eid": "e002832",
+   "kind": "say",
+   "text": "Then we're done talking in this room \u2014 let's move before the light shifts and Roan reads the timing wrong.",
+   "who": "Ryn",
+   "year": 7
   }
  ],
  "memory_summary": "",
