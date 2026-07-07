@@ -2526,6 +2526,13 @@
    "text": "Nessa gives 1 food to Eron.",
    "who": "Nessa",
    "year": 7
+  },
+  {
+   "eid": "e002861",
+   "kind": "give",
+   "text": "Dell gives 2 food to Ryn.",
+   "who": "Dell",
+   "year": 7
   }
  ],
  "memory_summary": "",
