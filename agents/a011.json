@@ -3996,6 +3996,13 @@
    "text": "Then we're done talking in this room \u2014 let's move before the light shifts and Roan reads the timing wrong.",
    "who": "Ryn",
    "year": 7
+  },
+  {
+   "eid": "e002860",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Eron.",
+   "who": "Nessa",
+   "year": 7
   }
  ],
  "memory_summary": "",

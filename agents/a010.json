@@ -3725,6 +3725,13 @@
    "text": "Ryn, I'm listening and I won't pretend the timing doesn't help \u2014 but before I say whether the trust runs both ways, I want to know what changed, because last year I watched you stand with Dell and Dav when they stripped Esa's food, and that's not a small thing to step past. Tell me what you're offering and what you want back, and I'll tell you where I stand.",
    "who": "Roan",
    "year": 7
+  },
+  {
+   "eid": "e002860",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Eron.",
+   "who": "Nessa",
+   "year": 7
   }
  ],
  "memory_summary": "",

@@ -951,6 +951,13 @@
    "text": "Eron, go now while Roan's still alone \u2014 and when you come back, tell me what his face does when you hand it to him, because a man's face on a gift tells you more than the words he puts around it.",
    "who": "Nessa",
    "year": 7
+  },
+  {
+   "eid": "e002860",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Eron.",
+   "who": "Nessa",
+   "year": 7
   }
  ],
  "memory_summary": "",
