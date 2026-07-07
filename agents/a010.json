@@ -3816,6 +3816,13 @@
    "text": "Roan, move \u2014 and when you find Eron, ask him where Mako was standing when Zinn took three from the pile this morning, because a man who lets his newborn daughter hoard while the rest of us scramble isn't thinking like a neighbor. Esa, Taric \u2014 while he goes, I want us to sit with one question: if Bram's already in Mako's ear, what does he want to hear, and can we make sure he hears something different from us first.",
    "who": "Kael",
    "year": 7
+  },
+  {
+   "eid": "e002881",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 7
   }
  ],
  "memory_summary": "",
