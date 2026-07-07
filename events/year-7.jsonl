@@ -199,3 +199,4 @@
 {"eid": "e002996", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e002997", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e002998", "year": 7, "phase": "scramble", "kind": "give", "speaker": "a006", "who": "Taric", "audience": "public", "text": "Taric gives 1 food to Vela.", "payload": {"target": "a002", "amount": 1}}
+{"eid": "e002999", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
