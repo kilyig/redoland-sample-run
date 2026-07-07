@@ -158,3 +158,4 @@
 {"eid": "e002955", "year": 7, "phase": "convo", "kind": "say", "speaker": "a002", "who": "Vela", "audience": ["a002", "a001", "a003", "a006", "a010"], "text": "Bram, I've fed you three times over the years and I've never asked for more than the door staying open \u2014 I'm asking now: if Mako moves on anyone in this room, will you stand with us, and I want your answer before the others give theirs, because yours is the one that decides the weight of the rest.", "payload": {}}
 {"eid": "e002956", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e002957", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
+{"eid": "e002958", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
