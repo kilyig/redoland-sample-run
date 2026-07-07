@@ -860,6 +860,13 @@
    "text": "Zinn takes 3 from the pile (pile now 0).",
    "who": "Zinn",
    "year": 7
+  },
+  {
+   "eid": "e002843",
+   "kind": "convo",
+   "text": "Nessa gathers Eron, Zinn to talk.",
+   "who": "Nessa",
+   "year": 7
   }
  ],
  "memory_summary": "",
