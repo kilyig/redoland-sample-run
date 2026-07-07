@@ -3704,6 +3704,13 @@
    "text": "Go, then \u2014 and tell nobody where you're headed or what you're asking, not even Kael. If someone asks why you're moving, you're checking on Sela. That's all.",
    "who": "Roan",
    "year": 7
+  },
+  {
+   "eid": "e002857",
+   "kind": "convo",
+   "text": "Ryn gathers Roan to talk.",
+   "who": "Ryn",
+   "year": 7
   }
  ],
  "memory_summary": "",
