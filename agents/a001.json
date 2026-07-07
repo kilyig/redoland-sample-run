@@ -3088,6 +3088,13 @@
    "text": "Taric you know I trust, so I'll say the hard thing first: Bram, I was in the line that stopped you taking Roan, and I know you haven't forgotten it \u2014 but Dav's dead now, and Ryn and Dell stripped two food from me with his help, and the village is smaller and colder than it was. I'm not asking you to forget what happened between us, I'm asking whether we can agree that the people who hurt us both are a more pressing problem than the old score between us.",
    "who": "Esa",
    "year": 7
+  },
+  {
+   "eid": "e002803",
+   "kind": "say",
+   "text": "Ryn and Dell took from you and you stood in my way when I needed food \u2014 those are two different debts, and I'll keep them separate. But you're right that a smaller village makes old grudges expensive, and I've got eyes on the pile same as you. Say what you're actually proposing.",
+   "who": "Bram",
+   "year": 7
   }
  ],
  "memory_summary": "",
@@ -3096,7 +3103,7 @@
  "name": "Bram",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "male",
  "siblings": [],
  "strength": 58,
