@@ -2393,6 +2393,13 @@
    "text": "Kael I can read \u2014 he's old and careful and three from the pile is a man making sure he eats, not a man building something. Zinn is the one that sits wrong with me; she's Mako's blood, she's got his strength, and if those two are moving together they're the most dangerous pair in this village right now. I'm going to find Nessa before nightfall and ask her what she's seen of Zinn's loyalties, because we need to know whether she's ours or his before we find out the hard way.",
    "who": "Eron",
    "year": 7
+  },
+  {
+   "eid": "e002838",
+   "kind": "say",
+   "text": "Nessa's the right door \u2014 she's fed you four times and she gave to Zinn directly, so she's got a read on that girl that we don't. But go careful with how you ask it; Nessa's Bram's blood too, and a question about Zinn's loyalties can double as a question about her own. Come back to me before you do anything with what she tells you.",
+   "who": "Roan",
+   "year": 7
   }
  ],
  "memory_summary": "",
