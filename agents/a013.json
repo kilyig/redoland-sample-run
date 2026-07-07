@@ -1833,6 +1833,13 @@
    "text": "Nessa's right that Roan's available and Eron's got food to offer, but Roan's got nothing and nothing to lose \u2014 a man like that is as likely to go with whoever asks last as whoever asks first, so don't make a deal you can't keep. What I want to know before any of us approaches anyone is whether Dell already knows our numbers, because if she's been watching the pile as close as she's been feeding Ryn, she counted us this morning same as we counted her.",
    "who": "Zinn",
    "year": 7
+  },
+  {
+   "eid": "e002851",
+   "kind": "say",
+   "text": "Dell counted us this morning, same as we counted her \u2014 that's not a question, that's the shape of things. What matters is whether she sees us as three separate counts or one number, and right now we haven't given her a reason to see us as one. Eron, before you go to Roan, I want the three of us to be clear on what we're offering him and what we're not, because a promise made in a hurry is the kind Roan will hold you to when it's inconvenient.",
+   "who": "Nessa",
+   "year": 7
   }
  ],
  "memory_summary": "",
@@ -1844,7 +1851,7 @@
   "a001"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [
   "a012",
