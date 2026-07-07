@@ -902,6 +902,13 @@
    "text": "Dell feeding Ryn all year with eight food and no obvious source \u2014 that's not generosity, that's investment, and I want to know what Ryn's supposed to return. Zinn, talk to Mako before he starts counting your pile as his, and Nessa, you're closer to Bram's ear than either of us \u2014 has he said anything about Dell or Ryn that would tell us what that pair is building?",
    "who": "Eron",
    "year": 7
+  },
+  {
+   "eid": "e002849",
+   "kind": "say",
+   "text": "Bram hasn't named Dell or Ryn directly, but last year when Dav moved on Esa and those two joined in without a word of warning, Bram went very still \u2014 and that kind of still from him means he's filing it away, not dismissing it. What Dell and Ryn built isn't food, it's a habit of moving together, and that's worth more than eight in a fight. Eron, you're the one with something to offer Roan right now \u2014 go find him before Dell does.",
+   "who": "Nessa",
+   "year": 7
   }
  ],
  "memory_summary": "",
