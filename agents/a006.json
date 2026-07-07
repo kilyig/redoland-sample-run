@@ -4738,6 +4738,13 @@
    "text": "Dell's got eighty-five strength and Ryn's no small number either \u2014 if we move on them, we need to know exactly who stands up before we commit, because I'm not walking into another eight-on-one. Tell me who you've already talked to, and tell me honest.",
    "who": "Bram",
    "year": 7
+  },
+  {
+   "eid": "e002806",
+   "kind": "say",
+   "text": "Kael and Roan stood with us against you before, Bram, and they've got no love for Ryn after she watched Dav take from me \u2014 that's four of us against two, and Roan's been hungry enough that he'll want what they're holding. I haven't spoken to them yet today, but I can, and I will, if you're in.",
+   "who": "Esa",
+   "year": 7
   }
  ],
  "memory_summary": "",
