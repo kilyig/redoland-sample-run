@@ -1175,6 +1175,13 @@
    "text": "Mako gathers Zinn to talk.",
    "who": "Mako",
    "year": 7
+  },
+  {
+   "eid": "e002938",
+   "kind": "say",
+   "text": "Bram's going to come to you too \u2014 a man who needs numbers always works outward from the center. Nine food makes you look useful to him, and useful to Bram has a way of turning expensive.",
+   "who": "Mako",
+   "year": 7
   }
  ],
  "memory_summary": "",
