@@ -5095,6 +5095,13 @@
    "text": "",
    "who": "Taric",
    "year": 7
+  },
+  {
+   "eid": "e002940",
+   "kind": "convo",
+   "text": "Vela gathers Bram, Esa, Taric, Roan to talk.",
+   "who": "Vela",
+   "year": 7
   }
  ],
  "memory_summary": "",
