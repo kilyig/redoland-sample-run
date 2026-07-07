@@ -91,3 +91,4 @@
 {"eid": "e002888", "year": 7, "phase": "scramble", "kind": "give", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa gives 1 food to Eron.", "payload": {"target": "a012", "amount": 1}}
 {"eid": "e002889", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e002890", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
+{"eid": "e002891", "year": 7, "phase": "scramble", "kind": "give", "speaker": "a012", "who": "Eron", "audience": "public", "text": "Eron gives 1 food to Roan.", "payload": {"target": "a010", "amount": 1}}
