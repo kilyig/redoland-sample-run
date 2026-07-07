@@ -1042,6 +1042,13 @@
    "text": "Mako gathers Zinn to talk.",
    "who": "Mako",
    "year": 7
+  },
+  {
+   "eid": "e002893",
+   "kind": "say",
+   "text": "Zinn, you pulled three from the pile and you're sitting on nine \u2014 that's more food than anyone except Dell right now, and people notice. Don't give it away faster than you earn trust back from it, but keep an eye on who comes to you asking.",
+   "who": "Mako",
+   "year": 7
   }
  ],
  "memory_summary": "",
