@@ -3982,6 +3982,13 @@
    "text": "Roan's door, then \u2014 and when we get there, let me speak first, because a mother's voice lands different than a daughter's when the ask is about the years ahead and not just the food in hand.",
    "who": "Ryn",
    "year": 7
+  },
+  {
+   "eid": "e002831",
+   "kind": "say",
+   "text": "You lead, I'll hold the frame behind you \u2014 but if he asks about food, I'm the one who answers, because I've got six left and that number lands louder than anything either of us can say about loyalty.",
+   "who": "Dell",
+   "year": 7
   }
  ],
  "memory_summary": "",
@@ -3993,7 +4000,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [],
  "strength": 85,
