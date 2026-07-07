@@ -1623,6 +1623,13 @@
    "text": "Nessa joins the defenders.",
    "who": "the village",
    "year": 7
+  },
+  {
+   "eid": "e003075",
+   "kind": "muster",
+   "text": "Attackers [Bram] (str 58) vs defenders [Zinn, Roan, Vela, Ryn, Mako, Nessa, Sela, Esa, Eron, Taric, Kael, Dell] (str 705).",
+   "who": "the village",
+   "year": 7
   }
  ],
  "memory_summary": "",
