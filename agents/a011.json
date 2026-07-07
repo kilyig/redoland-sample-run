@@ -3933,6 +3933,13 @@
    "text": "Dav is gone and I've got eight food and the pile's empty \u2014 tell me where you're at, because I'm not going to watch you starve in the same year I watched my father go.",
    "who": "Dell",
    "year": 7
+  },
+  {
+   "eid": "e002824",
+   "kind": "say",
+   "text": "Four food in my hands, satiation holding \u2014 I'm not starving yet, Dell. But I won't pretend Dav going doesn't leave a hole where there used to be a wall, and I need to know right now who in this village you trust enough to stand next to when the year gets hard, because I'm forty-four and I'm done building plans around men who aren't here anymore.",
+   "who": "Ryn",
+   "year": 7
   }
  ],
  "memory_summary": "",
