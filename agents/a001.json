@@ -3221,6 +3221,13 @@
    "text": "Zinn takes 3 from the pile (pile now 0).",
    "who": "Zinn",
    "year": 7
+  },
+  {
+   "eid": "e002856",
+   "kind": "pass",
+   "text": "",
+   "who": "Bram",
+   "year": 7
   }
  ],
  "memory_summary": "",
