@@ -196,3 +196,4 @@
 {"eid": "e002993", "year": 7, "phase": "convo", "kind": "convo", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "Mako gathers Zinn to talk.", "payload": {}}
 {"eid": "e002994", "year": 7, "phase": "convo", "kind": "say", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "Dell and Ryn trade food like breathing \u2014 it's habit, not a pact, and habit breaks when the pile comes up short. I don't trust Bram's math on a fight and I don't trust him to share whatever he takes. Let him ask me; I'll smile and give him nothing.", "payload": {}}
 {"eid": "e002995", "year": 7, "phase": "scramble", "kind": "give", "speaker": "a006", "who": "Taric", "audience": "public", "text": "Taric gives 1 food to Vela.", "payload": {"target": "a002", "amount": 1}}
+{"eid": "e002996", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}

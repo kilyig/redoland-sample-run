@@ -3590,6 +3590,13 @@
    "text": "Taric gives 1 food to Vela.",
    "who": "Taric",
    "year": 7
+  },
+  {
+   "eid": "e002996",
+   "kind": "pass",
+   "text": "",
+   "who": "Vela",
+   "year": 7
   }
  ],
  "memory_summary": "",
