@@ -1,38 +1,12 @@
 {
  "branch": "main",
  "cursor": {
-  "fight": {
-   "attackers": [
-    "a001"
-   ],
-   "defenders": [
-    "a002",
-    "a003",
-    "a004",
-    "a006",
-    "a007",
-    "a008",
-    "a009",
-    "a010",
-    "a011",
-    "a012",
-    "a013",
-    "a014"
-   ],
-   "demand": 2,
-   "fallen": [],
-   "initiator": "a001",
-   "muster_pass": 5,
-   "round": 0,
-   "sub": "decide",
-   "target": "a002"
-  },
   "last": "a001",
-  "phase": "fight",
+  "phase": "scramble",
   "steps": 194
  },
  "next_aid": 14,
- "next_eid": 3075,
+ "next_eid": 3076,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,

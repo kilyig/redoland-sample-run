@@ -3849,6 +3849,13 @@
    "text": "Attackers [Bram] (str 58) vs defenders [Zinn, Roan, Vela, Ryn, Mako, Nessa, Sela, Esa, Eron, Taric, Kael, Dell] (str 705).",
    "who": "the village",
    "year": 7
+  },
+  {
+   "eid": "e003076",
+   "kind": "cancel",
+   "text": "Bram thinks better of it and calls off the attack.",
+   "who": "the village",
+   "year": 7
   }
  ],
  "memory_summary": "",
