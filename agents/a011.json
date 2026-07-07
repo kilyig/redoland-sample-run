@@ -4381,6 +4381,13 @@
    "text": "",
    "who": "Dell",
    "year": 7
+  },
+  {
+   "eid": "e003029",
+   "kind": "give",
+   "text": "Zinn gives 1 food to Sela.",
+   "who": "Zinn",
+   "year": 7
   }
  ],
  "memory_summary": "",
