@@ -986,6 +986,13 @@
    "text": "Three food, and I'm holding it. Eron, don't answer that out loud \u2014 what we carry isn't something Sela needs to worry about, because she's fed, and the less any number gets spoken, the less it travels.",
    "who": "Nessa",
    "year": 7
+  },
+  {
+   "eid": "e002877",
+   "kind": "say",
+   "text": "Nessa's right that numbers travel, but I'm your mother and I need to know \u2014 not to take, to plan. Zinn, you and Eron can stay quiet if you want, but at least tell me you're both above one food so I can stop doing the math in my chest.",
+   "who": "Sela",
+   "year": 7
   }
  ],
  "memory_summary": "",
