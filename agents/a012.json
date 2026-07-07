@@ -2365,6 +2365,13 @@
    "text": "Roan gathers Eron to talk.",
    "who": "Roan",
    "year": 7
+  },
+  {
+   "eid": "e002834",
+   "kind": "say",
+   "text": "The pile's gone and I got nothing \u2014 I was too slow and now I'm sitting at zero food with a year to survive on it. Tell me you got something before the quick hands cleared it, and tell me you're not planning to carry me the whole year because I won't have that.",
+   "who": "Roan",
+   "year": 7
   }
  ],
  "memory_summary": "",
