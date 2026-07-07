@@ -5144,6 +5144,13 @@
    "text": "Dell gives 1 food to Ryn.",
    "who": "Dell",
    "year": 7
+  },
+  {
+   "eid": "e002954",
+   "kind": "convo",
+   "text": "Vela gathers Bram, Esa, Taric, Roan to talk.",
+   "who": "Vela",
+   "year": 7
   }
  ],
  "memory_summary": "",
