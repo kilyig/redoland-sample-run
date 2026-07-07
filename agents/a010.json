@@ -1,5 +1,5 @@
 {
- "actions_used_year": 2,
+ "actions_used_year": 3,
  "age": 38,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 0,
  "health": 2,
  "hp": 100,
  "id": "a010",
@@ -3927,6 +3927,13 @@
    "kind": "say",
    "text": "Dav is dead and his household is loose \u2014 Ryn and Dell are still moving together, but they've got no man behind them now and Mako's been feeding Zinn quietly for months, which means he's already thinking about what comes next. I want to know who in this room saw that raid on Esa coming, and whether any of you are willing to say plainly that we don't let the next one go unanswered.",
    "who": "Vela",
+   "year": 7
+  },
+  {
+   "eid": "e002910",
+   "kind": "give",
+   "text": "Roan gives 1 food to Eron.",
+   "who": "Roan",
    "year": 7
   }
  ],
