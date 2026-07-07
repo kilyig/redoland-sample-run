@@ -944,6 +944,13 @@
    "text": "Eron, go to Roan before the day gets long \u2014 and keep it short, one food and we stand with you, nothing else. I'll find Mako and settle what's mine before he starts counting it as his.",
    "who": "Zinn",
    "year": 7
+  },
+  {
+   "eid": "e002855",
+   "kind": "say",
+   "text": "Eron, go now while Roan's still alone \u2014 and when you come back, tell me what his face does when you hand it to him, because a man's face on a gift tells you more than the words he puts around it.",
+   "who": "Nessa",
+   "year": 7
   }
  ],
  "memory_summary": "",
