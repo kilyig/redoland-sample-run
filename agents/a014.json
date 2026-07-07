@@ -1049,6 +1049,13 @@
    "text": "Zinn, you pulled three from the pile and you're sitting on nine \u2014 that's more food than anyone except Dell right now, and people notice. Don't give it away faster than you earn trust back from it, but keep an eye on who comes to you asking.",
    "who": "Mako",
    "year": 7
+  },
+  {
+   "eid": "e002894",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Eron.",
+   "who": "Nessa",
+   "year": 7
   }
  ],
  "memory_summary": "",
