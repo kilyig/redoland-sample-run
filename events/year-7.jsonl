@@ -106,3 +106,4 @@
 {"eid": "e002903", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
 {"eid": "e002904", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a013", "who": "Nessa", "audience": ["a013"], "text": "", "payload": {}}
 {"eid": "e002905", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
+{"eid": "e002906", "year": 7, "phase": "convo", "kind": "convo", "speaker": "a002", "who": "Vela", "audience": ["a002", "a001", "a003", "a006", "a010"], "text": "Vela gathers Bram, Esa, Taric, Roan to talk.", "payload": {}}

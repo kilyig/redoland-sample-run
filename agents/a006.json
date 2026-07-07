@@ -4976,6 +4976,13 @@
    "text": "Roan gives 1 food to Eron.",
    "who": "Roan",
    "year": 7
+  },
+  {
+   "eid": "e002906",
+   "kind": "convo",
+   "text": "Vela gathers Bram, Esa, Taric, Roan to talk.",
+   "who": "Vela",
+   "year": 7
   }
  ],
  "memory_summary": "",
