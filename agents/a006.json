@@ -4899,6 +4899,13 @@
    "text": "Kael's right about Bram being the price \u2014 but I want to know what price before we pay it, because a man who tried to raid this village once and walked away empty doesn't come cheap when he thinks he's needed. Roan, go to Eron first, not Sela, not Mako \u2014 your son will tell you true before he thinks to protect anyone else. Come back fast.",
    "who": "Taric",
    "year": 7
+  },
+  {
+   "eid": "e002872",
+   "kind": "say",
+   "text": "Taric named the price question right, and I'll add the shape of it: Bram will want to know he's first among equals when this settles, and if we let him believe that without ever saying it aloud, we buy the alliance without signing the contract. Roan, go to Eron now \u2014 every minute we spend talking is a minute Bram's already in Mako's ear.",
+   "who": "Esa",
+   "year": 7
   }
  ],
  "memory_summary": "",
