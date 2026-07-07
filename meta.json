@@ -6,12 +6,15 @@
     "a001"
    ],
    "defenders": [
-    "a002"
+    "a002",
+    "a003",
+    "a006",
+    "a010"
    ],
    "demand": 2,
    "fallen": [],
    "initiator": "a001",
-   "muster_pass": 0,
+   "muster_pass": 1,
    "round": 0,
    "sub": "muster",
    "target": "a002"
@@ -21,7 +24,7 @@
   "steps": 194
  },
  "next_aid": 14,
- "next_eid": 3063,
+ "next_eid": 3066,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,

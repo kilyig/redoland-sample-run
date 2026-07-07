@@ -1546,6 +1546,27 @@
    "text": "Bram moves to attack Vela.",
    "who": "the village",
    "year": 7
+  },
+  {
+   "eid": "e003064",
+   "kind": "join",
+   "text": "Taric joins the defenders.",
+   "who": "the village",
+   "year": 7
+  },
+  {
+   "eid": "e003065",
+   "kind": "join",
+   "text": "Esa joins the defenders.",
+   "who": "the village",
+   "year": 7
+  },
+  {
+   "eid": "e003066",
+   "kind": "join",
+   "text": "Roan joins the defenders.",
+   "who": "the village",
+   "year": 7
   }
  ],
  "memory_summary": "",
