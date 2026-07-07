@@ -2386,6 +2386,13 @@
    "text": "I'll take it, and I won't pretend I don't need it \u2014 but that's the last I take from you this year unless the ground falls out from under both of us. Four is thin enough as it is; you hold the rest and you watch who's sitting heavy, because Kael pulled three from the pile and Zinn took three more, and one of those two is going to draw eyes before the year is out.",
    "who": "Roan",
    "year": 7
+  },
+  {
+   "eid": "e002837",
+   "kind": "say",
+   "text": "Kael I can read \u2014 he's old and careful and three from the pile is a man making sure he eats, not a man building something. Zinn is the one that sits wrong with me; she's Mako's blood, she's got his strength, and if those two are moving together they're the most dangerous pair in this village right now. I'm going to find Nessa before nightfall and ask her what she's seen of Zinn's loyalties, because we need to know whether she's ours or his before we find out the hard way.",
+   "who": "Eron",
+   "year": 7
   }
  ],
  "memory_summary": "",
@@ -2397,7 +2404,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "male",
  "siblings": [
   "a013",
