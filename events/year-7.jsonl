@@ -290,3 +290,4 @@
 {"eid": "e003087", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a014", "who": "Zinn", "audience": ["a014"], "text": "", "payload": {}}
 {"eid": "e003088", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e003089", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
+{"eid": "e003090", "year": 7, "phase": "convo", "kind": "convo", "speaker": "a002", "who": "Vela", "audience": ["a002", "a003", "a006", "a010"], "text": "Vela gathers Esa, Taric, Roan to talk.", "payload": {}}
