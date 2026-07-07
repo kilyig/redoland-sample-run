@@ -5501,6 +5501,13 @@
    "text": "Zinn joins the defenders.",
    "who": "the village",
    "year": 7
+  },
+  {
+   "eid": "e003074",
+   "kind": "join",
+   "text": "Nessa joins the defenders.",
+   "who": "the village",
+   "year": 7
   }
  ],
  "memory_summary": "",
