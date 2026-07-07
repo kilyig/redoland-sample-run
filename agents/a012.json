@@ -2379,6 +2379,13 @@
    "text": "Father, I got nothing from the pile either \u2014 we're both at zero from there, but I came into the year with four held over, so I'm at four total. Take one from me right now; you need to eat before anything else, and one food isn't the difference between my safety and yours.",
    "who": "Eron",
    "year": 7
+  },
+  {
+   "eid": "e002836",
+   "kind": "say",
+   "text": "I'll take it, and I won't pretend I don't need it \u2014 but that's the last I take from you this year unless the ground falls out from under both of us. Four is thin enough as it is; you hold the rest and you watch who's sitting heavy, because Kael pulled three from the pile and Zinn took three more, and one of those two is going to draw eyes before the year is out.",
+   "who": "Roan",
+   "year": 7
   }
  ],
  "memory_summary": "",
