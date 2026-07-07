@@ -121,3 +121,4 @@
 {"eid": "e002918", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a013", "who": "Nessa", "audience": ["a013"], "text": "", "payload": {}}
 {"eid": "e002919", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e002920", "year": 7, "phase": "convo", "kind": "convo", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "Mako gathers Zinn to talk.", "payload": {}}
+{"eid": "e002921", "year": 7, "phase": "convo", "kind": "say", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "Bram came to me before the pile opened this morning \u2014 said something about moving against Dell and Ryn, wanted to know if I'd stand with him. I didn't give him a word either way, but I want you to know before he gets to you.", "payload": {}}
