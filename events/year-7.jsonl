@@ -86,3 +86,4 @@
 {"eid": "e002883", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e002884", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
 {"eid": "e002885", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
+{"eid": "e002886", "year": 7, "phase": "convo", "kind": "convo", "speaker": "a011", "who": "Dell", "audience": ["a011", "a010", "a009"], "text": "Dell gathers Roan, Ryn to talk.", "payload": {}}
