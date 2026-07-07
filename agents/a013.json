@@ -2099,6 +2099,13 @@
    "text": "Sela gathers Eron, Nessa, Zinn to talk.",
    "who": "Sela",
    "year": 7
+  },
+  {
+   "eid": "e002949",
+   "kind": "say",
+   "text": "Eron's given me two food while I was sitting here \u2014 I see that, and I'm not going to pretend it doesn't answer part of my question. What I need now is the same from Zinn: a number, not a direction, because I can't plan with a compass when I need a map.",
+   "who": "Sela",
+   "year": 7
   }
  ],
  "memory_summary": "",
