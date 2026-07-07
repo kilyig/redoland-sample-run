@@ -4019,6 +4019,13 @@
    "text": "Vela gathers Bram, Esa, Taric, Roan to talk.",
    "who": "Vela",
    "year": 7
+  },
+  {
+   "eid": "e002941",
+   "kind": "say",
+   "text": "Mako's not being quiet \u2014 he's been counting, and two children by two women means two households that answer to him whether they know it yet or not. If we're going to name him the problem, I want to hear it from each of you plainly, because when the moment comes I'm not going to be the only one who said it first.",
+   "who": "Vela",
+   "year": 7
   }
  ],
  "memory_summary": "",
