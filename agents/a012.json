@@ -2435,6 +2435,13 @@
    "text": "Nessa gathers Eron, Zinn to talk.",
    "who": "Nessa",
    "year": 7
+  },
+  {
+   "eid": "e002844",
+   "kind": "say",
+   "text": "Eron, you're at four food and Zinn's at nine \u2014 between the three of us we're sitting heavier than most, but I want to know what either of you heard near the pile this morning, because Kael walked away with three and didn't say a word to anyone about it, and that's new for him.",
+   "who": "Nessa",
+   "year": 7
   }
  ],
  "memory_summary": "",
