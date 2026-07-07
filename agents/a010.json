@@ -3809,6 +3809,13 @@
    "text": "Taric named the price question right, and I'll add the shape of it: Bram will want to know he's first among equals when this settles, and if we let him believe that without ever saying it aloud, we buy the alliance without signing the contract. Roan, go to Eron now \u2014 every minute we spend talking is a minute Bram's already in Mako's ear.",
    "who": "Esa",
    "year": 7
+  },
+  {
+   "eid": "e002873",
+   "kind": "say",
+   "text": "Roan, move \u2014 and when you find Eron, ask him where Mako was standing when Zinn took three from the pile this morning, because a man who lets his newborn daughter hoard while the rest of us scramble isn't thinking like a neighbor. Esa, Taric \u2014 while he goes, I want us to sit with one question: if Bram's already in Mako's ear, what does he want to hear, and can we make sure he hears something different from us first.",
+   "who": "Kael",
+   "year": 7
   }
  ],
  "memory_summary": "",
