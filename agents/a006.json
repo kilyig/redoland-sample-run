@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 51,
  "alive": true,
  "birth_year": 0,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 0,
  "health": 3,
  "hp": 100,
  "id": "a006",
@@ -5252,6 +5252,13 @@
   },
   {
    "eid": "e002995",
+   "kind": "give",
+   "text": "Taric gives 1 food to Vela.",
+   "who": "Taric",
+   "year": 7
+  },
+  {
+   "eid": "e002998",
    "kind": "give",
    "text": "Taric gives 1 food to Vela.",
    "who": "Taric",
