@@ -213,3 +213,4 @@
 {"eid": "e003010", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a014", "who": "Zinn", "audience": ["a014"], "text": "", "payload": {}}
 {"eid": "e003011", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
 {"eid": "e003012", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
+{"eid": "e003013", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
