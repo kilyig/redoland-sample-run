@@ -1889,6 +1889,13 @@
    "text": "",
    "who": "Nessa",
    "year": 7
+  },
+  {
+   "eid": "e002874",
+   "kind": "convo",
+   "text": "Sela gathers Eron, Nessa, Zinn to talk.",
+   "who": "Sela",
+   "year": 7
   }
  ],
  "memory_summary": "",
