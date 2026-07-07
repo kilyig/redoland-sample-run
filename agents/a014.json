@@ -930,6 +930,13 @@
    "text": "If we're going to Roan, the offer is simple: one food now, and if trouble comes his way we stand with him \u2014 no more than that, because a bigger promise just tells him we're desperate. Eron, you carry it; you've given food before and it won't read as a bid for something.",
    "who": "Zinn",
    "year": 7
+  },
+  {
+   "eid": "e002853",
+   "kind": "say",
+   "text": "Zinn's right on the shape of it \u2014 one food, one promise, nothing that sounds like we're building something. But Eron, when you go to him, don't mention Mako or Zinn's count; the less Roan knows about what we're holding, the less he has to trade away to someone else later.",
+   "who": "Nessa",
+   "year": 7
   }
  ],
  "memory_summary": "",
