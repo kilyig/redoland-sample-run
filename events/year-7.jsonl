@@ -279,3 +279,4 @@
 {"eid": "e003076", "year": 7, "phase": "fight", "kind": "cancel", "speaker": "village", "who": "the village", "audience": "public", "text": "Bram thinks better of it and calls off the attack.", "payload": {}}
 {"eid": "e003077", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
 {"eid": "e003078", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
+{"eid": "e003079", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
