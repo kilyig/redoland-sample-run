@@ -3144,6 +3144,13 @@
    "text": "Mako at zero with a child to feed \u2014 that's not a man who waits, you're right. I'll talk to him myself, before you go to Kael and Roan, because if he hears the offer from me first he knows it's not charity and he knows what I expect back. Give me that conversation before we move another piece.",
    "who": "Bram",
    "year": 7
+  },
+  {
+   "eid": "e002811",
+   "kind": "say",
+   "text": "Bram, go to Mako \u2014 but go fast, because a hungry man with zero food and a child doesn't sit still waiting to be found. And when you come back, tell me yes or no, nothing in between, because I need to know whether to walk to Kael today or wait, and I can't hold that question open while the morning gets long.",
+   "who": "Esa",
+   "year": 7
   }
  ],
  "memory_summary": "",
