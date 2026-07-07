@@ -4752,6 +4752,13 @@
    "text": "Bram, before Esa goes to Kael and Roan I want the arithmetic on the table: Dell holds eight food and she's the strongest person alive in this village, which means even with four of us the fight is ugly \u2014 Mako's sitting on nothing right now, and if we bring him in with a share of what we take, the numbers stop being close. What would it cost to have that conversation before we move?",
    "who": "Taric",
    "year": 7
+  },
+  {
+   "eid": "e002808",
+   "kind": "say",
+   "text": "Mako's got a daughter with Sela now, which means he's not a free blade anymore \u2014 before we offer him a cut, I need to know whether Sela's hand comes with his, and whether that puts Zinn on our side or theirs. What's his food situation right now, because a man with zero is either desperate enough to move with anyone or smart enough to wait until the winner's clear.",
+   "who": "Bram",
+   "year": 7
   }
  ],
  "memory_summary": "",
