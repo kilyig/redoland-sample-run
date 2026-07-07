@@ -3975,6 +3975,13 @@
    "text": "Here's two \u2014 take them and let's move. Roan's got nothing in his hands and a dead father-in-law's memory in his head, and the first person who shows up with strength and no price tag is the one he's going to remember when Mako finally makes his offer.",
    "who": "Dell",
    "year": 7
+  },
+  {
+   "eid": "e002830",
+   "kind": "say",
+   "text": "Roan's door, then \u2014 and when we get there, let me speak first, because a mother's voice lands different than a daughter's when the ask is about the years ahead and not just the food in hand.",
+   "who": "Ryn",
+   "year": 7
   }
  ],
  "memory_summary": "",
