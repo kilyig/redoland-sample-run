@@ -3655,6 +3655,13 @@
    "text": "Bram, the room's still waiting and I'm not going to let it fill with my own voice again \u2014 you've heard what I'm asking, you know what I've given, and a man who doesn't answer when the question's this plain has already answered.",
    "who": "Vela",
    "year": 7
+  },
+  {
+   "eid": "e003039",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Eron.",
+   "who": "Nessa",
+   "year": 7
   }
  ],
  "memory_summary": "",
