@@ -3751,6 +3751,20 @@
    "text": "Sela gives 1 food to Eron.",
    "who": "Sela",
    "year": 7
+  },
+  {
+   "eid": "e003062",
+   "kind": "attack",
+   "text": "Bram moves to attack Vela.",
+   "who": "the village",
+   "year": 7
+  },
+  {
+   "eid": "e003063",
+   "kind": "under_attack",
+   "text": "You are under attack by Bram.",
+   "who": "Vela",
+   "year": 7
   }
  ],
  "memory_summary": "",
