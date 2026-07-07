@@ -4241,6 +4241,13 @@
    "text": "",
    "who": "Dell",
    "year": 7
+  },
+  {
+   "eid": "e002977",
+   "kind": "give",
+   "text": "Roan gives 1 food to Eron.",
+   "who": "Roan",
+   "year": 7
   }
  ],
  "memory_summary": "",
