@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 0,
+ "food": 1,
  "health": 2,
  "hp": 100,
  "id": "a010",
@@ -3822,6 +3822,13 @@
    "kind": "give",
    "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
+   "year": 7
+  },
+  {
+   "eid": "e002882",
+   "kind": "give",
+   "text": "Eron gives 1 food to Roan.",
+   "who": "Eron",
    "year": 7
   }
  ],
