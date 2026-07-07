@@ -175,3 +175,4 @@
 {"eid": "e002972", "year": 7, "phase": "convo", "kind": "convo", "speaker": "a004", "who": "Kael", "audience": ["a004", "a001"], "text": "Kael gathers Bram to talk.", "payload": {}}
 {"eid": "e002973", "year": 7, "phase": "convo", "kind": "say", "speaker": "a004", "who": "Kael", "audience": ["a004", "a001"], "text": "Bram, I'm going to say this once and not dress it up: Mako's been quiet for three years running, he's got a child in Zinn now, and a man who plants that kind of root doesn't stay quiet forever \u2014 I'd rather you and I know where we stand before he decides for us.", "payload": {}}
 {"eid": "e002974", "year": 7, "phase": "scramble", "kind": "give", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn gives 1 food to Dell.", "payload": {"target": "a011", "amount": 1}}
+{"eid": "e002975", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a014", "who": "Zinn", "audience": ["a014"], "text": "", "payload": {}}
