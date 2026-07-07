@@ -4038,6 +4038,13 @@
    "text": "Roan, you've got nothing in your hands and a son who needs to eat, and Ryn and I are standing here with food and the same answer we had when Bram came for you the first time \u2014 so I want to say plain what we're building before Mako gets here with a prettier version of the same offer.",
    "who": "Dell",
    "year": 7
+  },
+  {
+   "eid": "e002888",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Eron.",
+   "who": "Nessa",
+   "year": 7
   }
  ],
  "memory_summary": "",
