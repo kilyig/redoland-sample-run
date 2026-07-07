@@ -3760,6 +3760,13 @@
    "text": "Ryn just handed Dell two food without blinking, which means that cluster is feeding itself now and not looking our way \u2014 so I want to know, before the day gets older, whether the three of you are still standing where you were, because I've got five food and I'm not spending any of it until I know who's next to me when Mako decides quiet is over.",
    "who": "Kael",
    "year": 7
+  },
+  {
+   "eid": "e002866",
+   "kind": "say",
+   "text": "Kael, I'm standing where I always was \u2014 and yes, Ryn feeding Dell while Bram's already been talking to Mako this morning is the thing I'd have led with if you hadn't. We've got a decision to make before those two circles find each other: do we move first, or do we wait and count who shows up?",
+   "who": "Taric",
+   "year": 7
   }
  ],
  "memory_summary": "",
