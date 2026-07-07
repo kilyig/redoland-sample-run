@@ -3711,6 +3711,13 @@
    "text": "Ryn gathers Roan to talk.",
    "who": "Ryn",
    "year": 7
+  },
+  {
+   "eid": "e002858",
+   "kind": "say",
+   "text": "Roan, you've got nothing in your hands and I've got six, and I'm not here to hold that over you \u2014 I'm here because Dell and I trust you more than we trust the direction Mako's circle is pulling, and I want to know whether that trust runs both ways before this year gets loud.",
+   "who": "Ryn",
+   "year": 7
   }
  ],
  "memory_summary": "",
