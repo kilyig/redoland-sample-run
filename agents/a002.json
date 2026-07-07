@@ -3520,6 +3520,13 @@
    "text": "Roan gives 1 food to Eron.",
    "who": "Roan",
    "year": 7
+  },
+  {
+   "eid": "e002980",
+   "kind": "pass",
+   "text": "",
+   "who": "Vela",
+   "year": 7
   }
  ],
  "memory_summary": "",

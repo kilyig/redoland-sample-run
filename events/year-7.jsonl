@@ -180,3 +180,4 @@
 {"eid": "e002977", "year": 7, "phase": "scramble", "kind": "give", "speaker": "a010", "who": "Roan", "audience": "public", "text": "Roan gives 1 food to Eron.", "payload": {"target": "a012", "amount": 1}}
 {"eid": "e002978", "year": 7, "phase": "convo", "kind": "convo", "speaker": "a007", "who": "Sela", "audience": ["a007", "a014"], "text": "Sela gathers Zinn to talk.", "payload": {}}
 {"eid": "e002979", "year": 7, "phase": "convo", "kind": "say", "speaker": "a007", "who": "Sela", "audience": ["a007", "a014"], "text": "Zinn, you took three from the pile and you've been quiet since \u2014 I need to know what number you're actually sitting on, not because I'll take it, but because you're the youngest blood I have and I won't let you be the one who goes short while I'm still breathing.", "payload": {}}
+{"eid": "e002980", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
