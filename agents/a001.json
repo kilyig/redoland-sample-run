@@ -3732,6 +3732,48 @@
    "text": "Roan joins the defenders.",
    "who": "the village",
    "year": 7
+  },
+  {
+   "eid": "e003067",
+   "kind": "join",
+   "text": "Kael joins the defenders.",
+   "who": "the village",
+   "year": 7
+  },
+  {
+   "eid": "e003068",
+   "kind": "join",
+   "text": "Eron joins the defenders.",
+   "who": "the village",
+   "year": 7
+  },
+  {
+   "eid": "e003069",
+   "kind": "join",
+   "text": "Sela joins the defenders.",
+   "who": "the village",
+   "year": 7
+  },
+  {
+   "eid": "e003070",
+   "kind": "join",
+   "text": "Ryn joins the defenders.",
+   "who": "the village",
+   "year": 7
+  },
+  {
+   "eid": "e003071",
+   "kind": "join",
+   "text": "Mako joins the defenders.",
+   "who": "the village",
+   "year": 7
+  },
+  {
+   "eid": "e003072",
+   "kind": "join",
+   "text": "Dell joins the defenders.",
+   "who": "the village",
+   "year": 7
   }
  ],
  "memory_summary": "",
