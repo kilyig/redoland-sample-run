@@ -2108,6 +2108,13 @@
    "text": "Dell's got eighty-five strength and Ryn's at seventy-one \u2014 that's a hundred and fifty-six between them before anyone else steps in on their side. Tell me who else you've already counted in and I'll tell you if the math works.",
    "who": "Mako",
    "year": 7
+  },
+  {
+   "eid": "e002817",
+   "kind": "take",
+   "text": "Nessa takes 2 from the pile (pile now 9).",
+   "who": "Nessa",
+   "year": 7
   }
  ],
  "memory_summary": "",
