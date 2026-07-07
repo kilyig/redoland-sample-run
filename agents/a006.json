@@ -5067,6 +5067,13 @@
    "text": "",
    "who": "Taric",
    "year": 7
+  },
+  {
+   "eid": "e002932",
+   "kind": "convo",
+   "text": "Kael gathers Esa, Taric, Roan to talk.",
+   "who": "Kael",
+   "year": 7
   }
  ],
  "memory_summary": "",
