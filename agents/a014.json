@@ -972,6 +972,13 @@
    "text": "Sela gathers Eron, Nessa, Zinn to talk.",
    "who": "Sela",
    "year": 7
+  },
+  {
+   "eid": "e002875",
+   "kind": "say",
+   "text": "Pile's gone and I've got two food \u2014 enough to eat, not enough to breathe easy. Eron, Nessa, Zinn: tell me what you're each holding, because I need to know my blood is fed before I start counting anyone else.",
+   "who": "Sela",
+   "year": 7
   }
  ],
  "memory_summary": "",
