@@ -3788,6 +3788,13 @@
    "text": "Roan, Kael's right \u2014 your blood through Eron is the only thread into that household that doesn't look like calculation, and we need that thread pulled today, not tomorrow. While you go, I want Kael and Esa to tell me plainly: if Roan comes back with word that Mako's already decided we're prey, what are we actually willing to do about it, because I'm fifty-one with thirty-eight strength and I need to know I'm standing next to people who've made that decision before the moment arrives.",
    "who": "Taric",
    "year": 7
+  },
+  {
+   "eid": "e002870",
+   "kind": "say",
+   "text": "Taric, I'll say it plain: if Mako's already counted us as prey, we don't fight him with four bodies and a hundred and sixty-five strength against his eighty-three \u2014 we bring in Bram's fifty-eight first, even if it costs us, because the alternative is losing before we start. The price of Bram's help is the thing I've been turning over, and I don't love it, but I love starving less.",
+   "who": "Kael",
+   "year": 7
   }
  ],
  "memory_summary": "",
