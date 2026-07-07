@@ -2458,6 +2458,13 @@
    "text": "Dell and Ryn trade food like breathing \u2014 it's habit, not a pact, and habit breaks when the pile comes up short. I don't trust Bram's math on a fight and I don't trust him to share whatever he takes. Let him ask me; I'll smile and give him nothing.",
    "who": "Mako",
    "year": 7
+  },
+  {
+   "eid": "e002995",
+   "kind": "give",
+   "text": "Taric gives 1 food to Vela.",
+   "who": "Taric",
+   "year": 7
   }
  ],
  "memory_summary": "",
