@@ -2248,6 +2248,13 @@
    "text": "Bram came to me before the pile opened this morning \u2014 said something about moving against Dell and Ryn, wanted to know if I'd stand with him. I didn't give him a word either way, but I want you to know before he gets to you.",
    "who": "Mako",
    "year": 7
+  },
+  {
+   "eid": "e002922",
+   "kind": "give",
+   "text": "Eron gives 1 food to Roan.",
+   "who": "Eron",
+   "year": 7
   }
  ],
  "memory_summary": "",
