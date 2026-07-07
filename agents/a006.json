@@ -4787,6 +4787,13 @@
    "text": "Bram, don't mention Kael and Roan to Mako \u2014 just make it about him and what he walks away with, because a man who knows he's one of five has less leverage than a man who thinks he's the deciding piece. Come back fast.",
    "who": "Taric",
    "year": 7
+  },
+  {
+   "eid": "e002813",
+   "kind": "say",
+   "text": "I'm going.",
+   "who": "Bram",
+   "year": 7
   }
  ],
  "memory_summary": "",
