@@ -909,6 +909,13 @@
    "text": "Bram hasn't named Dell or Ryn directly, but last year when Dav moved on Esa and those two joined in without a word of warning, Bram went very still \u2014 and that kind of still from him means he's filing it away, not dismissing it. What Dell and Ryn built isn't food, it's a habit of moving together, and that's worth more than eight in a fight. Eron, you're the one with something to offer Roan right now \u2014 go find him before Dell does.",
    "who": "Nessa",
    "year": 7
+  },
+  {
+   "eid": "e002850",
+   "kind": "say",
+   "text": "Nessa's right that Roan's available and Eron's got food to offer, but Roan's got nothing and nothing to lose \u2014 a man like that is as likely to go with whoever asks last as whoever asks first, so don't make a deal you can't keep. What I want to know before any of us approaches anyone is whether Dell already knows our numbers, because if she's been watching the pile as close as she's been feeding Ryn, she counted us this morning same as we counted her.",
+   "who": "Zinn",
+   "year": 7
   }
  ],
  "memory_summary": "",
@@ -920,7 +927,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [
   "a012",
