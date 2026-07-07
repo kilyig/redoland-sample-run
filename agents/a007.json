@@ -1,6 +1,6 @@
 {
  "actions_used_year": 10,
- "age": 28,
+ "age": 29,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": true,
@@ -12,7 +12,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 2,
  "health": 2,
  "hp": 100,
  "id": "a007",
@@ -3845,6 +3845,20 @@
    "kind": "give",
    "text": "Esa gives 1 food to Taric.",
    "who": "Esa",
+   "year": 6
+  },
+  {
+   "eid": "e002785",
+   "kind": "death",
+   "text": "Dav starves at age 46.",
+   "who": "the village",
+   "year": 6
+  },
+  {
+   "eid": "e002787",
+   "kind": "eat",
+   "text": "eats 1 food",
+   "who": "Sela",
    "year": 6
   }
  ],

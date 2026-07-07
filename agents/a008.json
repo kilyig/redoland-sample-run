@@ -1,6 +1,6 @@
 {
  "actions_used_year": 7,
- "age": 38,
+ "age": 39,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -11,7 +11,7 @@
  "death_year": null,
  "father_note": "",
  "food": 0,
- "health": 3,
+ "health": 2,
  "hp": 100,
  "id": "a008",
  "intelligence_tokens": 3906,
@@ -2050,6 +2050,20 @@
    "eid": "e002743",
    "kind": "pass",
    "text": "",
+   "who": "Mako",
+   "year": 6
+  },
+  {
+   "eid": "e002785",
+   "kind": "death",
+   "text": "Dav starves at age 46.",
+   "who": "the village",
+   "year": 6
+  },
+  {
+   "eid": "e002788",
+   "kind": "eat",
+   "text": "eats 0 food",
    "who": "Mako",
    "year": 6
   }

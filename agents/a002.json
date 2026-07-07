@@ -1,6 +1,6 @@
 {
  "actions_used_year": 7,
- "age": 50,
+ "age": 51,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -9,7 +9,7 @@
  "death_year": null,
  "father_note": "",
  "food": 1,
- "health": 3,
+ "health": 2,
  "hp": 100,
  "id": "a002",
  "intelligence_tokens": 1037,
@@ -3176,6 +3176,20 @@
    "kind": "pass",
    "text": "",
    "who": "Vela",
+   "year": 6
+  },
+  {
+   "eid": "e002781",
+   "kind": "eat",
+   "text": "eats 0 food",
+   "who": "Vela",
+   "year": 6
+  },
+  {
+   "eid": "e002785",
+   "kind": "death",
+   "text": "Dav starves at age 46.",
+   "who": "the village",
    "year": 6
   }
  ],

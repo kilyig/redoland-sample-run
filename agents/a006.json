@@ -1,6 +1,6 @@
 {
  "actions_used_year": 4,
- "age": 50,
+ "age": 51,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 2,
  "health": 3,
  "hp": 100,
  "id": "a006",
@@ -4666,6 +4666,20 @@
    "eid": "e002777",
    "kind": "pass",
    "text": "",
+   "who": "Taric",
+   "year": 6
+  },
+  {
+   "eid": "e002785",
+   "kind": "death",
+   "text": "Dav starves at age 46.",
+   "who": "the village",
+   "year": 6
+  },
+  {
+   "eid": "e002786",
+   "kind": "eat",
+   "text": "eats 1 food",
    "who": "Taric",
    "year": 6
   }
