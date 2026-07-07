@@ -1329,6 +1329,13 @@
    "text": "Zinn, you took three from the pile and you've been quiet since \u2014 I need to know what number you're actually sitting on, not because I'll take it, but because you're the youngest blood I have and I won't let you be the one who goes short while I'm still breathing.",
    "who": "Sela",
    "year": 7
+  },
+  {
+   "eid": "e002983",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 7
   }
  ],
  "memory_summary": "",
