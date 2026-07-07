@@ -3494,6 +3494,13 @@
    "text": "Kael gathers Bram to talk.",
    "who": "Kael",
    "year": 7
+  },
+  {
+   "eid": "e002973",
+   "kind": "say",
+   "text": "Bram, I'm going to say this once and not dress it up: Mako's been quiet for three years running, he's got a child in Zinn now, and a man who plants that kind of root doesn't stay quiet forever \u2014 I'd rather you and I know where we stand before he decides for us.",
+   "who": "Kael",
+   "year": 7
   }
  ],
  "memory_summary": "",
