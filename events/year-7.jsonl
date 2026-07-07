@@ -64,3 +64,4 @@
 {"eid": "e002861", "year": 7, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 2 food to Ryn.", "payload": {"target": "a009", "amount": 2}}
 {"eid": "e002862", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
 {"eid": "e002863", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a013", "who": "Nessa", "audience": ["a013"], "text": "", "payload": {}}
+{"eid": "e002864", "year": 7, "phase": "convo", "kind": "convo", "speaker": "a004", "who": "Kael", "audience": ["a004", "a003", "a006", "a010"], "text": "Kael gathers Esa, Taric, Roan to talk.", "payload": {}}
