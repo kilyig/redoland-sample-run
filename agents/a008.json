@@ -2339,6 +2339,13 @@
    "text": "If Bram comes, I'll listen and say nothing back \u2014 but I want to know what you're thinking about Dell and Ryn before I decide how to stand. They've been feeding each other steady all year; that's either loyalty or just two people keeping warm, and which one it is matters.",
    "who": "Mako",
    "year": 7
+  },
+  {
+   "eid": "e002953",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 7
   }
  ],
  "memory_summary": "",
