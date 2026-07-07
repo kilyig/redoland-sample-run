@@ -3116,6 +3116,13 @@
    "text": "Kael and Roan stood with us against you before, Bram, and they've got no love for Ryn after she watched Dav take from me \u2014 that's four of us against two, and Roan's been hungry enough that he'll want what they're holding. I haven't spoken to them yet today, but I can, and I will, if you're in.",
    "who": "Esa",
    "year": 7
+  },
+  {
+   "eid": "e002807",
+   "kind": "say",
+   "text": "Bram, before Esa goes to Kael and Roan I want the arithmetic on the table: Dell holds eight food and she's the strongest person alive in this village, which means even with four of us the fight is ugly \u2014 Mako's sitting on nothing right now, and if we bring him in with a share of what we take, the numbers stop being close. What would it cost to have that conversation before we move?",
+   "who": "Taric",
+   "year": 7
   }
  ],
  "memory_summary": "",
