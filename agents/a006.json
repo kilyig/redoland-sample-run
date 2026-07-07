@@ -5081,6 +5081,13 @@
    "text": "Esa, Bram wants to hear that Mako's circling him too \u2014 that's the only thing that moves a man like that faster than greed, and it has the advantage of being mostly true. So before Roan's back, I want one of us to find Bram and plant that seed plainly: not a threat, not a deal, just a word in passing that Mako's been quiet in a way that should make everyone nervous.",
    "who": "Kael",
    "year": 7
+  },
+  {
+   "eid": "e002936",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 7
   }
  ],
  "memory_summary": "",

@@ -4005,6 +4005,13 @@
    "text": "",
    "who": "Roan",
    "year": 7
+  },
+  {
+   "eid": "e002936",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 7
   }
  ],
  "memory_summary": "",
