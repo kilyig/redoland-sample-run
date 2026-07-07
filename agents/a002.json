@@ -3345,6 +3345,13 @@
    "text": "I saw it coming the moment Dav started moving food toward Ryn instead of spreading it \u2014 a man consolidating his household is a man building something, and Esa was the nearest soft target. What I want to know is whether we're naming Mako the next problem or whether we're still pretending that a man who just fathered two children in this village by two different women is just being quiet.",
    "who": "Vela",
    "year": 7
+  },
+  {
+   "eid": "e002917",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 7
   }
  ],
  "memory_summary": "",

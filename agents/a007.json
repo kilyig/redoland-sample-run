@@ -4042,6 +4042,13 @@
    "text": "Eron's sitting on seven and I can see that same as anyone who's been watching \u2014 what I can't see is where his head is after giving Roan two food today before he answered me. Eron, I'm not counting against you, I'm counting with you: if Kael took three from the pile and Zinn took three and neither of them is blood, that's a conversation waiting to happen before they decide they took the wrong amount.",
    "who": "Sela",
    "year": 7
+  },
+  {
+   "eid": "e002917",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 7
   }
  ],
  "memory_summary": "",
