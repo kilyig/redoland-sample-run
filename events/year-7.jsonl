@@ -231,3 +231,4 @@
 {"eid": "e003028", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e003029", "year": 7, "phase": "scramble", "kind": "give", "speaker": "a014", "who": "Zinn", "audience": "public", "text": "Zinn gives 1 food to Sela.", "payload": {"target": "a007", "amount": 1}}
 {"eid": "e003030", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a013", "who": "Nessa", "audience": ["a013"], "text": "", "payload": {}}
+{"eid": "e003031", "year": 7, "phase": "convo", "kind": "convo", "speaker": "a002", "who": "Vela", "audience": ["a002", "a001", "a003", "a006", "a010"], "text": "Vela gathers Bram, Esa, Taric, Roan to talk.", "payload": {}}
