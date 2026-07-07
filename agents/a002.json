@@ -3688,6 +3688,13 @@
    "text": "Vela gathers Bram, Esa, Taric, Roan to talk.",
    "who": "Vela",
    "year": 7
+  },
+  {
+   "eid": "e003032",
+   "kind": "say",
+   "text": "Bram, the room's still waiting and I'm not going to let it fill with my own voice again \u2014 you've heard what I'm asking, you know what I've given, and a man who doesn't answer when the question's this plain has already answered.",
+   "who": "Vela",
+   "year": 7
   }
  ],
  "memory_summary": "",
@@ -3696,7 +3703,7 @@
  "name": "Vela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [],
  "strength": 26,
