@@ -3961,6 +3961,13 @@
    "text": "Then we go together \u2014 but first, you take the two food now, not after the walk, because I want you at full strength when we stand in front of Roan and he has to decide what we're worth.",
    "who": "Dell",
    "year": 7
+  },
+  {
+   "eid": "e002828",
+   "kind": "say",
+   "text": "Then hand it over and let's walk \u2014 every minute we stand here talking is a minute Mako's circle gets warmer and Roan gets colder, and I want to be through his door before anyone else thinks to knock on it.",
+   "who": "Ryn",
+   "year": 7
   }
  ],
  "memory_summary": "",
