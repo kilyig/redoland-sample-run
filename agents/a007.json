@@ -1,5 +1,5 @@
 {
- "actions_used_year": 2,
+ "actions_used_year": 3,
  "age": 29,
  "alive": true,
  "birth_year": 0,
@@ -4104,6 +4104,13 @@
    "kind": "give",
    "text": "Bram gives 1 food to Nessa.",
    "who": "Bram",
+   "year": 7
+  },
+  {
+   "eid": "e002948",
+   "kind": "convo",
+   "text": "Sela gathers Eron, Nessa, Zinn to talk.",
+   "who": "Sela",
    "year": 7
   }
  ],
