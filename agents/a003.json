@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 48,
  "alive": true,
  "birth_year": 0,
@@ -1629,6 +1629,13 @@
    "kind": "take",
    "text": "Vela takes 2 from the pile (pile now 11).",
    "who": "Vela",
+   "year": 7
+  },
+  {
+   "eid": "e002801",
+   "kind": "convo",
+   "text": "Esa gathers Bram, Taric to talk.",
+   "who": "Esa",
    "year": 7
   }
  ],
