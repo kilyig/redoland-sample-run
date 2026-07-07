@@ -979,6 +979,13 @@
    "text": "Pile's gone and I've got two food \u2014 enough to eat, not enough to breathe easy. Eron, Nessa, Zinn: tell me what you're each holding, because I need to know my blood is fed before I start counting anyone else.",
    "who": "Sela",
    "year": 7
+  },
+  {
+   "eid": "e002876",
+   "kind": "say",
+   "text": "Three food, and I'm holding it. Eron, don't answer that out loud \u2014 what we carry isn't something Sela needs to worry about, because she's fed, and the less any number gets spoken, the less it travels.",
+   "who": "Nessa",
+   "year": 7
   }
  ],
  "memory_summary": "",
