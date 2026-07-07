@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 37,
  "alive": true,
  "birth_year": 0,
@@ -3163,6 +3163,13 @@
    "eid": "e002813",
    "kind": "say",
    "text": "I'm going.",
+   "who": "Bram",
+   "year": 7
+  },
+  {
+   "eid": "e002814",
+   "kind": "convo",
+   "text": "Bram gathers Mako to talk.",
    "who": "Bram",
    "year": 7
   }

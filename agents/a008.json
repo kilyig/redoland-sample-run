@@ -2087,6 +2087,13 @@
    "text": "Vela takes 2 from the pile (pile now 11).",
    "who": "Vela",
    "year": 7
+  },
+  {
+   "eid": "e002814",
+   "kind": "convo",
+   "text": "Bram gathers Mako to talk.",
+   "who": "Bram",
+   "year": 7
   }
  ],
  "memory_summary": "",
