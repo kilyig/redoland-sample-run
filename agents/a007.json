@@ -3965,6 +3965,13 @@
    "text": "I'm above one, Sela \u2014 well above. Don't do the math in your chest; do it here with us where it's useful.",
    "who": "Zinn",
    "year": 7
+  },
+  {
+   "eid": "e002879",
+   "kind": "say",
+   "text": "Zinn, \"well above\" is the kind of answer that keeps me up at night more than a number would \u2014 I'm not asking so I can worry, I'm asking so that if Kael or Mako or anyone else moves this year, I know what the four of us can put together before we have to decide anything. Eron, same question, same reason.",
+   "who": "Sela",
+   "year": 7
   }
  ],
  "memory_summary": "",
@@ -3973,7 +3980,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [],
  "strength": 73,
