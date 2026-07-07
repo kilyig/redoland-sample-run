@@ -2407,6 +2407,13 @@
    "text": "Dell joins the defenders.",
    "who": "the village",
    "year": 7
+  },
+  {
+   "eid": "e003073",
+   "kind": "join",
+   "text": "Zinn joins the defenders.",
+   "who": "the village",
+   "year": 7
   }
  ],
  "memory_summary": "",

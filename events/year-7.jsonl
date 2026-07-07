@@ -273,3 +273,4 @@
 {"eid": "e003070", "year": 7, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Ryn joins the defenders.", "payload": {}}
 {"eid": "e003071", "year": 7, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Mako joins the defenders.", "payload": {}}
 {"eid": "e003072", "year": 7, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Dell joins the defenders.", "payload": {}}
+{"eid": "e003073", "year": 7, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Zinn joins the defenders.", "payload": {}}
