@@ -3718,6 +3718,13 @@
    "text": "Roan, you've got nothing in your hands and I've got six, and I'm not here to hold that over you \u2014 I'm here because Dell and I trust you more than we trust the direction Mako's circle is pulling, and I want to know whether that trust runs both ways before this year gets loud.",
    "who": "Ryn",
    "year": 7
+  },
+  {
+   "eid": "e002859",
+   "kind": "say",
+   "text": "Ryn, I'm listening and I won't pretend the timing doesn't help \u2014 but before I say whether the trust runs both ways, I want to know what changed, because last year I watched you stand with Dell and Dav when they stripped Esa's food, and that's not a small thing to step past. Tell me what you're offering and what you want back, and I'll tell you where I stand.",
+   "who": "Roan",
+   "year": 7
   }
  ],
  "memory_summary": "",
@@ -3726,7 +3733,7 @@
  "name": "Roan",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "male",
  "siblings": [],
  "strength": 49,
