@@ -3137,6 +3137,13 @@
    "text": "Mako's at zero food and Sela's at two, which means that household is hungry and hungry households don't hold still long \u2014 if we wait for Sela to sort out where her loyalty sits, Mako may already be at someone else's door. I'll say it plain: offer him a cut of whatever Dell and Ryn are holding, don't promise him anything about Sela or Zinn, and let him decide what his blood means to him.",
    "who": "Esa",
    "year": 7
+  },
+  {
+   "eid": "e002810",
+   "kind": "say",
+   "text": "Mako at zero with a child to feed \u2014 that's not a man who waits, you're right. I'll talk to him myself, before you go to Kael and Roan, because if he hears the offer from me first he knows it's not charity and he knows what I expect back. Give me that conversation before we move another piece.",
+   "who": "Bram",
+   "year": 7
   }
  ],
  "memory_summary": "",
@@ -3145,7 +3152,7 @@
  "name": "Bram",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [],
  "strength": 58,
