@@ -3081,6 +3081,13 @@
    "text": "Esa gathers Bram, Taric to talk.",
    "who": "Esa",
    "year": 7
+  },
+  {
+   "eid": "e002802",
+   "kind": "say",
+   "text": "Taric you know I trust, so I'll say the hard thing first: Bram, I was in the line that stopped you taking Roan, and I know you haven't forgotten it \u2014 but Dav's dead now, and Ryn and Dell stripped two food from me with his help, and the village is smaller and colder than it was. I'm not asking you to forget what happened between us, I'm asking whether we can agree that the people who hurt us both are a more pressing problem than the old score between us.",
+   "who": "Esa",
+   "year": 7
   }
  ],
  "memory_summary": "",
