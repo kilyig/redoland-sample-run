@@ -4985,6 +4985,13 @@
    "text": "Vela's right that we need the commitment before we close \u2014 so I'll say mine flat: if the pile runs dry before I get one food next year, I'm not waiting for a deliberation, I'm calling this room to act, and I expect every person who nodded through this conversation to be standing when I do. Taric, you've been the steadiest man in Vela's corner for years, and this room won't feel finished until we hear what you're carrying.",
    "who": "Ryn",
    "year": 8
+  },
+  {
+   "eid": "e003539",
+   "kind": "say",
+   "text": "Taric, the room's been patient and now it's your moment \u2014 say what you've been holding, because I'll tell you plainly that everything I've built here has your name in the foundation, and I want the rest of this circle to know that before we close.",
+   "who": "Vela",
+   "year": 8
   }
  ],
  "memory_summary": "",
