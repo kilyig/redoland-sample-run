@@ -6257,6 +6257,13 @@
    "text": "Roan, name Eron to yourself tonight but bring him nothing \u2014 let him walk in with questions, not a bag already packed, because a young man who arrives owing us is easier to hold than one who thinks he's done us the favor. And Kael \u2014 three food still in your hand is three food Mako can count from across the fire, so the moment this child is real, I want us talking about whether that changes how visible you are.",
    "who": "Esa",
    "year": 8
+  },
+  {
+   "eid": "e003499",
+   "kind": "say",
+   "text": "Esa's right that Kael's three food is visible \u2014 but what I want said before this circle closes: Esa and I haven't made the offer yet, we've only said we're ready to make it, and I won't count this child real until the system accepts it, so someone tell me now if there's anything standing between this moment and the offer going through.",
+   "who": "Taric",
+   "year": 8
   }
  ],
  "memory_summary": "",
@@ -6265,7 +6272,7 @@
  "name": "Taric",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "male",
  "siblings": [],
  "strength": 38,
