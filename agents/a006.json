@@ -7202,6 +7202,13 @@
    "text": "Roan gives 1 food to Eron.",
    "who": "Roan",
    "year": 8
+  },
+  {
+   "eid": "e003788",
+   "kind": "pass",
+   "text": "",
+   "who": "Taric",
+   "year": 8
   }
  ],
  "memory_summary": "",
