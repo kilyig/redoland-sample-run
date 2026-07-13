@@ -3716,6 +3716,13 @@
    "text": "Sela gathers Eron, Nessa, Zinn to talk.",
    "who": "Sela",
    "year": 8
+  },
+  {
+   "eid": "e003614",
+   "kind": "say",
+   "text": "The three of you together hold more than he does \u2014 I need to know that number, not as a threat to him, but because if he decides we're a problem worth solving, I want us to already know what we can put together before he moves. Eron, Nessa, Zinn: tell me what you're each carrying, right now, in this room.",
+   "who": "Sela",
+   "year": 8
   }
  ],
  "memory_summary": "",
