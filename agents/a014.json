@@ -1966,6 +1966,13 @@
    "text": "Bram, I've watched you stand in front of this village twice and call off a fight when the numbers turned against you \u2014 that's not a stupid man, and a man who isn't stupid knows when the whole room is waiting. Say something, or we decide what your silence means, and we'll be less generous than Mako's answer bought him.",
    "who": "Dell",
    "year": 8
+  },
+  {
+   "eid": "e003528",
+   "kind": "say",
+   "text": "Bram, I've spent food on you when I didn't have to, and I've held my tongue in rooms where your name came up ugly \u2014 that account doesn't balance with silence when ten people are waiting. Say the word or don't, but if you don't, I stop spending what I've spent, and I won't spend it apologizing for that either.",
+   "who": "Vela",
+   "year": 8
   }
  ],
  "memory_summary": "",
