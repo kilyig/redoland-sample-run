@@ -153,3 +153,4 @@
 {"eid": "e003610", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e003611", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e003612", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
+{"eid": "e003613", "year": 8, "phase": "convo", "kind": "convo", "speaker": "a007", "who": "Sela", "audience": ["a007", "a012", "a013", "a014"], "text": "Sela gathers Eron, Nessa, Zinn to talk.", "payload": {}}

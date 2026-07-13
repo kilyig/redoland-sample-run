@@ -3709,6 +3709,13 @@
    "text": "Dell gives 1 food to Ryn.",
    "who": "Dell",
    "year": 8
+  },
+  {
+   "eid": "e003613",
+   "kind": "convo",
+   "text": "Sela gathers Eron, Nessa, Zinn to talk.",
+   "who": "Sela",
+   "year": 8
   }
  ],
  "memory_summary": "",

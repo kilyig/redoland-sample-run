@@ -1,5 +1,5 @@
 {
- "actions_used_year": 7,
+ "actions_used_year": 8,
  "age": 30,
  "alive": true,
  "birth_year": 0,
@@ -5307,6 +5307,13 @@
    "eid": "e003610",
    "kind": "pass",
    "text": "",
+   "who": "Sela",
+   "year": 8
+  },
+  {
+   "eid": "e003613",
+   "kind": "convo",
+   "text": "Sela gathers Eron, Nessa, Zinn to talk.",
    "who": "Sela",
    "year": 8
   }
