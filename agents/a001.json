@@ -4495,6 +4495,13 @@
    "text": "Taric, I've got nothing against a slow man choosing his words \u2014 but this room has been patient and the sun's moving, so say what you've been holding or let us close without you, because two silences in one circle is one too many.",
    "who": "Zinn",
    "year": 8
+  },
+  {
+   "eid": "e003543",
+   "kind": "say",
+   "text": "Taric, I'll say one last thing and then this room closes with or without you: you've got zero food and the year's long, and men with zero food who stay silent when circles are forming have a way of finding themselves counting on goodwill they didn't earn. That's not a threat \u2014 it's the same arithmetic you already know.",
+   "who": "Eron",
+   "year": 8
   }
  ],
  "memory_summary": "",
