@@ -5386,6 +5386,13 @@
    "text": "",
    "who": "Sela",
    "year": 8
+  },
+  {
+   "eid": "e003631",
+   "kind": "give",
+   "text": "Bram gives 1 food to Fina.",
+   "who": "Bram",
+   "year": 8
   }
  ],
  "memory_summary": "",
