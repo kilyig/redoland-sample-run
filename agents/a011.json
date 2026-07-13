@@ -5172,6 +5172,13 @@
    "text": "Bram, I'm Nessa's half-blood and I've seen you feed her more times than I can count \u2014 that's a thing I hold in your favor, and I'm telling you that plainly so you know what you'd be throwing away if this room decides you chose silence. One sentence is all it takes to stay inside this circle.",
    "who": "Zinn",
    "year": 8
+  },
+  {
+   "eid": "e003533",
+   "kind": "say",
+   "text": "The room's done its work \u2014 Bram's had every door held open for him and he's standing outside all of them now, and that's his choice, not ours. What I want before anyone leaves is to hear Taric say what he'll say, because he's been quiet through all of this and quiet men in a room like this one carry weight I'd rather know about than guess at.",
+   "who": "Eron",
+   "year": 8
   }
  ],
  "memory_summary": "",
