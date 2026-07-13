@@ -2260,6 +2260,13 @@
    "text": "Sela gathers Eron, Nessa, Zinn to talk.",
    "who": "Sela",
    "year": 8
+  },
+  {
+   "eid": "e003577",
+   "kind": "say",
+   "text": "Zinn, you're Mako's blood and I won't pretend that doesn't matter to me \u2014 but it matters in both directions, which means I need to hear from you before I decide what his five food means. Did he say anything to you before the pile opened, or did he just move?",
+   "who": "Sela",
+   "year": 8
   }
  ],
  "memory_summary": "",
