@@ -4901,6 +4901,13 @@
    "text": "Bram, the room's given you something Mako didn't get \u2014 people waited through his answer and let him keep his dignity. Don't make us decide what your silence means, because we'll decide it worse than anything you'd actually say.",
    "who": "Eron",
    "year": 8
+  },
+  {
+   "eid": "e003527",
+   "kind": "say",
+   "text": "Bram, I've watched you stand in front of this village twice and call off a fight when the numbers turned against you \u2014 that's not a stupid man, and a man who isn't stupid knows when the whole room is waiting. Say something, or we decide what your silence means, and we'll be less generous than Mako's answer bought him.",
+   "who": "Dell",
+   "year": 8
   }
  ],
  "memory_summary": "",
