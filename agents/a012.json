@@ -3177,6 +3177,13 @@
    "text": "Mako takes 2 from the pile (pile now 3).",
    "who": "Mako",
    "year": 8
+  },
+  {
+   "eid": "e003464",
+   "kind": "take",
+   "text": "Dell takes 3 from the pile (pile now 0).",
+   "who": "Dell",
+   "year": 8
   }
  ],
  "memory_summary": "",
