@@ -6243,6 +6243,13 @@
    "text": "Taric, that's done \u2014 witness to it, both of you. Roan, pull Eron in tonight, quiet, no names until we've talked first \u2014 and then the five of us figure out how we're still standing when the next pile drops.",
    "who": "Kael",
    "year": 8
+  },
+  {
+   "eid": "e003497",
+   "kind": "say",
+   "text": "Eron tonight \u2014 I'll find him before the fire's out and bring him in with nothing but his name spoken. Kael, you've kept this circle breathing three times this year and I won't forget which direction the food moved when I had nothing.",
+   "who": "Roan",
+   "year": 8
   }
  ],
  "memory_summary": "",
