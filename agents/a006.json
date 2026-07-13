@@ -6166,6 +6166,13 @@
    "text": "Esa, I've got one food in my hand and not much else, so I won't pretend I'm the man to make that offer \u2014 but Taric's named the truth of it, and if you say yes, Kael and I will find a way to cover what the math is short.",
    "who": "Roan",
    "year": 8
+  },
+  {
+   "eid": "e003486",
+   "kind": "say",
+   "text": "Taric, I'm forty-nine and I know what that means \u2014 the world's already told me \u2014 but if you're asking me plainly, in front of Kael and Roan, then I'll answer you plain: yes. Tell me what you can put in and I'll find the rest between us, because you're the one person in this village I'd trust to stand behind a child, and that's not a small thing to say.",
+   "who": "Esa",
+   "year": 8
   }
  ],
  "memory_summary": "",
