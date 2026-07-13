@@ -253,3 +253,4 @@
 {"eid": "e003710", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e003711", "year": 8, "phase": "convo", "kind": "convo", "speaker": "a015", "who": "Fina", "audience": ["a015", "a012"], "text": "Fina gathers Eron to talk.", "payload": {}}
 {"eid": "e003712", "year": 8, "phase": "convo", "kind": "say", "speaker": "a015", "who": "Fina", "audience": ["a015", "a012"], "text": "Nine's enough I can cover both you and Zinn if it comes to that without going thin myself. Bram's move on me today \u2014 that told me something; I want to know you and Zinn and Roan are solid before next year, not scrambling after the pile's already gone.", "payload": {}}
+{"eid": "e003713", "year": 8, "phase": "scramble", "kind": "give", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn gives 1 food to Dell.", "payload": {"target": "a011", "amount": 1}}
