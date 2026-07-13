@@ -2855,6 +2855,13 @@
    "text": "Taric's earned his breath and I'll wait for it \u2014 but I want this room to hear something plain before we close: Zinn is my blood, and if this circle moves against Bram next year, I'll be standing in it, but not before the pile runs dry first, because a fight started on anticipation is harder to stop than one started on fact.",
    "who": "Mako",
    "year": 8
+  },
+  {
+   "eid": "e003541",
+   "kind": "say",
+   "text": "Taric's silence is starting to read the same way Bram's did, and I don't want to close this room with two unanswered questions \u2014 Taric, if you're with Vela, say it plain, because the rest of us have already named where we stand and a man who holds back in a room like this one ends up counted the same as a man who refused.",
+   "who": "Eron",
+   "year": 8
   }
  ],
  "memory_summary": "",
