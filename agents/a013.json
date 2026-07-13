@@ -2806,6 +2806,13 @@
    "text": "The room's done its work \u2014 Bram's had every door held open for him and he's standing outside all of them now, and that's his choice, not ours. What I want before anyone leaves is to hear Taric say what he'll say, because he's been quiet through all of this and quiet men in a room like this one carry weight I'd rather know about than guess at.",
    "who": "Eron",
    "year": 8
+  },
+  {
+   "eid": "e003534",
+   "kind": "say",
+   "text": "Taric's been my anchor in lean years and I'd like to hear him too \u2014 but before he speaks, I want this room to name what \"outside the circle\" means in practice, not as a threat but as a fact, because if Bram's going to eat five food next year alone we should know now whether we're going to stand and watch or do something about it.",
+   "who": "Vela",
+   "year": 8
   }
  ],
  "memory_summary": "",
