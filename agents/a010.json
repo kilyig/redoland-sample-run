@@ -4754,6 +4754,13 @@
    "text": "Esa, the word and the offer are the same thing right now \u2014 put in your two and let Taric make it before this room finds a reason to wait another year.",
    "who": "Roan",
    "year": 8
+  },
+  {
+   "eid": "e003494",
+   "kind": "say",
+   "text": "Esa, the four of us have said everything there is to say and I'm not adding another word to it \u2014 put in your two, let me make the offer, and we close this before the sun moves another inch.",
+   "who": "Taric",
+   "year": 8
   }
  ],
  "memory_summary": "",
