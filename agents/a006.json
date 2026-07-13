@@ -6117,6 +6117,13 @@
    "text": "Kael gathers Esa, Taric, Roan to talk.",
    "who": "Kael",
    "year": 8
+  },
+  {
+   "eid": "e003479",
+   "kind": "say",
+   "text": "Pile's gone again and Mako walked off with five \u2014 I counted \u2014 which means he's feeding Zinn and Sela and still sitting pretty while the rest of us scrape. Taric, Roan, you're both at zero food right now, and I've got four, so I'm not going to watch you starve when I can prevent it \u2014 but I need to know first whether either of you has heard anything from Bram since he pulled back last year, because a man who tests the water once tests it again.",
+   "who": "Kael",
+   "year": 8
   }
  ],
  "memory_summary": "",
