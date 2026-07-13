@@ -5221,6 +5221,13 @@
    "text": "Bram thinks better of it and calls off the attack.",
    "who": "the village",
    "year": 8
+  },
+  {
+   "eid": "e003704",
+   "kind": "pass",
+   "text": "",
+   "who": "Vela",
+   "year": 8
   }
  ],
  "memory_summary": "",
