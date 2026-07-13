@@ -4073,6 +4073,13 @@
    "text": "Roan gives 1 food to Fina.",
    "who": "Roan",
    "year": 8
+  },
+  {
+   "eid": "e003719",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 8
   }
  ],
  "memory_summary": "",
