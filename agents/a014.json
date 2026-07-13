@@ -1826,6 +1826,13 @@
    "text": "Eron gives 1 food to Roan.",
    "who": "Eron",
    "year": 8
+  },
+  {
+   "eid": "e003508",
+   "kind": "convo",
+   "text": "Mako gathers Zinn to talk.",
+   "who": "Mako",
+   "year": 8
   }
  ],
  "memory_summary": "",

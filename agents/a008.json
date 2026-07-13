@@ -1,5 +1,5 @@
 {
- "actions_used_year": 2,
+ "actions_used_year": 3,
  "age": 40,
  "alive": true,
  "birth_year": 0,
@@ -3038,6 +3038,13 @@
    "kind": "give",
    "text": "Eron gives 1 food to Roan.",
    "who": "Eron",
+   "year": 8
+  },
+  {
+   "eid": "e003508",
+   "kind": "convo",
+   "text": "Mako gathers Zinn to talk.",
+   "who": "Mako",
    "year": 8
   }
  ],
