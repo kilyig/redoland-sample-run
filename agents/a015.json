@@ -90,6 +90,13 @@
    "text": "Good, that's a weight off. I'll eat my one and stay above zero, and if I'm still thin I'll come to you before I do anything I'd regret \u2014 I'd rather owe you than owe someone who's counting.",
    "who": "Fina",
    "year": 8
+  },
+  {
+   "eid": "e003654",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 8
   }
  ],
  "memory_summary": "",
