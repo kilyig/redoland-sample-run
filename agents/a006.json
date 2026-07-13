@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 52,
  "alive": true,
  "birth_year": 0,
@@ -6564,6 +6564,13 @@
    "kind": "give",
    "text": "Nessa gives 1 food to Eron.",
    "who": "Nessa",
+   "year": 8
+  },
+  {
+   "eid": "e003558",
+   "kind": "proposal",
+   "text": "Taric cannot offer a child to Esa: Esa is past childbearing age (over 45).",
+   "who": "the village",
    "year": 8
   }
  ],

@@ -98,3 +98,4 @@
 {"eid": "e003555", "year": 8, "phase": "scramble", "kind": "give", "speaker": "a012", "who": "Eron", "audience": "public", "text": "Eron gives 1 food to Roan.", "payload": {"target": "a010", "amount": 1}}
 {"eid": "e003556", "year": 8, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 2 food to Ryn.", "payload": {"target": "a009", "amount": 2}}
 {"eid": "e003557", "year": 8, "phase": "scramble", "kind": "give", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa gives 1 food to Eron.", "payload": {"target": "a012", "amount": 1}}
+{"eid": "e003558", "year": 8, "phase": "proposal", "kind": "proposal", "speaker": "village", "who": "the village", "audience": ["a006", "a003"], "text": "Taric cannot offer a child to Esa: Esa is past childbearing age (over 45).", "payload": {}}
