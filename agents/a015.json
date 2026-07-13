@@ -48,6 +48,13 @@
    "text": "Eron, how much food are you sitting on going into end of year \u2014 I've got one and I'm thin enough that I need to know if I can count on you before I have to go looking elsewhere.",
    "who": "Fina",
    "year": 8
+  },
+  {
+   "eid": "e003635",
+   "kind": "give",
+   "text": "Bram gives 1 food to Nessa.",
+   "who": "Bram",
+   "year": 8
   }
  ],
  "memory_summary": "",

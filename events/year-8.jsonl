@@ -175,3 +175,4 @@
 {"eid": "e003632", "year": 8, "phase": "convo", "kind": "convo", "speaker": "a015", "who": "Fina", "audience": ["a015", "a012"], "text": "Fina gathers Eron to talk.", "payload": {}}
 {"eid": "e003633", "year": 8, "phase": "convo", "kind": "say", "speaker": "a015", "who": "Fina", "audience": ["a015", "a012"], "text": "Eron, how much food are you sitting on going into end of year \u2014 I've got one and I'm thin enough that I need to know if I can count on you before I have to go looking elsewhere.", "payload": {}}
 {"eid": "e003634", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
+{"eid": "e003635", "year": 8, "phase": "scramble", "kind": "give", "speaker": "a001", "who": "Bram", "audience": "public", "text": "Bram gives 1 food to Nessa.", "payload": {"target": "a013", "amount": 1}}
