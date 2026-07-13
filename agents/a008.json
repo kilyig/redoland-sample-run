@@ -3067,6 +3067,13 @@
    "text": "Bram was first to the pile and he knows I pulled five \u2014 he'll have counted it. You've got eight, which makes you the most interesting number in the village right now, so don't be surprised when someone friendly comes asking.",
    "who": "Mako",
    "year": 8
+  },
+  {
+   "eid": "e003512",
+   "kind": "say",
+   "text": "Friendly is the part that worries me \u2014 Bram's already moved once this year and thought better of it only because the numbers were wrong, and eight food might be the number that makes him think they're right. I'm not giving anything away before I know where the threats are sitting, and I want to know before nightfall whether Kael or anyone else has been talking to him since the pile ran dry.",
+   "who": "Zinn",
+   "year": 8
   }
  ],
  "memory_summary": "",
