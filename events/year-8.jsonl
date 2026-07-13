@@ -205,3 +205,4 @@
 {"eid": "e003662", "year": 8, "phase": "scramble", "kind": "give", "speaker": "a008", "who": "Mako", "audience": "public", "text": "Mako gives 1 food to Zinn.", "payload": {"target": "a014", "amount": 1}}
 {"eid": "e003663", "year": 8, "phase": "scramble", "kind": "give", "speaker": "a010", "who": "Roan", "audience": "public", "text": "Roan gives 1 food to Fina.", "payload": {"target": "a015", "amount": 1}}
 {"eid": "e003664", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
+{"eid": "e003665", "year": 8, "phase": "scramble", "kind": "give", "speaker": "a014", "who": "Zinn", "audience": "public", "text": "Zinn gives 1 food to Nessa.", "payload": {"target": "a013", "amount": 1}}
