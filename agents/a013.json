@@ -2631,6 +2631,13 @@
    "text": "Dell and Ryn together is a hundred and fifty-six strength before anyone else moves, and I'm not standing in front of that alone \u2014 which means the only question that matters is whether Mako's on our side of that problem or theirs when it lands. If he's feeding Zinn steady this year and not building toward anyone, he might be the wall we need.",
    "who": "Bram",
    "year": 8
+  },
+  {
+   "eid": "e003473",
+   "kind": "say",
+   "text": "Mako as a wall only works if he sees Dell as a threat before she moves, and right now he's got no reason to \u2014 she's never looked his way. The thing that might turn him is if he figures out that eleven food in Dell's hands is a different kind of power than five in his.",
+   "who": "Nessa",
+   "year": 8
   }
  ],
  "memory_summary": "",
@@ -2642,7 +2649,7 @@
   "a001"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [
   "a012",
