@@ -1,6 +1,6 @@
 {
  "actions_used_year": 10,
- "age": 44,
+ "age": 45,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 2,
  "health": 3,
  "hp": 100,
  "id": "a009",
@@ -2121,6 +2121,13 @@
    "kind": "give",
    "text": "Vela gives 1 food to Esa.",
    "who": "Vela",
+   "year": 7
+  },
+  {
+   "eid": "e003452",
+   "kind": "eat",
+   "text": "eats 1 food",
+   "who": "Ryn",
    "year": 7
   }
  ],

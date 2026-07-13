@@ -1,6 +1,6 @@
 {
  "actions_used_year": 9,
- "age": 37,
+ "age": 38,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 2,
  "health": 2,
  "hp": 100,
  "id": "a001",
@@ -4143,6 +4143,13 @@
    "eid": "e003439",
    "kind": "pass",
    "text": "",
+   "who": "Bram",
+   "year": 7
+  },
+  {
+   "eid": "e003445",
+   "kind": "eat",
+   "text": "eats 1 food",
    "who": "Bram",
    "year": 7
   }
