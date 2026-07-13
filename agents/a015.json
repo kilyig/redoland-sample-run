@@ -41,6 +41,13 @@
    "text": "Fina gathers Eron to talk.",
    "who": "Fina",
    "year": 8
+  },
+  {
+   "eid": "e003633",
+   "kind": "say",
+   "text": "Eron, how much food are you sitting on going into end of year \u2014 I've got one and I'm thin enough that I need to know if I can count on you before I have to go looking elsewhere.",
+   "who": "Fina",
+   "year": 8
   }
  ],
  "memory_summary": "",
@@ -52,7 +59,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "female",
  "siblings": [
   "a012"
