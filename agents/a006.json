@@ -6131,6 +6131,13 @@
    "text": "Bram's been quiet since the village turned on him, and quiet like that usually means a man's either broken or calculating \u2014 I haven't spoken to him directly, but I've watched him feed Nessa three times yesterday which tells me he's still thinking about what comes after him, not just himself. Kael, I'll take whatever you can spare, and I'll owe it when it matters \u2014 but the thing that worries me more than Bram right now is Mako walking away with five while Roan and I stand here with nothing, because a man that well-fed in a village this size isn't planning to stay comfortable, he's planning to stay in front.",
    "who": "Taric",
    "year": 8
+  },
+  {
+   "eid": "e003481",
+   "kind": "say",
+   "text": "Kael, give me one food and I'll hold the rest of the conversation until I'm sure I'm alive to finish it \u2014 then we talk about Mako, because Taric's right that five from the pile isn't eating, it's positioning, and a man positioning that hard in year eight has already counted who's next to fall.",
+   "who": "Roan",
+   "year": 8
   }
  ],
  "memory_summary": "",
