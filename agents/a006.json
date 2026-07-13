@@ -6208,6 +6208,13 @@
    "text": "Esa, say the word \u2014 I'm ready to make the offer the moment you put in your two, and I won't let it sit cold. Roan, you're right about Eron, but let's close this first and then pull him in quietly, because I don't want a well-fed young man knowing about this child before it exists and before we've decided what we're telling the rest of the village.",
    "who": "Taric",
    "year": 8
+  },
+  {
+   "eid": "e003492",
+   "kind": "say",
+   "text": "Esa, two food from you closes the deal and makes it real \u2014 don't wait for a better moment because there isn't one. And Roan, yes, Eron comes in after, but we're careful about how we frame it: he's your blood, not our recruit, and there's a difference that matters when Mako's counting.",
+   "who": "Kael",
+   "year": 8
   }
  ],
  "memory_summary": "",
