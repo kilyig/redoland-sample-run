@@ -3088,6 +3088,13 @@
    "text": "Good \u2014 go find Kael, and if he gives you anything useful, come back before the light changes. I'm going to sit where I can see Bram's face for a while and count how many times he looks my direction.",
    "who": "Zinn",
    "year": 8
+  },
+  {
+   "eid": "e003515",
+   "kind": "convo",
+   "text": "Vela gathers Bram, Esa, Taric, Mako, Ryn, Roan, Dell, Eron, Nessa, Zinn to talk.",
+   "who": "Vela",
+   "year": 8
   }
  ],
  "memory_summary": "",

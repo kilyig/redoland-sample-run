@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 52,
  "alive": true,
  "birth_year": 0,
@@ -4443,6 +4443,13 @@
    "kind": "give",
    "text": "Eron gives 1 food to Roan.",
    "who": "Eron",
+   "year": 8
+  },
+  {
+   "eid": "e003515",
+   "kind": "convo",
+   "text": "Vela gathers Bram, Esa, Taric, Mako, Ryn, Roan, Dell, Eron, Nessa, Zinn to talk.",
+   "who": "Vela",
    "year": 8
   }
  ],

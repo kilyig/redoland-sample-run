@@ -4817,6 +4817,13 @@
    "text": "Eron gives 1 food to Roan.",
    "who": "Eron",
    "year": 8
+  },
+  {
+   "eid": "e003515",
+   "kind": "convo",
+   "text": "Vela gathers Bram, Esa, Taric, Mako, Ryn, Roan, Dell, Eron, Nessa, Zinn to talk.",
+   "who": "Vela",
+   "year": 8
   }
  ],
  "memory_summary": "",
