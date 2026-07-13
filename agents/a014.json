@@ -1952,6 +1952,13 @@
    "text": "Mako said his piece and the room let him \u2014 now Bram still hasn't said a word, and a man who took three while everyone was watching and has nothing to say about it is telling us something louder than Mako did. I'll commit to the rule out loud: one food over fair share, enforced in the moment, same as we enforce everything else in this village. Bram, you're the last voice missing from this circle, and the room's going to remember which way the silence broke.",
    "who": "Dell",
    "year": 8
+  },
+  {
+   "eid": "e003526",
+   "kind": "say",
+   "text": "Bram, the room's given you something Mako didn't get \u2014 people waited through his answer and let him keep his dignity. Don't make us decide what your silence means, because we'll decide it worse than anything you'd actually say.",
+   "who": "Eron",
+   "year": 8
   }
  ],
  "memory_summary": "",
