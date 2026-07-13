@@ -165,3 +165,6 @@
 {"eid": "e003622", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e003623", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e003624", "year": 8, "phase": "scramble", "kind": "give", "speaker": "a014", "who": "Zinn", "audience": "public", "text": "Zinn gives 1 food to Nessa.", "payload": {"target": "a013", "amount": 1}}
+{"eid": "e003625", "year": 8, "phase": "proposal", "kind": "proposal", "speaker": "a013", "who": "Nessa", "audience": ["a013", "a010"], "text": "Nessa draws Roan aside to talk.", "payload": {}}
+{"eid": "e003626", "year": 8, "phase": "proposal", "kind": "propose", "speaker": "a013", "who": "Nessa", "audience": ["a013", "a010"], "text": "Nessa: have a child with me \u2014 I'll put in 2 of 3 food.", "payload": {}}
+{"eid": "e003627", "year": 8, "phase": "proposal", "kind": "birth", "speaker": "village", "who": "the village", "audience": "public", "text": "Fina (female, age 21; str 50, int 3226, mem 12955; O32 C40 E57 A68 N58) is born to Nessa and Roan.", "payload": {"child": "a015", "mother": "a013", "father": "a010"}}

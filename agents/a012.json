@@ -3751,6 +3751,13 @@
    "text": "Zinn gives 1 food to Nessa.",
    "who": "Zinn",
    "year": 8
+  },
+  {
+   "eid": "e003627",
+   "kind": "birth",
+   "text": "Fina (female, age 21; str 50, int 3226, mem 12955; O32 C40 E57 A68 N58) is born to Nessa and Roan.",
+   "who": "the village",
+   "year": 8
   }
  ],
  "memory_summary": "",
@@ -3766,7 +3773,8 @@
  "sex": "male",
  "siblings": [
   "a013",
-  "a014"
+  "a014",
+  "a015"
  ],
  "strength": 56,
  "traits": {

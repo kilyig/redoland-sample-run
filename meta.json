@@ -1,12 +1,12 @@
 {
  "branch": "main",
  "cursor": {
-  "last": "a014",
+  "last": "a013",
   "phase": "scramble",
-  "steps": 100
+  "steps": 101
  },
- "next_aid": 14,
- "next_eid": 3624,
+ "next_aid": 15,
+ "next_eid": 3627,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,
@@ -678,7 +678,7 @@
    1342729052,
    3815473744,
    1652828664,
-   541
+   575
   ],
   null
  ],
@@ -688,6 +688,7 @@
   "Dell",
   "Eron",
   "Esa",
+  "Fina",
   "Kael",
   "Mako",
   "Nessa",
