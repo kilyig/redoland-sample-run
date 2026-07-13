@@ -4222,6 +4222,13 @@
    "text": "Dell taking three and you taking three in the same year \u2014 that's not coincidence, that's two people who've decided the pretending is over. I'll stay close, but Bram, last year the whole village stood against you over Vela and I was one of them \u2014 if you're planning something this year I need to know before it happens, not while I'm deciding which side to stand on.",
    "who": "Nessa",
    "year": 8
+  },
+  {
+   "eid": "e003468",
+   "kind": "say",
+   "text": "You were right to stand against me on Vela \u2014 I went alone when I shouldn't have, and that's a mistake I won't repeat. What I'm planning this year is nothing until I know where Mako stands, because five food and eighty-three strength moving in the wrong direction changes every calculation I've got. I need you telling me what you hear from Sela and Zinn \u2014 that's what staying close means.",
+   "who": "Bram",
+   "year": 8
   }
  ],
  "memory_summary": "",
@@ -4230,7 +4237,7 @@
  "name": "Bram",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "male",
  "siblings": [],
  "strength": 58,
