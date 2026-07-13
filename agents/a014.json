@@ -2022,6 +2022,13 @@
    "text": "\"Outside the circle\" means what it's always meant here \u2014 nobody moves first for you when trouble comes, and the pile gets counted before you reach it. I've committed to the rule and I'll hold to it; now I want to hear Taric, and then I want this room to answer Vela's question with something sharper than a memory.",
    "who": "Mako",
    "year": 8
+  },
+  {
+   "eid": "e003536",
+   "kind": "say",
+   "text": "Taric, I've watched you feed Vela through two lean years and hold your tongue in every hard room this village has made \u2014 that's not a small man, and I'd like to hear what you've been carrying before we close this circle without your voice in it.",
+   "who": "Ryn",
+   "year": 8
   }
  ],
  "memory_summary": "",
