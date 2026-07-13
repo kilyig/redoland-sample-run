@@ -4215,6 +4215,13 @@
    "text": "Nessa, the pile's gone and Dell just took three of it \u2014 same as me, which means she's not pretending anymore. You've got two food and I've got five; stay close to me this year and don't give any of it away until we know which way Mako's going to lean now that he's got five himself.",
    "who": "Bram",
    "year": 8
+  },
+  {
+   "eid": "e003467",
+   "kind": "say",
+   "text": "Dell taking three and you taking three in the same year \u2014 that's not coincidence, that's two people who've decided the pretending is over. I'll stay close, but Bram, last year the whole village stood against you over Vela and I was one of them \u2014 if you're planning something this year I need to know before it happens, not while I'm deciding which side to stand on.",
+   "who": "Nessa",
+   "year": 8
   }
  ],
  "memory_summary": "",
