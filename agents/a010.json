@@ -4684,6 +4684,13 @@
    "text": "Kael, give me the food and I'll take the debt gladly \u2014 but the thing you just named is the thing I've been sitting with for three years now, and I want to say it plain while it's just us: I'm fifty-two with no blood in this village and that's not a small problem, it's the problem, because when Mako decides to move he'll count bloodlines before he counts allies and I won't be on either list. Esa's forty-nine and the window's nearly shut, but it's not shut yet \u2014 if she's willing and we can scrape three food between us, that's the only answer I can see to what you're naming.",
    "who": "Taric",
    "year": 8
+  },
+  {
+   "eid": "e003484",
+   "kind": "say",
+   "text": "*gives 1 food to Taric*\n\nTaric, I hear you, and Esa \u2014 I want your answer to that before we take another breath, because he's right that the window's closing and I'd rather hear a no from your mouth than watch us all pretend the question wasn't asked. But I want it named honestly: a child costs three food, and between Taric's zero and your two and my three left, the math is tight and the year isn't getting younger.",
+   "who": "Kael",
+   "year": 8
   }
  ],
  "memory_summary": "",
