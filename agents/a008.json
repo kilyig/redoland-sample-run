@@ -3291,6 +3291,13 @@
    "text": "Taric, I'll say one last thing and then this room closes with or without you: you've got zero food and the year's long, and men with zero food who stay silent when circles are forming have a way of finding themselves counting on goodwill they didn't earn. That's not a threat \u2014 it's the same arithmetic you already know.",
    "who": "Eron",
    "year": 8
+  },
+  {
+   "eid": "e003544",
+   "kind": "say",
+   "text": "Taric, zero food going into a long year is a hunger that doesn't stay quiet \u2014 and every person in this room who watched you feed Vela when she needed it is the same person who'll watch you starve if you give us no reason to look your way. Speak once, say you'll hold the rule, and you walk out of here with more than you came in with.",
+   "who": "Ryn",
+   "year": 8
   }
  ],
  "memory_summary": "",
