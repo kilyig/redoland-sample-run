@@ -3877,6 +3877,13 @@
    "text": "Fina gathers Eron to talk.",
    "who": "Fina",
    "year": 8
+  },
+  {
+   "eid": "e003670",
+   "kind": "say",
+   "text": "You sitting on nine is good news \u2014 keep a close eye on Zinn, she's got nothing and Mako's been feeding her but I don't know how far that goes. If she comes hungry before year's end, that's your blood too, same as mine.",
+   "who": "Fina",
+   "year": 8
   }
  ],
  "memory_summary": "",
