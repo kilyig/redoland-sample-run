@@ -6264,6 +6264,13 @@
    "text": "Esa's right that Kael's three food is visible \u2014 but what I want said before this circle closes: Esa and I haven't made the offer yet, we've only said we're ready to make it, and I won't count this child real until the system accepts it, so someone tell me now if there's anything standing between this moment and the offer going through.",
    "who": "Taric",
    "year": 8
+  },
+  {
+   "eid": "e003500",
+   "kind": "say",
+   "text": "Nothing's standing between us and the offer \u2014 I'm forty-nine, not fifty, and the world hasn't closed that door quite yet. Taric, make it now, while these two are watching, because a child born with witnesses is harder to forget when the counting starts.",
+   "who": "Esa",
+   "year": 8
   }
  ],
  "memory_summary": "",
