@@ -1847,6 +1847,13 @@
    "text": "Eight food and the pile came up empty before I got to it \u2014 I'm all right for now, but no one's come to me yet. You took five from that pile before it ran out; who else was watching you count?",
    "who": "Zinn",
    "year": 8
+  },
+  {
+   "eid": "e003511",
+   "kind": "say",
+   "text": "Bram was first to the pile and he knows I pulled five \u2014 he'll have counted it. You've got eight, which makes you the most interesting number in the village right now, so don't be surprised when someone friendly comes asking.",
+   "who": "Mako",
+   "year": 8
   }
  ],
  "memory_summary": "",
