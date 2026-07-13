@@ -1,5 +1,5 @@
 {
- "actions_used_year": 8,
+ "actions_used_year": 9,
  "age": 38,
  "alive": true,
  "birth_year": 0,
@@ -4900,6 +4900,13 @@
    "kind": "give",
    "text": "Roan gives 1 food to Fina.",
    "who": "Roan",
+   "year": 8
+  },
+  {
+   "eid": "e003688",
+   "kind": "attack",
+   "text": "Bram moves to attack Eron.",
+   "who": "the village",
    "year": 8
   }
  ],

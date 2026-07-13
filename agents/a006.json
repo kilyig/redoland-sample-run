@@ -6943,6 +6943,13 @@
    "text": "Roan gives 1 food to Fina.",
    "who": "Roan",
    "year": 8
+  },
+  {
+   "eid": "e003688",
+   "kind": "attack",
+   "text": "Bram moves to attack Eron.",
+   "who": "the village",
+   "year": 8
   }
  ],
  "memory_summary": "",
