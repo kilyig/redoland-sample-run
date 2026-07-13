@@ -4607,6 +4607,13 @@
    "text": "Bram gives 1 food to Nessa.",
    "who": "Bram",
    "year": 8
+  },
+  {
+   "eid": "e003568",
+   "kind": "give",
+   "text": "Eron gives 1 food to Roan.",
+   "who": "Eron",
+   "year": 8
   }
  ],
  "memory_summary": "",
