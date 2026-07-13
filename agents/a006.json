@@ -6187,6 +6187,13 @@
    "text": "Esa said yes and Taric put in his one \u2014 that's the offer standing, and I won't speak over it. But I'll say this much while the two of you settle the last food: that child arrives into a circle with Kael at three and me at one, so the moment it's done, the three of us need to talk about what the year looks like for everyone who isn't Mako.",
    "who": "Roan",
    "year": 8
+  },
+  {
+   "eid": "e003489",
+   "kind": "say",
+   "text": "Esa, put in your two \u2014 Taric's made his offer and you've said yes, so let's not let the moment go cold while we talk around it. After it's done, the four of us sit down and figure out how to carry this year, because I've got three food and I'm not starving and neither is this child if I have anything to say about it.",
+   "who": "Kael",
+   "year": 8
   }
  ],
  "memory_summary": "",
