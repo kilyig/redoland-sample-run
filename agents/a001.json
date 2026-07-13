@@ -4236,6 +4236,13 @@
    "text": "Sela won't tell me anything she thinks reaches you, and Zinn's Mako's blood \u2014 so what I can give you from that side is limited, and you should know that going in. What I can do is watch how Mako moves around Zinn, because a man shows his real count in what he gives his daughter, not what he says to anyone.",
    "who": "Nessa",
    "year": 8
+  },
+  {
+   "eid": "e003470",
+   "kind": "say",
+   "text": "That's a better angle than trying to read what he says \u2014 watch what he moves, not what he speaks. If he's feeding Zinn heavy this year before things get tight, he thinks he can afford to, which means he's counting on taking more later. Tell me the moment you see that shift.",
+   "who": "Bram",
+   "year": 8
   }
  ],
  "memory_summary": "",
@@ -4244,7 +4251,7 @@
  "name": "Bram",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "male",
  "siblings": [],
  "strength": 58,
