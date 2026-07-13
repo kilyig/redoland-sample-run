@@ -23,9 +23,9 @@
    "demand": 2,
    "fallen": [],
    "initiator": "a001",
-   "muster_pass": 2,
+   "muster_pass": 3,
    "round": 0,
-   "sub": "muster",
+   "sub": "decide",
    "target": "a012"
   },
   "last": "a001",
@@ -33,7 +33,7 @@
   "steps": 176
  },
  "next_aid": 15,
- "next_eid": 3701,
+ "next_eid": 3702,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,

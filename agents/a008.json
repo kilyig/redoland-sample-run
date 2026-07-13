@@ -3809,6 +3809,13 @@
    "text": "Fina joins the defenders.",
    "who": "the village",
    "year": 8
+  },
+  {
+   "eid": "e003702",
+   "kind": "muster",
+   "text": "Attackers [Bram] (str 58) vs defenders [Ryn, Roan, Nessa, Mako, Kael, Eron, Fina, Zinn, Dell, Vela, Sela, Taric, Esa] (str 755).",
+   "who": "the village",
+   "year": 8
   }
  ],
  "memory_summary": "",
