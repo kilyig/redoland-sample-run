@@ -5144,6 +5144,69 @@
    "text": "Nessa joins the defenders.",
    "who": "the village",
    "year": 8
+  },
+  {
+   "eid": "e003693",
+   "kind": "join",
+   "text": "Kael joins the defenders.",
+   "who": "the village",
+   "year": 8
+  },
+  {
+   "eid": "e003694",
+   "kind": "join",
+   "text": "Taric joins the defenders.",
+   "who": "the village",
+   "year": 8
+  },
+  {
+   "eid": "e003695",
+   "kind": "join",
+   "text": "Mako joins the defenders.",
+   "who": "the village",
+   "year": 8
+  },
+  {
+   "eid": "e003696",
+   "kind": "join",
+   "text": "Esa joins the defenders.",
+   "who": "the village",
+   "year": 8
+  },
+  {
+   "eid": "e003697",
+   "kind": "join",
+   "text": "Ryn joins the defenders.",
+   "who": "the village",
+   "year": 8
+  },
+  {
+   "eid": "e003698",
+   "kind": "join",
+   "text": "Zinn joins the defenders.",
+   "who": "the village",
+   "year": 8
+  },
+  {
+   "eid": "e003699",
+   "kind": "join",
+   "text": "Dell joins the defenders.",
+   "who": "the village",
+   "year": 8
+  },
+  {
+   "eid": "e003700",
+   "kind": "join",
+   "text": "Vela joins the defenders.",
+   "who": "the village",
+   "year": 8
+  },
+  {
+   "eid": "e003701",
+   "kind": "join",
+   "text": "Fina joins the defenders.",
+   "who": "the village",
+   "year": 8
   }
  ],
  "memory_summary": "",
