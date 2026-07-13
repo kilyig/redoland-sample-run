@@ -126,3 +126,4 @@
 {"eid": "e003583", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e003584", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
 {"eid": "e003585", "year": 8, "phase": "convo", "kind": "convo", "speaker": "a007", "who": "Sela", "audience": ["a007", "a014"], "text": "Sela gathers Zinn to talk.", "payload": {}}
+{"eid": "e003586", "year": 8, "phase": "convo", "kind": "say", "speaker": "a007", "who": "Sela", "audience": ["a007", "a014"], "text": "He didn't say a word to me before \u2014 I saw him move and I couldn't tell if it was greed or something planned, which is why I've been quiet. I gave Eron food to keep him steady, but Mako's my father and I won't pretend I know what he's building, because I don't.", "payload": {}}
