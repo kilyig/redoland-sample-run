@@ -4987,6 +4987,13 @@
    "text": "Sela gathers Eron, Nessa, Zinn to talk.",
    "who": "Sela",
    "year": 8
+  },
+  {
+   "eid": "e003549",
+   "kind": "say",
+   "text": "Pile's gone and Mako took five before most people blinked \u2014 I've got four food and I gave one to Nessa already, so I'm at three. I need to know what each of you is holding, and I need to know whether Mako said anything to Zinn before he took that much, because a man who fathered you and then grabbed five in the same breath is a man whose counting has changed.",
+   "who": "Sela",
+   "year": 8
   }
  ],
  "memory_summary": "",
@@ -4995,7 +5002,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "female",
  "siblings": [],
  "strength": 73,
