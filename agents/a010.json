@@ -4516,6 +4516,13 @@
    "text": "",
    "who": "Roan",
    "year": 7
+  },
+  {
+   "eid": "e003236",
+   "kind": "give",
+   "text": "Esa gives 1 food to Bram.",
+   "who": "Esa",
+   "year": 7
   }
  ],
  "memory_summary": "",
