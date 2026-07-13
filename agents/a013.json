@@ -2582,6 +2582,13 @@
    "text": "Bram gathers Nessa to talk.",
    "who": "Bram",
    "year": 8
+  },
+  {
+   "eid": "e003466",
+   "kind": "say",
+   "text": "Nessa, the pile's gone and Dell just took three of it \u2014 same as me, which means she's not pretending anymore. You've got two food and I've got five; stay close to me this year and don't give any of it away until we know which way Mako's going to lean now that he's got five himself.",
+   "who": "Bram",
+   "year": 8
   }
  ],
  "memory_summary": "",
