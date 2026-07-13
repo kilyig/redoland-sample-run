@@ -2477,6 +2477,13 @@
    "text": "Esa gives 1 food to Bram.",
    "who": "Esa",
    "year": 7
+  },
+  {
+   "eid": "e003378",
+   "kind": "give",
+   "text": "Mako gives 1 food to Zinn.",
+   "who": "Mako",
+   "year": 7
   }
  ],
  "memory_summary": "",
