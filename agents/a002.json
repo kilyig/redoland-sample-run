@@ -4430,6 +4430,13 @@
    "text": "Dell takes 3 from the pile (pile now 0).",
    "who": "Dell",
    "year": 8
+  },
+  {
+   "eid": "e003502",
+   "kind": "proposal",
+   "text": "Taric cannot offer a child to Vela: Vela is past childbearing age (over 45).",
+   "who": "the village",
+   "year": 8
   }
  ],
  "memory_summary": "",

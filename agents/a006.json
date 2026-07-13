@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 52,
  "alive": true,
  "birth_year": 0,
@@ -6270,6 +6270,13 @@
    "kind": "say",
    "text": "Nothing's standing between us and the offer \u2014 I'm forty-nine, not fifty, and the world hasn't closed that door quite yet. Taric, make it now, while these two are watching, because a child born with witnesses is harder to forget when the counting starts.",
    "who": "Esa",
+   "year": 8
+  },
+  {
+   "eid": "e003502",
+   "kind": "proposal",
+   "text": "Taric cannot offer a child to Vela: Vela is past childbearing age (over 45).",
+   "who": "the village",
    "year": 8
   }
  ],
