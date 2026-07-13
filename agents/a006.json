@@ -5788,6 +5788,13 @@
    "text": "Esa gives 1 food to Bram.",
    "who": "Esa",
    "year": 7
+  },
+  {
+   "eid": "e003244",
+   "kind": "pass",
+   "text": "",
+   "who": "Taric",
+   "year": 7
   }
  ],
  "memory_summary": "",
