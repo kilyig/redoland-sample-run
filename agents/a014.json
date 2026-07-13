@@ -2302,6 +2302,13 @@
    "text": "Eron gives 1 food to Roan.",
    "who": "Eron",
    "year": 8
+  },
+  {
+   "eid": "e003585",
+   "kind": "convo",
+   "text": "Sela gathers Zinn to talk.",
+   "who": "Sela",
+   "year": 8
   }
  ],
  "memory_summary": "",

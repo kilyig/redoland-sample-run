@@ -125,3 +125,4 @@
 {"eid": "e003582", "year": 8, "phase": "scramble", "kind": "give", "speaker": "a012", "who": "Eron", "audience": "public", "text": "Eron gives 1 food to Roan.", "payload": {"target": "a010", "amount": 1}}
 {"eid": "e003583", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e003584", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
+{"eid": "e003585", "year": 8, "phase": "convo", "kind": "convo", "speaker": "a007", "who": "Sela", "audience": ["a007", "a014"], "text": "Sela gathers Zinn to talk.", "payload": {}}
