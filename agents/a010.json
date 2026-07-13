@@ -4642,6 +4642,13 @@
    "text": "Dell takes 3 from the pile (pile now 0).",
    "who": "Dell",
    "year": 8
+  },
+  {
+   "eid": "e003478",
+   "kind": "convo",
+   "text": "Kael gathers Esa, Taric, Roan to talk.",
+   "who": "Kael",
+   "year": 8
   }
  ],
  "memory_summary": "",
