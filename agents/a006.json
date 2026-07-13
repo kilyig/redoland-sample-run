@@ -6390,6 +6390,13 @@
    "text": "Bram, I've spent food on you when I didn't have to, and I've held my tongue in rooms where your name came up ugly \u2014 that account doesn't balance with silence when ten people are waiting. Say the word or don't, but if you don't, I stop spending what I've spent, and I won't spend it apologizing for that either.",
    "who": "Vela",
    "year": 8
+  },
+  {
+   "eid": "e003529",
+   "kind": "say",
+   "text": "Bram, Vela just told you she's done paying your tab and I've already named the rule in front of everyone in this room \u2014 you're not deciding whether to speak anymore, you're deciding whether you're inside this circle or outside it, and outside it you're sitting on five food alone against the rest of us. That's a worse position than saying one honest sentence.",
+   "who": "Dell",
+   "year": 8
   }
  ],
  "memory_summary": "",
