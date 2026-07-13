@@ -6229,6 +6229,13 @@
    "text": "Esa, the four of us have said everything there is to say and I'm not adding another word to it \u2014 put in your two, let me make the offer, and we close this before the sun moves another inch.",
    "who": "Taric",
    "year": 8
+  },
+  {
+   "eid": "e003495",
+   "kind": "say",
+   "text": "Two food \u2014 I'm putting them in. Taric, make the offer.",
+   "who": "Esa",
+   "year": 8
   }
  ],
  "memory_summary": "",
