@@ -221,3 +221,4 @@
 {"eid": "e003678", "year": 8, "phase": "scramble", "kind": "give", "speaker": "a008", "who": "Mako", "audience": "public", "text": "Mako gives 1 food to Zinn.", "payload": {"target": "a014", "amount": 1}}
 {"eid": "e003679", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e003680", "year": 8, "phase": "convo", "kind": "convo", "speaker": "a015", "who": "Fina", "audience": ["a015", "a012"], "text": "Fina gathers Eron to talk.", "payload": {}}
+{"eid": "e003681", "year": 8, "phase": "convo", "kind": "say", "speaker": "a015", "who": "Fina", "audience": ["a015", "a012"], "text": "Mako's given her two already so maybe he's not leaving her dry, but Mako feeds himself first and we both know it \u2014 if that stops, she'll need one of us fast. How are you fixed for the year-end eat, do you have enough stored that covering me wouldn't cut you close?", "payload": {}}
