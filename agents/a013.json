@@ -2848,6 +2848,13 @@
    "text": "Taric, the room's been patient and now it's your moment \u2014 say what you've been holding, because I'll tell you plainly that everything I've built here has your name in the foundation, and I want the rest of this circle to know that before we close.",
    "who": "Vela",
    "year": 8
+  },
+  {
+   "eid": "e003540",
+   "kind": "say",
+   "text": "Taric's earned his breath and I'll wait for it \u2014 but I want this room to hear something plain before we close: Zinn is my blood, and if this circle moves against Bram next year, I'll be standing in it, but not before the pile runs dry first, because a fight started on anticipation is harder to stop than one started on fact.",
+   "who": "Mako",
+   "year": 8
   }
  ],
  "memory_summary": "",
