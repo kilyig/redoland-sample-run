@@ -3800,6 +3800,13 @@
    "text": "Fina gathers Eron to talk.",
    "who": "Fina",
    "year": 8
+  },
+  {
+   "eid": "e003638",
+   "kind": "say",
+   "text": "Nine right now, and yes \u2014 if you're down to one I'll cover you. Don't go elsewhere first, come to me.",
+   "who": "Fina",
+   "year": 8
   }
  ],
  "memory_summary": "",
