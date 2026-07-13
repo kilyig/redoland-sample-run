@@ -6201,6 +6201,13 @@
    "text": "Kael's right \u2014 let them do it now and we don't second-guess the moment. The thing I want us carrying into that next conversation is this: Eron's at nine food and he's my blood, and if this circle is planting something today, I want him inside the walls of it before Mako notices what just happened.",
    "who": "Roan",
    "year": 8
+  },
+  {
+   "eid": "e003491",
+   "kind": "say",
+   "text": "Esa, say the word \u2014 I'm ready to make the offer the moment you put in your two, and I won't let it sit cold. Roan, you're right about Eron, but let's close this first and then pull him in quietly, because I don't want a well-fed young man knowing about this child before it exists and before we've decided what we're telling the rest of the village.",
+   "who": "Taric",
+   "year": 8
   }
  ],
  "memory_summary": "",
@@ -6209,7 +6216,7 @@
  "name": "Taric",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [],
  "strength": 38,
