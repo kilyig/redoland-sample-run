@@ -184,3 +184,4 @@
 {"eid": "e003641", "year": 8, "phase": "convo", "kind": "say", "speaker": "a015", "who": "Fina", "audience": ["a015", "a012"], "text": "Good, that's a weight off. I'll eat my one and stay above zero, and if I'm still thin I'll come to you before I do anything I'd regret \u2014 I'd rather owe you than owe someone who's counting.", "payload": {}}
 {"eid": "e003642", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e003643", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
+{"eid": "e003644", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
