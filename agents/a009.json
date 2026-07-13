@@ -1,5 +1,5 @@
 {
- "actions_used_year": 8,
+ "actions_used_year": 9,
  "age": 45,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 2,
  "health": 3,
  "hp": 100,
  "id": "a009",
@@ -2995,6 +2995,13 @@
    "eid": "e003729",
    "kind": "pass",
    "text": "",
+   "who": "Ryn",
+   "year": 8
+  },
+  {
+   "eid": "e003732",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
    "year": 8
   }
