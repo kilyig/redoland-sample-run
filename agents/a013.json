@@ -2575,6 +2575,13 @@
    "text": "Dell takes 3 from the pile (pile now 0).",
    "who": "Dell",
    "year": 8
+  },
+  {
+   "eid": "e003465",
+   "kind": "convo",
+   "text": "Bram gathers Nessa to talk.",
+   "who": "Bram",
+   "year": 8
   }
  ],
  "memory_summary": "",
