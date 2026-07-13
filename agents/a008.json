@@ -3032,6 +3032,13 @@
    "text": "Dell takes 3 from the pile (pile now 0).",
    "who": "Dell",
    "year": 8
+  },
+  {
+   "eid": "e003506",
+   "kind": "give",
+   "text": "Eron gives 1 food to Roan.",
+   "who": "Eron",
+   "year": 8
   }
  ],
  "memory_summary": "",

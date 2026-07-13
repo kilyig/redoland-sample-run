@@ -4292,6 +4292,13 @@
    "text": "Then I'll go to Mako before the day gets long \u2014 but Bram, I'm not just planting a number, I'm watching what he does with it, and if he flinches or goes quiet, you'll know before anyone else does.",
    "who": "Nessa",
    "year": 8
+  },
+  {
+   "eid": "e003506",
+   "kind": "give",
+   "text": "Eron gives 1 food to Roan.",
+   "who": "Eron",
+   "year": 8
   }
  ],
  "memory_summary": "",

@@ -5039,6 +5039,13 @@
    "text": "Two, and it's too thin to pretend otherwise. Give me what you can spare before this day closes, Dell, and then let's talk about whether we go to Roan before Mako does \u2014 because Mako sitting on five with a daughter and Eron's goodwill is a man who doesn't need the pile anymore, and that kind of ease makes men bold.",
    "who": "Ryn",
    "year": 8
+  },
+  {
+   "eid": "e003506",
+   "kind": "give",
+   "text": "Eron gives 1 food to Roan.",
+   "who": "Eron",
+   "year": 8
   }
  ],
  "memory_summary": "",

@@ -4437,6 +4437,13 @@
    "text": "Taric cannot offer a child to Vela: Vela is past childbearing age (over 45).",
    "who": "the village",
    "year": 8
+  },
+  {
+   "eid": "e003506",
+   "kind": "give",
+   "text": "Eron gives 1 food to Roan.",
+   "who": "Eron",
+   "year": 8
   }
  ],
  "memory_summary": "",
