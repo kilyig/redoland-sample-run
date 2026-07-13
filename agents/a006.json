@@ -6355,6 +6355,13 @@
    "text": "I took five because I haven't eaten in two years and I was watching myself go thin \u2014 that's not a rule I set for the village, it's a man keeping himself alive. I'll hear the rule Ryn's naming, and if the room wants a cap next year I won't fight it, but I won't pretend I was wrong to eat when I was starving.",
    "who": "Mako",
    "year": 8
+  },
+  {
+   "eid": "e003524",
+   "kind": "say",
+   "text": "Mako's not wrong that a starving man eats \u2014 but \"I was hungry\" and \"I took five\" aren't the same excuse, and this room knows the difference. The rule Ryn's naming is the right one; I'll hold to it and I'll stand with anyone who enforces it, but it only works if everyone in this circle commits out loud, not just the two men being watched right now.",
+   "who": "Zinn",
+   "year": 8
   }
  ],
  "memory_summary": "",
