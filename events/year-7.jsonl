@@ -594,3 +594,4 @@
 {"eid": "e003391", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e003392", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
 {"eid": "e003393", "year": 7, "phase": "scramble", "kind": "give", "speaker": "a008", "who": "Mako", "audience": "public", "text": "Mako gives 1 food to Zinn.", "payload": {"target": "a014", "amount": 1}}
+{"eid": "e003394", "year": 7, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
