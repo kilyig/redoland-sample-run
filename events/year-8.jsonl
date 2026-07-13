@@ -212,3 +212,4 @@
 {"eid": "e003669", "year": 8, "phase": "convo", "kind": "convo", "speaker": "a015", "who": "Fina", "audience": ["a015", "a012"], "text": "Fina gathers Eron to talk.", "payload": {}}
 {"eid": "e003670", "year": 8, "phase": "convo", "kind": "say", "speaker": "a015", "who": "Fina", "audience": ["a015", "a012"], "text": "You sitting on nine is good news \u2014 keep a close eye on Zinn, she's got nothing and Mako's been feeding her but I don't know how far that goes. If she comes hungry before year's end, that's your blood too, same as mine.", "payload": {}}
 {"eid": "e003671", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
+{"eid": "e003672", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
