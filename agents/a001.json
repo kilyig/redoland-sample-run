@@ -4488,6 +4488,13 @@
    "text": "Taric's silence is starting to read the same way Bram's did, and I don't want to close this room with two unanswered questions \u2014 Taric, if you're with Vela, say it plain, because the rest of us have already named where we stand and a man who holds back in a room like this one ends up counted the same as a man who refused.",
    "who": "Eron",
    "year": 8
+  },
+  {
+   "eid": "e003542",
+   "kind": "say",
+   "text": "Taric, I've got nothing against a slow man choosing his words \u2014 but this room has been patient and the sun's moving, so say what you've been holding or let us close without you, because two silences in one circle is one too many.",
+   "who": "Zinn",
+   "year": 8
   }
  ],
  "memory_summary": "",
