@@ -4264,6 +4264,13 @@
    "text": "Mako as a wall only works if he sees Dell as a threat before she moves, and right now he's got no reason to \u2014 she's never looked his way. The thing that might turn him is if he figures out that eleven food in Dell's hands is a different kind of power than five in his.",
    "who": "Nessa",
    "year": 8
+  },
+  {
+   "eid": "e003474",
+   "kind": "say",
+   "text": "Eleven food is exactly the number I'd plant in his head \u2014 not as a warning about me, but as a mirror showing him what she could do if she decided five in his hands was worth having. You're the one he'll hear it from without suspecting a count behind it.",
+   "who": "Bram",
+   "year": 8
   }
  ],
  "memory_summary": "",
@@ -4272,7 +4279,7 @@
  "name": "Bram",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "male",
  "siblings": [],
  "strength": 58,
