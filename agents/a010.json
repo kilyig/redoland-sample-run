@@ -4691,6 +4691,13 @@
    "text": "*gives 1 food to Taric*\n\nTaric, I hear you, and Esa \u2014 I want your answer to that before we take another breath, because he's right that the window's closing and I'd rather hear a no from your mouth than watch us all pretend the question wasn't asked. But I want it named honestly: a child costs three food, and between Taric's zero and your two and my three left, the math is tight and the year isn't getting younger.",
    "who": "Kael",
    "year": 8
+  },
+  {
+   "eid": "e003485",
+   "kind": "say",
+   "text": "Esa, I've got one food in my hand and not much else, so I won't pretend I'm the man to make that offer \u2014 but Taric's named the truth of it, and if you say yes, Kael and I will find a way to cover what the math is short.",
+   "who": "Roan",
+   "year": 8
   }
  ],
  "memory_summary": "",
@@ -4699,7 +4706,7 @@
  "name": "Roan",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "male",
  "siblings": [],
  "strength": 49,
