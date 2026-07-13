@@ -4355,6 +4355,13 @@
    "text": "Bram and Mako, I'm giving you both the same thing I gave this room \u2014 one honest chance to speak before the silence closes over you, because a man who says nothing when everyone's watching has made a choice that's harder to walk back than any words would be. Ryn walked away with nothing today; I walked away with nothing; Taric walked away with nothing \u2014 and you two together ate eight of fifteen. That's not weather and it's not luck, and I'd like to hear you say so yourselves.",
    "who": "Vela",
    "year": 8
+  },
+  {
+   "eid": "e003523",
+   "kind": "say",
+   "text": "I took five because I haven't eaten in two years and I was watching myself go thin \u2014 that's not a rule I set for the village, it's a man keeping himself alive. I'll hear the rule Ryn's naming, and if the room wants a cap next year I won't fight it, but I won't pretend I was wrong to eat when I was starving.",
+   "who": "Mako",
+   "year": 8
   }
  ],
  "memory_summary": "",
