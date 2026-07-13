@@ -49,3 +49,4 @@
 {"eid": "e003506", "year": 8, "phase": "scramble", "kind": "give", "speaker": "a012", "who": "Eron", "audience": "public", "text": "Eron gives 1 food to Roan.", "payload": {"target": "a010", "amount": 1}}
 {"eid": "e003507", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a006", "who": "Taric", "audience": ["a006"], "text": "", "payload": {}}
 {"eid": "e003508", "year": 8, "phase": "convo", "kind": "convo", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "Mako gathers Zinn to talk.", "payload": {}}
+{"eid": "e003509", "year": 8, "phase": "convo", "kind": "say", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "Zinn, I've got five on me and satiation's low \u2014 I need to eat before year's end, but I'm not going to hand away what's left. How are you sitting, and has anyone come to you yet this year?", "payload": {}}

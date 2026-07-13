@@ -1833,6 +1833,13 @@
    "text": "Mako gathers Zinn to talk.",
    "who": "Mako",
    "year": 8
+  },
+  {
+   "eid": "e003509",
+   "kind": "say",
+   "text": "Zinn, I've got five on me and satiation's low \u2014 I need to eat before year's end, but I'm not going to hand away what's left. How are you sitting, and has anyone come to you yet this year?",
+   "who": "Mako",
+   "year": 8
   }
  ],
  "memory_summary": "",
