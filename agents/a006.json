@@ -6180,6 +6180,13 @@
    "text": "Esa, I'm putting in one food \u2014 everything I have \u2014 and I'm asking you to cover the other two, because Kael's got three left and he's already given twice today and I won't drain him further when he's the one holding this circle together. If you can do it, say the word and I'll make the offer now, in front of these two, so there's no question later about what was promised or who stood witness.",
    "who": "Taric",
    "year": 8
+  },
+  {
+   "eid": "e003488",
+   "kind": "say",
+   "text": "Esa said yes and Taric put in his one \u2014 that's the offer standing, and I won't speak over it. But I'll say this much while the two of you settle the last food: that child arrives into a circle with Kael at three and me at one, so the moment it's done, the three of us need to talk about what the year looks like for everyone who isn't Mako.",
+   "who": "Roan",
+   "year": 8
   }
  ],
  "memory_summary": "",
