@@ -3053,6 +3053,13 @@
    "text": "Zinn, I've got five on me and satiation's low \u2014 I need to eat before year's end, but I'm not going to hand away what's left. How are you sitting, and has anyone come to you yet this year?",
    "who": "Mako",
    "year": 8
+  },
+  {
+   "eid": "e003510",
+   "kind": "say",
+   "text": "Eight food and the pile came up empty before I got to it \u2014 I'm all right for now, but no one's come to me yet. You took five from that pile before it ran out; who else was watching you count?",
+   "who": "Zinn",
+   "year": 8
   }
  ],
  "memory_summary": "",
