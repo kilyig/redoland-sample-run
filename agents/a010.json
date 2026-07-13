@@ -5062,6 +5062,13 @@
    "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
    "year": 8
+  },
+  {
+   "eid": "e003554",
+   "kind": "give",
+   "text": "Vela gives 1 food to Taric.",
+   "who": "Vela",
+   "year": 8
   }
  ],
  "memory_summary": "",
