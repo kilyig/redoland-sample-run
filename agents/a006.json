@@ -6446,6 +6446,13 @@
    "text": "Taric, I've watched you feed Vela through two lean years and hold your tongue in every hard room this village has made \u2014 that's not a small man, and I'd like to hear what you've been carrying before we close this circle without your voice in it.",
    "who": "Ryn",
    "year": 8
+  },
+  {
+   "eid": "e003537",
+   "kind": "say",
+   "text": "Taric's earned the right to speak last in this room, and I'll wait for him \u2014 but \"outside the circle\" needs one more tooth than Mako gave it: if Bram takes three again next year and the pile runs dry before Ryn gets one, we don't deliberate, we act, and everyone in this room commits to that now so it isn't a surprise in the moment.",
+   "who": "Vela",
+   "year": 8
   }
  ],
  "memory_summary": "",
