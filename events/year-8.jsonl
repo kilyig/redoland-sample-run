@@ -230,3 +230,6 @@
 {"eid": "e003687", "year": 8, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e003688", "year": 8, "phase": "fight", "kind": "attack", "speaker": "village", "who": "the village", "audience": "public", "text": "Bram moves to attack Eron.", "payload": {"initiator": "a001", "target": "a012"}}
 {"eid": "e003689", "year": 8, "phase": "fight", "kind": "under_attack", "speaker": "a012", "who": "Eron", "audience": ["a012"], "text": "You are under attack by Bram.", "payload": {}}
+{"eid": "e003690", "year": 8, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Roan joins the defenders.", "payload": {}}
+{"eid": "e003691", "year": 8, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Sela joins the defenders.", "payload": {}}
+{"eid": "e003692", "year": 8, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Nessa joins the defenders.", "payload": {}}

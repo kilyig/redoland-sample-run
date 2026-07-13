@@ -3725,6 +3725,27 @@
    "text": "Bram moves to attack Eron.",
    "who": "the village",
    "year": 8
+  },
+  {
+   "eid": "e003690",
+   "kind": "join",
+   "text": "Roan joins the defenders.",
+   "who": "the village",
+   "year": 8
+  },
+  {
+   "eid": "e003691",
+   "kind": "join",
+   "text": "Sela joins the defenders.",
+   "who": "the village",
+   "year": 8
+  },
+  {
+   "eid": "e003692",
+   "kind": "join",
+   "text": "Nessa joins the defenders.",
+   "who": "the village",
+   "year": 8
   }
  ],
  "memory_summary": "",
