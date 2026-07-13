@@ -5176,6 +5176,13 @@
    "text": "He didn't say a word to me before \u2014 I saw him move and I couldn't tell if it was greed or something planned, which is why I've been quiet. I gave Eron food to keep him steady, but Mako's my father and I won't pretend I know what he's building, because I don't.",
    "who": "Sela",
    "year": 8
+  },
+  {
+   "eid": "e003587",
+   "kind": "give",
+   "text": "Zinn gives 1 food to Nessa.",
+   "who": "Zinn",
+   "year": 8
   }
  ],
  "memory_summary": "",
