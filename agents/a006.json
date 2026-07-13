@@ -6236,6 +6236,13 @@
    "text": "Two food \u2014 I'm putting them in. Taric, make the offer.",
    "who": "Esa",
    "year": 8
+  },
+  {
+   "eid": "e003496",
+   "kind": "say",
+   "text": "Taric, that's done \u2014 witness to it, both of you. Roan, pull Eron in tonight, quiet, no names until we've talked first \u2014 and then the five of us figure out how we're still standing when the next pile drops.",
+   "who": "Kael",
+   "year": 8
   }
  ],
  "memory_summary": "",
