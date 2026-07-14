@@ -12,7 +12,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 3,
  "health": 2,
  "hp": 100,
  "id": "a007",
@@ -6253,6 +6253,13 @@
    "kind": "give",
    "text": "Taric gives 1 food to Vela.",
    "who": "Taric",
+   "year": 9
+  },
+  {
+   "eid": "e003976",
+   "kind": "give",
+   "text": "Eron gives 1 food to Sela.",
+   "who": "Eron",
    "year": 9
   }
  ],
