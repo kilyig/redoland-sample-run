@@ -7405,6 +7405,13 @@
    "text": "Taric gathers Vela, Kael to talk.",
    "who": "Taric",
    "year": 9
+  },
+  {
+   "eid": "e003897",
+   "kind": "say",
+   "text": "Vela, Kael \u2014 I pulled two from the pile and I'm standing at two food, which is thin but it's something. The thing that's already in my chest before I've said good morning is Bram taking five total while the pile ran dry \u2014 third year he's done that, and last year he swung at two different people in the same season and the village kept letting him walk away. I want to know if we're finally naming what to do about him or if we're going to watch him test the water again until someone's not fast enough to run.",
+   "who": "Taric",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -7413,7 +7420,7 @@
  "name": "Taric",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "male",
  "siblings": [],
  "strength": 38,
