@@ -4185,6 +4185,13 @@
    "text": "Bram takes 3 from the pile (pile now 2).",
    "who": "Bram",
    "year": 9
+  },
+  {
+   "eid": "e003888",
+   "kind": "convo",
+   "text": "Nessa gathers Eron to talk.",
+   "who": "Nessa",
+   "year": 9
   }
  ],
  "memory_summary": "",

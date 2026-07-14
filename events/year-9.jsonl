@@ -5,3 +5,4 @@
 {"eid": "e003885", "year": 9, "phase": "scramble", "kind": "take", "speaker": "a015", "who": "Fina", "audience": "public", "text": "Fina takes 2 from the pile (pile now 7).", "payload": {"amount": 2}}
 {"eid": "e003886", "year": 9, "phase": "scramble", "kind": "take", "speaker": "a012", "who": "Eron", "audience": "public", "text": "Eron takes 2 from the pile (pile now 5).", "payload": {"amount": 2}}
 {"eid": "e003887", "year": 9, "phase": "scramble", "kind": "take", "speaker": "a001", "who": "Bram", "audience": "public", "text": "Bram takes 3 from the pile (pile now 2).", "payload": {"amount": 3}}
+{"eid": "e003888", "year": 9, "phase": "convo", "kind": "convo", "speaker": "a013", "who": "Nessa", "audience": ["a013", "a012"], "text": "Nessa gathers Eron to talk.", "payload": {}}
