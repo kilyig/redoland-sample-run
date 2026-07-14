@@ -6922,6 +6922,13 @@
    "text": "Hungry enough that I ate nothing last year and I'm still standing, which tells me I've been leaning on Eron longer than a father should. I'll be at the pile early \u2014 two food is what I need to keep breathing, and I won't reach past that. What are you thinking about Mako?",
    "who": "Roan",
    "year": 10
+  },
+  {
+   "eid": "e004415",
+   "kind": "say",
+   "text": "Mako's sitting on zero food same as Ryn, which means he's going to the pile hungry and a hungry Mako is unpredictable \u2014 but he's also got Zinn and a daughter's loyalty pulling at him, so he's not going to do anything that makes the whole village turn cold on him the year after Bram died proving what that costs. Ryn, you take two from the pile before anyone counts you out, and Roan, you take your two and don't wait to see who moves first. I'll be right behind both of you.",
+   "who": "Dell",
+   "year": 10
   }
  ],
  "memory_summary": "",
@@ -6933,7 +6940,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "female",
  "siblings": [],
  "strength": 85,
