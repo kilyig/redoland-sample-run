@@ -3711,6 +3711,13 @@
    "text": "Nessa, you're giving food to Zinn again and I need to know why \u2014 she's Mako's blood, not yours, and every piece you move toward his household is a piece that's not between us and whatever comes next. I've got five food right now and I'm the only one in this village who's watching your back without wanting something from you first. Tell me what you're thinking.",
    "who": "Bram",
    "year": 9
+  },
+  {
+   "eid": "e003959",
+   "kind": "say",
+   "text": "Zinn is my blood too, Bram \u2014 Sela is her mother same as mine, and you don't get to tell me which half of my family I'm allowed to feed. And I'll tell you plainly what I'm thinking: you've taken five from the pile two years running, you've swung at my brother twice, and you've stopped talking to me like a daughter \u2014 so don't stand in front of me and call yourself the only one watching my back, because that's not what a man watching my back looks like.",
+   "who": "Nessa",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -3722,7 +3729,7 @@
   "a001"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [
   "a012",
