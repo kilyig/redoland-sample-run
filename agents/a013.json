@@ -3606,6 +3606,13 @@
    "text": "Eron, Bram just took five from the pile and the only thing left is two \u2014 he's not building anything, he's burning the village down around himself and calling it survival. Watch your back with him; whatever he tried with you last year, he's got less reason to stop this year than he did then.",
    "who": "Nessa",
    "year": 9
+  },
+  {
+   "eid": "e003890",
+   "kind": "say",
+   "text": "Five from the pile when there's fourteen of us \u2014 that's not hunger, that's a message, and the message is that he's stopped caring what the village thinks of him. I'm at sixteen food now and that makes me a target again; I need to know if you've heard anything from his direction about what he's actually planning, because two failed attacks in two years means he's either desperate or he's waiting for something to change.",
+   "who": "Eron",
+   "year": 9
   }
  ],
  "memory_summary": "",
