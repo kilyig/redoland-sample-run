@@ -236,3 +236,4 @@
 {"eid": "e004116", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a014", "who": "Zinn", "audience": ["a014"], "text": "", "payload": {}}
 {"eid": "e004117", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e004118", "year": 9, "phase": "convo", "kind": "convo", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012"], "text": "Zinn gathers Eron to talk.", "payload": {}}
+{"eid": "e004119", "year": 9, "phase": "convo", "kind": "say", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012"], "text": "Eron, I've got one food left and satiation thin \u2014 the pile was gone before I touched it and I gave Mako my last spare, so I need to know whether you can give me one, because you're blood and I won't ask twice.", "payload": {}}
