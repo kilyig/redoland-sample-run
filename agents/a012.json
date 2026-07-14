@@ -4969,6 +4969,13 @@
    "text": "Dell joins the defenders.",
    "who": "the village",
    "year": 9
+  },
+  {
+   "eid": "e004388",
+   "kind": "muster",
+   "text": "Attackers [Bram] (str 58) vs defenders [Taric, Kael, Zinn, Vela, Ryn, Nessa, Roan, Dell, Sela, Fina, Eron, Mako, Esa] (str 755).",
+   "who": "the village",
+   "year": 9
   }
  ],
  "memory_summary": "",
