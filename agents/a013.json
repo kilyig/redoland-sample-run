@@ -3774,6 +3774,13 @@
    "text": "Sela gives 1 food to Eron.",
    "who": "Sela",
    "year": 9
+  },
+  {
+   "eid": "e003972",
+   "kind": "convo",
+   "text": "Bram gathers Nessa to talk.",
+   "who": "Bram",
+   "year": 9
   }
  ],
  "memory_summary": "",
