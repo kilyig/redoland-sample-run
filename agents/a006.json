@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 53,
  "alive": true,
  "birth_year": 0,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 0,
+ "food": 2,
  "health": 1,
  "hp": 100,
  "id": "a006",
@@ -7355,6 +7355,13 @@
    "kind": "take",
    "text": "Bram takes 2 from the pile (pile now 11).",
    "who": "Bram",
+   "year": 9
+  },
+  {
+   "eid": "e003884",
+   "kind": "take",
+   "text": "Taric takes 2 from the pile (pile now 9).",
+   "who": "Taric",
    "year": 9
   }
  ],
