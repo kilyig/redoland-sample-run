@@ -3697,6 +3697,13 @@
    "text": "Nessa gives 1 food to Zinn.",
    "who": "Nessa",
    "year": 9
+  },
+  {
+   "eid": "e003957",
+   "kind": "convo",
+   "text": "Bram gathers Nessa to talk.",
+   "who": "Bram",
+   "year": 9
   }
  ],
  "memory_summary": "",
