@@ -4117,6 +4117,13 @@
    "text": "Esa, I'm at zero food and the pile's gone \u2014 I'm not asking you to go hungry, but if you've got anything to spare I'll remember it when the pile opens next year and I'm standing with reach. You and Taric held the village together when Bram was swinging, and that's not something I've forgotten.",
    "who": "Mako",
    "year": 9
+  },
+  {
+   "eid": "e003969",
+   "kind": "say",
+   "text": "Mako, I've got one food and I'm carrying it to the year's end myself \u2014 I can't eat thin for a man who pulled five from the pile and sat quiet while the rest of us counted crumbs. What I'll say is this: hold to the rule you named in front of everyone, take your fair share next year before you reach for more, and you'll find me a better neighbor than I am right now.",
+   "who": "Esa",
+   "year": 9
   }
  ],
  "memory_summary": "",
