@@ -2,18 +2,8 @@
  "branch": "main",
  "cursor": {
   "last": "a008",
-  "phase": "talk",
-  "steps": 69,
-  "talk": {
-   "group": [
-    "a008",
-    "a014"
-   ],
-   "guard": 1,
-   "initiator": "a008",
-   "last": "a014",
-   "opened": true
-  }
+  "phase": "scramble",
+  "steps": 69
  },
  "next_aid": 15,
  "next_eid": 4016,
