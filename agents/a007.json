@@ -6058,6 +6058,13 @@
    "text": "Dell gives 2 food to Ryn.",
    "who": "Dell",
    "year": 9
+  },
+  {
+   "eid": "e003911",
+   "kind": "convo",
+   "text": "Eron gathers Roan, Sela, Kael, Taric to talk.",
+   "who": "Eron",
+   "year": 9
   }
  ],
  "memory_summary": "",

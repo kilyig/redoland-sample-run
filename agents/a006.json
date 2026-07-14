@@ -7503,6 +7503,13 @@
    "text": "Vela speaks first \u2014 she's got no old score with him and he's taken her food three times without swinging at her, which makes it look like a neighbor drawing a line, not an enemy collecting a debt. I'll stand directly behind her when she does, because Bram reads bodies as well as words and a wall of faces tells him more than the sentence does. Kael, you stand behind me \u2014 close enough that he counts you, far enough that he doesn't feel cornered before Vela's finished speaking.",
    "who": "Taric",
    "year": 9
+  },
+  {
+   "eid": "e003911",
+   "kind": "convo",
+   "text": "Eron gathers Roan, Sela, Kael, Taric to talk.",
+   "who": "Eron",
+   "year": 9
   }
  ],
  "memory_summary": "",
