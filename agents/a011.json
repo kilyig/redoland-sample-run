@@ -5956,6 +5956,13 @@
    "text": "Roan, I'll say what Ryn's circling: we've both stood in front of Bram twice and he's blinked twice, but that math only holds if the circle forms fast and complete, and the one thing that breaks a fast circle is someone who needed one more second to decide. I'm not asking whether you're brave \u2014 I watched you stand in front of his blade before Fina existed. I'm asking whether you're decided, right now, before the moment comes.",
    "who": "Dell",
    "year": 9
+  },
+  {
+   "eid": "e003939",
+   "kind": "say",
+   "text": "Roan, I've got three food and Dell's got eleven, and between the two of us we'll keep you fed through whatever this year brings \u2014 but that's not a gift, it's a deal, and the deal is you say yes or no right now so Dell and I don't have to guess which way you're standing when Bram makes his third move.",
+   "who": "Ryn",
+   "year": 9
   }
  ],
  "memory_summary": "",
