@@ -5405,6 +5405,13 @@
    "text": "Nessa, you've got a daughter now with Roan \u2014 Fina is my blood too, and I want you to hear this plainly: whatever Roan means to you, that child is mine to look out for. Don't let the food I give to Fina get counted as food you owe him.",
    "who": "Bram",
    "year": 9
+  },
+  {
+   "eid": "e003974",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Fina.",
+   "who": "Nessa",
+   "year": 9
   }
  ],
  "memory_summary": "",
