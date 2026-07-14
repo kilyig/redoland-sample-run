@@ -5669,6 +5669,13 @@
    "text": "Eron gives 1 food to Sela.",
    "who": "Eron",
    "year": 9
+  },
+  {
+   "eid": "e003932",
+   "kind": "pass",
+   "text": "",
+   "who": "Vela",
+   "year": 9
   }
  ],
  "memory_summary": "",
