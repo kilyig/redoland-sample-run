@@ -7426,6 +7426,13 @@
    "text": "I'm with you both \u2014 Bram takes five every year and swings when he thinks the odds favor him, and the only thing stopping him is a village that turns out fast. What I want before he tests it again is for the two of you to have already spoken to Mako and Roan, because those are the names that make the math too heavy for Bram to pick up \u2014 if they know we're watching and they're in, Bram stays quiet, and if he doesn't, he bleeds for it.",
    "who": "Vela",
    "year": 9
+  },
+  {
+   "eid": "e003900",
+   "kind": "say",
+   "text": "Mako's already in \u2014 he defended Eron last year without being asked, which tells me his math about Bram runs the same direction ours does. Roan I'll speak to before nightfall; he's got blood in Eron and Fina both, which means he's got more to lose than anyone if Bram decides to move again. But I want the three of us to agree on what we're actually offering them \u2014 alliance against Bram specifically, or something with more walls around it.",
+   "who": "Kael",
+   "year": 9
   }
  ],
  "memory_summary": "",
