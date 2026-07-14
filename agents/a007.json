@@ -6492,6 +6492,13 @@
    "text": "",
    "who": "Sela",
    "year": 9
+  },
+  {
+   "eid": "e004048",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 9
   }
  ],
  "memory_summary": "",
