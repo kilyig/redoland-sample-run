@@ -4075,6 +4075,13 @@
    "text": "Eron's been feeding Sela and Roan steady all year and he's still sitting on two \u2014 that circle runs tight and I don't think food shakes loose from it easy, but Sela's my mother and that's a door you can't open for yourself. Let me go to her; blood pulls where asking doesn't.",
    "who": "Mako",
    "year": 9
+  },
+  {
+   "eid": "e003955",
+   "kind": "give",
+   "text": "Sela gives 1 food to Eron.",
+   "who": "Sela",
+   "year": 9
   }
  ],
  "memory_summary": "",
