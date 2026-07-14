@@ -476,3 +476,4 @@
 {"eid": "e004356", "year": 9, "phase": "convo", "kind": "convo", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012"], "text": "Zinn gathers Eron to talk.", "payload": {}}
 {"eid": "e004357", "year": 9, "phase": "convo", "kind": "say", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012"], "text": "I'm sitting on nineteen and you're blood \u2014 take one, take two if you need it, I'm not going to let you starve while I'm holding this much.", "payload": {}}
 {"eid": "e004358", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
+{"eid": "e004359", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a014", "who": "Zinn", "audience": ["a014"], "text": "", "payload": {}}
