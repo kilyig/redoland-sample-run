@@ -3746,6 +3746,13 @@
    "text": "You gave me food, yes \u2014 and before that you taught me how to count a room, which is worth more than the food. But Bram, a man who gives and then stands in front of me listing what he gave is asking for something, even if he won't name it. What is it you actually want from me this year?",
    "who": "Nessa",
    "year": 9
+  },
+  {
+   "eid": "e003964",
+   "kind": "say",
+   "text": "What I want is for you to still be alive in ten years, and for the people you're feeding to want the same thing back \u2014 that's all. I don't think Eron and Roan have done the math on what happens to Nessa when the pile runs short and she's spread herself thin keeping them full.",
+   "who": "Bram",
+   "year": 9
   }
  ],
  "memory_summary": "",
