@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 0,
+ "food": 1,
  "health": 2,
  "hp": 100,
  "id": "a010",
@@ -3494,6 +3494,13 @@
    "kind": "pass",
    "text": "",
    "who": "Roan",
+   "year": 9
+  },
+  {
+   "eid": "e004109",
+   "kind": "give",
+   "text": "Fina gives 1 food to Roan.",
+   "who": "Fina",
    "year": 9
   }
  ],

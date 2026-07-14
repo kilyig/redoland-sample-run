@@ -4745,6 +4745,13 @@
    "text": "Thirteen's good \u2014 hold onto that and don't let it show too much, because Bram's already tried once and a fat woman is a target. Roan's been feeding both of us steady and I want to make sure he doesn't go into the year-end thin; he's got nothing right now, so if you've got a spare to send his way before we eat down, that's worth doing.",
    "who": "Fina",
    "year": 9
+  },
+  {
+   "eid": "e004109",
+   "kind": "give",
+   "text": "Fina gives 1 food to Roan.",
+   "who": "Fina",
+   "year": 9
   }
  ],
  "memory_summary": "",
