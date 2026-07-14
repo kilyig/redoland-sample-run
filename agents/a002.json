@@ -5935,6 +5935,13 @@
    "text": "Taric's got zero food and Kael's got three \u2014 neither of them is starving yet, and a man who isn't starving and still comes to my door asking for mine is coming for a different reason than hunger. What are they actually after, Vela, and what did you tell them about me before they decided I was the door to knock on?",
    "who": "Bram",
    "year": 9
+  },
+  {
+   "eid": "e004012",
+   "kind": "give",
+   "text": "Bram gives 2 food to Nessa.",
+   "who": "Bram",
+   "year": 9
   }
  ],
  "memory_summary": "",
