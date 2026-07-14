@@ -262,3 +262,4 @@
 {"eid": "e004142", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e004143", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e004144", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
+{"eid": "e004145", "year": 9, "phase": "scramble", "kind": "give", "speaker": "a004", "who": "Kael", "audience": "public", "text": "Kael gives 1 food to Esa.", "payload": {"target": "a003", "amount": 1}}
