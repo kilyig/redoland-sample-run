@@ -3345,6 +3345,13 @@
    "text": "Zinn gathers Sela to talk.",
    "who": "Zinn",
    "year": 9
+  },
+  {
+   "eid": "e004077",
+   "kind": "say",
+   "text": "I gave you one already and I meant it \u2014 but I need to know you're going to hold it and not hand it straight to Mako again, because feeding a man who took five from the pile without a word to you isn't kin-keeping, it's paying a debt you don't owe.",
+   "who": "Zinn",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -3356,7 +3363,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [
   "a012",
