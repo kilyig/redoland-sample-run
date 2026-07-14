@@ -5536,6 +5536,13 @@
    "text": "Eron takes 2 from the pile (pile now 5).",
    "who": "Eron",
    "year": 9
+  },
+  {
+   "eid": "e003887",
+   "kind": "take",
+   "text": "Bram takes 3 from the pile (pile now 2).",
+   "who": "Bram",
+   "year": 9
   }
  ],
  "memory_summary": "",

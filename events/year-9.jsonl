@@ -4,3 +4,4 @@
 {"eid": "e003884", "year": 9, "phase": "scramble", "kind": "take", "speaker": "a006", "who": "Taric", "audience": "public", "text": "Taric takes 2 from the pile (pile now 9).", "payload": {"amount": 2}}
 {"eid": "e003885", "year": 9, "phase": "scramble", "kind": "take", "speaker": "a015", "who": "Fina", "audience": "public", "text": "Fina takes 2 from the pile (pile now 7).", "payload": {"amount": 2}}
 {"eid": "e003886", "year": 9, "phase": "scramble", "kind": "take", "speaker": "a012", "who": "Eron", "audience": "public", "text": "Eron takes 2 from the pile (pile now 5).", "payload": {"amount": 2}}
+{"eid": "e003887", "year": 9, "phase": "scramble", "kind": "take", "speaker": "a001", "who": "Bram", "audience": "public", "text": "Bram takes 3 from the pile (pile now 2).", "payload": {"amount": 3}}
