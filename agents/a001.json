@@ -1,5 +1,5 @@
 {
- "actions_used_year": 8,
+ "actions_used_year": 9,
  "age": 39,
  "alive": true,
  "birth_year": 0,
@@ -5908,6 +5908,13 @@
    "kind": "give",
    "text": "Zinn gives 1 food to Mako.",
    "who": "Zinn",
+   "year": 9
+  },
+  {
+   "eid": "e004374",
+   "kind": "attack",
+   "text": "Bram moves to attack Vela.",
+   "who": "the village",
    "year": 9
   }
  ],

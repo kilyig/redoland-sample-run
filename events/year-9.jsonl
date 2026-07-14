@@ -491,3 +491,5 @@
 {"eid": "e004371", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e004372", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a014", "who": "Zinn", "audience": ["a014"], "text": "", "payload": {}}
 {"eid": "e004373", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
+{"eid": "e004374", "year": 9, "phase": "fight", "kind": "attack", "speaker": "village", "who": "the village", "audience": "public", "text": "Bram moves to attack Vela.", "payload": {"initiator": "a001", "target": "a002"}}
+{"eid": "e004375", "year": 9, "phase": "fight", "kind": "under_attack", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "You are under attack by Bram.", "payload": {}}

@@ -6565,6 +6565,20 @@
    "text": "",
    "who": "Vela",
    "year": 9
+  },
+  {
+   "eid": "e004374",
+   "kind": "attack",
+   "text": "Bram moves to attack Vela.",
+   "who": "the village",
+   "year": 9
+  },
+  {
+   "eid": "e004375",
+   "kind": "under_attack",
+   "text": "You are under attack by Bram.",
+   "who": "Vela",
+   "year": 9
   }
  ],
  "memory_summary": "",
