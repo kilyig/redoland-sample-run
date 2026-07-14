@@ -6999,6 +6999,13 @@
    "text": "Ryn, I'm not closing this room until I hear you say it back \u2014 you said you feel what I've done for you, so prove it by naming the arrangement out loud, because a promise said in words is the kind of thing I can hold onto when you go quiet again.",
    "who": "Dell",
    "year": 10
+  },
+  {
+   "eid": "e004426",
+   "kind": "say",
+   "text": "If it gets heavier, I'll say it in this room before I say it anywhere else \u2014 that's the arrangement, and it stands. Dell, go to the pile first this morning; I'll be two steps behind you.",
+   "who": "Ryn",
+   "year": 10
   }
  ],
  "memory_summary": "",
