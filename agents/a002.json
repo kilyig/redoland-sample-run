@@ -5655,6 +5655,13 @@
    "text": "Two food is the right number and Taric's named the reason \u2014 we're not taking his livelihood, we're naming a ceiling, and that's different enough that most of the village will stand behind it. What I want settled before we walk up to him is who speaks first, because if Bram hears it from me he'll read it as a grudge, but if it comes from all three of us in the same breath it sounds like a rule, not a quarrel.",
    "who": "Kael",
    "year": 9
+  },
+  {
+   "eid": "e003910",
+   "kind": "say",
+   "text": "Vela speaks first \u2014 she's got no old score with him and he's taken her food three times without swinging at her, which makes it look like a neighbor drawing a line, not an enemy collecting a debt. I'll stand directly behind her when she does, because Bram reads bodies as well as words and a wall of faces tells him more than the sentence does. Kael, you stand behind me \u2014 close enough that he counts you, far enough that he doesn't feel cornered before Vela's finished speaking.",
+   "who": "Taric",
+   "year": 9
   }
  ],
  "memory_summary": "",
