@@ -7006,6 +7006,13 @@
    "text": "If it gets heavier, I'll say it in this room before I say it anywhere else \u2014 that's the arrangement, and it stands. Dell, go to the pile first this morning; I'll be two steps behind you.",
    "who": "Ryn",
    "year": 10
+  },
+  {
+   "eid": "e004427",
+   "kind": "take",
+   "text": "Mako takes 3 from the pile (pile now 12).",
+   "who": "Mako",
+   "year": 10
   }
  ],
  "memory_summary": "",
