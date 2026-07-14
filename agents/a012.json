@@ -4325,6 +4325,13 @@
    "text": "Sela's right about Zinn \u2014 I'll bring her into the same conversation I have with Nessa, not as a test but as blood that deserves to know what's moving around her. Taric, on the ceiling: name it with Vela and Kael before Bram has another quiet morning to count heads, because two years of silence after taking five tells me he's not waiting on allies, he's waiting on a moment \u2014 and I'd rather the ceiling exist before that moment arrives than after.",
    "who": "Eron",
    "year": 9
+  },
+  {
+   "eid": "e003923",
+   "kind": "say",
+   "text": "Kael, you were in the conversation with Taric and Vela about naming a ceiling \u2014 tell us what number you had in mind, because three is what the pile gives each person and five is what Bram takes, and the difference between those two numbers is the whole problem.",
+   "who": "Sela",
+   "year": 9
   }
  ],
  "memory_summary": "",
