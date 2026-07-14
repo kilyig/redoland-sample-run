@@ -6943,6 +6943,13 @@
    "text": "Ryn, I want to hear your voice in this before we walk out that door \u2014 you've been quiet since I named Mako, and quiet from you in a room like this means you're holding something I should know before the pile opens.",
    "who": "Dell",
    "year": 10
+  },
+  {
+   "eid": "e004418",
+   "kind": "say",
+   "text": "Ryn, if you've got something sitting behind your teeth, this is the room for it \u2014 Dell and I aren't going anywhere yet, and I'd rather know what's bothering you now than piece it together from how you move at the pile.",
+   "who": "Roan",
+   "year": 10
   }
  ],
  "memory_summary": "",
