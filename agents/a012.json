@@ -4206,6 +4206,13 @@
    "text": "Five from the pile when there's fourteen of us \u2014 that's not hunger, that's a message, and the message is that he's stopped caring what the village thinks of him. I'm at sixteen food now and that makes me a target again; I need to know if you've heard anything from his direction about what he's actually planning, because two failed attacks in two years means he's either desperate or he's waiting for something to change.",
    "who": "Eron",
    "year": 9
+  },
+  {
+   "eid": "e003891",
+   "kind": "say",
+   "text": "Nothing from his mouth to me \u2014 Bram stopped talking to me the way a father talks and started talking to me the way a man talks to an asset, and then he stopped talking at all. What I know is what I can see: five food taken, two attacks called off when the numbers turned, and a man who keeps moving without allies. That's not patience running out, that's a man who's been counting on something that hasn't arrived yet, and I'd give a lot to know what he's still waiting on.",
+   "who": "Nessa",
+   "year": 9
   }
  ],
  "memory_summary": "",
