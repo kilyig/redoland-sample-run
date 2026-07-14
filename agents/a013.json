@@ -3753,6 +3753,13 @@
    "text": "What I want is for you to still be alive in ten years, and for the people you're feeding to want the same thing back \u2014 that's all. I don't think Eron and Roan have done the math on what happens to Nessa when the pile runs short and she's spread herself thin keeping them full.",
    "who": "Bram",
    "year": 9
+  },
+  {
+   "eid": "e003965",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 9
   }
  ],
  "memory_summary": "",
