@@ -7440,6 +7440,13 @@
    "text": "Kael, \"alliance against Bram specifically\" is the right wall to build first \u2014 the moment we make it bigger than that, Mako starts wondering what he's signed onto and Roan starts counting what it costs him, and we lose both before the ink's dry. Let's keep it narrow and clean: if Bram moves on anyone in this circle, we all move together, no deliberation, no counting odds in the moment. That's a thing a man can say yes to in one breath.",
    "who": "Vela",
    "year": 9
+  },
+  {
+   "eid": "e003902",
+   "kind": "say",
+   "text": "Vela's right \u2014 narrow and clean is the only offer that travels. Taric, when I speak to Roan tonight I'll say it in one sentence: Bram moves on any of us, we move together, no pause. That's all it needs to be.",
+   "who": "Kael",
+   "year": 9
   }
  ],
  "memory_summary": "",
