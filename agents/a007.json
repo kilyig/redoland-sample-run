@@ -6555,6 +6555,13 @@
    "text": "I gave you one already and I meant it \u2014 but I need to know you're going to hold it and not hand it straight to Mako again, because feeding a man who took five from the pile without a word to you isn't kin-keeping, it's paying a debt you don't owe.",
    "who": "Zinn",
    "year": 9
+  },
+  {
+   "eid": "e004078",
+   "kind": "give",
+   "text": "Roan gives 1 food to Eron.",
+   "who": "Roan",
+   "year": 9
   }
  ],
  "memory_summary": "",

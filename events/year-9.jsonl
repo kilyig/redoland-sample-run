@@ -195,3 +195,4 @@
 {"eid": "e004075", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e004076", "year": 9, "phase": "convo", "kind": "convo", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a007"], "text": "Zinn gathers Sela to talk.", "payload": {}}
 {"eid": "e004077", "year": 9, "phase": "convo", "kind": "say", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a007"], "text": "I gave you one already and I meant it \u2014 but I need to know you're going to hold it and not hand it straight to Mako again, because feeding a man who took five from the pile without a word to you isn't kin-keeping, it's paying a debt you don't owe.", "payload": {}}
+{"eid": "e004078", "year": 9, "phase": "scramble", "kind": "give", "speaker": "a010", "who": "Roan", "audience": "public", "text": "Roan gives 1 food to Eron.", "payload": {"target": "a012", "amount": 1}}
