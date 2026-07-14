@@ -6957,6 +6957,13 @@
    "text": "Ryn's gone quiet twice in this conversation and neither of us has heard a word from her \u2014 that silence is the thing I'm holding right now, Roan, and if she doesn't speak before this room closes I'm going to take two from the pile and then stand next to her until she does, because a woman who's fed me through every lean year I've known doesn't go quiet without a reason worth hearing.",
    "who": "Dell",
    "year": 10
+  },
+  {
+   "eid": "e004420",
+   "kind": "say",
+   "text": "Ryn, Dell's been carrying you the same way Eron's been carrying me, and neither of us can afford to walk into this year blind \u2014 so say what you've got, even if it's small, because small things have a way of getting large before the pile's empty.",
+   "who": "Roan",
+   "year": 10
   }
  ],
  "memory_summary": "",
