@@ -7433,6 +7433,13 @@
    "text": "Mako's already in \u2014 he defended Eron last year without being asked, which tells me his math about Bram runs the same direction ours does. Roan I'll speak to before nightfall; he's got blood in Eron and Fina both, which means he's got more to lose than anyone if Bram decides to move again. But I want the three of us to agree on what we're actually offering them \u2014 alliance against Bram specifically, or something with more walls around it.",
    "who": "Kael",
    "year": 9
+  },
+  {
+   "eid": "e003901",
+   "kind": "say",
+   "text": "Kael, \"alliance against Bram specifically\" is the right wall to build first \u2014 the moment we make it bigger than that, Mako starts wondering what he's signed onto and Roan starts counting what it costs him, and we lose both before the ink's dry. Let's keep it narrow and clean: if Bram moves on anyone in this circle, we all move together, no deliberation, no counting odds in the moment. That's a thing a man can say yes to in one breath.",
+   "who": "Vela",
+   "year": 9
   }
  ],
  "memory_summary": "",
