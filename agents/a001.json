@@ -5790,6 +5790,13 @@
    "text": "Mako gives 1 food to Zinn.",
    "who": "Mako",
    "year": 9
+  },
+  {
+   "eid": "e004234",
+   "kind": "give",
+   "text": "Zinn gives 1 food to Eron.",
+   "who": "Zinn",
+   "year": 9
   }
  ],
  "memory_summary": "",
