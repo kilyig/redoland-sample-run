@@ -468,3 +468,4 @@
 {"eid": "e004348", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e004349", "year": 9, "phase": "scramble", "kind": "give", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela gives 1 food to Eron.", "payload": {"target": "a012", "amount": 1}}
 {"eid": "e004350", "year": 9, "phase": "convo", "kind": "convo", "speaker": "a015", "who": "Fina", "audience": ["a015", "a012"], "text": "Fina gathers Eron to talk.", "payload": {}}
+{"eid": "e004351", "year": 9, "phase": "convo", "kind": "say", "speaker": "a015", "who": "Fina", "audience": ["a015", "a012"], "text": "Roan's already got two from me this year and I've got nineteen sitting here, so I'll send him one more before we eat \u2014 he's earned it. You watch your count though, Fina; thirteen feels fat but Bram's still walking around with five and he's already shown us who he is.", "payload": {}}
