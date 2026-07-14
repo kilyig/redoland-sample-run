@@ -5991,6 +5991,13 @@
    "text": "Good. Then we're three, and three who've already held is worth more than ten who've never been tested. Dell, you're carrying eleven \u2014 if Bram moves before the year closes, I want Roan fed enough to fight, not hungry and calculating.",
    "who": "Ryn",
    "year": 9
+  },
+  {
+   "eid": "e003944",
+   "kind": "say",
+   "text": "Dell, if you've got food to spare, I'll take one \u2014 not because I can't hold my own, but because a man who fights on a full stomach is a man who finishes the fight.",
+   "who": "Roan",
+   "year": 9
   }
  ],
  "memory_summary": "",
