@@ -6156,6 +6156,13 @@
    "text": "Kael, I'd hold the ceiling at three \u2014 same as fair share, no exceptions, because a rule that has a soft edge is a suggestion and Bram's already shown us he doesn't take suggestions. If he moves past that next year, I want this room already committed to acting in the moment, not deliberating after he's got the food in hand.",
    "who": "Eron",
    "year": 9
+  },
+  {
+   "eid": "e003925",
+   "kind": "say",
+   "text": "Kael, I need to hear you say it out loud \u2014 three, and we move the moment he reaches for a fourth. Not after the pile's gone, not in a circle two days later: in the moment.",
+   "who": "Sela",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -6164,7 +6171,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "female",
  "siblings": [],
  "strength": 73,
