@@ -3170,6 +3170,13 @@
    "text": "Zinn gathers Sela to talk.",
    "who": "Zinn",
    "year": 9
+  },
+  {
+   "eid": "e004018",
+   "kind": "say",
+   "text": "Sela, I've got nothing left \u2014 the pile was gone before I reached it and I gave my last food to Mako because he was starving, and now I need to know if you can spare one, because I won't make it to year's end without eating.",
+   "who": "Zinn",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -3181,7 +3188,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [
   "a012",
