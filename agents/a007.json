@@ -6072,6 +6072,13 @@
    "text": "Bram took five from the pile again \u2014 same as last year, same silence after, except this time there's no pile left for Roan or Sela or half the people in this village. He moved on me twice and both times the numbers turned him back, but I want to know if any of you have heard him talking to anyone new, because a man who keeps failing alone eventually finds someone willing to stand with him.",
    "who": "Eron",
    "year": 9
+  },
+  {
+   "eid": "e003913",
+   "kind": "say",
+   "text": "I haven't heard Bram talking to anyone new, but the thing that worries me more than who he's courting is that he took five without flinching \u2014 last year and this year, same number, same silence \u2014 which means the village turning out against him twice hasn't changed his calculation at all, only his timing. Kael and Vela and I were just talking about walking up to him together and naming a ceiling before he decides his count is finally right.",
+   "who": "Taric",
+   "year": 9
   }
  ],
  "memory_summary": "",
