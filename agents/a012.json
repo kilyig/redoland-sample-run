@@ -4731,6 +4731,13 @@
    "text": "Roan gives 1 food to Eron.",
    "who": "Roan",
    "year": 9
+  },
+  {
+   "eid": "e004105",
+   "kind": "convo",
+   "text": "Fina gathers Eron to talk.",
+   "who": "Fina",
+   "year": 9
   }
  ],
  "memory_summary": "",

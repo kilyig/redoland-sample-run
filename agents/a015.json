@@ -1,5 +1,5 @@
 {
- "actions_used_year": 3,
+ "actions_used_year": 4,
  "age": 22,
  "alive": true,
  "birth_year": 8,
@@ -893,6 +893,13 @@
    "eid": "e004097",
    "kind": "pass",
    "text": "",
+   "who": "Fina",
+   "year": 9
+  },
+  {
+   "eid": "e004105",
+   "kind": "convo",
+   "text": "Fina gathers Eron to talk.",
    "who": "Fina",
    "year": 9
   }
