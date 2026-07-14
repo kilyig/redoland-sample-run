@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 23,
  "alive": true,
  "birth_year": 8,
@@ -1258,6 +1258,13 @@
    "kind": "take",
    "text": "Vela takes 4 from the pile (pile now 0).",
    "who": "Vela",
+   "year": 10
+  },
+  {
+   "eid": "e004433",
+   "kind": "convo",
+   "text": "Fina gathers Eron to talk.",
+   "who": "Fina",
    "year": 10
   }
  ],

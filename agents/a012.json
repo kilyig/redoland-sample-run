@@ -5053,6 +5053,13 @@
    "text": "Vela takes 4 from the pile (pile now 0).",
    "who": "Vela",
    "year": 10
+  },
+  {
+   "eid": "e004433",
+   "kind": "convo",
+   "text": "Fina gathers Eron to talk.",
+   "who": "Fina",
+   "year": 10
   }
  ],
  "memory_summary": "",
