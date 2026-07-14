@@ -6135,6 +6135,13 @@
    "text": "Taric's right about how to go to her \u2014 but Eron, while you're talking to Nessa, keep Zinn close to you, because if Bram's reading this circle at all, he knows Zinn is the loose thread, and a man who fed Fina the day she was born knows exactly how to use a daughter against her mother. What I'd want before any of us moves is all three of my children knowing which side of a door to stand on.",
    "who": "Sela",
    "year": 9
+  },
+  {
+   "eid": "e003922",
+   "kind": "say",
+   "text": "Sela's right about Zinn \u2014 I'll bring her into the same conversation I have with Nessa, not as a test but as blood that deserves to know what's moving around her. Taric, on the ceiling: name it with Vela and Kael before Bram has another quiet morning to count heads, because two years of silence after taking five tells me he's not waiting on allies, he's waiting on a moment \u2014 and I'd rather the ceiling exist before that moment arrives than after.",
+   "who": "Eron",
+   "year": 9
   }
  ],
  "memory_summary": "",
