@@ -6929,6 +6929,13 @@
    "text": "Mako's sitting on zero food same as Ryn, which means he's going to the pile hungry and a hungry Mako is unpredictable \u2014 but he's also got Zinn and a daughter's loyalty pulling at him, so he's not going to do anything that makes the whole village turn cold on him the year after Bram died proving what that costs. Ryn, you take two from the pile before anyone counts you out, and Roan, you take your two and don't wait to see who moves first. I'll be right behind both of you.",
    "who": "Dell",
    "year": 10
+  },
+  {
+   "eid": "e004416",
+   "kind": "say",
+   "text": "Dell's read on Mako sounds right to me \u2014 a man who watched Bram die on the wrong side of a circle isn't going to make the same mistake the same year. I'll take my two and step back; the pile's generous enough today that nobody should be reaching past fair share, and I'd rather spend this morning watching who lingers at the edge than counting my own food.",
+   "who": "Roan",
+   "year": 10
   }
  ],
  "memory_summary": "",
