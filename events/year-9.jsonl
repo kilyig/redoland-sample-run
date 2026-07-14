@@ -118,3 +118,4 @@
 {"eid": "e003998", "year": 9, "phase": "convo", "kind": "say", "speaker": "a015", "who": "Fina", "audience": ["a015", "a012"], "text": "Eron, Nessa's been steady with me this year and you've come through too \u2014 I'm sitting at nine now and that's the most solid I've felt in a while. I want to make sure we go into next year with both of us fat and Zinn not scrambling; if the pile runs thin again, let's agree right now that we share before we go looking outside our blood.", "payload": {}}
 {"eid": "e003999", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e004000", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
+{"eid": "e004001", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a014", "who": "Zinn", "audience": ["a014"], "text": "", "payload": {}}
