@@ -5634,6 +5634,13 @@
    "text": "Vela, \"move first\" means we go to Bram together \u2014 the three of us plus Roan and Mako behind us \u2014 and we say plainly that the pile is everyone's and five food in one man's hands is a debt the village will collect. We don't swing until he makes us, but we make the math visible before he's had a chance to believe it favors him. That's not a threat, it's arithmetic.",
    "who": "Kael",
    "year": 9
+  },
+  {
+   "eid": "e003907",
+   "kind": "say",
+   "text": "Kael, that's the sharpest thing said in this room, and I'll stand behind it \u2014 but \"the village will collect\" needs a number attached before we walk up to Bram's door, because a man who hears a vague threat does his own arithmetic and decides we're bluffing. What's the line: if he's sitting on five food at year's end and hasn't swung at anyone, do we take two back, or do we let it lie and just make sure every soul in the village watched us walk up to him and say it?",
+   "who": "Vela",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -5642,7 +5649,7 @@
  "name": "Vela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [],
  "strength": 26,
