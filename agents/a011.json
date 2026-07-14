@@ -6971,6 +6971,13 @@
    "text": "I'm tired, and that's the honest answer \u2014 not tired of this room or the two of you, but tired in my bones in a way I didn't feel at thirty or even forty, and Dav starved at forty-six and I am forty-seven, and some mornings that arithmetic sits on my chest before I've said a word to anyone. I'll take my two from the pile and I'll stand when I need to stand. But I want Dell to know that what she's been doing for me these past years isn't something I've stopped feeling, even when I'm quiet.",
    "who": "Ryn",
    "year": 10
+  },
+  {
+   "eid": "e004422",
+   "kind": "say",
+   "text": "Ryn, forty-seven is not forty-six \u2014 Dav was Dav and you are you, and the pile's got fifteen today instead of nothing. Take your two and eat them tonight, and stop doing that arithmetic alone.",
+   "who": "Roan",
+   "year": 10
   }
  ],
  "memory_summary": "",
