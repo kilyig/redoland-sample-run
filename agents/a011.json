@@ -6915,6 +6915,13 @@
    "text": "Bram is dead and Taric is dead, and the pile's got fifteen for twelve of us \u2014 that's more breathing room than we've had in years, but I want us at the pile early before Mako decides this is the year he stops being polite about it. Ryn, you're at zero food coming out of last year and that doesn't stand; Roan, same question I always ask you: how hungry are you walking into this morning?",
    "who": "Dell",
    "year": 10
+  },
+  {
+   "eid": "e004414",
+   "kind": "say",
+   "text": "Hungry enough that I ate nothing last year and I'm still standing, which tells me I've been leaning on Eron longer than a father should. I'll be at the pile early \u2014 two food is what I need to keep breathing, and I won't reach past that. What are you thinking about Mako?",
+   "who": "Roan",
+   "year": 10
   }
  ],
  "memory_summary": "",
