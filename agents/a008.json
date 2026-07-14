@@ -4131,6 +4131,13 @@
    "text": "You're right that I pulled heavy last year, and I won't argue the room's memory \u2014 but I named the rule out loud when it mattered and I'll hold to it, so file that alongside the rest. I'm not asking you to go hungry; I hear you. Keep your food and I'll find another way through this year.",
    "who": "Mako",
    "year": 9
+  },
+  {
+   "eid": "e003971",
+   "kind": "give",
+   "text": "Sela gives 1 food to Eron.",
+   "who": "Sela",
+   "year": 9
   }
  ],
  "memory_summary": "",
