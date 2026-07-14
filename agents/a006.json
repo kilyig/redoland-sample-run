@@ -7447,6 +7447,13 @@
    "text": "Vela's right \u2014 narrow and clean is the only offer that travels. Taric, when I speak to Roan tonight I'll say it in one sentence: Bram moves on any of us, we move together, no pause. That's all it needs to be.",
    "who": "Kael",
    "year": 9
+  },
+  {
+   "eid": "e003903",
+   "kind": "say",
+   "text": "Kael, before you go to Roan \u2014 I want to know what we do if Bram doesn't swing at anyone this year and just sits on his five food and waits. Because the pattern I've been watching isn't just that he raids, it's that he builds until he thinks he can win, and a quiet year might mean he's finally learned to count, not that he's changed.",
+   "who": "Taric",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -7455,7 +7462,7 @@
  "name": "Taric",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "male",
  "siblings": [],
  "strength": 38,
