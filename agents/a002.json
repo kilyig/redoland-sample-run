@@ -5613,6 +5613,13 @@
    "text": "Kael, before you go to Roan \u2014 I want to know what we do if Bram doesn't swing at anyone this year and just sits on his five food and waits. Because the pattern I've been watching isn't just that he raids, it's that he builds until he thinks he can win, and a quiet year might mean he's finally learned to count, not that he's changed.",
    "who": "Taric",
    "year": 9
+  },
+  {
+   "eid": "e003904",
+   "kind": "say",
+   "text": "Taric, a quiet Bram is a Bram counting \u2014 and if he's counting, we move first, before he finishes the math. I want to know who he'd go after if he thought he could win clean: not Roan, not Mako's household, which means it's one of us three, or Esa, or Eron if he thinks Roan's distracted with the new child. So I want us named loud and early this year \u2014 not a threat, just visible enough that he sees the wall before he measures the door.",
+   "who": "Kael",
+   "year": 9
   }
  ],
  "memory_summary": "",
