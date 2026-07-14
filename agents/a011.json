@@ -5970,6 +5970,13 @@
    "text": "Roan, you've got three food from Eron just this year and a daughter Bram already named when he fed Fina \u2014 that man is threading himself into your circle whether you invited him or not, and the only answer to that is deciding now which thread you cut. Say yes and we're three people who've already held twice; say nothing and Bram learns that too.",
    "who": "Dell",
    "year": 9
+  },
+  {
+   "eid": "e003941",
+   "kind": "say",
+   "text": "Roan, Dell's named the thread and I'll name the needle: Bram fed Fina once, and a man who feeds your daughter is buying something whether you asked him to or not. Say yes here and that purchase fails; say nothing and he's already paid for it. We're waiting on one word.",
+   "who": "Ryn",
+   "year": 9
   }
  ],
  "memory_summary": "",
