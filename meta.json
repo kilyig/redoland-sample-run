@@ -1,9 +1,9 @@
 {
  "branch": "main",
  "cursor": {
-  "last": "a008",
+  "last": "a006",
   "phase": "scramble",
-  "steps": 241
+  "steps": 242
  },
  "next_aid": 15,
  "next_eid": 4147,
@@ -678,7 +678,7 @@
    1761959357,
    2440030362,
    1717219111,
-   462
+   476
   ],
   null
  ],
