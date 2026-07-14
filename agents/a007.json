@@ -6149,6 +6149,13 @@
    "text": "Kael, you were in the conversation with Taric and Vela about naming a ceiling \u2014 tell us what number you had in mind, because three is what the pile gives each person and five is what Bram takes, and the difference between those two numbers is the whole problem.",
    "who": "Sela",
    "year": 9
+  },
+  {
+   "eid": "e003924",
+   "kind": "say",
+   "text": "Kael, I'd hold the ceiling at three \u2014 same as fair share, no exceptions, because a rule that has a soft edge is a suggestion and Bram's already shown us he doesn't take suggestions. If he moves past that next year, I want this room already committed to acting in the moment, not deliberating after he's got the food in hand.",
+   "who": "Eron",
+   "year": 9
   }
  ],
  "memory_summary": "",
