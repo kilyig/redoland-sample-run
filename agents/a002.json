@@ -5578,6 +5578,13 @@
    "text": "Bram took five and the pile's empty on day one \u2014 I've watched that pattern three years running and the only reason he doesn't push further is because the whole village turns out against him, which means the answer isn't waiting for him to move first, it's making sure he knows before he moves that the cost is more than he can pay. Vela, where are you on this? Because if it's the two of us and Taric I want to know now, not when Bram's already swinging.",
    "who": "Kael",
    "year": 9
+  },
+  {
+   "eid": "e003899",
+   "kind": "say",
+   "text": "I'm with you both \u2014 Bram takes five every year and swings when he thinks the odds favor him, and the only thing stopping him is a village that turns out fast. What I want before he tests it again is for the two of you to have already spoken to Mako and Roan, because those are the names that make the math too heavy for Bram to pick up \u2014 if they know we're watching and they're in, Bram stays quiet, and if he doesn't, he bleeds for it.",
+   "who": "Vela",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -5586,7 +5593,7 @@
  "name": "Vela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "female",
  "siblings": [],
  "strength": 26,
