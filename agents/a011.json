@@ -6985,6 +6985,13 @@
    "text": "Ryn, I hear what you said and I'm holding it \u2014 but I want you to promise me right now that if you feel that bone-tiredness getting heavier before the year closes, you say it in this room before you say it to no one, because I am not watching you go the way Dav went without a fight. Roan's right that forty-seven isn't forty-six, but what keeps it that way is you eating tonight and me knowing when you need another one from my stores. That's not a gift, that's a standing arrangement, and I need to hear you say it back.",
    "who": "Dell",
    "year": 10
+  },
+  {
+   "eid": "e004424",
+   "kind": "say",
+   "text": "Ryn, say it back to her \u2014 she needs the words, not just the nod. Dell's kept more people breathing in this village than anyone wants to count, and the least you can give her for that is the promise she's asking for.",
+   "who": "Roan",
+   "year": 10
   }
  ],
  "memory_summary": "",
