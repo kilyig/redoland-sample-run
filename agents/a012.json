@@ -5109,6 +5109,13 @@
    "text": "That's the right move \u2014 go quiet and let her find her own words, because if you push she'll say what she thinks you want to hear and that's worth nothing. Whatever she tells you, come back to me before you take it anywhere else; I want to hear her answer in your words before we decide whether Kael comes into this.",
    "who": "Fina",
    "year": 10
+  },
+  {
+   "eid": "e004441",
+   "kind": "convo",
+   "text": "Zinn gathers Eron to talk.",
+   "who": "Zinn",
+   "year": 10
   }
  ],
  "memory_summary": "",
