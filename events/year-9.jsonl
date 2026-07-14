@@ -353,3 +353,4 @@
 {"eid": "e004233", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e004234", "year": 9, "phase": "scramble", "kind": "give", "speaker": "a014", "who": "Zinn", "audience": "public", "text": "Zinn gives 1 food to Eron.", "payload": {"target": "a012", "amount": 1}}
 {"eid": "e004235", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
+{"eid": "e004236", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
