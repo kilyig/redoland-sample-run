@@ -3634,6 +3634,13 @@
    "text": "You're right that I'm the one he's watching, and I've been sitting with that \u2014 but Eron, if Bram decides I'm something he needs to stop rather than use, the answer isn't me hiding behind you and Roan, it's me being the one who names what he is before he moves. Sixteen food on you and two attacks already makes you the more urgent target; don't spend your attention watching over me when you should be counting who'd stand with you if he came a third time with better numbers.",
    "who": "Nessa",
    "year": 9
+  },
+  {
+   "eid": "e003894",
+   "kind": "take",
+   "text": "Roan takes 2 from the pile (pile now 0).",
+   "who": "Roan",
+   "year": 9
   }
  ],
  "memory_summary": "",
