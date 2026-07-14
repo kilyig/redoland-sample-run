@@ -2876,6 +2876,13 @@
    "text": "You've given me food when I needed it and I don't forget that \u2014 I'll give you one, but that's all I can spare with two food and satiation already thin on my own end. I can't go hungry for anyone, not even you.",
    "who": "Zinn",
    "year": 9
+  },
+  {
+   "eid": "e003930",
+   "kind": "say",
+   "text": "One is enough \u2014 take care of yourself first, that's the right call. We're both thin this year and the pile went too fast; I want to talk to Eron or Sela before dark and see if there's food moving through that circle that might shake loose toward us.",
+   "who": "Mako",
+   "year": 9
   }
  ],
  "memory_summary": "",
