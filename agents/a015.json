@@ -1091,6 +1091,27 @@
    "text": "Bram moves to attack Vela.",
    "who": "the village",
    "year": 9
+  },
+  {
+   "eid": "e004376",
+   "kind": "join",
+   "text": "Kael joins the defenders.",
+   "who": "the village",
+   "year": 9
+  },
+  {
+   "eid": "e004377",
+   "kind": "join",
+   "text": "Taric joins the defenders.",
+   "who": "the village",
+   "year": 9
+  },
+  {
+   "eid": "e004378",
+   "kind": "join",
+   "text": "Mako joins the defenders.",
+   "who": "the village",
+   "year": 9
   }
  ],
  "memory_summary": "",

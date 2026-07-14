@@ -493,3 +493,6 @@
 {"eid": "e004373", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e004374", "year": 9, "phase": "fight", "kind": "attack", "speaker": "village", "who": "the village", "audience": "public", "text": "Bram moves to attack Vela.", "payload": {"initiator": "a001", "target": "a002"}}
 {"eid": "e004375", "year": 9, "phase": "fight", "kind": "under_attack", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "You are under attack by Bram.", "payload": {}}
+{"eid": "e004376", "year": 9, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Kael joins the defenders.", "payload": {}}
+{"eid": "e004377", "year": 9, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Taric joins the defenders.", "payload": {}}
+{"eid": "e004378", "year": 9, "phase": "fight", "kind": "join", "speaker": "village", "who": "the village", "audience": "public", "text": "Mako joins the defenders.", "payload": {}}
