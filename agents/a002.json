@@ -1,6 +1,6 @@
 {
  "actions_used_year": 2,
- "age": 52,
+ "age": 53,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 4,
+ "food": 3,
  "health": 2,
  "hp": 100,
  "id": "a002",
@@ -5485,6 +5485,13 @@
    "eid": "e003860",
    "kind": "pass",
    "text": "",
+   "who": "Vela",
+   "year": 8
+  },
+  {
+   "eid": "e003864",
+   "kind": "eat",
+   "text": "eats 1 food",
    "who": "Vela",
    "year": 8
   }

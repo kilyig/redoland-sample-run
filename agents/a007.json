@@ -1,6 +1,6 @@
 {
  "actions_used_year": 9,
- "age": 30,
+ "age": 31,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -12,7 +12,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 2,
  "health": 2,
  "hp": 100,
  "id": "a007",
@@ -5986,6 +5986,13 @@
    "eid": "e003859",
    "kind": "pass",
    "text": "",
+   "who": "Sela",
+   "year": 8
+  },
+  {
+   "eid": "e003868",
+   "kind": "eat",
+   "text": "eats 1 food",
    "who": "Sela",
    "year": 8
   }
