@@ -1,18 +1,18 @@
 {
  "actions_used_year": 9,
  "age": 39,
- "alive": true,
+ "alive": false,
  "birth_year": 0,
  "bore_this_year": false,
  "children": [
   "a013"
  ],
- "death_cause": null,
- "death_year": null,
+ "death_cause": "starvation",
+ "death_year": 9,
  "father_note": "",
  "food": 0,
- "health": 1,
- "hp": 100,
+ "health": 0,
+ "hp": 0,
  "id": "a001",
  "intelligence_tokens": 5416,
  "memory_raw": [
@@ -6013,6 +6013,13 @@
    "kind": "cancel",
    "text": "Bram thinks better of it and calls off the attack.",
    "who": "the village",
+   "year": 9
+  },
+  {
+   "eid": "e004392",
+   "kind": "eat",
+   "text": "eats 0 food",
+   "who": "Bram",
    "year": 9
   }
  ],

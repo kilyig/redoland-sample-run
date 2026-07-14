@@ -1,6 +1,6 @@
 {
  "actions_used_year": 10,
- "age": 46,
+ "age": 47,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -11,7 +11,7 @@
  "death_year": null,
  "father_note": "",
  "food": 0,
- "health": 2,
+ "health": 1,
  "hp": 100,
  "id": "a009",
  "intelligence_tokens": 2478,
@@ -2415,6 +2415,27 @@
    "kind": "cancel",
    "text": "Bram thinks better of it and calls off the attack.",
    "who": "the village",
+   "year": 9
+  },
+  {
+   "eid": "e004393",
+   "kind": "death",
+   "text": "Bram starves at age 39.",
+   "who": "the village",
+   "year": 9
+  },
+  {
+   "eid": "e004398",
+   "kind": "death",
+   "text": "Taric starves at age 53.",
+   "who": "the village",
+   "year": 9
+  },
+  {
+   "eid": "e004401",
+   "kind": "eat",
+   "text": "eats 0 food",
+   "who": "Ryn",
    "year": 9
   }
  ],
