@@ -1,5 +1,5 @@
 {
- "actions_used_year": 2,
+ "actions_used_year": 3,
  "age": 24,
  "alive": true,
  "birth_year": 6,
@@ -3336,6 +3336,13 @@
    "eid": "e004072",
    "kind": "pass",
    "text": "",
+   "who": "Zinn",
+   "year": 9
+  },
+  {
+   "eid": "e004076",
+   "kind": "convo",
+   "text": "Zinn gathers Sela to talk.",
    "who": "Zinn",
    "year": 9
   }
