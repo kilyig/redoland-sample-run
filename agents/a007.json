@@ -6464,6 +6464,13 @@
    "text": "Nessa gives 1 food to Fina.",
    "who": "Nessa",
    "year": 9
+  },
+  {
+   "eid": "e004034",
+   "kind": "pass",
+   "text": "",
+   "who": "Sela",
+   "year": 9
   }
  ],
  "memory_summary": "",
