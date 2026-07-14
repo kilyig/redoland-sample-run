@@ -176,3 +176,4 @@
 {"eid": "e004056", "year": 9, "phase": "convo", "kind": "say", "speaker": "a015", "who": "Fina", "audience": ["a015", "a012"], "text": "Agreed, blood before strangers \u2014 that's not even a question. Thirteen on me right now and Nessa's been keeping you steady too, so between the three of us and Zinn we're not as thin as the pile made it look. Just say the word if you go short before the year turns.", "payload": {}}
 {"eid": "e004057", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e004058", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
+{"eid": "e004059", "year": 9, "phase": "scramble", "kind": "give", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn gives 1 food to Dell.", "payload": {"target": "a011", "amount": 1}}

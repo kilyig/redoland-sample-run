@@ -853,6 +853,13 @@
    "text": "Agreed, blood before strangers \u2014 that's not even a question. Thirteen on me right now and Nessa's been keeping you steady too, so between the three of us and Zinn we're not as thin as the pile made it look. Just say the word if you go short before the year turns.",
    "who": "Fina",
    "year": 9
+  },
+  {
+   "eid": "e004059",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 9
   }
  ],
  "memory_summary": "",

@@ -4439,6 +4439,13 @@
    "text": "",
    "who": "Mako",
    "year": 9
+  },
+  {
+   "eid": "e004059",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 9
   }
  ],
  "memory_summary": "",
