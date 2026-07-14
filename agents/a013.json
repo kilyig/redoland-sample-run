@@ -3627,6 +3627,13 @@
    "text": "A man who moves without allies and keeps counting on something that hasn't arrived \u2014 that sounds like he still thinks one of us is going to break toward him, and the likeliest person he's watching for that is you. If he's stopped treating you like a daughter, Nessa, it's because he's decided you're something he can still use or something he needs to stop \u2014 and I want to know which one before he decides it himself. Stay close to me and Roan this year; don't give him a moment where you're standing somewhere he could catch you alone.",
    "who": "Eron",
    "year": 9
+  },
+  {
+   "eid": "e003893",
+   "kind": "say",
+   "text": "You're right that I'm the one he's watching, and I've been sitting with that \u2014 but Eron, if Bram decides I'm something he needs to stop rather than use, the answer isn't me hiding behind you and Roan, it's me being the one who names what he is before he moves. Sixteen food on you and two attacks already makes you the more urgent target; don't spend your attention watching over me when you should be counting who'd stand with you if he came a third time with better numbers.",
+   "who": "Nessa",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -3638,7 +3645,7 @@
   "a001"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [
   "a012",
