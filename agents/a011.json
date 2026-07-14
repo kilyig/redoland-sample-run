@@ -5977,6 +5977,13 @@
    "text": "Roan, Dell's named the thread and I'll name the needle: Bram fed Fina once, and a man who feeds your daughter is buying something whether you asked him to or not. Say yes here and that purchase fails; say nothing and he's already paid for it. We're waiting on one word.",
    "who": "Ryn",
    "year": 9
+  },
+  {
+   "eid": "e003942",
+   "kind": "say",
+   "text": "Yes.\n\nBram threading himself into my blood is exactly why I won't wait a second when he moves \u2014 Fina doesn't owe him anything for one piece of food, and I'm not going to let her grow up thinking she does. You've got my word, and my word hasn't moved in nine years.",
+   "who": "Roan",
+   "year": 9
   }
  ],
  "memory_summary": "",
