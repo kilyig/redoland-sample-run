@@ -138,3 +138,4 @@
 {"eid": "e004018", "year": 9, "phase": "convo", "kind": "say", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a007"], "text": "Sela, I've got nothing left \u2014 the pile was gone before I reached it and I gave my last food to Mako because he was starving, and now I need to know if you can spare one, because I won't make it to year's end without eating.", "payload": {}}
 {"eid": "e004019", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
 {"eid": "e004020", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a014", "who": "Zinn", "audience": ["a014"], "text": "", "payload": {}}
+{"eid": "e004021", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
