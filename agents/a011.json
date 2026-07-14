@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "Dell \u2014 you came into a village that's already sorting itself into those who share and those who take, and the trick of it is that the takers don't announce themselves. Watch Bram and Mako; they moved as one at the pile before anyone else had eaten, and men who coordinate that early are already thinking about who they can afford to leave behind. Your blood is your anchor: Ryn stood beside me when it cost her something, and that makes her as close to kin as anyone not born from the same line. Trust people who say the same thing two years running when the numbers are hard \u2014 and trust nobody who only finds you useful when the pile is full.",
- "food": 11,
+ "food": 12,
  "health": 2,
  "hp": 100,
  "id": "a011",
@@ -6039,6 +6039,13 @@
    "kind": "say",
    "text": "Ryn, go to Mako before this year gets any older \u2014 you've got the thread with him and I don't, and I'd rather know his word is in before Bram's had another quiet morning to count heads. Dell, if he says yes, the three of us bring it to Eron together, because a circle named in front of Eron carries more weight than one he hears about after.",
    "who": "Roan",
+   "year": 9
+  },
+  {
+   "eid": "e003951",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
    "year": 9
   }
  ],
