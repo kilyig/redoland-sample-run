@@ -4556,6 +4556,13 @@
    "text": "Fina gathers Eron to talk.",
    "who": "Fina",
    "year": 9
+  },
+  {
+   "eid": "e003998",
+   "kind": "say",
+   "text": "Eron, Nessa's been steady with me this year and you've come through too \u2014 I'm sitting at nine now and that's the most solid I've felt in a while. I want to make sure we go into next year with both of us fat and Zinn not scrambling; if the pile runs thin again, let's agree right now that we share before we go looking outside our blood.",
+   "who": "Fina",
+   "year": 9
   }
  ],
  "memory_summary": "",
