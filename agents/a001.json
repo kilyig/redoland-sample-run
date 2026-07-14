@@ -5580,6 +5580,13 @@
    "text": "Vela gathers Bram to talk.",
    "who": "Vela",
    "year": 9
+  },
+  {
+   "eid": "e004010",
+   "kind": "say",
+   "text": "Bram, I've pulled you aside because what I have to say is better said without twelve pairs of ears on it \u2014 Taric and Kael are already planning to walk up to your door together and ask for two food back, and I wanted you to hear it from me first, not from a wall of faces. I'm not bringing you a threat; I'm bringing you a chance to hand it over on your own terms before it becomes a thing that gets remembered wrong.",
+   "who": "Vela",
+   "year": 9
   }
  ],
  "memory_summary": "",
