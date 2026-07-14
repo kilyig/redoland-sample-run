@@ -2862,6 +2862,13 @@
    "text": "Mako gathers Zinn to talk.",
    "who": "Mako",
    "year": 9
+  },
+  {
+   "eid": "e003928",
+   "kind": "say",
+   "text": "The pile closed before either of us got to it \u2014 I'm sitting on zero food and satiation's already thin, so I need to ask you plain: can you spare one or two to keep me eating this year?",
+   "who": "Mako",
+   "year": 9
   }
  ],
  "memory_summary": "",
