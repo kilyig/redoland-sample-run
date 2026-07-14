@@ -16,3 +16,4 @@
 {"eid": "e004426", "year": 10, "phase": "convo", "kind": "say", "speaker": "a009", "who": "Ryn", "audience": ["a011", "a009", "a010"], "text": "If it gets heavier, I'll say it in this room before I say it anywhere else \u2014 that's the arrangement, and it stands. Dell, go to the pile first this morning; I'll be two steps behind you.", "payload": {}}
 {"eid": "e004427", "year": 10, "phase": "scramble", "kind": "take", "speaker": "a008", "who": "Mako", "audience": "public", "text": "Mako takes 3 from the pile (pile now 12).", "payload": {"amount": 3}}
 {"eid": "e004428", "year": 10, "phase": "scramble", "kind": "take", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela takes 2 from the pile (pile now 10).", "payload": {"amount": 2}}
+{"eid": "e004429", "year": 10, "phase": "scramble", "kind": "take", "speaker": "a015", "who": "Fina", "audience": "public", "text": "Fina takes 2 from the pile (pile now 8).", "payload": {"amount": 2}}
