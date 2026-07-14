@@ -7412,6 +7412,13 @@
    "text": "Vela, Kael \u2014 I pulled two from the pile and I'm standing at two food, which is thin but it's something. The thing that's already in my chest before I've said good morning is Bram taking five total while the pile ran dry \u2014 third year he's done that, and last year he swung at two different people in the same season and the village kept letting him walk away. I want to know if we're finally naming what to do about him or if we're going to watch him test the water again until someone's not fast enough to run.",
    "who": "Taric",
    "year": 9
+  },
+  {
+   "eid": "e003898",
+   "kind": "say",
+   "text": "Bram took five and the pile's empty on day one \u2014 I've watched that pattern three years running and the only reason he doesn't push further is because the whole village turns out against him, which means the answer isn't waiting for him to move first, it's making sure he knows before he moves that the cost is more than he can pay. Vela, where are you on this? Because if it's the two of us and Taric I want to know now, not when Bram's already swinging.",
+   "who": "Kael",
+   "year": 9
   }
  ],
  "memory_summary": "",
