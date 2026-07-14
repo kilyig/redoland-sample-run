@@ -5356,6 +5356,13 @@
    "text": "You were in that line because everyone else was, and the whole village standing together is not the same as one person standing for you \u2014 when the food runs short and the pile's gone and it's not a raid but a long hungry season, I'm the one who's given you food, not Eron, not Roan, not any of them. I hear you calling him blood and I'm not going to win that argument today, so I won't. But when it gets lean and you need something and you don't want to ask anyone what they want back for it, remember who never asked.",
    "who": "Bram",
    "year": 9
+  },
+  {
+   "eid": "e003963",
+   "kind": "say",
+   "text": "You gave me food, yes \u2014 and before that you taught me how to count a room, which is worth more than the food. But Bram, a man who gives and then stands in front of me listing what he gave is asking for something, even if he won't name it. What is it you actually want from me this year?",
+   "who": "Nessa",
+   "year": 9
   }
  ],
  "memory_summary": "",
