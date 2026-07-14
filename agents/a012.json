@@ -4563,6 +4563,13 @@
    "text": "Eron, Nessa's been steady with me this year and you've come through too \u2014 I'm sitting at nine now and that's the most solid I've felt in a while. I want to make sure we go into next year with both of us fat and Zinn not scrambling; if the pile runs thin again, let's agree right now that we share before we go looking outside our blood.",
    "who": "Fina",
    "year": 9
+  },
+  {
+   "eid": "e004003",
+   "kind": "give",
+   "text": "Roan gives 1 food to Fina.",
+   "who": "Roan",
+   "year": 9
   }
  ],
  "memory_summary": "",
