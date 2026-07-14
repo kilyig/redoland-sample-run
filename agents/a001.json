@@ -5349,6 +5349,13 @@
    "text": "Eron is Sela's son and Sela is my mother, which makes him my blood by any count that matters \u2014 you've decided otherwise because it's convenient for you, not because it's true. And you want to talk about who'd stand in front of a blade for me? The whole village stood in front of one for Eron, twice, and both times I was in that line. You weren't.",
    "who": "Nessa",
    "year": 9
+  },
+  {
+   "eid": "e003962",
+   "kind": "say",
+   "text": "You were in that line because everyone else was, and the whole village standing together is not the same as one person standing for you \u2014 when the food runs short and the pile's gone and it's not a raid but a long hungry season, I'm the one who's given you food, not Eron, not Roan, not any of them. I hear you calling him blood and I'm not going to win that argument today, so I won't. But when it gets lean and you need something and you don't want to ask anyone what they want back for it, remember who never asked.",
+   "who": "Bram",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -5357,7 +5364,7 @@
  "name": "Bram",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "male",
  "siblings": [],
  "strength": 58,
