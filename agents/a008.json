@@ -4320,6 +4320,13 @@
    "text": "Go to Sela \u2014 and if she gives you anything, eat it yourself before you come back, because I don't want to be the reason you hand food on instead of keeping it. I'll watch what Bram does with those two he gave Nessa; a man who keeps swinging alone and then turns generous is working an angle, and I want to know what it is before he gets close to either of us.",
    "who": "Mako",
    "year": 9
+  },
+  {
+   "eid": "e004016",
+   "kind": "say",
+   "text": "Bram giving Nessa two at once after those two failed swings \u2014 that's not warmth, that's a man trying to buy a door he can't kick open. I'll go to Sela, but I want to hear what you see in him before I'm back, not after.",
+   "who": "Zinn",
+   "year": 9
   }
  ],
  "memory_summary": "",
