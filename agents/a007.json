@@ -12,7 +12,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 3,
  "health": 2,
  "hp": 100,
  "id": "a007",
@@ -6169,6 +6169,13 @@
    "kind": "say",
    "text": "Kael's the one who needs to speak, and I'll hold my tongue until he does \u2014 but while we're waiting, I want it said in this room that if Bram moves on anyone here before next year's pile, I'm not waiting for a vote.",
    "who": "Roan",
+   "year": 9
+  },
+  {
+   "eid": "e003931",
+   "kind": "give",
+   "text": "Eron gives 1 food to Sela.",
+   "who": "Eron",
    "year": 9
   }
  ],
