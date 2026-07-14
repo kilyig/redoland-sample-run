@@ -4346,6 +4346,13 @@
    "text": "Kael, I need to hear you say it out loud \u2014 three, and we move the moment he reaches for a fourth. Not after the pile's gone, not in a circle two days later: in the moment.",
    "who": "Sela",
    "year": 9
+  },
+  {
+   "eid": "e003926",
+   "kind": "say",
+   "text": "Kael's the one who needs to speak, and I'll hold my tongue until he does \u2014 but while we're waiting, I want it said in this room that if Bram moves on anyone here before next year's pile, I'm not waiting for a vote.",
+   "who": "Roan",
+   "year": 9
   }
  ],
  "memory_summary": "",
