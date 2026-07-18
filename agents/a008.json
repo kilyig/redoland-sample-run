@@ -5265,6 +5265,13 @@
    "text": "Ryn, I'll still give you one from my eight \u2014 Kael's one food shouldn't have to stretch two ways, and I'd rather be known as the woman who fed this room than the one who counted while people went empty. Sela, you'll have yours before nightfall as well. Eight is enough to be generous and still sleep fed.",
    "who": "Vela",
    "year": 10
+  },
+  {
+   "eid": "e004489",
+   "kind": "say",
+   "text": "I'm sitting on one food with satiation that already slipped last year, and I'll say it the same way Ryn said it \u2014 plainly, in front of this room: I need one food from someone who can spare it before the year runs long. I've got a daughter in this circle and I intend to still be here when she needs me.",
+   "who": "Nessa",
+   "year": 10
   }
  ],
  "memory_summary": "",
