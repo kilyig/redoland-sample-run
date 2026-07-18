@@ -6866,6 +6866,13 @@
    "text": "Mako, I'll hold that number too \u2014 two food is the rule this circle just made, and I want Kael to hear me say it out loud before he takes your food and before anyone decides it was charity instead of a debt this village is collecting. Taric died empty after feeding half this room and I'm not going to let the lesson in that go quiet before the year's halfway done.",
    "who": "Vela",
    "year": 10
+  },
+  {
+   "eid": "e004465",
+   "kind": "say",
+   "text": "Taric died empty and I stood beside him for ten years and couldn't put food in his hands at the end \u2014 that's the thing I'm carrying out of this room, and I want this circle to carry it too. Mako, I'll hold your two-food rule the same as Vela will, and Kael, when the pile opens next year I'll be watching to see who reaches first and how many times.",
+   "who": "Esa",
+   "year": 10
   }
  ],
  "memory_summary": "",
