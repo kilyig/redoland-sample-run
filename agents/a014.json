@@ -4171,6 +4171,13 @@
    "text": "Two food per person is the number I'll name \u2014 that's the cap I'll hold to next year, out loud, in this room, and I'll give Kael his food now to close the account I opened. If the pile runs short and two each leaves someone empty, we deal with that as a village, same as we've always had to.",
    "who": "Mako",
    "year": 10
+  },
+  {
+   "eid": "e004463",
+   "kind": "say",
+   "text": "Two is a number I can hold in my head when the pile opens. I'll remember you said it \u2014 this room will remember \u2014 and if you stand to it next year, that counts for something with me.",
+   "who": "Esa",
+   "year": 10
   }
  ],
  "memory_summary": "",
