@@ -7517,6 +7517,13 @@
    "text": "Vela, you said two in front of this whole room last year \u2014 I watched you say it twice to make sure everyone heard it \u2014 and I've got twenty-one food and you've got eight, so I'm not the man with an argument for taking more than agreed, but you are. Name the number you think you took and tell us why it isn't seven.",
    "who": "Eron",
    "year": 11
+  },
+  {
+   "eid": "e004610",
+   "kind": "say",
+   "text": "Vela, seven is what I counted with my own eyes and seven is what this room will remember \u2014 so either you name the number and explain it, or the rule we made last year is already broken and we need to decide right now what this circle does when someone breaks it.",
+   "who": "Mako",
+   "year": 11
   }
  ],
  "memory_summary": "",

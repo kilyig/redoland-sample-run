@@ -2934,6 +2934,13 @@
    "text": "Vela, you said two in front of this whole room last year \u2014 I watched you say it twice to make sure everyone heard it \u2014 and I've got twenty-one food and you've got eight, so I'm not the man with an argument for taking more than agreed, but you are. Name the number you think you took and tell us why it isn't seven.",
    "who": "Eron",
    "year": 11
+  },
+  {
+   "eid": "e004610",
+   "kind": "say",
+   "text": "Vela, seven is what I counted with my own eyes and seven is what this room will remember \u2014 so either you name the number and explain it, or the rule we made last year is already broken and we need to decide right now what this circle does when someone breaks it.",
+   "who": "Mako",
+   "year": 11
   }
  ],
  "memory_summary": "Zinn is my daughter, born to Sela in year six \u2014 I paid the full three food and I've fed her whenever I could; she's the blood I built here and the reason I count heads when the pile opens. Sela and I were close before Zinn came, and she was honest with me about the cost of it; I respect her for that, though she's dead now and I carry that. Nessa is Zinn's half-sister through Sela and Bram \u2014 not my blood, but close enough to matter, and she's always fed Zinn when she had anything to spare. Eron is Zinn's half-brother through Sela and Roan \u2014 same web. Bram came to me in year seven wanting to raid Dell and Ryn, and I gave him nothing; he swung at Vela, at Roan, at Eron, every time alone, every time the whole village turned its back on him \u2014 and he starved for it in year nine, which felt like the village working the way it should. Dav and Ryn and Dell attacked Esa in year six and took her food; I held still and said nothing, which I'm not proud of but it cost me nothing and taught me that Dell and Ryn move together when there's something to gain. Taric fed Vela for years and died empty in year ten; that's the kind of death that makes me want to eat first and explain later.",
@@ -2942,7 +2949,7 @@
  "name": "Mako",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "male",
  "siblings": [],
  "strength": 83,
