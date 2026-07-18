@@ -4311,6 +4311,13 @@
    "text": "Sela's right that we're twelve now, and twelve is the number we protect \u2014 but I want to name one thing this room should carry past today: the pile rule holds for everyone, but it only holds if the people in this room are still here to enforce it, so if anyone's sitting thin going into next year, say so before the year gets long, not after.",
    "who": "Mako",
    "year": 10
+  },
+  {
+   "eid": "e004483",
+   "kind": "say",
+   "text": "I take the food from Mako's hand and close my fingers around it.\n\nTwelve people and a rule that held in front of witnesses \u2014 that's more than I had this morning. I want this circle to meet before the pile opens next year, not after, because the only time the rule matters is before someone's already reached.",
+   "who": "Kael",
+   "year": 10
   }
  ],
  "memory_summary": "",
