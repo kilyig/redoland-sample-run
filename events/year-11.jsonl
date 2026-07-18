@@ -4,3 +4,4 @@
 {"eid": "e004604", "year": 11, "phase": "scramble", "kind": "take", "speaker": "a012", "who": "Eron", "audience": "public", "text": "Eron takes 2 from the pile (pile now 9).", "payload": {"amount": 2}}
 {"eid": "e004605", "year": 11, "phase": "scramble", "kind": "take", "speaker": "a014", "who": "Zinn", "audience": "public", "text": "Zinn takes 2 from the pile (pile now 7).", "payload": {"amount": 2}}
 {"eid": "e004606", "year": 11, "phase": "scramble", "kind": "take", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela takes 5 from the pile (pile now 2).", "payload": {"amount": 5}}
+{"eid": "e004607", "year": 11, "phase": "convo", "kind": "convo", "speaker": "a004", "who": "Kael", "audience": ["a004", "a002", "a003", "a008", "a009", "a010", "a011", "a012", "a013", "a014", "a015"], "text": "Kael gathers Vela, Esa, Mako, Ryn, Roan, Dell, Eron, Nessa, Zinn, Fina to talk.", "payload": {}}
