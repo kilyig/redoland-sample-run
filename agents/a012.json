@@ -3058,6 +3058,13 @@
    "text": "Vela, I've been quiet because I was watching to see if you'd speak before the room closed around you \u2014 but we're past that now, and what I need from you is the number, said plain, because I stood in this circle when Bram died for the same silence you're choosing right now and I don't want to do that again with someone who fed me through the years before this one.",
    "who": "Dell",
    "year": 11
+  },
+  {
+   "eid": "e004616",
+   "kind": "say",
+   "text": "Vela, I've run out of patience and so has this room \u2014 say seven, or say the number you think it was, but say something, because the only thing left for this circle to decide is what \"broke the rule\" looks like in practice, and I'd rather not decide that in the same breath I'm deciding it about you.",
+   "who": "Eron",
+   "year": 11
   }
  ],
  "memory_summary": "I was born to Sela and Roan. My first years were lean \u2014 Sela and Nessa kept me fed when I had almost nothing, and I spent most of what I had feeding Sela and Roan back. Roan warned me early about Bram and Mako; Bram moved against Vela first, and the whole village turned him back. Then he moved against me twice, both times called off when he saw the numbers. He starved last year and so did Taric, who spent his last years feeding Vela. Dav attacked Esa once with Dell and Ryn backing him \u2014 Esa submitted and lost food; Dav starved not long after. Mako took from the pile greedily twice running; the village circle named a two-food cap on him and he gave Kael one food in front of witnesses to close it, but I don't trust that he'll hold. Zinn is Mako's daughter and Sela's \u2014 my half-sister; Nessa is Sela and Bram's, also my half-sister; Fina is Nessa and Roan's, making her blood twice over. Sela died this year of starvation while I was holding nineteen food and the circle said my name out loud for it \u2014 that sits in me like a stone. Dell and Ryn move together as a pair and always have; I don't know what they want. Kael and Esa and Vela have stood right every time it counted.",
@@ -3069,7 +3076,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [
   "a013",
