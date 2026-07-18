@@ -5216,6 +5216,13 @@
    "text": "Vela, I'll give you the truth you just gave this room \u2014 what you said about being alone without kin at your back is the same thing I was afraid to say two years ago when I still had Bram and Sela and thought that meant I was safe. But seven is still seven, and this circle needs to know what it costs to break the rule or it means nothing, so I'll ask the question the room hasn't asked yet: what do you give back, and to who, before we decide whether this stays inside this circle or becomes something harder?",
    "who": "Nessa",
    "year": 11
+  },
+  {
+   "eid": "e004620",
+   "kind": "say",
+   "text": "Nessa named the right question, and I'll answer it: Vela, you give back five \u2014 one to every person in this room who took two and held to it \u2014 and you do it before this circle breaks, because the rule isn't just about the pile, it's about whether your word means anything when the cost is real.",
+   "who": "Kael",
+   "year": 11
   }
  ],
  "memory_summary": "",
