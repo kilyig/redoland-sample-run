@@ -4892,6 +4892,13 @@
    "text": "Vela, seven is what I counted with my own eyes and seven is what this room will remember \u2014 so either you name the number and explain it, or the rule we made last year is already broken and we need to decide right now what this circle does when someone breaks it.",
    "who": "Mako",
    "year": 11
+  },
+  {
+   "eid": "e004611",
+   "kind": "say",
+   "text": "Vela, I said two and I watched you say two, and now you're standing there with seven \u2014 I don't have a softer way to say that. Tell this room what happened between when you said it and when you reached.",
+   "who": "Eron",
+   "year": 11
   }
  ],
  "memory_summary": "",
