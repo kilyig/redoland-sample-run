@@ -4474,6 +4474,13 @@
    "text": "Vela, Zinn's right \u2014 say the number, because this room just held Mako to it and you walked out with four, and I'd rather hear it from you clean than carry the question into next year.",
    "who": "Fina",
    "year": 10
+  },
+  {
+   "eid": "e004468",
+   "kind": "say",
+   "text": "Vela, Fina and Zinn are right and so is the room \u2014 say two, out loud, or this circle just made a rule that bends around whoever's standing closest to the pile when it opens.",
+   "who": "Esa",
+   "year": 10
   }
  ],
  "memory_summary": "",
