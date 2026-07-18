@@ -156,3 +156,4 @@
 {"eid": "e004566", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e004567", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e004568", "year": 10, "phase": "scramble", "kind": "give", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela gives 1 food to Esa.", "payload": {"target": "a003", "amount": 1}}
+{"eid": "e004569", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
