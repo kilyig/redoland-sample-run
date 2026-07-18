@@ -1525,6 +1525,13 @@
    "text": "Two. I said it and I'll say it again so every person in this room has heard it with their own ears and can't be told later that they misremembered. Mako, give Kael his food now \u2014 that's the only thing left that needs doing before this circle is worth anything.",
    "who": "Vela",
    "year": 10
+  },
+  {
+   "eid": "e004479",
+   "kind": "say",
+   "text": "Mako, the room's watching \u2014 give Kael the food you promised, and do it before this circle starts wondering whether a promise made in front of witnesses means the same thing to you as it does to everyone else here.",
+   "who": "Nessa",
+   "year": 10
   }
  ],
  "memory_summary": "",
