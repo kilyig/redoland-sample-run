@@ -6803,6 +6803,13 @@
    "text": "Mako, I've watched you move quiet for ten years and plant roots in half the households in this village \u2014 Eron, Nessa, Zinn \u2014 and now you've pulled six food from a common pile while three people in this room are sitting on nothing. That's not hunger and it's not coincidence. Name the number you think is yours, or this room names it for you.",
    "who": "Kael",
    "year": 10
+  },
+  {
+   "eid": "e004456",
+   "kind": "say",
+   "text": "Zinn is my daughter and I pulled for both of us \u2014 two of those six were already hers in my head before I reached the pile, and I've already given her what I owe. The rest kept me eating after two years of going thin, and I'll stand behind that in front of anyone in this room.",
+   "who": "Mako",
+   "year": 10
   }
  ],
  "memory_summary": "",
