@@ -4593,6 +4593,13 @@
    "text": "Kael, I'll be at that meeting before the pile opens \u2014 but I want to name something this room hasn't said yet: I'm sitting on two food and my satiation is low, which means I need to eat well this year or I won't be standing here to enforce anything. If anyone in this circle has food to spare before year's end, I'm not too proud to say I need it.",
    "who": "Sela",
    "year": 10
+  },
+  {
+   "eid": "e004485",
+   "kind": "say",
+   "text": "Sela, I've got eight food and I can spare one for you \u2014 I'll give it before the day's out, because a circle that loses another body to starvation isn't a circle anymore, it's a warning. The meeting before the pile opens is the thing I want locked in now, not as a suggestion but as a date everyone in this room commits to, because last year we named a rule after the pile was already empty and that's too late.",
+   "who": "Vela",
+   "year": 10
   }
  ],
  "memory_summary": "",
