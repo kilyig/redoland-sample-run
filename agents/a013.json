@@ -4677,6 +4677,13 @@
    "text": "Eron gives 1 food to Esa.",
    "who": "Eron",
    "year": 10
+  },
+  {
+   "eid": "e004499",
+   "kind": "pass",
+   "text": "",
+   "who": "Nessa",
+   "year": 10
   }
  ],
  "memory_summary": "",
