@@ -5193,6 +5193,13 @@
    "text": "Taric is dead.\n\nThat needs saying plain before anything else, because he was the last man in this village I trusted without counting, and now I am counting everyone in this room.\n\nThe pile gave fifteen for twelve of us and it's gone \u2014 Mako took six, Vela took four, and I took none, so someone in this circle is already thinking about next year while I'm still standing here thinking about last night.",
    "who": "Kael",
    "year": 10
+  },
+  {
+   "eid": "e004453",
+   "kind": "say",
+   "text": "Taric fed Vela through lean years and died holding nothing \u2014 that's a man who gave until there was nothing left to give, and this room should sit with that before it moves on to counting. Mako, six food from a pile of fifteen for twelve people isn't hunger, it's a decision, and I want to hear you name what it was.",
+   "who": "Zinn",
+   "year": 10
   }
  ],
  "memory_summary": "",
