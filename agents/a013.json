@@ -5048,6 +5048,13 @@
    "text": "Vela gives 1 food to Esa.",
    "who": "Vela",
    "year": 10
+  },
+  {
+   "eid": "e004575",
+   "kind": "give",
+   "text": "Mako gives 1 food to Zinn.",
+   "who": "Mako",
+   "year": 10
   }
  ],
  "memory_summary": "",
