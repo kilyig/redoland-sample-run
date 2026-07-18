@@ -2,11 +2,11 @@
  "branch": "main",
  "cursor": {
   "last": null,
-  "phase": "year_start",
+  "phase": "scramble",
   "steps": 0
  },
  "next_aid": 15,
- "next_eid": 4600,
+ "next_eid": 4601,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,
@@ -47,7 +47,7 @@
   "start_health": 3,
   "strength_sigma": 8.0
  },
- "pile": 0,
+ "pile": 15,
  "premise": "",
  "rng_state": [
   "__tuple__",
@@ -699,5 +699,5 @@
   "Vela",
   "Zinn"
  ],
- "year": 10
+ "year": 11
 }
