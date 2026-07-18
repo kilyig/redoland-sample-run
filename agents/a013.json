@@ -4572,6 +4572,13 @@
    "text": "Kael's fed and the rule's named, and I'll carry both of those into next year \u2014 but I want to say one thing before this room walks out: Taric died empty and Bram died empty, and this village is down to twelve people, and I've got three children in this room who are going to be here after I'm gone, so whatever we just built, we build it to last.",
    "who": "Sela",
    "year": 10
+  },
+  {
+   "eid": "e004482",
+   "kind": "say",
+   "text": "Sela's right that we're twelve now, and twelve is the number we protect \u2014 but I want to name one thing this room should carry past today: the pile rule holds for everyone, but it only holds if the people in this room are still here to enforce it, so if anyone's sitting thin going into next year, say so before the year gets long, not after.",
+   "who": "Mako",
+   "year": 10
   }
  ],
  "memory_summary": "",
