@@ -1,6 +1,6 @@
 {
  "actions_used_year": 10,
- "age": 23,
+ "age": 24,
  "alive": true,
  "birth_year": 8,
  "bore_this_year": false,
@@ -9,7 +9,7 @@
  "death_year": null,
  "father_note": "Your brother Eron kept me alive this year \u2014 find him first in any hard season and do not let pride stop you from asking. The circle to trust is Kael, Vela, Esa, and Taric; they have held together under pressure and that is the only test that counts. Watch Mako and his blood carefully \u2014 he is not cruel, but he feeds himself before he feeds the village, and a man like that will count you as a neighbor only as long as it costs him nothing. Bram swung at this village and walked away; a man who swings once has already decided the rest of us are targets, so keep your distance and keep your count, and never let him see what you have before you know what he needs.",
  "food": 9,
- "health": 3,
+ "health": 2,
  "hp": 100,
  "id": "a015",
  "intelligence_tokens": 3226,
@@ -2014,6 +2014,20 @@
    "kind": "give",
    "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
+   "year": 10
+  },
+  {
+   "eid": "e004586",
+   "kind": "death",
+   "text": "Sela starves at age 32.",
+   "who": "the village",
+   "year": 10
+  },
+  {
+   "eid": "e004594",
+   "kind": "eat",
+   "text": "eats 0 food",
+   "who": "Fina",
    "year": 10
   }
  ],

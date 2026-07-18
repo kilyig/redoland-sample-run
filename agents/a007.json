@@ -1,7 +1,7 @@
 {
  "actions_used_year": 7,
  "age": 32,
- "alive": true,
+ "alive": false,
  "birth_year": 0,
  "bore_this_year": false,
  "children": [
@@ -9,12 +9,12 @@
   "a013",
   "a014"
  ],
- "death_cause": null,
- "death_year": null,
+ "death_cause": "starvation",
+ "death_year": 10,
  "father_note": "",
  "food": 0,
- "health": 1,
- "hp": 100,
+ "health": 0,
+ "hp": 0,
  "id": "a007",
  "intelligence_tokens": 5564,
  "memory_raw": [
@@ -4153,6 +4153,13 @@
    "kind": "give",
    "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
+   "year": 10
+  },
+  {
+   "eid": "e004585",
+   "kind": "eat",
+   "text": "eats 0 food",
+   "who": "Sela",
    "year": 10
   }
  ],

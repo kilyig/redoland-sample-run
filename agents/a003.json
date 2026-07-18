@@ -1,6 +1,6 @@
 {
  "actions_used_year": 3,
- "age": 51,
+ "age": 52,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 9,
+ "food": 8,
  "health": 2,
  "hp": 100,
  "id": "a003",
@@ -2063,6 +2063,20 @@
    "kind": "give",
    "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
+   "year": 10
+  },
+  {
+   "eid": "e004583",
+   "kind": "eat",
+   "text": "eats 1 food",
+   "who": "Esa",
+   "year": 10
+  },
+  {
+   "eid": "e004586",
+   "kind": "death",
+   "text": "Sela starves at age 32.",
+   "who": "the village",
    "year": 10
   }
  ],
