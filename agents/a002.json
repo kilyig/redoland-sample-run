@@ -6915,6 +6915,13 @@
    "text": "Vela, I've watched this room hold Mako to a number and I'll watch it hold you to one \u2014 say two, or tell us why Taric's memory deserves a different rule than the one we just named in his honor.",
    "who": "Ryn",
    "year": 10
+  },
+  {
+   "eid": "e004472",
+   "kind": "say",
+   "text": "Vela, I've been in this room since year two waiting on a straight answer from you, and I'm still waiting \u2014 say two, or walk out, because the rule this circle made has your name on it the same as Mako's and the whole room just heard Taric's name spoken over it.",
+   "who": "Kael",
+   "year": 10
   }
  ],
  "memory_summary": "",
