@@ -4913,6 +4913,13 @@
    "text": "Vela, this room has been patient and I've held my tongue longer than most \u2014 but I've got twenty-one food and a clean conscience and you've got eight and no answer, and I need you to understand that the same patience that let Bram try twice before this village moved will let you have one more breath to speak before we start deciding what \"broke the rule\" means in practice.",
    "who": "Eron",
    "year": 11
+  },
+  {
+   "eid": "e004614",
+   "kind": "say",
+   "text": "Vela, seven is what I counted and seven is what this room is counting \u2014 say the number out loud or we decide what it means without you, and you've seen how that ends when someone stays quiet while the whole room is watching.",
+   "who": "Zinn",
+   "year": 11
   }
  ],
  "memory_summary": "",
@@ -4924,7 +4931,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "female",
  "siblings": [
   "a012",
