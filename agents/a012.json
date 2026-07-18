@@ -5536,6 +5536,13 @@
    "text": "Mako gives 1 food to Zinn.",
    "who": "Mako",
    "year": 10
+  },
+  {
+   "eid": "e004506",
+   "kind": "give",
+   "text": "Sela gives 1 food to Nessa.",
+   "who": "Sela",
+   "year": 10
   }
  ],
  "memory_summary": "",
