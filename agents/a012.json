@@ -5347,6 +5347,13 @@
    "text": "Vela, the whole room is waiting and I'm one of them \u2014 say two, or tell us right now what number you think fits a woman who watched Taric give himself dry, because I've got no patience left for silence on this.",
    "who": "Fina",
    "year": 10
+  },
+  {
+   "eid": "e004475",
+   "kind": "say",
+   "text": "Vela, every person in this room has already said the word \u2014 I've said it, Mako's said it, Esa's said it, Kael's said it, Zinn said it first \u2014 and you are the only one left standing behind your own silence. Say two, or tell us the number you'll hold to, because this room doesn't close with a gap where your answer should be.",
+   "who": "Ryn",
+   "year": 10
   }
  ],
  "memory_summary": "",
