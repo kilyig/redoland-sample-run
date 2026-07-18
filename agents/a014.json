@@ -4220,6 +4220,13 @@
    "text": "Vela, I'll wait the same breath the room waited on me \u2014 say two, or tell us the number you think is yours, because a rule with one name on it is just a story someone tells later to explain why they reached first.",
    "who": "Mako",
    "year": 10
+  },
+  {
+   "eid": "e004470",
+   "kind": "say",
+   "text": "Vela, I've got breath left in me to wait, but not all year \u2014 say the number or this room closes without you in the circle, and you know what that means when Dell and Ryn are the ones deciding who stands next.",
+   "who": "Esa",
+   "year": 10
   }
  ],
  "memory_summary": "",
