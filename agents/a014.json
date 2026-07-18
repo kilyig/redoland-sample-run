@@ -4199,6 +4199,13 @@
    "text": "Two food is the rule and this room just made it, and I'll hold to it \u2014 but I want Vela to say the same number out loud before we close, because she took four this morning same as Mako took six, and a rule that only binds the man who got named first isn't a rule, it's a grudge.",
    "who": "Zinn",
    "year": 10
+  },
+  {
+   "eid": "e004467",
+   "kind": "say",
+   "text": "Vela, Zinn's right \u2014 say the number, because this room just held Mako to it and you walked out with four, and I'd rather hear it from you clean than carry the question into next year.",
+   "who": "Fina",
+   "year": 10
   }
  ],
  "memory_summary": "",
