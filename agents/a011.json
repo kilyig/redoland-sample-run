@@ -7153,6 +7153,13 @@
    "text": "Dell gives 1 food to Ryn.",
    "who": "Dell",
    "year": 10
+  },
+  {
+   "eid": "e004516",
+   "kind": "give",
+   "text": "Sela gives 1 food to Eron.",
+   "who": "Sela",
+   "year": 10
   }
  ],
  "memory_summary": "",
