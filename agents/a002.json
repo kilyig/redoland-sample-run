@@ -6943,6 +6943,13 @@
    "text": "Vela, every person in this room has already said the word \u2014 I've said it, Mako's said it, Esa's said it, Kael's said it, Zinn said it first \u2014 and you are the only one left standing behind your own silence. Say two, or tell us the number you'll hold to, because this room doesn't close with a gap where your answer should be.",
    "who": "Ryn",
    "year": 10
+  },
+  {
+   "eid": "e004476",
+   "kind": "say",
+   "text": "Vela, you already said two \u2014 I heard you say it before Zinn pushed \u2014 so I'm not sure what we're all still waiting on, but if this room needs to hear it a second time to believe it, then say it a second time, because I'd rather close this clean than leave a crack for someone to wedge open later.",
+   "who": "Kael",
+   "year": 10
   }
  ],
  "memory_summary": "",
