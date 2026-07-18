@@ -7048,6 +7048,13 @@
    "text": "Vela, I'll take you up on that food before nightfall \u2014 and Nessa, I've got two food and you're my blood, so one of mine is already yours. Don't any of you let this room walk out before the thin ones are fed, because a circle that enforces a rule on Mako and then watches Nessa starve is a circle that doesn't mean what it said.",
    "who": "Sela",
    "year": 10
+  },
+  {
+   "eid": "e004491",
+   "kind": "say",
+   "text": "Sela's already moved to feed Nessa, which is the thing that tells me this room has more spine than the last ten years gave it credit for. I'll give Ryn her food before nightfall and Sela hers, and then I want every person here to think hard about what twelve becomes if we lose another body to a lean year \u2014 because eleven enforces that rule with a lot less weight than twelve does.",
+   "who": "Vela",
+   "year": 10
   }
  ],
  "memory_summary": "",
@@ -7056,7 +7063,7 @@
  "name": "Vela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [],
  "strength": 26,
