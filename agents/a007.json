@@ -3741,6 +3741,13 @@
    "text": "I'm sitting on one food with satiation that already slipped last year, and I'll say it the same way Ryn said it \u2014 plainly, in front of this room: I need one food from someone who can spare it before the year runs long. I've got a daughter in this circle and I intend to still be here when she needs me.",
    "who": "Nessa",
    "year": 10
+  },
+  {
+   "eid": "e004490",
+   "kind": "say",
+   "text": "Vela, I'll take you up on that food before nightfall \u2014 and Nessa, I've got two food and you're my blood, so one of mine is already yours. Don't any of you let this room walk out before the thin ones are fed, because a circle that enforces a rule on Mako and then watches Nessa starve is a circle that doesn't mean what it said.",
+   "who": "Sela",
+   "year": 10
   }
  ],
  "memory_summary": "The village started with ten strangers. I moved fast at the pile and fell in with Kael, Esa, Vela, and Ryn in the first days \u2014 we made promises to bleed for each other, and I still believe most of us meant them. Ryn complicated things when she took Dav as a partner and had Dell with him; her loyalty always sat sideways after that, though she never quite broke from us.\n\nBram pestered me for a child for years and I refused him twice. In year five I had nothing to eat and was desperate \u2014 I said yes, and Nessa was born. I've never fully forgiven myself the circumstances, though I love her. Around the same time Mako finally broke his silence and started circling me; he eventually gave me a child too \u2014 Zinn \u2014 and has fed her, though I still don't know if he counts her as kin or collateral. Eron I had with Roan, who has stood by me more quietly and more steadily than anyone.\n\nBram tried to raid Roan, then Vela twice, then Eron \u2014 the whole village turned him back every time, and Nessa kept feeding him through all of it, which I never settled in my chest. He took five from the pile two years running. He just starved, and I feel something I can't name cleanly. Vela fed Bram behind our circle's back for years \u2014 that was a betrayal I didn't forget. Dav starved three years ago, leaving Dell and Ryn without him. Taric just starved too, quietly.\n\nEron has fed me more times than I can count. He is the best of what I've made.",
@@ -3749,7 +3756,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [],
  "strength": 73,

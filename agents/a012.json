@@ -5452,6 +5452,13 @@
    "text": "I'm sitting on one food with satiation that already slipped last year, and I'll say it the same way Ryn said it \u2014 plainly, in front of this room: I need one food from someone who can spare it before the year runs long. I've got a daughter in this circle and I intend to still be here when she needs me.",
    "who": "Nessa",
    "year": 10
+  },
+  {
+   "eid": "e004490",
+   "kind": "say",
+   "text": "Vela, I'll take you up on that food before nightfall \u2014 and Nessa, I've got two food and you're my blood, so one of mine is already yours. Don't any of you let this room walk out before the thin ones are fed, because a circle that enforces a rule on Mako and then watches Nessa starve is a circle that doesn't mean what it said.",
+   "who": "Sela",
+   "year": 10
   }
  ],
  "memory_summary": "",
