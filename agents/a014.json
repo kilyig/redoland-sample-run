@@ -4157,6 +4157,13 @@
    "text": "Ryn named the thing I've been holding \u2014 a number said out loud is the only kind that holds. Mako, I'll take your one food for Kael as good faith, but before this circle breaks I want to hear you say what you think one person's share is when fifteen lands for twelve, because I'll be counting next year and so will everyone else in this room.",
    "who": "Esa",
    "year": 10
+  },
+  {
+   "eid": "e004461",
+   "kind": "say",
+   "text": "Mako's already committed one food to Kael in front of this room and that's a thing I'll hold him to \u2014 but the question Ryn and Esa are asking is the one that matters, and I want to hear him answer it before this circle decides it's satisfied. Mako, fifteen for twelve is one and a quarter food each; name a cap you'd hold to next year, out loud, and this room will remember you said it.",
+   "who": "Nessa",
+   "year": 10
   }
  ],
  "memory_summary": "",
