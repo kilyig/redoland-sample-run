@@ -6908,6 +6908,13 @@
    "text": "Vela, I've got breath left in me to wait, but not all year \u2014 say the number or this room closes without you in the circle, and you know what that means when Dell and Ryn are the ones deciding who stands next.",
    "who": "Esa",
    "year": 10
+  },
+  {
+   "eid": "e004471",
+   "kind": "say",
+   "text": "Vela, I've watched this room hold Mako to a number and I'll watch it hold you to one \u2014 say two, or tell us why Taric's memory deserves a different rule than the one we just named in his honor.",
+   "who": "Ryn",
+   "year": 10
   }
  ],
  "memory_summary": "",
