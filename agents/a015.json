@@ -1784,6 +1784,13 @@
    "text": "Fina gives 1 food to Eron.",
    "who": "Fina",
    "year": 10
+  },
+  {
+   "eid": "e004528",
+   "kind": "give",
+   "text": "Eron gives 1 food to Roan.",
+   "who": "Eron",
+   "year": 10
   }
  ],
  "memory_summary": "",
