@@ -5200,6 +5200,13 @@
    "text": "Taric fed Vela through lean years and died holding nothing \u2014 that's a man who gave until there was nothing left to give, and this room should sit with that before it moves on to counting. Mako, six food from a pile of fifteen for twelve people isn't hunger, it's a decision, and I want to hear you name what it was.",
    "who": "Zinn",
    "year": 10
+  },
+  {
+   "eid": "e004454",
+   "kind": "say",
+   "text": "Mako took six and Vela took four and I'm sitting on one \u2014 I don't need to do the math out loud for this room to understand what that means for me. I'll hold my tongue on Vela for now because Taric just died and she fed him when she had no reason to, but Mako, Zinn asked you a clean question and so will I: was that six for yourself, or was some of it counted toward someone else before you reached the pile?",
+   "who": "Nessa",
+   "year": 10
   }
  ],
  "memory_summary": "",
