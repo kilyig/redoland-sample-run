@@ -4388,6 +4388,13 @@
    "text": "Sela, I hear you \u2014 same breath, same step \u2014 and I'll be at that meeting before the pile opens, same as Kael. But I need to say it plain while this room is still whole: Eron is sitting on nineteen food and hasn't said a word in this circle about feeding anyone thin, and that's a silence I'd rather name here than wonder about later.",
    "who": "Nessa",
    "year": 10
+  },
+  {
+   "eid": "e004494",
+   "kind": "say",
+   "text": "Eron, Nessa just said your name out loud in front of this whole room, and she's not wrong \u2014 nineteen food and silence while your sisters and Ryn and Kael went thin isn't something I can explain for you, so I need to hear you explain it yourself.",
+   "who": "Sela",
+   "year": 10
   }
  ],
  "memory_summary": "",
