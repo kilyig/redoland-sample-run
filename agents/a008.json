@@ -5160,6 +5160,13 @@
    "text": "Vela, this room has been patient and so have I, but I've got two food and a satiation I'm not proud of, and I will not let Taric's death become the story of a rule that had room carved out for you at the end. Say two.",
    "who": "Sela",
    "year": 10
+  },
+  {
+   "eid": "e004474",
+   "kind": "say",
+   "text": "Vela, the whole room is waiting and I'm one of them \u2014 say two, or tell us right now what number you think fits a woman who watched Taric give himself dry, because I've got no patience left for silence on this.",
+   "who": "Fina",
+   "year": 10
   }
  ],
  "memory_summary": "",
