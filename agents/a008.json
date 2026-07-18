@@ -5153,6 +5153,13 @@
    "text": "Vela, I've been in this room since year two waiting on a straight answer from you, and I'm still waiting \u2014 say two, or walk out, because the rule this circle made has your name on it the same as Mako's and the whole room just heard Taric's name spoken over it.",
    "who": "Kael",
    "year": 10
+  },
+  {
+   "eid": "e004473",
+   "kind": "say",
+   "text": "Vela, this room has been patient and so have I, but I've got two food and a satiation I'm not proud of, and I will not let Taric's death become the story of a rule that had room carved out for you at the end. Say two.",
+   "who": "Sela",
+   "year": 10
   }
  ],
  "memory_summary": "",
