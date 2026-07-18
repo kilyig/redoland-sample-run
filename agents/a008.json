@@ -5258,6 +5258,13 @@
    "text": "Ryn, I'll give you one food before the day's out \u2014 not because I trust you the way I once did, but because you're standing in this circle saying it out loud and that's worth something. Vela, hold your food for Sela; I've got one now and I can spare it from Mako's gift.",
    "who": "Kael",
    "year": 10
+  },
+  {
+   "eid": "e004488",
+   "kind": "say",
+   "text": "Ryn, I'll still give you one from my eight \u2014 Kael's one food shouldn't have to stretch two ways, and I'd rather be known as the woman who fed this room than the one who counted while people went empty. Sela, you'll have yours before nightfall as well. Eight is enough to be generous and still sleep fed.",
+   "who": "Vela",
+   "year": 10
   }
  ],
  "memory_summary": "",
