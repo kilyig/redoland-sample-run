@@ -6845,6 +6845,13 @@
    "text": "Mako's already committed one food to Kael in front of this room and that's a thing I'll hold him to \u2014 but the question Ryn and Esa are asking is the one that matters, and I want to hear him answer it before this circle decides it's satisfied. Mako, fifteen for twelve is one and a quarter food each; name a cap you'd hold to next year, out loud, and this room will remember you said it.",
    "who": "Nessa",
    "year": 10
+  },
+  {
+   "eid": "e004462",
+   "kind": "say",
+   "text": "Two food per person is the number I'll name \u2014 that's the cap I'll hold to next year, out loud, in this room, and I'll give Kael his food now to close the account I opened. If the pile runs short and two each leaves someone empty, we deal with that as a village, same as we've always had to.",
+   "who": "Mako",
+   "year": 10
   }
  ],
  "memory_summary": "",
