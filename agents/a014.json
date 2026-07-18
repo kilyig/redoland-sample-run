@@ -4143,6 +4143,13 @@
    "text": "Kael, you took none and you're still standing \u2014 tell me what you need and I'll give you one food right now, in front of this room, so that account is open before anyone walks out. The four I kept are mine after two years of going thin; I'm not ashamed of eating, but I'm not blind to who's empty either.",
    "who": "Mako",
    "year": 10
+  },
+  {
+   "eid": "e004459",
+   "kind": "say",
+   "text": "Mako, one food in front of this room is the right start, but Kael's empty and I'm empty and Nessa's sitting on one \u2014 three of us walked away from a pile of fifteen with nothing or close to it, and \"one food right now\" doesn't explain six. I'm not asking you to starve; I'm asking you to name what \"fair\" looks like to you before the next pile opens, because a number said out loud in this circle is the kind of thing that holds when the year gets long.",
+   "who": "Ryn",
+   "year": 10
   }
  ],
  "memory_summary": "",
