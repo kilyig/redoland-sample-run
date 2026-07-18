@@ -1357,6 +1357,13 @@
    "text": "Mako took six and Vela took four and I'm sitting on one \u2014 I don't need to do the math out loud for this room to understand what that means for me. I'll hold my tongue on Vela for now because Taric just died and she fed him when she had no reason to, but Mako, Zinn asked you a clean question and so will I: was that six for yourself, or was some of it counted toward someone else before you reached the pile?",
    "who": "Nessa",
    "year": 10
+  },
+  {
+   "eid": "e004455",
+   "kind": "say",
+   "text": "Mako, I've watched you move quiet for ten years and plant roots in half the households in this village \u2014 Eron, Nessa, Zinn \u2014 and now you've pulled six food from a common pile while three people in this room are sitting on nothing. That's not hunger and it's not coincidence. Name the number you think is yours, or this room names it for you.",
+   "who": "Kael",
+   "year": 10
   }
  ],
  "memory_summary": "",
