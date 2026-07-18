@@ -4332,6 +4332,13 @@
    "text": "Sela, I've got eight food and I can spare one for you \u2014 I'll give it before the day's out, because a circle that loses another body to starvation isn't a circle anymore, it's a warning. The meeting before the pile opens is the thing I want locked in now, not as a suggestion but as a date everyone in this room commits to, because last year we named a rule after the pile was already empty and that's too late.",
    "who": "Vela",
    "year": 10
+  },
+  {
+   "eid": "e004486",
+   "kind": "say",
+   "text": "I'm standing here with nothing in my hands and a satiation that won't last the year, so I'll say it plain before this room closes: I need food from someone who can spare it, and I'm asking in front of witnesses so no one has to wonder later whether I said it or swallowed it. Vela, you named eight \u2014 I'm not asking for more than one.",
+   "who": "Ryn",
+   "year": 10
   }
  ],
  "memory_summary": "",
