@@ -4395,6 +4395,13 @@
    "text": "Eron, Nessa just said your name out loud in front of this whole room, and she's not wrong \u2014 nineteen food and silence while your sisters and Ryn and Kael went thin isn't something I can explain for you, so I need to hear you explain it yourself.",
    "who": "Sela",
    "year": 10
+  },
+  {
+   "eid": "e004495",
+   "kind": "say",
+   "text": "Eron, I've fed people in this room and I've held my tongue when I should have spoken, but nineteen food while Nessa sat on one and Ryn walked away empty is not a thing I can explain for you either \u2014 so say it now, in front of the same witnesses who heard Mako say two and watched him hand Kael his food, because this circle doesn't close with that number unaddressed.",
+   "who": "Vela",
+   "year": 10
   }
  ],
  "memory_summary": "",
