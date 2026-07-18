@@ -4339,6 +4339,13 @@
    "text": "I'm standing here with nothing in my hands and a satiation that won't last the year, so I'll say it plain before this room closes: I need food from someone who can spare it, and I'm asking in front of witnesses so no one has to wonder later whether I said it or swallowed it. Vela, you named eight \u2014 I'm not asking for more than one.",
    "who": "Ryn",
    "year": 10
+  },
+  {
+   "eid": "e004487",
+   "kind": "say",
+   "text": "Ryn, I'll give you one food before the day's out \u2014 not because I trust you the way I once did, but because you're standing in this circle saying it out loud and that's worth something. Vela, hold your food for Sela; I've got one now and I can spare it from Mako's gift.",
+   "who": "Kael",
+   "year": 10
   }
  ],
  "memory_summary": "",
