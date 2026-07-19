@@ -524,6 +524,13 @@
    "text": "Roan, put three more in Fina's hand and three in Joren's \u2014 right now, before this circle breaks \u2014 because twenty-three on you and three apiece on them is a math that doesn't need to wait for year's end to get right. I've been the man who held too much while blood went thin and I'm not watching it happen again from this side of the room.",
    "who": "Eron",
    "year": 14
+  },
+  {
+   "eid": "e005036",
+   "kind": "say",
+   "text": "Roan, give Joren the three Eron said and keep three more back for yourself \u2014 twenty-three on you with nothing moving is the thing that makes the rest of this room nervous, not just me. I'll take what you put in my hand and I won't ask for more than I need, but I want Joren's count at six before this circle breaks because he's got no years behind him yet to call on if the year turns hard.",
+   "who": "Fina",
+   "year": 14
   }
  ],
  "memory_summary": "",
