@@ -3030,6 +3030,13 @@
    "text": "Fina, Eron \u2014 the room has said its piece and now it's waiting, and I've learned in twelve years that a room waiting in silence is a room already deciding for you. I'm not blood to either of you and I hold no claim, but I'll say what I mean plain: if the door is open, say so, and if it's closed, say that too, because what this village cannot afford is another year of words that meant nothing when the season turned.",
    "who": "Kael",
    "year": 12
+  },
+  {
+   "eid": "e004783",
+   "kind": "say",
+   "text": "Fina, Eron \u2014 I've got no blood stake in either of you, but I've watched enough children grow up in this village to know that the ones who came into a room that wanted them survived longer than the ones who didn't. I won't push, but I'll say the thing no one else has said yet: whatever you decide, I'll feed what comes out of it the same as I'd feed my own, because seven voices going into next year is a number I can count, and I want it higher.",
+   "who": "Esa",
+   "year": 12
   }
  ],
  "memory_summary": "",
