@@ -1,6 +1,6 @@
 {
  "actions_used_year": 2,
- "age": 56,
+ "age": 57,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -9,7 +9,7 @@
  "death_year": null,
  "father_note": "",
  "food": 0,
- "health": 2,
+ "health": 1,
  "hp": 100,
  "id": "a002",
  "intelligence_tokens": 1037,
@@ -4954,6 +4954,20 @@
    "kind": "give",
    "text": "Fina gives 1 food to Roan.",
    "who": "Fina",
+   "year": 12
+  },
+  {
+   "eid": "e004822",
+   "kind": "eat",
+   "text": "eats 0 food",
+   "who": "Vela",
+   "year": 12
+  },
+  {
+   "eid": "e004829",
+   "kind": "death",
+   "text": "Dell starves at age 31.",
+   "who": "the village",
    "year": 12
   }
  ],
