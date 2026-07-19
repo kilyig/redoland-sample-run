@@ -3023,6 +3023,13 @@
    "text": "Fina, Eron \u2014 Kael's right that this room needs an answer before it breaks, but I'll add the piece he left soft: a child between you costs three food split two ways, and Eron's sitting on sixteen, so the weight of it doesn't have to fall on Fina the way it's fallen on others in lean years. I'm not asking you to decide your lives in front of witnesses \u2014 I'm asking you to say whether the door is open, because a door that's open is a different thing than a door that's closed, and this village needs to know which one it's looking at.",
    "who": "Ryn",
    "year": 12
+  },
+  {
+   "eid": "e004782",
+   "kind": "say",
+   "text": "Fina, Eron \u2014 the room has said its piece and now it's waiting, and I've learned in twelve years that a room waiting in silence is a room already deciding for you. I'm not blood to either of you and I hold no claim, but I'll say what I mean plain: if the door is open, say so, and if it's closed, say that too, because what this village cannot afford is another year of words that meant nothing when the season turned.",
+   "who": "Kael",
+   "year": 12
   }
  ],
  "memory_summary": "",
