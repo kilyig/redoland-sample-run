@@ -615,6 +615,13 @@
    "text": "Roan, I'm counting nineteen on you and that's still the biggest store in this family \u2014 hold it close and don't let anyone outside this circle know the exact number, because a man who looks flush is a man people start counting before they're hungry enough to say it out loud.",
    "who": "Eron",
    "year": 14
+  },
+  {
+   "eid": "e005050",
+   "kind": "give",
+   "text": "Vela gives 1 food to Esa.",
+   "who": "Vela",
+   "year": 14
   }
  ],
  "memory_summary": "",
