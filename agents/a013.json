@@ -5377,6 +5377,13 @@
    "text": "Roan, your one food is already spoken for by the rules this circle just made \u2014 don't give away what you need to survive the year on principle, because a man who starves trying to look generous is no use to anyone come next year's pile. I've given back my five and I'll carry the shame of seven until I've earned my way out of it, but I want this room to walk out alive, and that means everyone leaves here fed enough to last.",
    "who": "Vela",
    "year": 11
+  },
+  {
+   "eid": "e004643",
+   "kind": "say",
+   "text": "Roan, Vela's right \u2014 keep your one food, you need it to eat and heal this year. Nessa's fed now, the rules are said in ten voices, and we're done here. Walk out alive.",
+   "who": "Kael",
+   "year": 11
   }
  ],
  "memory_summary": "",
