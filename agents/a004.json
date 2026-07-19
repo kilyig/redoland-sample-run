@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 2,
  "health": 3,
  "hp": 100,
  "id": "a004",
@@ -838,6 +838,13 @@
    "kind": "take",
    "text": "Esa takes 2 from the pile (pile now 5).",
    "who": "Esa",
+   "year": 14
+  },
+  {
+   "eid": "e005003",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Kael.",
+   "who": "Ryn",
    "year": 14
   }
  ],
