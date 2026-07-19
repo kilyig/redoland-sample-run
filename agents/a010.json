@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 5,
+ "food": 6,
  "health": 2,
  "hp": 100,
  "id": "a010",
@@ -1933,6 +1933,13 @@
    "kind": "take",
    "text": "Mako takes 2 from the pile (pile now 5).",
    "who": "Mako",
+   "year": 12
+  },
+  {
+   "eid": "e004790",
+   "kind": "give",
+   "text": "Fina gives 1 food to Roan.",
+   "who": "Fina",
    "year": 12
   }
  ],
