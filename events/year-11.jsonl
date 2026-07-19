@@ -103,3 +103,4 @@
 {"eid": "e004703", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "", "payload": {}}
 {"eid": "e004704", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e004705", "year": 11, "phase": "scramble", "kind": "give", "speaker": "a012", "who": "Eron", "audience": "public", "text": "Eron gives 1 food to Ryn.", "payload": {"target": "a009", "amount": 1}}
+{"eid": "e004706", "year": 11, "phase": "scramble", "kind": "give", "speaker": "a015", "who": "Fina", "audience": "public", "text": "Fina gives 1 food to Roan.", "payload": {"target": "a010", "amount": 1}}
