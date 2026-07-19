@@ -67,3 +67,4 @@
 {"eid": "e004667", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "", "payload": {}}
 {"eid": "e004668", "year": 11, "phase": "scramble", "kind": "give", "speaker": "a012", "who": "Eron", "audience": "public", "text": "Eron gives 1 food to Kael.", "payload": {"target": "a004", "amount": 1}}
 {"eid": "e004669", "year": 11, "phase": "convo", "kind": "convo", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012"], "text": "Zinn gathers Eron to talk.", "payload": {}}
+{"eid": "e004670", "year": 11, "phase": "convo", "kind": "say", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a012"], "text": "Eron, Sela's gone and I've been sitting with that since year-end \u2014 I don't have the words for it yet, but I want you to know I'm not going to let that circle she built fall apart, not while I'm standing.", "payload": {}}
