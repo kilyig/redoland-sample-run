@@ -5447,6 +5447,13 @@
    "text": "Kael's right \u2014 walk out alive. Three food in Nessa's hand and two rules in ten voices is more than this village has held in eleven years, and I'm not going to spoil it by saying one word more than that.",
    "who": "Dell",
    "year": 11
+  },
+  {
+   "eid": "e004653",
+   "kind": "say",
+   "text": "Eron, you're moving to give me food and I'll take it with both hands \u2014 but before you do, I want this room to hear me say out loud that twenty-one food built on Sela's giving is not a thing I begrudge you, it's a thing I'm glad exists, because a brother who has is better than a brother who doesn't when the year turns hard. Give me the one food now and keep the rest close.",
+   "who": "Nessa",
+   "year": 11
   }
  ],
  "memory_summary": "",
@@ -5458,7 +5465,7 @@
   "a001"
  ],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [
   "a012",
