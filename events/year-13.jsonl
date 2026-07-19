@@ -52,3 +52,4 @@
 {"eid": "e004890", "year": 13, "phase": "proposal", "kind": "propose", "speaker": "a015", "who": "Fina", "audience": ["a015", "a008"], "text": "Fina: have a child with me \u2014 I'll put in 1 of 3 food.", "payload": {}}
 {"eid": "e004891", "year": 13, "phase": "proposal", "kind": "birth", "speaker": "village", "who": "the village", "audience": "public", "text": "Joren (male, age 21; str 59, int 3944, mem 14049; O24 C34 E48 A67 N33) is born to Fina and Mako.", "payload": {"child": "a016", "mother": "a015", "father": "a008"}}
 {"eid": "e004892", "year": 13, "phase": "scramble", "kind": "give", "speaker": "a012", "who": "Eron", "audience": "public", "text": "Eron gives 1 food to Roan.", "payload": {"target": "a010", "amount": 1}}
+{"eid": "e004893", "year": 13, "phase": "scramble", "kind": "take", "speaker": "a016", "who": "Joren", "audience": "public", "text": "Joren takes 1 from the pile (pile now 6).", "payload": {"amount": 1}}

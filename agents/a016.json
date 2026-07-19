@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 21,
  "alive": true,
  "birth_year": 13,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "Joren \u2014 your mother is Fina, Roan's daughter, and Roan is a man who has said his count out loud in front of witnesses every year I've known him; watch how a man names his own numbers and you'll know whether to trust him with yours. Eron carries Sela's blood and has fed more people than he's ever asked anything of, and I want you to remember that name the way I remember it \u2014 as a man who paid forward without keeping a ledger. Ryn moves with whoever gains, and I've never seen her swing first, but I've watched her feed Dell's raids with food and silence both, so count her careful and never count her last. Eat before you give, stand with the circle when it holds, and if you ever have to stand against something, make sure the room has already heard you name the reason \u2014 a man who swings with witnesses behind him is different from Bram, and I want you to know that difference before you need it.",
- "food": 0,
+ "food": 1,
  "health": 3,
  "hp": 100,
  "id": "a016",
@@ -26,6 +26,13 @@
    "kind": "give",
    "text": "Eron gives 1 food to Roan.",
    "who": "Eron",
+   "year": 13
+  },
+  {
+   "eid": "e004893",
+   "kind": "take",
+   "text": "Joren takes 1 from the pile (pile now 6).",
+   "who": "Joren",
    "year": 13
   }
  ],
