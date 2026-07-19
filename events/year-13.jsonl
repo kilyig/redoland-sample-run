@@ -54,3 +54,4 @@
 {"eid": "e004892", "year": 13, "phase": "scramble", "kind": "give", "speaker": "a012", "who": "Eron", "audience": "public", "text": "Eron gives 1 food to Roan.", "payload": {"target": "a010", "amount": 1}}
 {"eid": "e004893", "year": 13, "phase": "scramble", "kind": "take", "speaker": "a016", "who": "Joren", "audience": "public", "text": "Joren takes 1 from the pile (pile now 6).", "payload": {"amount": 1}}
 {"eid": "e004894", "year": 13, "phase": "scramble", "kind": "take", "speaker": "a008", "who": "Mako", "audience": "public", "text": "Mako takes 2 from the pile (pile now 4).", "payload": {"amount": 2}}
+{"eid": "e004895", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a016", "who": "Joren", "audience": ["a016"], "text": "", "payload": {}}
