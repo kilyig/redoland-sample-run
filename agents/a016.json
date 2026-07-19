@@ -433,6 +433,13 @@
    "text": "Ryn gives 1 food to Kael.",
    "who": "Ryn",
    "year": 14
+  },
+  {
+   "eid": "e005004",
+   "kind": "take",
+   "text": "Kael takes 2 from the pile (pile now 3).",
+   "who": "Kael",
+   "year": 14
   }
  ],
  "memory_summary": "",

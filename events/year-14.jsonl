@@ -5,3 +5,4 @@
 {"eid": "e005001", "year": 14, "phase": "scramble", "kind": "take", "speaker": "a008", "who": "Mako", "audience": "public", "text": "Mako takes 2 from the pile (pile now 7).", "payload": {"amount": 2}}
 {"eid": "e005002", "year": 14, "phase": "scramble", "kind": "take", "speaker": "a003", "who": "Esa", "audience": "public", "text": "Esa takes 2 from the pile (pile now 5).", "payload": {"amount": 2}}
 {"eid": "e005003", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn gives 1 food to Kael.", "payload": {"target": "a004", "amount": 1}}
+{"eid": "e005004", "year": 14, "phase": "scramble", "kind": "take", "speaker": "a004", "who": "Kael", "audience": "public", "text": "Kael takes 2 from the pile (pile now 3).", "payload": {"amount": 2}}
