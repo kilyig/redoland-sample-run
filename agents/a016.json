@@ -622,6 +622,13 @@
    "text": "Vela gives 1 food to Esa.",
    "who": "Vela",
    "year": 14
+  },
+  {
+   "eid": "e005051",
+   "kind": "convo",
+   "text": "Ryn gathers Vela, Esa, Kael, Roan, Eron, Fina, Joren to talk.",
+   "who": "Ryn",
+   "year": 14
   }
  ],
  "memory_summary": "",
