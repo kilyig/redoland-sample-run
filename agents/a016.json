@@ -69,6 +69,13 @@
    "text": "Vela gathers Esa, Kael, Mako, Ryn, Roan, Eron, Fina, Joren to talk.",
    "who": "Vela",
    "year": 13
+  },
+  {
+   "eid": "e004899",
+   "kind": "say",
+   "text": "Joren, I don't know your face yet but I know your mother's hands and your father's silence, and that means you walked into a room that's already counting you \u2014 so I'll say the thing this circle says to everyone who arrives here fresh: the pile rule is two food per person, said out loud in front of witnesses, and the number holds whether you heard it born or not.",
+   "who": "Vela",
+   "year": 13
   }
  ],
  "memory_summary": "",
