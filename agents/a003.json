@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 30,
+ "food": 31,
  "health": 2,
  "hp": 100,
  "id": "a003",
@@ -1202,6 +1202,13 @@
    "kind": "give",
    "text": "Ryn gives 1 food to Mako.",
    "who": "Ryn",
+   "year": 14
+  },
+  {
+   "eid": "e005091",
+   "kind": "give",
+   "text": "Vela gives 1 food to Esa.",
+   "who": "Vela",
    "year": 14
   }
  ],
