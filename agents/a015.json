@@ -2904,6 +2904,13 @@
    "text": "Esa, thirteen food and every eye in this room \u2014 there is nothing left to protect with silence, so say the number now, or I will say it for you and the circle will remember that I had to.",
    "who": "Kael",
    "year": 12
+  },
+  {
+   "eid": "e004765",
+   "kind": "say",
+   "text": "Esa, thirteen food and satiation \u2014 say the number, because what Kael just offered to do for you is a kindness dressed as a warning, and you don't want to find out how this room holds the difference between a count you gave and a count that was given for you.",
+   "who": "Ryn",
+   "year": 12
   }
  ],
  "memory_summary": "",
