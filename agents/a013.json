@@ -5419,6 +5419,13 @@
    "text": "Two food in my hand and a circle at my back \u2014 I haven't felt that since before Sela died, and I'm not going to waste it on another word when I could be eating. Roan, walk out with me.",
    "who": "Nessa",
    "year": 11
+  },
+  {
+   "eid": "e004649",
+   "kind": "say",
+   "text": "Roan, hold what you have \u2014 I mean it. And Nessa, I'll give you one more from my eight before this circle breaks, because two is surviving and three means you heal this year, and I'd rather go into the next year short one food and know you're standing than count my stores and wonder come spring.",
+   "who": "Vela",
+   "year": 11
   }
  ],
  "memory_summary": "",
