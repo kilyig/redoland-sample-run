@@ -5312,6 +5312,13 @@
    "text": "Eron gives 1 food to Ryn.",
    "who": "Eron",
    "year": 11
+  },
+  {
+   "eid": "e004675",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 11
   }
  ],
  "memory_summary": "",
