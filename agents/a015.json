@@ -3051,6 +3051,13 @@
    "text": "Fina, Eron \u2014 I've been quiet on this because it's not my door to open or close, but I'm thirty-one and I've got no children and the room's already named the two of you, so I'll name the piece that's mine: if one of you says yes and the other needs a third voice to hold the child to, I'm that voice. That's not a claim on either of you \u2014 it's just what I can offer that I haven't said yet.",
    "who": "Dell",
    "year": 12
+  },
+  {
+   "eid": "e004786",
+   "kind": "say",
+   "text": "Fina, Eron \u2014 the room's said everything it has to say, and now it's your turn, so I'll stop adding to the pile of words and just wait beside the rest of them.",
+   "who": "Esa",
+   "year": 12
   }
  ],
  "memory_summary": "",
