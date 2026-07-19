@@ -1,12 +1,12 @@
 {
  "branch": "main",
  "cursor": {
-  "last": "a004",
+  "last": "a016",
   "phase": "scramble",
-  "steps": 7
+  "steps": 8
  },
  "next_aid": 16,
- "next_eid": 5004,
+ "next_eid": 5005,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,
@@ -47,7 +47,7 @@
   "start_health": 3,
   "strength_sigma": 8.0
  },
- "pile": 3,
+ "pile": 0,
  "premise": "",
  "rng_state": [
   "__tuple__",
@@ -678,7 +678,7 @@
    2521629204,
    1807937826,
    1290946961,
-   44
+   52
   ],
   null
  ],
