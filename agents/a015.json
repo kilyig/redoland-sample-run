@@ -2953,6 +2953,13 @@
    "text": "Mako, one food is thin enough to warrant the pile \u2014 take two before anyone else moves, and do it now, because satiation two with one food in your hand going into a long year is how we lose another name. The pile's got four left and you're the last one short enough to reach before the rest of us hold back.",
    "who": "Eron",
    "year": 12
+  },
+  {
+   "eid": "e004772",
+   "kind": "say",
+   "text": "Mako, take the two \u2014 and when you're done, the pile has two left for whoever's thinnest after that, so say whether you need both or just one before someone else starts counting what's left. I've got two food and I'm holding steady, but I want this circle to name what happens to the last two before we walk out, not after.",
+   "who": "Vela",
+   "year": 12
   }
  ],
  "memory_summary": "",
