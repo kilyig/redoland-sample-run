@@ -1,14 +1,16 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 26,
  "alive": true,
  "birth_year": 8,
- "bore_this_year": false,
- "children": [],
+ "bore_this_year": true,
+ "children": [
+  "a016"
+ ],
  "death_cause": null,
  "death_year": null,
  "father_note": "Your brother Eron kept me alive this year \u2014 find him first in any hard season and do not let pride stop you from asking. The circle to trust is Kael, Vela, Esa, and Taric; they have held together under pressure and that is the only test that counts. Watch Mako and his blood carefully \u2014 he is not cruel, but he feeds himself before he feeds the village, and a man like that will count you as a neighbor only as long as it costs him nothing. Bram swung at this village and walked away; a man who swings once has already decided the rest of us are targets, so keep your distance and keep your count, and never let him see what you have before you know what he needs.",
- "food": 8,
+ "food": 7,
  "health": 2,
  "hp": 100,
  "id": "a015",
@@ -1987,6 +1989,27 @@
    "text": "Fina, the room has said everything it has to say and the only thing left is your hand moving \u2014 so move it.",
    "who": "Ryn",
    "year": 13
+  },
+  {
+   "eid": "e004889",
+   "kind": "proposal",
+   "text": "Fina draws Mako aside to talk.",
+   "who": "Fina",
+   "year": 13
+  },
+  {
+   "eid": "e004890",
+   "kind": "propose",
+   "text": "Fina: have a child with me \u2014 I'll put in 1 of 3 food.",
+   "who": "Fina",
+   "year": 13
+  },
+  {
+   "eid": "e004891",
+   "kind": "birth",
+   "text": "Joren (male, age 21; str 59, int 3944, mem 14049; O24 C34 E48 A67 N33) is born to Fina and Mako.",
+   "who": "the village",
+   "year": 13
   }
  ],
  "memory_summary": "Bram tried to attack Eron, then Vela \u2014 the whole village turned out to stop him both times, and he starved in the end, which I can't say I mourned. Eron promised early that he'd cover me if I went thin, and he meant it; I've been leaning on that promise and on Roan's steady giving since before I could count straight. Taric gave himself empty and died for it, which sits on me harder than I expected because I never even thought to feed him. Mako took six from the pile and got away with half of it \u2014 we made him say two out loud in front of the room and he did, but I don't trust the number holds when the year gets hard. Nessa and Zinn are both dead now, and I gave Nessa food when the circle was whole, which is the thing I'll carry \u2014 that I moved, even if it wasn't enough. Sela gave to Eron and Eron gave back to her for years, and she's gone too, and the circle that had ten voices now has seven. I owe Eron more than I've said out loud. Roan keeps going thin and I keep covering him, and I'd do it again before I'd let him starve.",
@@ -1997,7 +2020,7 @@
   "a013",
   "a010"
  ],
- "repro_done_year": false,
+ "repro_done_year": true,
  "says_used_year": 6,
  "sex": "female",
  "siblings": [

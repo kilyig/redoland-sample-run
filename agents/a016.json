@@ -1,0 +1,47 @@
+{
+ "actions_used_year": 0,
+ "age": 21,
+ "alive": true,
+ "birth_year": 13,
+ "bore_this_year": false,
+ "children": [],
+ "death_cause": null,
+ "death_year": null,
+ "father_note": "Joren \u2014 your mother is Fina, Roan's daughter, and Roan is a man who has said his count out loud in front of witnesses every year I've known him; watch how a man names his own numbers and you'll know whether to trust him with yours. Eron carries Sela's blood and has fed more people than he's ever asked anything of, and I want you to remember that name the way I remember it \u2014 as a man who paid forward without keeping a ledger. Ryn moves with whoever gains, and I've never seen her swing first, but I've watched her feed Dell's raids with food and silence both, so count her careful and never count her last. Eat before you give, stand with the circle when it holds, and if you ever have to stand against something, make sure the room has already heard you name the reason \u2014 a man who swings with witnesses behind him is different from Bram, and I want you to know that difference before you need it.",
+ "food": 0,
+ "health": 3,
+ "hp": 100,
+ "id": "a016",
+ "intelligence_tokens": 3944,
+ "memory_raw": [
+  {
+   "eid": "e004891",
+   "kind": "birth",
+   "text": "Joren (male, age 21; str 59, int 3944, mem 14049; O24 C34 E48 A67 N33) is born to Fina and Mako.",
+   "who": "the village",
+   "year": 13
+  }
+ ],
+ "memory_summary": "",
+ "memory_tokens": 14049,
+ "mother_note": "Your blood is Fina's and Mako's, which means you come into a world that already has a shape: Roan is your grandfather and he will give until he goes thin, so watch him and give back before he has to ask. Eron is your uncle and the most reliable man I have ever stood beside \u2014 find him first in a hard year and do not let pride stop you. Your father Mako is strong and he has promised to stand between you and anything that moves wrong, and I believe that promise more than I believed it before he made it in front of witnesses, but understand that he counts his own blood first, which means you are his blood and that is worth something real. Never let your count go to zero and never let anyone see you going thin \u2014 a person with nothing is a person nobody plans around, and I need you planned around.",
+ "name": "Joren",
+ "parents": [
+  "a015",
+  "a008"
+ ],
+ "repro_done_year": false,
+ "says_used_year": 0,
+ "sex": "male",
+ "siblings": [
+  "a014"
+ ],
+ "strength": 59,
+ "traits": {
+  "agreeableness": 67,
+  "conscientiousness": 34,
+  "extraversion": 48,
+  "neuroticism": 33,
+  "openness": 24
+ }
+}
