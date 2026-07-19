@@ -531,6 +531,13 @@
    "text": "Roan, give Joren the three Eron said and keep three more back for yourself \u2014 twenty-three on you with nothing moving is the thing that makes the rest of this room nervous, not just me. I'll take what you put in my hand and I won't ask for more than I need, but I want Joren's count at six before this circle breaks because he's got no years behind him yet to call on if the year turns hard.",
    "who": "Fina",
    "year": 14
+  },
+  {
+   "eid": "e005037",
+   "kind": "say",
+   "text": "Roan, I'll take the three if you're putting them in my hand \u2014 not because I'd go under without them, but because six is a count I can stand on and three is a count I have to watch. Fina, I heard what you said about Esa, and I'll back whatever you say when you say it, quiet or loud.",
+   "who": "Joren",
+   "year": 14
   }
  ],
  "memory_summary": "",
@@ -542,7 +549,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [
   "a014"
