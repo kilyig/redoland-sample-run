@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 17,
+ "food": 18,
  "health": 2,
  "hp": 100,
  "id": "a010",
@@ -1611,6 +1611,13 @@
    "kind": "give",
    "text": "Eron gives 1 food to Vela.",
    "who": "Eron",
+   "year": 13
+  },
+  {
+   "eid": "e004922",
+   "kind": "give",
+   "text": "Fina gives 1 food to Roan.",
+   "who": "Fina",
    "year": 13
   }
  ],
