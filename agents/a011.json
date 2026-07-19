@@ -7664,6 +7664,13 @@
    "text": "Anyone holding more than five at year's end gives one to whoever holds least \u2014 I'll say it out loud and I'll hold to it, same as Mako did. But I want this room to hear one more thing before we close: I've been feeding blood and kin through every lean year since I was old enough to count, and twenty-one food doesn't mean I've been hoarding \u2014 it means Sela kept giving to me when she was thin and I never turned away what she offered, and she's dead now, and that number sits on me the same way the circle said my name over it last year.",
    "who": "Eron",
    "year": 11
+  },
+  {
+   "eid": "e004631",
+   "kind": "say",
+   "text": "Eron, I heard what you said about Sela and I'll carry it the same as you do \u2014 she fed us both and she's gone, and that's not nothing. What I want from this room before we close is the second rule said back by everyone who hasn't said it yet, same as we did the pile cap, because a rule with ten voices behind it holds harder than one with five.",
+   "who": "Mako",
+   "year": 11
   }
  ],
  "memory_summary": "",
