@@ -2946,6 +2946,13 @@
    "text": "Mako's at one food and satiation two \u2014 that's thin enough to warrant the pile before we close, and I want to hear him say whether he's taking before Eron starts counting who didn't.",
    "who": "Ryn",
    "year": 12
+  },
+  {
+   "eid": "e004771",
+   "kind": "say",
+   "text": "Mako, one food is thin enough to warrant the pile \u2014 take two before anyone else moves, and do it now, because satiation two with one food in your hand going into a long year is how we lose another name. The pile's got four left and you're the last one short enough to reach before the rest of us hold back.",
+   "who": "Eron",
+   "year": 12
   }
  ],
  "memory_summary": "",
