@@ -5424,6 +5424,13 @@
    "text": "I'm eating \u2014 I took two from the pile this year, so I've got something to stand on. But Eron, I'm sitting at satiation one going into this year and I need that number to move, so I'm not giving anything away until I know I'm fed. Don't let me become the next lesson this circle has to name over a cold fire.",
    "who": "Zinn",
    "year": 11
+  },
+  {
+   "eid": "e004693",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 11
   }
  ],
  "memory_summary": "",
