@@ -580,6 +580,13 @@
    "text": "Joren, six food going into the year is what I wanted for you \u2014 hold that count and don't let anyone's thin face talk you below four, because you're twenty-two and new to this room and the first thing people learn when they're hungry is who gives without asking why. Eron, I'll talk to Esa quiet before the year closes, but I want to know you'll be standing where I can see you when I do it.",
    "who": "Fina",
    "year": 14
+  },
+  {
+   "eid": "e005044",
+   "kind": "say",
+   "text": "Fina, I'll be standing where you can see me \u2014 that's not a question. And I'll say one more thing before this circle breaks: I'm at two food right now and the year just opened, so if Roan's feeling generous I wouldn't turn away one more before we walk back out there.",
+   "who": "Eron",
+   "year": 14
   }
  ],
  "memory_summary": "",
