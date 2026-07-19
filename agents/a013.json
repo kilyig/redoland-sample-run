@@ -5272,6 +5272,13 @@
    "text": "Eron, Mako \u2014 Kael just named you both in front of the whole room, and silence right now costs more than it saves. Say the second rule out loud, or every person in here remembers that you held twenty-one and eight and made us drag the words out of you the same way we dragged seven out of Vela.",
    "who": "Ryn",
    "year": 11
+  },
+  {
+   "eid": "e004628",
+   "kind": "say",
+   "text": "Anyone holding more than five at year's end gives one to whoever holds least \u2014 I'll say it out loud and I'll hold to it. I've got two right now so I'm not the man this rule bites hardest, but Eron, twenty-one is a number this room will remember the same way it remembered seven, and I'd rather hear you say it clean than watch this circle pull it out of you.",
+   "who": "Mako",
+   "year": 11
   }
  ],
  "memory_summary": "",
