@@ -2757,6 +2757,13 @@
    "text": "Ryn, say your count \u2014 Dell's at zero and you're the next name I need before this circle moves.",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004744",
+   "kind": "say",
+   "text": "Sixteen food, satiation two \u2014 I'm not thin and I'm not reaching. Dell goes first, then Ryn when she speaks, and anyone else holding less than three takes before I touch what's left.",
+   "who": "Eron",
+   "year": 12
   }
  ],
  "memory_summary": "",
