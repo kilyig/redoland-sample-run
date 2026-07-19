@@ -3135,6 +3135,13 @@
    "text": "Fina takes 3 from the pile (pile now 0).",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004799",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 12
   }
  ],
  "memory_summary": "",
