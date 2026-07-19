@@ -88,3 +88,4 @@
 {"eid": "e005084", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e005085", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a015", "who": "Fina", "audience": "public", "text": "Fina gives 1 food to Joren.", "payload": {"target": "a016", "amount": 1}}
 {"eid": "e005086", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e005087", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a003", "who": "Esa", "audience": "public", "text": "Esa gives 1 food to Vela.", "payload": {"target": "a002", "amount": 1}}

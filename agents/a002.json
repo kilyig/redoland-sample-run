@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 13,
+ "food": 14,
  "health": 2,
  "hp": 100,
  "id": "a002",
@@ -3057,6 +3057,13 @@
    "kind": "give",
    "text": "Fina gives 1 food to Joren.",
    "who": "Fina",
+   "year": 14
+  },
+  {
+   "eid": "e005087",
+   "kind": "give",
+   "text": "Esa gives 1 food to Vela.",
+   "who": "Esa",
    "year": 14
   }
  ],
