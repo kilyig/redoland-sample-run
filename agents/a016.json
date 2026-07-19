@@ -454,6 +454,13 @@
    "text": "Fina gathers Roan, Eron, Joren to talk.",
    "who": "Fina",
    "year": 14
+  },
+  {
+   "eid": "e005026",
+   "kind": "say",
+   "text": "Roan, you're at twenty-three and I'm at one \u2014 I need you to put two food in my hand right now, before this year gets any longer, because I've been watching the pile empty and I'm not letting my count stay this thin with Joren standing beside me.",
+   "who": "Fina",
+   "year": 14
   }
  ],
  "memory_summary": "",
