@@ -2960,6 +2960,13 @@
    "text": "Mako, take the two \u2014 and when you're done, the pile has two left for whoever's thinnest after that, so say whether you need both or just one before someone else starts counting what's left. I've got two food and I'm holding steady, but I want this circle to name what happens to the last two before we walk out, not after.",
    "who": "Vela",
    "year": 12
+  },
+  {
+   "eid": "e004773",
+   "kind": "say",
+   "text": "Mako, take your two and then the pile has two left \u2014 Vela and I are the ones sitting thinnest after you, so between the two of us we split what remains, and anyone who wants to argue that math can do it after the hungry ones are fed.",
+   "who": "Roan",
+   "year": 12
   }
  ],
  "memory_summary": "",
