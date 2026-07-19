@@ -2729,6 +2729,13 @@
    "text": "One food in my hand and satiation at two \u2014 I'm not the thinnest in this room but I'm not far from it, and the pile has seven left for the rest of us. Say your count before you reach, same as Fina just did, because I'd rather know who needs it most before someone grabs without saying.",
    "who": "Mako",
    "year": 12
+  },
+  {
+   "eid": "e004740",
+   "kind": "say",
+   "text": "Zero food, satiation one \u2014 that's me, and I'm not dressing it up. Ryn, what are you carrying, because I'm not touching that pile until I know you're not thinner than I am.",
+   "who": "Dell",
+   "year": 12
   }
  ],
  "memory_summary": "",
