@@ -2799,6 +2799,13 @@
    "text": "Esa, Ryn \u2014 every other person in this room has said their count, and Dell is sitting at zero while we wait on the two of you, so say the numbers now or I'm going to assume you're both holding more than five and this circle starts with that assumption instead of the truth.",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004750",
+   "kind": "say",
+   "text": "Esa, Ryn \u2014 I'm at sixteen and I've already held my tongue twice waiting on you both, so I'll say it the way this circle earned the right to say it: name your count now or we move Dell to the pile and you two explain to the whole room why your silence cost her.",
+   "who": "Eron",
+   "year": 12
   }
  ],
  "memory_summary": "",
