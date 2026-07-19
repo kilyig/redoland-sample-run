@@ -2673,6 +2673,13 @@
    "text": "Year 12: 15 food appears in the pile for 9 people.",
    "who": "the village",
    "year": 12
+  },
+  {
+   "eid": "e004731",
+   "kind": "take",
+   "text": "Eron takes 2 from the pile (pile now 13).",
+   "who": "Eron",
+   "year": 12
   }
  ],
  "memory_summary": "",
