@@ -1352,6 +1352,13 @@
    "text": "Roan, I'll take the three if you're putting them in my hand \u2014 not because I'd go under without them, but because six is a count I can stand on and three is a count I have to watch. Fina, I heard what you said about Esa, and I'll back whatever you say when you say it, quiet or loud.",
    "who": "Joren",
    "year": 14
+  },
+  {
+   "eid": "e005038",
+   "kind": "say",
+   "text": "Roan, before you move those three to Joren's hand \u2014 what's your satiation sitting at right now, because I watched you go thin last year and I'd rather know you're eating before I let you pour yourself empty again on our account.",
+   "who": "Fina",
+   "year": 14
   }
  ],
  "memory_summary": "Bram tried to attack Eron, then Vela \u2014 the whole village turned out to stop him both times, and he starved in the end, which I can't say I mourned. Eron promised early that he'd cover me if I went thin, and he meant it; I've been leaning on that promise and on Roan's steady giving since before I could count straight. Taric gave himself empty and died for it, which sits on me harder than I expected because I never even thought to feed him. Mako took six from the pile and got away with half of it \u2014 we made him say two out loud in front of the room and he did, but I don't trust the number holds when the year gets hard. Nessa and Zinn are both dead now, and I gave Nessa food when the circle was whole, which is the thing I'll carry \u2014 that I moved, even if it wasn't enough. Sela gave to Eron and Eron gave back to her for years, and she's gone too, and the circle that had ten voices now has seven. I owe Eron more than I've said out loud. Roan keeps going thin and I keep covering him, and I'd do it again before I'd let him starve. Nessa died the year I gave her food and it still wasn't enough \u2014 she spent her last months feeding me and Eron and Esa, and I'll carry that the rest of my life. Zinn went the same year, quiet, and I didn't move fast enough for either of them. Vela broke the two-food rule and took seven; she gave five back in front of the whole room and we added a second rule \u2014 anyone over five at year's end gives one to whoever holds least \u2014 and I said that circle felt like the first solid thing in years, and then Nessa starved anyway. Sela fed Eron for years before she starved, and he carried that count forward; when the room called him out on twenty-one food he said it plainly and I believed him. I had a child with Mako \u2014 that's Joren, who's mine and I wanted him \u2014 Mako said in front of witnesses that he'd stand between the child and anything that moves wrong, and I heard Roan's eyes on it, which is the only way a promise from Mako counts to me. Dell starved feeding Ryn through every lean year, which means the redistribution rule we built came one year too late to save the woman who needed it most.",
@@ -1363,7 +1370,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [
   "a012"

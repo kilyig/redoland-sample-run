@@ -538,6 +538,13 @@
    "text": "Roan, I'll take the three if you're putting them in my hand \u2014 not because I'd go under without them, but because six is a count I can stand on and three is a count I have to watch. Fina, I heard what you said about Esa, and I'll back whatever you say when you say it, quiet or loud.",
    "who": "Joren",
    "year": 14
+  },
+  {
+   "eid": "e005038",
+   "kind": "say",
+   "text": "Roan, before you move those three to Joren's hand \u2014 what's your satiation sitting at right now, because I watched you go thin last year and I'd rather know you're eating before I let you pour yourself empty again on our account.",
+   "who": "Fina",
+   "year": 14
   }
  ],
  "memory_summary": "",
