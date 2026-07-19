@@ -629,6 +629,13 @@
    "text": "Ryn gathers Vela, Esa, Kael, Roan, Eron, Fina, Joren to talk.",
    "who": "Ryn",
    "year": 14
+  },
+  {
+   "eid": "e005052",
+   "kind": "say",
+   "text": "Nine food in my hand, satiation two \u2014 I'm not the one reaching today, but I want to know who is before this circle does anything else. Vela, say your count first, because you came into this year thin and I gave you four of mine last year and I'd like to know if it held.",
+   "who": "Ryn",
+   "year": 14
   }
  ],
  "memory_summary": "",
