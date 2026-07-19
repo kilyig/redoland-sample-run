@@ -2701,6 +2701,13 @@
    "text": "Fina takes 2 from the pile (pile now 7).",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004736",
+   "kind": "convo",
+   "text": "Kael gathers Esa, Ryn, Dell, Eron, Fina, Roan, Mako, Vela to talk.",
+   "who": "Kael",
+   "year": 12
   }
  ],
  "memory_summary": "",
