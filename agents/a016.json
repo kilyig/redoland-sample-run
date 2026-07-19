@@ -643,6 +643,13 @@
    "text": "Sixteen food, satiation two \u2014 your four held, Ryn, and I'm not thin going into this year. What I want to know before this circle moves is who's sitting shortest, because the pile's already empty and whatever redistribution happens this year has to come from hands in this room.",
    "who": "Eron",
    "year": 14
+  },
+  {
+   "eid": "e005054",
+   "kind": "say",
+   "text": "Vela, I asked you first and I'll ask you again \u2014 say your count and your satiation out loud, because you came into this year at the edge and I'm not moving this circle forward until I know if you're still there or if you've pulled back from it.",
+   "who": "Ryn",
+   "year": 14
   }
  ],
  "memory_summary": "",
