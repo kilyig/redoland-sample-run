@@ -1,16 +1,16 @@
 {
  "actions_used_year": 6,
  "age": 26,
- "alive": true,
+ "alive": false,
  "birth_year": 6,
  "bore_this_year": false,
  "children": [],
- "death_cause": null,
- "death_year": null,
+ "death_cause": "starvation",
+ "death_year": 11,
  "father_note": "Your mother is Sela \u2014 strong, clear-eyed, and she chose me knowing exactly what she was choosing; trust her judgment before you trust mine. Watch before you speak, and watch longer than you think you need to; silence is not weakness, it's how you learn who people are before they know you're learning. Bram fathered your half-sister Nessa, which makes him kin-adjacent and not an enemy, but he's a man who reaches for food early and hit first in year three \u2014 keep that in mind when the pile runs short. No one has wronged us yet, but we have no blood here except each other, and that is the only thing in this village I'd spend my last food to protect.",
  "food": 0,
- "health": 1,
- "hp": 100,
+ "health": 0,
+ "hp": 0,
  "id": "a014",
  "intelligence_tokens": 3731,
  "memory_raw": [
@@ -5485,6 +5485,20 @@
    "eid": "e004710",
    "kind": "pass",
    "text": "",
+   "who": "Zinn",
+   "year": 11
+  },
+  {
+   "eid": "e004720",
+   "kind": "death",
+   "text": "Nessa starves at age 27.",
+   "who": "the village",
+   "year": 11
+  },
+  {
+   "eid": "e004721",
+   "kind": "eat",
+   "text": "eats 0 food",
    "who": "Zinn",
    "year": 11
   }
