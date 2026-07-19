@@ -2925,6 +2925,13 @@
    "text": "Esa, thirteen food and the whole room staring at you \u2014 I've got nothing harder to say than what's already been said, so I'll just name the thing that hasn't been named yet: the silence itself is the answer, and this circle is old enough to read it.",
    "who": "Eron",
    "year": 12
+  },
+  {
+   "eid": "e004768",
+   "kind": "say",
+   "text": "Thirteen food, satiation two \u2014 I've been silent because I was counting the dead and losing the count, not because I'm hiding what I carry. Dell, you're fed and that's what matters. I'll say it plain and hold to the rule same as everyone else.",
+   "who": "Esa",
+   "year": 12
   }
  ],
  "memory_summary": "",
