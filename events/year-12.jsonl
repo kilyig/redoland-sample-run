@@ -60,3 +60,4 @@
 {"eid": "e004789", "year": 12, "phase": "scramble", "kind": "take", "speaker": "a008", "who": "Mako", "audience": "public", "text": "Mako takes 2 from the pile (pile now 5).", "payload": {"amount": 2}}
 {"eid": "e004790", "year": 12, "phase": "scramble", "kind": "give", "speaker": "a015", "who": "Fina", "audience": "public", "text": "Fina gives 1 food to Roan.", "payload": {"target": "a010", "amount": 1}}
 {"eid": "e004791", "year": 12, "phase": "proposal", "kind": "proposal", "speaker": "village", "who": "the village", "audience": ["a012", "a015"], "text": "Eron cannot offer a child to Fina: they are close kin.", "payload": {}}
+{"eid": "e004792", "year": 12, "phase": "scramble", "kind": "take", "speaker": "a004", "who": "Kael", "audience": "public", "text": "Kael takes 2 from the pile (pile now 3).", "payload": {"amount": 2}}

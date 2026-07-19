@@ -1,5 +1,5 @@
 {
- "actions_used_year": 2,
+ "actions_used_year": 3,
  "age": 56,
  "alive": true,
  "birth_year": 0,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 4,
+ "food": 6,
  "health": 3,
  "hp": 100,
  "id": "a004",
@@ -1356,6 +1356,13 @@
    "kind": "give",
    "text": "Fina gives 1 food to Roan.",
    "who": "Fina",
+   "year": 12
+  },
+  {
+   "eid": "e004792",
+   "kind": "take",
+   "text": "Kael takes 2 from the pile (pile now 3).",
+   "who": "Kael",
    "year": 12
   }
  ],

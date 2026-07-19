@@ -3093,6 +3093,13 @@
    "text": "Eron cannot offer a child to Fina: they are close kin.",
    "who": "the village",
    "year": 12
+  },
+  {
+   "eid": "e004792",
+   "kind": "take",
+   "text": "Kael takes 2 from the pile (pile now 3).",
+   "who": "Kael",
+   "year": 12
   }
  ],
  "memory_summary": "",
