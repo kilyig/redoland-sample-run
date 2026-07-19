@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "Nessa, your mother is Sela \u2014 she made a hard choice in a hard year, and that means something; keep her close. Vela gave me food when she had no reason to, and I have not forgotten it, so watch her and learn what quiet generosity looks like before you decide it's weakness. Fear Mako most: he has strength, he has food, and he only started speaking when he had already decided something. Trust no one who has not paid a cost to stand beside you \u2014 words are free, and this village proved that to me the year it put nine bodies between me and one man's food.",
- "food": 0,
+ "food": 1,
  "health": 1,
  "hp": 100,
  "id": "a013",
@@ -5453,6 +5453,13 @@
    "kind": "say",
    "text": "Eron, you're moving to give me food and I'll take it with both hands \u2014 but before you do, I want this room to hear me say out loud that twenty-one food built on Sela's giving is not a thing I begrudge you, it's a thing I'm glad exists, because a brother who has is better than a brother who doesn't when the year turns hard. Give me the one food now and keep the rest close.",
    "who": "Nessa",
+   "year": 11
+  },
+  {
+   "eid": "e004654",
+   "kind": "give",
+   "text": "Eron gives 1 food to Nessa.",
+   "who": "Eron",
    "year": 11
   }
  ],

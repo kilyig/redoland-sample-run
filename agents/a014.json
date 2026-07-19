@@ -5193,6 +5193,13 @@
    "text": "Eron, you're moving to give me food and I'll take it with both hands \u2014 but before you do, I want this room to hear me say out loud that twenty-one food built on Sela's giving is not a thing I begrudge you, it's a thing I'm glad exists, because a brother who has is better than a brother who doesn't when the year turns hard. Give me the one food now and keep the rest close.",
    "who": "Nessa",
    "year": 11
+  },
+  {
+   "eid": "e004654",
+   "kind": "give",
+   "text": "Eron gives 1 food to Nessa.",
+   "who": "Eron",
+   "year": 11
   }
  ],
  "memory_summary": "",
