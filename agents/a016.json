@@ -496,6 +496,13 @@
    "text": "Joren, you named it right \u2014 we're the most stable thing standing, and that's not nothing after the years I've been counting. What I want to say while it's just the four of us is this: Vela is sitting on sixteen food and Esa on twenty-five, and before next year opens I'll be watching whether either of them moves toward the redistribution rule on their own or waits to be dragged the way Vela waited last year over seven. I don't mean to start trouble \u2014 I mean to know where the weight sits before it shifts.",
    "who": "Eron",
    "year": 14
+  },
+  {
+   "eid": "e005032",
+   "kind": "say",
+   "text": "Eron, I'll watch the same thing \u2014 and if Vela moves on her own before the rule gets named out loud, that tells me something worth knowing about her. Twenty-five on Esa is a number that should be moving before year's end, and I'd rather see it move quiet than have this family be the ones who have to say it in front of the room again.",
+   "who": "Joren",
+   "year": 14
   }
  ],
  "memory_summary": "",
@@ -507,7 +514,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "male",
  "siblings": [
   "a014"
