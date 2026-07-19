@@ -2771,6 +2771,13 @@
    "text": "Vela and Esa \u2014 I've heard Dell and Ryn named twice now and neither of them has said a full count yet, so I'll ask again plain: what are you carrying, because the pile's at seven and I want the thin ones fed before anyone in this room who's flush touches what's left.",
    "who": "Mako",
    "year": 12
+  },
+  {
+   "eid": "e004746",
+   "kind": "say",
+   "text": "Two food in my hand, satiation two \u2014 I'm not the one who needs the pile first, so I'm holding back. Dell, take three before anyone else moves, because satiation one doesn't survive another lean month and I'd rather count short than say your name over a cold fire the way I've said too many others.",
+   "who": "Vela",
+   "year": 12
   }
  ],
  "memory_summary": "",
