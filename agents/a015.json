@@ -3072,6 +3072,13 @@
    "text": "Fina, Eron \u2014 I've said my piece twice and I'll say it once more because the room is still waiting: say yes or say no, and if you need a moment to speak without every eye on you, I'll clear the room and hold the door myself.",
    "who": "Kael",
    "year": 12
+  },
+  {
+   "eid": "e004789",
+   "kind": "take",
+   "text": "Mako takes 2 from the pile (pile now 5).",
+   "who": "Mako",
+   "year": 12
   }
  ],
  "memory_summary": "",
