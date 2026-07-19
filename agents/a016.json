@@ -475,6 +475,13 @@
    "text": "Roan, that's the way a grandfather's supposed to move \u2014 fast and without making her ask twice. Fina, you're at three now, that's breathable. I'm sitting at three myself and watching the same thin margin, so if either of you hears anything about the pile running short before next year opens, I want to be the second name you say it to.",
    "who": "Joren",
    "year": 14
+  },
+  {
+   "eid": "e005029",
+   "kind": "say",
+   "text": "Joren, you've got my daughter's blood in you and a good eye for a count \u2014 three food is breathable but it's not safe, and I've got twenty-three, so if either of you drops below two before the year closes you come to me before you come to anyone else in that room.",
+   "who": "Roan",
+   "year": 14
   }
  ],
  "memory_summary": "",
