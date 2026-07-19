@@ -65,3 +65,4 @@
 {"eid": "e004794", "year": 12, "phase": "scramble", "kind": "give", "speaker": "a012", "who": "Eron", "audience": "public", "text": "Eron gives 1 food to Esa.", "payload": {"target": "a003", "amount": 1}}
 {"eid": "e004795", "year": 12, "phase": "scramble", "kind": "give", "speaker": "a015", "who": "Fina", "audience": "public", "text": "Fina gives 1 food to Roan.", "payload": {"target": "a010", "amount": 1}}
 {"eid": "e004796", "year": 12, "phase": "scramble", "kind": "give", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn gives 1 food to Dell.", "payload": {"target": "a011", "amount": 1}}
+{"eid": "e004797", "year": 12, "phase": "scramble", "kind": "take", "speaker": "a015", "who": "Fina", "audience": "public", "text": "Fina takes 3 from the pile (pile now 0).", "payload": {"amount": 3}}
