@@ -8007,6 +8007,13 @@
    "text": "Nessa gives 1 food to Eron.",
    "who": "Nessa",
    "year": 11
+  },
+  {
+   "eid": "e004689",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Fina.",
+   "who": "Nessa",
+   "year": 11
   }
  ],
  "memory_summary": "",
