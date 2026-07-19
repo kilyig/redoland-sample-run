@@ -1721,6 +1721,13 @@
    "text": "Mako's thin and thin men reach fast \u2014 I'm taking two now, same as the rule says, and if he's already at the pile before me I want Roan standing where Mako can see him, because your father is the kind of man whose presence alone changes a count. Fina, stay at my shoulder.",
    "who": "Eron",
    "year": 13
+  },
+  {
+   "eid": "e004850",
+   "kind": "say",
+   "text": "Eron, Roan \u2014 I'm at the pile now, two food in hand, and Mako hasn't moved yet but he's watching us, so let's not linger where he can count what we carry. What I want to say before we break this circle is that seven is too few and I've been thinking about it since Roan named it last year \u2014 I'm twenty-six and I'm not going to let this village shrink to six without at least saying out loud that I'm open to a child if there's a man in this room who isn't kin and has the count to share the cost.",
+   "who": "Fina",
+   "year": 13
   }
  ],
  "memory_summary": "Bram tried to attack Eron, then Vela \u2014 the whole village turned out to stop him both times, and he starved in the end, which I can't say I mourned. Eron promised early that he'd cover me if I went thin, and he meant it; I've been leaning on that promise and on Roan's steady giving since before I could count straight. Taric gave himself empty and died for it, which sits on me harder than I expected because I never even thought to feed him. Mako took six from the pile and got away with half of it \u2014 we made him say two out loud in front of the room and he did, but I don't trust the number holds when the year gets hard. Nessa and Zinn are both dead now, and I gave Nessa food when the circle was whole, which is the thing I'll carry \u2014 that I moved, even if it wasn't enough. Sela gave to Eron and Eron gave back to her for years, and she's gone too, and the circle that had ten voices now has seven. I owe Eron more than I've said out loud. Roan keeps going thin and I keep covering him, and I'd do it again before I'd let him starve.",
@@ -1732,7 +1739,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [
   "a012"
