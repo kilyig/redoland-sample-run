@@ -3037,6 +3037,13 @@
    "text": "Fina, Eron \u2014 I've got no blood stake in either of you, but I've watched enough children grow up in this village to know that the ones who came into a room that wanted them survived longer than the ones who didn't. I won't push, but I'll say the thing no one else has said yet: whatever you decide, I'll feed what comes out of it the same as I'd feed my own, because seven voices going into next year is a number I can count, and I want it higher.",
    "who": "Esa",
    "year": 12
+  },
+  {
+   "eid": "e004784",
+   "kind": "say",
+   "text": "Fina, Eron \u2014 I've held back from pushing this because they're my blood and I know how it feels to have a room decide for you, but Ryn named the cost and Esa named the welcome, so I'll say the one thing a father can say that no one else in this room can: whatever you two decide, you won't carry it alone. That's not a push \u2014 that's a promise.",
+   "who": "Roan",
+   "year": 12
   }
  ],
  "memory_summary": "",
