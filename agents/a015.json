@@ -2722,6 +2722,13 @@
    "text": "Thirteen food and satiation that barely held last year \u2014 I'm naming it plain because Nessa and Zinn are dead and I don't want to be the next one this room says a name over. Pile's at seven and I haven't touched it yet today; someone needs to say who's still short before we start reaching.",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004739",
+   "kind": "say",
+   "text": "One food in my hand and satiation at two \u2014 I'm not the thinnest in this room but I'm not far from it, and the pile has seven left for the rest of us. Say your count before you reach, same as Fina just did, because I'd rather know who needs it most before someone grabs without saying.",
+   "who": "Mako",
+   "year": 12
   }
  ],
  "memory_summary": "",
