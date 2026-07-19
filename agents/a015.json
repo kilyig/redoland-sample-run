@@ -2785,6 +2785,13 @@
    "text": "Esa, Ryn \u2014 your counts are the ones missing and Dell's sitting at zero with satiation one, so say the numbers now before this circle does anything else, because I'm not watching this room move with two people still silent after what we buried last year.",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004748",
+   "kind": "say",
+   "text": "Esa, Ryn \u2014 I'll say it the same way Fina said it: your counts are what this room is waiting on, and Dell's at zero with satiation one, which means every breath we spend waiting is a breath Dell doesn't have. Say the numbers.",
+   "who": "Mako",
+   "year": 12
   }
  ],
  "memory_summary": "",
