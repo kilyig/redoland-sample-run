@@ -5284,6 +5284,13 @@
    "text": "Eron, Sela's gone and I've been sitting with that since year-end \u2014 I don't have the words for it yet, but I want you to know I'm not going to let that circle she built fall apart, not while I'm standing.",
    "who": "Zinn",
    "year": 11
+  },
+  {
+   "eid": "e004671",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Fina.",
+   "who": "Nessa",
+   "year": 11
   }
  ],
  "memory_summary": "",
