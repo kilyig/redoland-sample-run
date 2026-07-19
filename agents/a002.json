@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 4,
+ "food": 7,
  "health": 1,
  "hp": 100,
  "id": "a002",
@@ -5136,6 +5136,13 @@
    "kind": "say",
    "text": "Esa, Vela's asking plain and she's earned a plain answer \u2014 if you're sitting on twenty-three and she goes under this year, that's not a number this room will forget when the next year opens. I'm not pushing you, but I'm saying what I see.",
    "who": "Joren",
+   "year": 13
+  },
+  {
+   "eid": "e004912",
+   "kind": "give",
+   "text": "Esa gives 3 food to Vela.",
+   "who": "Esa",
    "year": 13
   }
  ],
