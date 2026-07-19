@@ -559,6 +559,13 @@
    "text": "Roan, take what you need to eat before you move anything \u2014 satiation two is close enough to the edge that I'd rather wait the moment. Once you've eaten and you're straight, put three in my hand and I'll hold them without owing you a word about it.",
    "who": "Joren",
    "year": 14
+  },
+  {
+   "eid": "e005041",
+   "kind": "say",
+   "text": "Roan, eat first \u2014 I mean it, not as a suggestion. Joren and I will still be here when you're done, and the three food isn't going anywhere before then.",
+   "who": "Fina",
+   "year": 14
   }
  ],
  "memory_summary": "",
