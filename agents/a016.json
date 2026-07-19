@@ -489,6 +489,13 @@
    "text": "Roan, I'll hold you to that \u2014 and I'm saying back what you said: if I see your count move wrong before next year, I'll name it to you before I name it to anyone else in that room. Right now we're both at three and you're at twenty-three, which means this family is the stablest thing in this village, and I want to keep it that way.",
    "who": "Joren",
    "year": 14
+  },
+  {
+   "eid": "e005031",
+   "kind": "say",
+   "text": "Joren, you named it right \u2014 we're the most stable thing standing, and that's not nothing after the years I've been counting. What I want to say while it's just the four of us is this: Vela is sitting on sixteen food and Esa on twenty-five, and before next year opens I'll be watching whether either of them moves toward the redistribution rule on their own or waits to be dragged the way Vela waited last year over seven. I don't mean to start trouble \u2014 I mean to know where the weight sits before it shifts.",
+   "who": "Eron",
+   "year": 14
   }
  ],
  "memory_summary": "",
