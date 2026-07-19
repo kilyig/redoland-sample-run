@@ -7755,6 +7755,13 @@
    "text": "Roan, Vela's right \u2014 keep your one food, you need it to eat and heal this year. Nessa's fed now, the rules are said in ten voices, and we're done here. Walk out alive.",
    "who": "Kael",
    "year": 11
+  },
+  {
+   "eid": "e004644",
+   "kind": "say",
+   "text": "Roan, hold that food \u2014 Vela's right and so is Kael, you've got one and you need it to last the year, and I'd rather carry the one I gave Nessa than watch my father go thin proving a point. Two rules said in ten voices is more than this village has ever had, and I'm walking out of here feeling something I haven't felt since before Bram swung \u2014 like the count I go to sleep with tonight might still be there in the morning.",
+   "who": "Fina",
+   "year": 11
   }
  ],
  "memory_summary": "",
