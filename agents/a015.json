@@ -2316,6 +2316,13 @@
    "text": "Nessa, take the food and eat tonight \u2014 three people moving at once is the circle doing what it said it would, and I've got one food in my hand that I'll give before I walk out if someone in here is sitting shorter than I am. Dell's right that we built something real today, and I want to still be around to see whether it holds.",
    "who": "Roan",
    "year": 11
+  },
+  {
+   "eid": "e004642",
+   "kind": "say",
+   "text": "Roan, your one food is already spoken for by the rules this circle just made \u2014 don't give away what you need to survive the year on principle, because a man who starves trying to look generous is no use to anyone come next year's pile. I've given back my five and I'll carry the shame of seven until I've earned my way out of it, but I want this room to walk out alive, and that means everyone leaves here fed enough to last.",
+   "who": "Vela",
+   "year": 11
   }
  ],
  "memory_summary": "",
