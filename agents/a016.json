@@ -90,6 +90,13 @@
    "text": "Good. One food is the right foot to start on, and this room will remember it.\n\nWhat I want from everyone here before we break \u2014 count your food out loud, because Dell is dead and I'm carrying one satiation going into this year, and I'd rather know who's thin before the pile is empty than after.",
    "who": "Vela",
    "year": 13
+  },
+  {
+   "eid": "e004902",
+   "kind": "say",
+   "text": "One food on me, satiation full \u2014 I'm not thin yet, but I'm watching the same thing you are. Vela, if your count is at one going into this year, that's the edge I'd want people to know about.",
+   "who": "Joren",
+   "year": 13
   }
  ],
  "memory_summary": "",
@@ -101,7 +108,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "male",
  "siblings": [
   "a014"
