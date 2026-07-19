@@ -2708,6 +2708,13 @@
    "text": "Kael gathers Esa, Ryn, Dell, Eron, Fina, Roan, Mako, Vela to talk.",
    "who": "Kael",
    "year": 12
+  },
+  {
+   "eid": "e004737",
+   "kind": "say",
+   "text": "Nessa and Zinn are dead and the pile is already moving \u2014 I want every person in this room to name their count out loud before anyone walks out, because last year we built two rules in ten voices and I'm not going to watch them die with those two.",
+   "who": "Kael",
+   "year": 12
   }
  ],
  "memory_summary": "",
