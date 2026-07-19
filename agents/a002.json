@@ -1,5 +1,5 @@
 {
- "actions_used_year": 8,
+ "actions_used_year": 9,
  "age": 57,
  "alive": true,
  "birth_year": 0,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 17,
+ "food": 16,
  "health": 1,
  "hp": 100,
  "id": "a002",
@@ -5345,6 +5345,13 @@
    "eid": "e004970",
    "kind": "pass",
    "text": "",
+   "who": "Vela",
+   "year": 13
+  },
+  {
+   "eid": "e004973",
+   "kind": "give",
+   "text": "Vela gives 1 food to Esa.",
    "who": "Vela",
    "year": 13
   }
