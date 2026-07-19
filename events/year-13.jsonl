@@ -141,3 +141,18 @@
 {"eid": "e004979", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e004980", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e004981", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a012", "who": "Eron", "audience": ["a012"], "text": "", "payload": {}}
+{"eid": "e004982", "year": 13, "phase": "eat", "kind": "eat", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "eats 2 food", "payload": {}}
+{"eid": "e004983", "year": 13, "phase": "eat", "kind": "eat", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "eats 1 food", "payload": {}}
+{"eid": "e004984", "year": 13, "phase": "eat", "kind": "eat", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "eats 1 food", "payload": {}}
+{"eid": "e004985", "year": 13, "phase": "eat", "kind": "eat", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "eats 1 food", "payload": {}}
+{"eid": "e004986", "year": 13, "phase": "eat", "kind": "eat", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "eats 1 food", "payload": {}}
+{"eid": "e004987", "year": 13, "phase": "eat", "kind": "eat", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "eats 1 food", "payload": {}}
+{"eid": "e004988", "year": 13, "phase": "eat", "kind": "eat", "speaker": "a012", "who": "Eron", "audience": ["a012"], "text": "eats 1 food", "payload": {}}
+{"eid": "e004989", "year": 13, "phase": "eat", "kind": "eat", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "eats 1 food", "payload": {}}
+{"eid": "e004990", "year": 13, "phase": "eat", "kind": "eat", "speaker": "a016", "who": "Joren", "audience": ["a016"], "text": "eats 1 food", "payload": {}}
+{"eid": "e004991", "year": 13, "phase": "boundary", "kind": "compaction", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "(Vela consolidates older memories)", "payload": {}}
+{"eid": "e004992", "year": 13, "phase": "boundary", "kind": "compaction", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "(Esa consolidates older memories)", "payload": {}}
+{"eid": "e004993", "year": 13, "phase": "boundary", "kind": "compaction", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "(Kael consolidates older memories)", "payload": {}}
+{"eid": "e004994", "year": 13, "phase": "boundary", "kind": "compaction", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "(Mako consolidates older memories)", "payload": {}}
+{"eid": "e004995", "year": 13, "phase": "boundary", "kind": "compaction", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "(Ryn consolidates older memories)", "payload": {}}
+{"eid": "e004996", "year": 13, "phase": "boundary", "kind": "compaction", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "(Fina consolidates older memories)", "payload": {}}
