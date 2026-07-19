@@ -2911,6 +2911,13 @@
    "text": "Esa, thirteen food and satiation \u2014 say the number, because what Kael just offered to do for you is a kindness dressed as a warning, and you don't want to find out how this room holds the difference between a count you gave and a count that was given for you.",
    "who": "Ryn",
    "year": 12
+  },
+  {
+   "eid": "e004766",
+   "kind": "say",
+   "text": "Esa, the whole room has said your number for you already and we're still waiting on you to say it yourself \u2014 that's the only thing left, and it costs you nothing to do it, so do it now before this circle decides what it means that you wouldn't.",
+   "who": "Mako",
+   "year": 12
   }
  ],
  "memory_summary": "",
