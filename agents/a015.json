@@ -2981,6 +2981,13 @@
    "text": "Dell's right that we hold it in seven now \u2014 and I want to name what that means before this circle walks out, because seven is not ten, and two of the voices we're missing were young enough that we shouldn't have lost them. Mako, take your two and eat, and then I want someone in this room to say plainly what we do differently next year so that sentence doesn't become six.",
    "who": "Vela",
    "year": 12
+  },
+  {
+   "eid": "e004776",
+   "kind": "say",
+   "text": "Vela's right that seven is not ten, and I've been sitting with that number since the names were said \u2014 what we do differently next year is we say the counts before the pile opens, not after someone's already standing at zero, because Dell should have been fed before she had to fight this room for it.",
+   "who": "Esa",
+   "year": 12
   }
  ],
  "memory_summary": "",
