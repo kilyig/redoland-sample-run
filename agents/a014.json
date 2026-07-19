@@ -5305,6 +5305,13 @@
    "text": "I hear you \u2014 and I've been sitting with it too, longer than I've let on, because she was feeding me right up until she wasn't. The circle holds, I'll make sure of it, but I need to know you're eating this year, Zinn, not giving every grain away the way she did.",
    "who": "Zinn",
    "year": 11
+  },
+  {
+   "eid": "e004674",
+   "kind": "give",
+   "text": "Eron gives 1 food to Ryn.",
+   "who": "Eron",
+   "year": 11
   }
  ],
  "memory_summary": "",
