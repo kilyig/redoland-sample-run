@@ -447,6 +447,13 @@
    "text": "Joren takes 3 from the pile (pile now 0).",
    "who": "Joren",
    "year": 14
+  },
+  {
+   "eid": "e005025",
+   "kind": "convo",
+   "text": "Fina gathers Roan, Eron, Joren to talk.",
+   "who": "Fina",
+   "year": 14
   }
  ],
  "memory_summary": "",
