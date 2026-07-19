@@ -2841,6 +2841,13 @@
    "text": "Esa, thirteen food is what every pair of eyes in this room counts when they look at you, so the silence isn't protecting anything \u2014 say the number out loud and let Dell move, because the pile's still at seven and we're burning time she doesn't have.",
    "who": "Mako",
    "year": 12
+  },
+  {
+   "eid": "e004756",
+   "kind": "say",
+   "text": "Esa, I'm at zero food and satiation one, which means I die if this year runs dry, and I've been waiting long enough \u2014 say the number or stand aside, because I'm going to the pile now.",
+   "who": "Dell",
+   "year": 12
   }
  ],
  "memory_summary": "",
