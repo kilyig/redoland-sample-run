@@ -545,6 +545,13 @@
    "text": "Roan, before you move those three to Joren's hand \u2014 what's your satiation sitting at right now, because I watched you go thin last year and I'd rather know you're eating before I let you pour yourself empty again on our account.",
    "who": "Fina",
    "year": 14
+  },
+  {
+   "eid": "e005039",
+   "kind": "say",
+   "text": "Satiation two, Fina \u2014 same as last year, same as the year before, and I'll eat before the year closes. Give me a moment to put three in Joren's hand and I'll be straight.",
+   "who": "Roan",
+   "year": 14
   }
  ],
  "memory_summary": "",
