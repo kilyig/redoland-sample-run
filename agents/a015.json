@@ -2253,6 +2253,13 @@
    "text": "Anyone holding more than five at year's end gives one to whoever holds least \u2014 I've already said it and I'll say it again so this room has heard it from every mouth. Eron named Sela and that sits with me too, because she gave me food when I was thin and now she's gone the same way Taric is, and both of them died feeding other people, and if that's not the whole reason we're building this rule then I don't know what is. Let's close this circle and go eat.",
    "who": "Vela",
    "year": 11
+  },
+  {
+   "eid": "e004633",
+   "kind": "say",
+   "text": "The second rule is said and I've said it \u2014 but before we walk out, I want this room to hear one more number plain: I've got twenty-one food and the rule says anyone over five gives one to whoever holds least, so tell me who that is right now and I'll give it before the circle breaks, not after.",
+   "who": "Eron",
+   "year": 11
   }
  ],
  "memory_summary": "",
