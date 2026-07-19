@@ -2890,6 +2890,13 @@
    "text": "Esa, I've held my tongue while this whole room said it and I'll be the last one to say it too \u2014 thirteen food, say it out loud, because Dell is already holding her three and the pile has four left and the circle doesn't close with your name still blank where a number should be.",
    "who": "Eron",
    "year": 12
+  },
+  {
+   "eid": "e004763",
+   "kind": "say",
+   "text": "Esa, I've said Bram's name in this room more times than I can count and I'll say one thing plain: the road from \"thirteen food and silence\" to being the name we carry into next year's circle is shorter than you think, and I'd rather not watch you find that out the way he did.",
+   "who": "Vela",
+   "year": 12
   }
  ],
  "memory_summary": "",
