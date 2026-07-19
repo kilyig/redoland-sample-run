@@ -2869,6 +2869,13 @@
    "text": "Dell's already at the pile and that's right \u2014 but Esa, when you're done standing there silent while a woman with one satiation walks past you, I want an answer, because thirteen food and a closed mouth is a choice, and this circle is old enough to know what that choice means.",
    "who": "Kael",
    "year": 12
+  },
+  {
+   "eid": "e004760",
+   "kind": "say",
+   "text": "Esa, I've got three food in my hand now and the pile has four left \u2014 say your number out loud before anyone else reaches, because I'm standing here and I'd rather not have to say your name the way this room said Bram's.",
+   "who": "Dell",
+   "year": 12
   }
  ],
  "memory_summary": "",
