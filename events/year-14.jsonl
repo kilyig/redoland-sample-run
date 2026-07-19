@@ -94,3 +94,4 @@
 {"eid": "e005090", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn gives 1 food to Mako.", "payload": {"target": "a008", "amount": 1}}
 {"eid": "e005091", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela gives 1 food to Esa.", "payload": {"target": "a003", "amount": 1}}
 {"eid": "e005092", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a015", "who": "Fina", "audience": "public", "text": "Fina gives 1 food to Joren.", "payload": {"target": "a016", "amount": 1}}
+{"eid": "e005093", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
