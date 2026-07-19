@@ -594,6 +594,13 @@
    "text": "Eron, two food is already in my hand moving toward yours \u2014 you've kept me breathing more years than I can count and I'm not walking out of this circle while you're thin. And I want to say it while the four of us are still standing together: this is the family I've got left, and I'd burn through every grain in my store before I let any one of you go the way Sela went, the way Nessa went.",
    "who": "Roan",
    "year": 14
+  },
+  {
+   "eid": "e005046",
+   "kind": "say",
+   "text": "Roan, take that food back \u2014 two I took from the pile this morning puts me at four and I can stand on four. Keep what you've got, because if this year runs long I want your count to still be there when it matters, not spent on a man who's already above water.",
+   "who": "Eron",
+   "year": 14
   }
  ],
  "memory_summary": "",
