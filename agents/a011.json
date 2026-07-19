@@ -7720,6 +7720,13 @@
    "text": "Two rules in the ground and three people moving to feed Nessa before the circle breaks \u2014 that's more than I had when I walked in here. I'll say the second rule same as everyone else: anyone holding more than five at year's end gives one to whoever holds least, and I'll hold to it. I'm at two food right now so the rule doesn't bite me today, but when it does I'll move the same way Eron just moved \u2014 before I'm asked.",
    "who": "Zinn",
    "year": 11
+  },
+  {
+   "eid": "e004639",
+   "kind": "say",
+   "text": "Anyone holding more than five at year's end gives one to whoever holds least \u2014 I've said it and I'll hold to it. Nessa, you've got three people moving to feed you right now and that's the circle doing what we built it for \u2014 eat before you say another word.",
+   "who": "Ryn",
+   "year": 11
   }
  ],
  "memory_summary": "",
