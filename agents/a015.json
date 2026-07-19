@@ -3086,6 +3086,13 @@
    "text": "Fina gives 1 food to Roan.",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004791",
+   "kind": "proposal",
+   "text": "Eron cannot offer a child to Fina: they are close kin.",
+   "who": "the village",
+   "year": 12
   }
  ],
  "memory_summary": "",
