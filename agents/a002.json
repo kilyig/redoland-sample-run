@@ -4689,6 +4689,13 @@
    "text": "Mako, take the two \u2014 and Vela, Roan, split the last two between you before anyone argues the math, because what I want this circle to hear before we walk out is this: we've got nine people alive today and fifteen food appeared for us, which means the pile was generous, and the thing that will kill us next year isn't scarcity, it's whether we hold what we built in ten voices last year with only seven.",
    "who": "Dell",
    "year": 12
+  },
+  {
+   "eid": "e004775",
+   "kind": "say",
+   "text": "Dell's right that we hold it in seven now \u2014 and I want to name what that means before this circle walks out, because seven is not ten, and two of the voices we're missing were young enough that we shouldn't have lost them. Mako, take your two and eat, and then I want someone in this room to say plainly what we do differently next year so that sentence doesn't become six.",
+   "who": "Vela",
+   "year": 12
   }
  ],
  "memory_summary": "Taric was the man I trusted most \u2014 fed me through lean years without being asked, stood at my shoulder every time Bram swung, and died starving while I was still standing. That debt I'll carry to my own grave.\n\nBram I spent food on for years, three times in one season once, trying to buy his neutrality \u2014 and it cost me standing in Kael's circle, who called me out for it openly and waited on my silence. I told myself it was diplomacy. He attacked me anyway, twice, and the village shut him down both times. He starved in year nine without ever answering a room that waited on him.\n\nDav took Ryn for a child and then raided Esa with Ryn and Dell at his side \u2014 that was the betrayal that told me what that household was. He starved too, eventually, and left Ryn and Dell to fend alone.\n\nMako planted himself in two households without saying a word to anyone \u2014 Zinn by Sela, and years of quiet feeding that bought him loyalty cheaper than a promise. I've watched that man count while everyone else talked.\n\nSela died this year. Taric died this year. The circle that once held twelve voices now holds fewer, and I'm the oldest woman left standing.\n\nKael I've wronged and been honest with and wronged again. He's still here and still counting. So am I.",
@@ -4697,7 +4704,7 @@
  "name": "Vela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [],
  "strength": 26,
