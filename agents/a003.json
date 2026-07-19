@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 54,
  "alive": true,
  "birth_year": 0,
@@ -1034,6 +1034,13 @@
    "kind": "take",
    "text": "Vela takes 2 from the pile (pile now 7).",
    "who": "Vela",
+   "year": 13
+  },
+  {
+   "eid": "e004854",
+   "kind": "convo",
+   "text": "Esa gathers Kael, Mako, Ryn, Roan, Eron, Fina to talk.",
+   "who": "Esa",
    "year": 13
   }
  ],
