@@ -699,6 +699,13 @@
    "text": "Eron gives 1 food to Esa.",
    "who": "Eron",
    "year": 14
+  },
+  {
+   "eid": "e005067",
+   "kind": "give",
+   "text": "Roan gives 2 food to Eron.",
+   "who": "Roan",
+   "year": 14
   }
  ],
  "memory_summary": "",
