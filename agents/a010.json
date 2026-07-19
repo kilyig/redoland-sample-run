@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 2,
  "health": 2,
  "hp": 100,
  "id": "a010",
@@ -2738,6 +2738,13 @@
    "kind": "take",
    "text": "Nessa takes 2 from the pile (pile now 0).",
    "who": "Nessa",
+   "year": 11
+  },
+  {
+   "eid": "e004657",
+   "kind": "give",
+   "text": "Eron gives 1 food to Roan.",
+   "who": "Eron",
    "year": 11
   }
  ],
