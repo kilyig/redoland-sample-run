@@ -2918,6 +2918,13 @@
    "text": "Esa, the whole room has said your number for you already and we're still waiting on you to say it yourself \u2014 that's the only thing left, and it costs you nothing to do it, so do it now before this circle decides what it means that you wouldn't.",
    "who": "Mako",
    "year": 12
+  },
+  {
+   "eid": "e004767",
+   "kind": "say",
+   "text": "Esa, thirteen food and the whole room staring at you \u2014 I've got nothing harder to say than what's already been said, so I'll just name the thing that hasn't been named yet: the silence itself is the answer, and this circle is old enough to read it.",
+   "who": "Eron",
+   "year": 12
   }
  ],
  "memory_summary": "",
