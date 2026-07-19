@@ -2806,6 +2806,13 @@
    "text": "Esa, Ryn \u2014 I'm at sixteen and I've already held my tongue twice waiting on you both, so I'll say it the way this circle earned the right to say it: name your count now or we move Dell to the pile and you two explain to the whole room why your silence cost her.",
    "who": "Eron",
    "year": 12
+  },
+  {
+   "eid": "e004751",
+   "kind": "say",
+   "text": "Fifteen food, satiation two \u2014 I'm not thin, and I'm not the one who reaches first today. Dell, you go to that pile now, take three, and don't wait on another word from me or anyone else.",
+   "who": "Ryn",
+   "year": 12
   }
  ],
  "memory_summary": "",
