@@ -5426,6 +5426,13 @@
    "text": "Roan, hold what you have \u2014 I mean it. And Nessa, I'll give you one more from my eight before this circle breaks, because two is surviving and three means you heal this year, and I'd rather go into the next year short one food and know you're standing than count my stores and wonder come spring.",
    "who": "Vela",
    "year": 11
+  },
+  {
+   "eid": "e004650",
+   "kind": "say",
+   "text": "Vela, that's three in my hand now and I'll remember it \u2014 but hold what you have left, because eight minus one and five back to the circle already puts you thin going into a long year, and I need you standing more than I need a fourth food tonight.",
+   "who": "Nessa",
+   "year": 11
   }
  ],
  "memory_summary": "",
@@ -5437,7 +5444,7 @@
   "a001"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [
   "a012",
