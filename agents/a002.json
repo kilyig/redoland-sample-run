@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 9,
+ "food": 10,
  "health": 1,
  "hp": 100,
  "id": "a002",
@@ -5210,6 +5210,13 @@
   },
   {
    "eid": "e004924",
+   "kind": "give",
+   "text": "Eron gives 1 food to Vela.",
+   "who": "Eron",
+   "year": 13
+  },
+  {
+   "eid": "e004926",
    "kind": "give",
    "text": "Eron gives 1 food to Vela.",
    "who": "Eron",
