@@ -2820,6 +2820,13 @@
    "text": "Esa, you're the only count missing now \u2014 say it, because Dell's already standing at the pile waiting and I want to know if you need to be standing there beside her before anyone else moves.",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004753",
+   "kind": "say",
+   "text": "Esa, say your count or step aside \u2014 Dell's at the pile and the rest of us are standing here watching you be the last silence in a room that's already buried two people for being quiet at the wrong time.",
+   "who": "Ryn",
+   "year": 12
   }
  ],
  "memory_summary": "",
