@@ -7839,6 +7839,13 @@
    "text": "Nessa takes 2 from the pile (pile now 0).",
    "who": "Nessa",
    "year": 11
+  },
+  {
+   "eid": "e004656",
+   "kind": "pass",
+   "text": "",
+   "who": "Dell",
+   "year": 11
   }
  ],
  "memory_summary": "",
