@@ -132,6 +132,13 @@
    "text": "Esa, twenty-three is a number this room can see plain as Joren can, and I'm not asking you to give it all away \u2014 but I'm sitting at four food and one satiation and I'd like to hear from your own mouth what you're carrying and whether you've thought about where any of it goes before the year runs long.",
    "who": "Vela",
    "year": 13
+  },
+  {
+   "eid": "e004908",
+   "kind": "say",
+   "text": "Esa, the number's already in the room \u2014 nobody's blaming you for holding what you held, but Vela just named her edge out loud and that took something, so it'd mean something if you named yours back.",
+   "who": "Joren",
+   "year": 13
   }
  ],
  "memory_summary": "",
@@ -143,7 +150,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "male",
  "siblings": [
   "a014"
