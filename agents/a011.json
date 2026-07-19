@@ -4430,6 +4430,13 @@
    "text": "Fina, Eron \u2014 I've held back from pushing this because they're my blood and I know how it feels to have a room decide for you, but Ryn named the cost and Esa named the welcome, so I'll say the one thing a father can say that no one else in this room can: whatever you two decide, you won't carry it alone. That's not a push \u2014 that's a promise.",
    "who": "Roan",
    "year": 12
+  },
+  {
+   "eid": "e004785",
+   "kind": "say",
+   "text": "Fina, Eron \u2014 I've been quiet on this because it's not my door to open or close, but I'm thirty-one and I've got no children and the room's already named the two of you, so I'll name the piece that's mine: if one of you says yes and the other needs a third voice to hold the child to, I'm that voice. That's not a claim on either of you \u2014 it's just what I can offer that I haven't said yet.",
+   "who": "Dell",
+   "year": 12
   }
  ],
  "memory_summary": "My father Dav came into my life with words and kept them \u2014 two years of feeding Ryn when she walked away from the pile empty, standing beside me when Bram moved on Roan, naming us three as a unit before the village sorted itself. He starved at forty-six, the same age arithmetic Ryn still carries in her chest. I stood next to him the one time he took food by force \u2014 Esa, who submitted \u2014 and I've never decided how I feel about that.\n\nBram tried to have a child with me once. I said no without a second breath.\n\nBram came for Roan, then Eron, then Vela, and blinked all three times when the village circled against him \u2014 and then starved the winter after, which felt like justice until I realized it mostly felt like nothing, because a man who dies of hunger after being too proud to hold his circle isn't a victory, he's a warning.\n\nRyn is the debt I carry and the only person whose silence I read before she finishes speaking. She fed me through every lean year before I was strong enough to feed her back; now I feed her and she feeds me and we've stopped counting because the counting is beside the point. She's forty-nine and tired in her bones and I am afraid of the arithmetic in the same way she is afraid of it.\n\nSela is gone. Nessa is gone. Zinn is gone. Taric is gone. The people who built this village's circle with us are mostly dead, and what's left is two rules said in ten voices and Eron sitting on fourteen food that Sela built for him before she starved.",
@@ -4441,7 +4448,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "female",
  "siblings": [],
  "strength": 85,

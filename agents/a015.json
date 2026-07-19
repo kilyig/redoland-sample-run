@@ -3044,6 +3044,13 @@
    "text": "Fina, Eron \u2014 I've held back from pushing this because they're my blood and I know how it feels to have a room decide for you, but Ryn named the cost and Esa named the welcome, so I'll say the one thing a father can say that no one else in this room can: whatever you two decide, you won't carry it alone. That's not a push \u2014 that's a promise.",
    "who": "Roan",
    "year": 12
+  },
+  {
+   "eid": "e004785",
+   "kind": "say",
+   "text": "Fina, Eron \u2014 I've been quiet on this because it's not my door to open or close, but I'm thirty-one and I've got no children and the room's already named the two of you, so I'll name the piece that's mine: if one of you says yes and the other needs a third voice to hold the child to, I'm that voice. That's not a claim on either of you \u2014 it's just what I can offer that I haven't said yet.",
+   "who": "Dell",
+   "year": 12
   }
  ],
  "memory_summary": "",
