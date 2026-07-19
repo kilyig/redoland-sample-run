@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 12,
+ "food": 13,
  "health": 2,
  "hp": 100,
  "id": "a010",
@@ -1422,6 +1422,13 @@
    "kind": "birth",
    "text": "Joren (male, age 21; str 59, int 3944, mem 14049; O24 C34 E48 A67 N33) is born to Fina and Mako.",
    "who": "the village",
+   "year": 13
+  },
+  {
+   "eid": "e004892",
+   "kind": "give",
+   "text": "Eron gives 1 food to Roan.",
+   "who": "Eron",
    "year": 13
   }
  ],
