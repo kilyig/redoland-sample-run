@@ -573,6 +573,13 @@
    "text": "I ate. Satiation's back to three and I can think straight again. Joren, here are your three \u2014 hold them close and don't let anyone in that room talk you into giving them away before year's end.",
    "who": "Roan",
    "year": 14
+  },
+  {
+   "eid": "e005043",
+   "kind": "say",
+   "text": "Joren, six food going into the year is what I wanted for you \u2014 hold that count and don't let anyone's thin face talk you below four, because you're twenty-two and new to this room and the first thing people learn when they're hungry is who gives without asking why. Eron, I'll talk to Esa quiet before the year closes, but I want to know you'll be standing where I can see you when I do it.",
+   "who": "Fina",
+   "year": 14
   }
  ],
  "memory_summary": "",
