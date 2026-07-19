@@ -2743,6 +2743,13 @@
    "text": "Dell, you're at zero with satiation one \u2014 you reach first, that's not a question. Ryn, say your count so we know who else goes before the rest of us, and anyone sitting above five holds back until the thin ones are fed.",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004742",
+   "kind": "say",
+   "text": "Five food in my hand and satiation at two \u2014 I'm not thin but I'm not flush, and I already took two from the pile so I'm holding back. Dell reaches first, and after Ryn says her count, I want to hear from Vela and Esa before anyone else touches what's left, because the dead we're carrying into this room had names we should have been saying louder before they went quiet.",
+   "who": "Roan",
+   "year": 12
   }
  ],
  "memory_summary": "",
