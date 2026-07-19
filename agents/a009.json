@@ -1,5 +1,5 @@
 {
- "actions_used_year": 3,
+ "actions_used_year": 4,
  "age": 51,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 9,
+ "food": 8,
  "health": 2,
  "hp": 100,
  "id": "a009",
@@ -1064,6 +1064,13 @@
    "kind": "give",
    "text": "Eron gives 1 food to Kael.",
    "who": "Eron",
+   "year": 14
+  },
+  {
+   "eid": "e005090",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Mako.",
+   "who": "Ryn",
    "year": 14
   }
  ],
