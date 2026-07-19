@@ -5314,6 +5314,13 @@
    "text": "The second rule is said and I've said it \u2014 but before we walk out, I want this room to hear one more number plain: I've got twenty-one food and the rule says anyone over five gives one to whoever holds least, so tell me who that is right now and I'll give it before the circle breaks, not after.",
    "who": "Eron",
    "year": 11
+  },
+  {
+   "eid": "e004634",
+   "kind": "say",
+   "text": "Nessa is holding nothing and she's blood through Sela \u2014 that's your answer, Eron, and anyone in this room who wants to argue the math can do it after she's fed.",
+   "who": "Mako",
+   "year": 11
   }
  ],
  "memory_summary": "",
