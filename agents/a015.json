@@ -2876,6 +2876,13 @@
    "text": "Esa, I've got three food in my hand now and the pile has four left \u2014 say your number out loud before anyone else reaches, because I'm standing here and I'd rather not have to say your name the way this room said Bram's.",
    "who": "Dell",
    "year": 12
+  },
+  {
+   "eid": "e004761",
+   "kind": "say",
+   "text": "Esa, thirteen food is not a secret and this room isn't asking because we don't know \u2014 we're asking because the rule we built says you say it out loud, and Dell just moved to the pile while you stood there quiet, and I won't let that sit without naming it the same way this circle named Vela's seven.",
+   "who": "Mako",
+   "year": 12
   }
  ],
  "memory_summary": "",
