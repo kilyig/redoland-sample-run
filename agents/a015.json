@@ -2344,6 +2344,13 @@
    "text": "Fina named it right \u2014 count I go to sleep with might still be there in the morning. I've got nothing to eat tonight and satiation that won't carry me through a dry year, so I'm asking plain while this room is still whole: Eron, give me that food now, not when you get around to it.",
    "who": "Nessa",
    "year": 11
+  },
+  {
+   "eid": "e004646",
+   "kind": "say",
+   "text": "Nessa, I gave one and Fina gave one \u2014 that's two in your hand, which means you eat tonight. Roan, Vela's right, you keep yours. This circle just did in one afternoon what eleven years couldn't, and I want to walk out of here while that's still true.",
+   "who": "Esa",
+   "year": 11
   }
  ],
  "memory_summary": "",
