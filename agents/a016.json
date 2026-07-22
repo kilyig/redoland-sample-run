@@ -902,6 +902,13 @@
    "text": "Roan gives 2 food to Eron.",
    "who": "Roan",
    "year": 14
+  },
+  {
+   "eid": "e005120",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Fina.",
+   "who": "Ryn",
+   "year": 14
   }
  ],
  "memory_summary": "",
