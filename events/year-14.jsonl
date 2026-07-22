@@ -138,3 +138,4 @@
 {"eid": "e005134", "year": 14, "phase": "convo", "kind": "convo", "speaker": "a008", "who": "Mako", "audience": ["a008", "a016"], "text": "Mako gathers Joren to talk.", "payload": {}}
 {"eid": "e005135", "year": 14, "phase": "convo", "kind": "say", "speaker": "a008", "who": "Mako", "audience": ["a008", "a016"], "text": "Joren, you took three from the pile and I didn't say a word against it in that room \u2014 you're my son and I'm not going to count your food against you \u2014 but I want to hear it from your mouth: what's your satiation, and what's your plan for the year?", "payload": {}}
 {"eid": "e005136", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e005137", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
