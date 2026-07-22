@@ -135,3 +135,4 @@
 {"eid": "e005131", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e005132", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a012", "who": "Eron", "audience": ["a012"], "text": "", "payload": {}}
 {"eid": "e005133", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "", "payload": {}}
+{"eid": "e005134", "year": 14, "phase": "convo", "kind": "convo", "speaker": "a008", "who": "Mako", "audience": ["a008", "a016"], "text": "Mako gathers Joren to talk.", "payload": {}}
