@@ -853,6 +853,13 @@
    "text": "Fina gives 1 food to Joren.",
    "who": "Fina",
    "year": 14
+  },
+  {
+   "eid": "e005104",
+   "kind": "give",
+   "text": "Vela gives 1 food to Esa.",
+   "who": "Vela",
+   "year": 14
   }
  ],
  "memory_summary": "",
