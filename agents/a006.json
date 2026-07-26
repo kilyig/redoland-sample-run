@@ -7433,6 +7433,13 @@
    "text": "Roan, go to Fina before the pile moves again \u2014 but go as her father, not as a man recruiting, because she'll hear the difference. And Kael, the three of us standing visible is right, but I want Vela and Esa in that picture too, because five is a number Bram counts differently than three.",
    "who": "Taric",
    "year": 9
+  },
+  {
+   "eid": "e003895",
+   "kind": "say",
+   "text": "Taric's right \u2014 five is better than three, so after you've talked to Fina, Roan, I'll pull Esa and Vela in and we stand at the pile together before the sun drops, just long enough for Bram to do his counting. But I want to say this once and not again: if Vela's loyalties are still split the way they've been, her standing with us makes the circle look bigger and feel thinner, and I'd rather know which it is before I lean on her in a fight.",
+   "who": "Kael",
+   "year": 9
   }
  ],
  "memory_summary": "",
