@@ -5690,6 +5690,13 @@
    "text": "Roan, you've given food to Eron and Sela and Fina all year without being asked \u2014 that's not a silent man, that's a man who speaks in food, and this circle already knows which side you're on. But Bram needs the words and so do I, because what we're building here has to hold when the moment's loud and fast, not just when it's quiet like this.",
    "who": "Vela",
    "year": 9
+  },
+  {
+   "eid": "e003971",
+   "kind": "say",
+   "text": "Roan, I've watched you feed your daughter three times this year and stand in the line against Bram without being asked \u2014 that's already the answer Bram's looking for, and I think you know it. Say it out loud so we can all walk out of here carrying the same weight.",
+   "who": "Esa",
+   "year": 9
   }
  ],
  "memory_summary": "",
