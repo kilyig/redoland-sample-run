@@ -3198,6 +3198,13 @@
    "text": "Roan gives 1 food to Fina.",
    "who": "Roan",
    "year": 9
+  },
+  {
+   "eid": "e004025",
+   "kind": "convo",
+   "text": "Mako gathers Zinn to talk.",
+   "who": "Mako",
+   "year": 9
   }
  ],
  "memory_summary": "",
