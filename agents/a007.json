@@ -6107,6 +6107,13 @@
    "text": "Roan's a man who fed Eron for years without being asked, so I don't think the bridge rots \u2014 but Eron isn't here to tend it anymore, and that means one of us has to. Nessa, you're the one he'd listen to; Fina is Roan's own blood through you, which is a stronger claim than anything I can offer him. Go to him before the day's out and let him know you're counting him as family, because right now grief makes people hold tight to what's theirs.",
    "who": "Sela",
    "year": 9
+  },
+  {
+   "eid": "e003909",
+   "kind": "say",
+   "text": "Sela's right, Nessa \u2014 Fina's the thread that keeps Roan inside our circle whether he knows it or not, so go to him soon, and when you do, don't make it sound like business. What I want said here before we scatter: the three of us are the wall now, and I won't let Eron's death shrink us down to two or one.",
+   "who": "Zinn",
+   "year": 9
   }
  ],
  "memory_summary": "",
