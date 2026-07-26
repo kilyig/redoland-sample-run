@@ -55,3 +55,4 @@
 {"eid": "e003936", "year": 9, "phase": "scramble", "kind": "take", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela takes 2 from the pile (pile now 4).", "payload": {"amount": 2}}
 {"eid": "e003937", "year": 9, "phase": "scramble", "kind": "take", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela takes 2 from the pile (pile now 2).", "payload": {"amount": 2}}
 {"eid": "e003938", "year": 9, "phase": "scramble", "kind": "take", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell takes 2 from the pile (pile now 0).", "payload": {"amount": 2}}
+{"eid": "e003939", "year": 9, "phase": "convo", "kind": "convo", "speaker": "a009", "who": "Ryn", "audience": ["a009", "a011"], "text": "Ryn gathers Dell to talk.", "payload": {}}
