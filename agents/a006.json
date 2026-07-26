@@ -7573,6 +7573,13 @@
    "text": "Vela's named it cleaner than I could, so I'll only add this: Bram, Nessa calls you father in everything but word \u2014 I've watched you feed her twice this year when you didn't have to, and that's a man with something to protect, not just something to take. That's the version of you Vela's asking about, and it's the one I could work with.",
    "who": "Esa",
    "year": 9
+  },
+  {
+   "eid": "e003962",
+   "kind": "say",
+   "text": "Bram, I'll say what Vela and Esa are circling around but haven't quite landed on: you've got a daughter in Nessa and she's got a daughter in Fina, which means you're already a grandfather whether this village names it or not, and that bloodline needs you standing, not swinging at walls until someone finally calls your bluff. What I want to offer you is simple \u2014 a place in this circle that costs you nothing but the next swing \u2014 and what I want in return is equally simple: when Mako decides his two children are enough to make his own rules, you stand with us before we have to ask.",
+   "who": "Taric",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -7581,7 +7588,7 @@
  "name": "Taric",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "male",
  "siblings": [],
  "strength": 38,
