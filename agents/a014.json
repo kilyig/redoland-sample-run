@@ -3142,6 +3142,13 @@
    "text": "Nessa's feeding Fina now and Bram's still coming to her with food even after two calls-off \u2014 she's not as alone as she looks, but Roan lost his main tie and he's the one I'd watch. A man who fed Eron that many times and has nothing to show for it is either about to go quiet and careful, or he's going to start building something new, and I'd rather know which before he decides.",
    "who": "Mako",
    "year": 9
+  },
+  {
+   "eid": "e004012",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Fina.",
+   "who": "Nessa",
+   "year": 9
   }
  ],
  "memory_summary": "",
