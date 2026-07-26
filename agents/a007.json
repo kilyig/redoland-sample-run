@@ -6149,6 +6149,13 @@
    "text": "Esa takes 2 from the pile (pile now 15).",
    "who": "Esa",
    "year": 9
+  },
+  {
+   "eid": "e003915",
+   "kind": "pass",
+   "text": "",
+   "who": "Sela",
+   "year": 9
   }
  ],
  "memory_summary": "",
