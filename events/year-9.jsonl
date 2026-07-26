@@ -17,3 +17,4 @@
 {"eid": "e003898", "year": 9, "phase": "scramble", "kind": "take", "speaker": "a006", "who": "Taric", "audience": "public", "text": "Taric takes 2 from the pile (pile now 19).", "payload": {"amount": 2}}
 {"eid": "e003899", "year": 9, "phase": "scramble", "kind": "take", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela takes 2 from the pile (pile now 17).", "payload": {"amount": 2}}
 {"eid": "e003900", "year": 9, "phase": "convo", "kind": "convo", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a007", "a013"], "text": "Zinn gathers Sela, Nessa to talk.", "payload": {}}
+{"eid": "e003901", "year": 9, "phase": "convo", "kind": "say", "speaker": "a014", "who": "Zinn", "audience": ["a014", "a007", "a013"], "text": "Eron's gone and I don't have words for it yet, but I need us to keep breathing \u2014 Nessa, what are you holding, and Sela, I want to know before anyone else moves on that pile whether you got enough.", "payload": {}}

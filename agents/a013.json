@@ -3599,6 +3599,13 @@
    "text": "Zinn gathers Sela, Nessa to talk.",
    "who": "Zinn",
    "year": 9
+  },
+  {
+   "eid": "e003901",
+   "kind": "say",
+   "text": "Eron's gone and I don't have words for it yet, but I need us to keep breathing \u2014 Nessa, what are you holding, and Sela, I want to know before anyone else moves on that pile whether you got enough.",
+   "who": "Zinn",
+   "year": 9
   }
  ],
  "memory_summary": "",
