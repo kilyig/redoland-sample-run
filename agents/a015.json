@@ -902,6 +902,13 @@
    "text": "Bram gives 1 food to Nessa.",
    "who": "Bram",
    "year": 9
+  },
+  {
+   "eid": "e004070",
+   "kind": "pass",
+   "text": "",
+   "who": "Fina",
+   "year": 9
   }
  ],
  "memory_summary": "",
