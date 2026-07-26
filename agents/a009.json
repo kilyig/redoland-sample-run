@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 8,
+ "food": 9,
  "health": 2,
  "hp": 100,
  "id": "a009",
@@ -2037,6 +2037,13 @@
    "kind": "pass",
    "text": "",
    "who": "Ryn",
+   "year": 9
+  },
+  {
+   "eid": "e004103",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
    "year": 9
   }
  ],
