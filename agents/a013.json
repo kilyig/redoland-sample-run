@@ -3718,6 +3718,13 @@
    "text": "Mako takes 3 from the pile (pile now 6).",
    "who": "Mako",
    "year": 9
+  },
+  {
+   "eid": "e003922",
+   "kind": "convo",
+   "text": "Fina gathers Roan, Nessa to talk.",
+   "who": "Fina",
+   "year": 9
   }
  ],
  "memory_summary": "",
