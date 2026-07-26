@@ -7370,6 +7370,13 @@
    "text": "Kael gathers Roan, Taric to talk.",
    "who": "Kael",
    "year": 9
+  },
+  {
+   "eid": "e003886",
+   "kind": "say",
+   "text": "Roan, I saw you take three from the pile before the dust settled \u2014 good, hold onto it \u2014 but I need both of you to hear this before anyone else starts moving: Eron's gone, and that changes Bram's math, because the man just watched his first test fail twice and now the strongest defender on his list is dead. We need to decide right now whether we're sitting quiet or whether we're visible enough that he thinks twice about a third try.",
+   "who": "Kael",
+   "year": 9
   }
  ],
  "memory_summary": "",
