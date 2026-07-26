@@ -615,6 +615,13 @@
    "text": "Mako took three from the pile this morning, so he's not at zero anymore \u2014 but three doesn't explain his strength, and a man who moves that fast when the pile opens is a man who already knew what he was going to do before the year started. Roan, keep your three food close and your face easy.",
    "who": "Nessa",
    "year": 9
+  },
+  {
+   "eid": "e003936",
+   "kind": "take",
+   "text": "Vela takes 2 from the pile (pile now 4).",
+   "who": "Vela",
+   "year": 9
   }
  ],
  "memory_summary": "",
