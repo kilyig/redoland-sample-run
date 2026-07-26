@@ -5879,6 +5879,13 @@
    "text": "",
    "who": "Vela",
    "year": 9
+  },
+  {
+   "eid": "e004021",
+   "kind": "give",
+   "text": "Zinn gives 1 food to Nessa.",
+   "who": "Zinn",
+   "year": 9
   }
  ],
  "memory_summary": "",
