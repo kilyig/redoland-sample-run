@@ -6282,6 +6282,13 @@
    "text": "Zinn gives 1 food to Nessa.",
    "who": "Zinn",
    "year": 9
+  },
+  {
+   "eid": "e004004",
+   "kind": "pass",
+   "text": "",
+   "who": "Sela",
+   "year": 9
   }
  ],
  "memory_summary": "",
