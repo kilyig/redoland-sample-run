@@ -3557,6 +3557,13 @@
    "text": "Year 9: 27 food appears in the pile for 13 people (12 of it left by those who passed last year).",
    "who": "the village",
    "year": 9
+  },
+  {
+   "eid": "e003883",
+   "kind": "take",
+   "text": "Roan takes 3 from the pile (pile now 24).",
+   "who": "Roan",
+   "year": 9
   }
  ],
  "memory_summary": "",
