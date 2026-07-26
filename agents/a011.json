@@ -5970,6 +5970,13 @@
    "text": "I hear you, and I'll hold to it \u2014 I eat first, before anything leaves my hands. Five going into the year with two satiation is thin enough that I can't afford to be generous and I know it. What I want to say before we close this is that you're the reason I'm still here to say it, and I won't forget that when the year gets hard.",
    "who": "Ryn",
    "year": 9
+  },
+  {
+   "eid": "e003943",
+   "kind": "say",
+   "text": "That means something to me \u2014 more than I'll probably say out loud again. Now let's talk about Bram, because he took three from a pile that gave everyone more than usual and he's still breathing down Roan's neck, and I want to know if you think Fina changes what Roan's willing to risk this year.",
+   "who": "Dell",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -5981,7 +5988,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "female",
  "siblings": [],
  "strength": 85,
