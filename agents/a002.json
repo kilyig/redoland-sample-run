@@ -5725,6 +5725,13 @@
    "text": "Roan, the room's not asking you for a speech \u2014 one word will do, and I'll take it. But if you stay silent, I'm still counting you in when Mako moves, because Fina's your daughter and that means you're already past the line whether you say it or not.",
    "who": "Bram",
    "year": 9
+  },
+  {
+   "eid": "e003976",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 9
   }
  ],
  "memory_summary": "",
