@@ -5669,6 +5669,13 @@
    "text": "Bram, I'll hold you to that word and I won't forget which room you said it in \u2014 and I want Roan to hear me say the same back: Fina's your blood and mine to protect, and the only thing Mako's two lines have over us is that he started counting sooner. We're counting now.",
    "who": "Taric",
    "year": 9
+  },
+  {
+   "eid": "e003968",
+   "kind": "say",
+   "text": "Roan's been quiet through all of this and he's Fina's father \u2014 I want to hear him say out loud that he's counting with us before I leave this room, because a man who holds his tongue when his daughter's blood is on the table is a question I'd rather answer now than when it matters.",
+   "who": "Bram",
+   "year": 9
   }
  ],
  "memory_summary": "",
