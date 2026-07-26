@@ -3676,6 +3676,13 @@
    "text": "Go, Sela \u2014 and take three, not two, because this year isn't the year to be modest. When you're back I'll say everything I know about Mako, which is more than I've said out loud yet.",
    "who": "Zinn",
    "year": 9
+  },
+  {
+   "eid": "e003912",
+   "kind": "say",
+   "text": "I'm back \u2014 I took two, not three, because Roan and Zinn already pulled six between them this morning and I don't want to be the name people say when the pile runs short. Now talk to me about Mako, Zinn, because I've been carrying that question since before Eron died and I'm not putting it down any longer.",
+   "who": "Sela",
+   "year": 9
   }
  ],
  "memory_summary": "",
