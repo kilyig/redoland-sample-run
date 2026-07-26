@@ -6023,6 +6023,13 @@
    "text": "Dell gives 2 food to Ryn.",
    "who": "Dell",
    "year": 9
+  },
+  {
+   "eid": "e003897",
+   "kind": "take",
+   "text": "Zinn takes 3 from the pile (pile now 21).",
+   "who": "Zinn",
+   "year": 9
   }
  ],
  "memory_summary": "",

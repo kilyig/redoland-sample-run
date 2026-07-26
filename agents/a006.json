@@ -7447,6 +7447,13 @@
    "text": "Kael, I've watched Vela hold this circle through harder years than this one \u2014 she fed Bram, yes, but she also stood with us when he swung, and I'd rather test her loyalty by standing next to her at the pile than by sitting in a corner deciding she's soft. Bring her in. If she breaks, we'll know it before it costs us, and if she holds, we're five instead of three.",
    "who": "Roan",
    "year": 9
+  },
+  {
+   "eid": "e003897",
+   "kind": "take",
+   "text": "Zinn takes 3 from the pile (pile now 21).",
+   "who": "Zinn",
+   "year": 9
   }
  ],
  "memory_summary": "",
