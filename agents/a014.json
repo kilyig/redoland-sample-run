@@ -3030,6 +3030,13 @@
    "text": "I'm eating steady \u2014 three food and satiation's not low, so don't worry about me going thin. What I want to know is who fills the gap Eron left, because Roan and Nessa both leaned on him hard and now they're going to be looking at this village differently.",
    "who": "Mako",
    "year": 9
+  },
+  {
+   "eid": "e003981",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 9
   }
  ],
  "memory_summary": "",
