@@ -99,3 +99,4 @@
 {"eid": "e003980", "year": 9, "phase": "convo", "kind": "say", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "I'm eating steady \u2014 three food and satiation's not low, so don't worry about me going thin. What I want to know is who fills the gap Eron left, because Roan and Nessa both leaned on him hard and now they're going to be looking at this village differently.", "payload": {}}
 {"eid": "e003981", "year": 9, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 1 food to Ryn.", "payload": {"target": "a009", "amount": 1}}
 {"eid": "e003982", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
+{"eid": "e003983", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
