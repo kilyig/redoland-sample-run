@@ -5510,6 +5510,13 @@
    "text": "Taric gives 1 food to Vela.",
    "who": "Taric",
    "year": 9
+  },
+  {
+   "eid": "e003991",
+   "kind": "give",
+   "text": "Sela gives 1 food to Nessa.",
+   "who": "Sela",
+   "year": 9
   }
  ],
  "memory_summary": "",
