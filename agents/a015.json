@@ -594,6 +594,13 @@
    "text": "Agreed \u2014 my count stays in this room. Nessa, go to Ryn soon, before the year settles and people stop talking freely; the days right after a death are when people say true things. And Roan, if Bram approaches you before she gets back, give him nothing \u2014 not warmth, not distance, just ordinary.",
    "who": "Fina",
    "year": 9
+  },
+  {
+   "eid": "e003933",
+   "kind": "say",
+   "text": "Roan, one more thing before I go \u2014 if Mako comes to you with anything while I'm with Ryn, don't answer him without me, because he's got zero food and eighty-three strength and a daughter who's counting on him, and that combination doesn't stay quiet for long.",
+   "who": "Nessa",
+   "year": 9
   }
  ],
  "memory_summary": "",
