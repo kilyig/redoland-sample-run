@@ -3669,6 +3669,13 @@
    "text": "The three of us are the wall \u2014 I hear that, Zinn, and I'm holding it. I'm going to the pile now, and when I'm back we're going to talk about Mako, because a man who fathered you and took five without a word to anyone is a man who's decided this year is different, and I want us ready before he decides what different means.",
    "who": "Sela",
    "year": 9
+  },
+  {
+   "eid": "e003911",
+   "kind": "say",
+   "text": "Go, Sela \u2014 and take three, not two, because this year isn't the year to be modest. When you're back I'll say everything I know about Mako, which is more than I've said out loud yet.",
+   "who": "Zinn",
+   "year": 9
   }
  ],
  "memory_summary": "",
