@@ -94,3 +94,4 @@
 {"eid": "e003975", "year": 9, "phase": "convo", "kind": "say", "speaker": "a001", "who": "Bram", "audience": ["a002", "a003", "a006", "a001", "a010"], "text": "Roan, the room's not asking you for a speech \u2014 one word will do, and I'll take it. But if you stay silent, I'm still counting you in when Mako moves, because Fina's your daughter and that means you're already past the line whether you say it or not.", "payload": {}}
 {"eid": "e003976", "year": 9, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 1 food to Ryn.", "payload": {"target": "a009", "amount": 1}}
 {"eid": "e003977", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
+{"eid": "e003978", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a014", "who": "Zinn", "audience": ["a014"], "text": "", "payload": {}}
