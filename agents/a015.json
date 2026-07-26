@@ -643,6 +643,13 @@
    "text": "Nessa gathers Fina, Roan to talk.",
    "who": "Nessa",
    "year": 9
+  },
+  {
+   "eid": "e003954",
+   "kind": "say",
+   "text": "Pile's gone and I've got six food \u2014 that's enough, but not comfortable, and I want the three of us to stay in the same picture before anyone else starts drawing us into theirs. Roan, I meant what I said about Mako: he moved fast, he took three, and a man with his strength who's still short on food doesn't wait quietly for long. Fina, you're my blood and you've got five \u2014 don't give any of it away today, not until we know who else is counting.",
+   "who": "Nessa",
+   "year": 9
   }
  ],
  "memory_summary": "",
