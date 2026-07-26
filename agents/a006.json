@@ -7622,6 +7622,13 @@
    "text": "Roan's been quiet through all of this and he's Fina's father \u2014 I want to hear him say out loud that he's counting with us before I leave this room, because a man who holds his tongue when his daughter's blood is on the table is a question I'd rather answer now than when it matters.",
    "who": "Bram",
    "year": 9
+  },
+  {
+   "eid": "e003969",
+   "kind": "say",
+   "text": "Roan, Bram's asking the right thing and so am I \u2014 Fina's your blood and this circle's committed to her, and all we need from you is one word that puts you on the same side of that line before this room closes.",
+   "who": "Esa",
+   "year": 9
   }
  ],
  "memory_summary": "",
