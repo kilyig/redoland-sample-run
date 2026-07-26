@@ -4271,6 +4271,13 @@
    "text": "Mako gathers Zinn to talk.",
    "who": "Mako",
    "year": 9
+  },
+  {
+   "eid": "e004026",
+   "kind": "say",
+   "text": "Roan's building something \u2014 he's already given Fina two food this year and Fina came from Nessa, so he's not mourning Eron, he's replacing the tie. Watch whether Nessa starts giving back to Roan the way she gave to Eron, because if that loop closes, those three become a knot and Bram's on the outside of it.",
+   "who": "Mako",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -4279,7 +4286,7 @@
  "name": "Mako",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [],
  "strength": 83,
