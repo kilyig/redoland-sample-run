@@ -6086,6 +6086,13 @@
    "text": "Nessa, six with Fina is thin \u2014 I can spare you one or two before year-end, and we'll sort out the exact count once Sela's back from the pile. What I want to name right now while it's just us three is that Eron's food doesn't vanish with him; whoever he was holding for, we need to know where it landed before someone else starts counting it as theirs.",
    "who": "Zinn",
    "year": 9
+  },
+  {
+   "eid": "e003906",
+   "kind": "say",
+   "text": "Eron's food went where Eron's heart went \u2014 to Roan, mostly, and I watched it leave his hands a dozen times over. What I don't know is whether Roan's counting it as his own now or whether he'd give some back to blood, and that's the question I want answered before Bram starts doing the same arithmetic.",
+   "who": "Sela",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -6094,7 +6101,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [],
  "strength": 73,
