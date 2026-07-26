@@ -5641,6 +5641,13 @@
    "text": "Taric's said the whole thing \u2014 Mako's the shape this village is growing into whether we name it or not, and Bram, you're not the problem anymore, you're the counter-weight, if you choose to be. Nessa and Fina are your blood running forward and Mako's already got two lines of his own; the arithmetic on that only gets harder if you're standing outside this room when it tips. So tell me plainly: are you in, or are you still deciding?",
    "who": "Vela",
    "year": 9
+  },
+  {
+   "eid": "e003964",
+   "kind": "say",
+   "text": "Bram, Vela and Taric have laid the whole table out for you, and I'm sitting here quiet because I don't think you need more words \u2014 I think you need a moment to let it settle that the people asking you in are the same people who stood against you, which means they're not afraid of you, which means they're choosing you. That's a different thing than being cornered.",
+   "who": "Esa",
+   "year": 9
   }
  ],
  "memory_summary": "",
