@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 53,
  "alive": true,
  "birth_year": 0,
@@ -1944,6 +1944,13 @@
    "kind": "give",
    "text": "Dell gives 2 food to Ryn.",
    "who": "Dell",
+   "year": 9
+  },
+  {
+   "eid": "e003885",
+   "kind": "convo",
+   "text": "Kael gathers Roan, Taric to talk.",
+   "who": "Kael",
    "year": 9
   }
  ],

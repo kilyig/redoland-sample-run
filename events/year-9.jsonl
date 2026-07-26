@@ -1,3 +1,4 @@
 {"eid": "e003882", "year": 9, "phase": "setup", "kind": "narrate", "speaker": "village", "who": "the village", "audience": "public", "text": "Year 9: 27 food appears in the pile for 13 people (12 of it left by those who passed last year).", "payload": {}}
 {"eid": "e003883", "year": 9, "phase": "scramble", "kind": "take", "speaker": "a010", "who": "Roan", "audience": "public", "text": "Roan takes 3 from the pile (pile now 24).", "payload": {"amount": 3}}
 {"eid": "e003884", "year": 9, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 2 food to Ryn.", "payload": {"target": "a009", "amount": 2}}
+{"eid": "e003885", "year": 9, "phase": "convo", "kind": "convo", "speaker": "a004", "who": "Kael", "audience": ["a004", "a010", "a006"], "text": "Kael gathers Roan, Taric to talk.", "payload": {}}
