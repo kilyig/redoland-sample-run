@@ -5321,6 +5321,13 @@
    "text": "Dell takes 2 from the pile (pile now 0).",
    "who": "Dell",
    "year": 9
+  },
+  {
+   "eid": "e003957",
+   "kind": "convo",
+   "text": "Vela gathers Esa, Taric, Bram, Roan to talk.",
+   "who": "Vela",
+   "year": 9
   }
  ],
  "memory_summary": "",
