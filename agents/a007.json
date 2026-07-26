@@ -6135,6 +6135,13 @@
    "text": "I'm back \u2014 I took two, not three, because Roan and Zinn already pulled six between them this morning and I don't want to be the name people say when the pile runs short. Now talk to me about Mako, Zinn, because I've been carrying that question since before Eron died and I'm not putting it down any longer.",
    "who": "Sela",
    "year": 9
+  },
+  {
+   "eid": "e003913",
+   "kind": "say",
+   "text": "Zinn, say what you know \u2014 but Sela, before she does, I want to name the thing I've been sitting with since this morning: Mako has zero food right now and eighty-three strength, and a man who comes up empty after a big pile year didn't lose it, he moved it somewhere, and I want to know where before we talk about what he's decided.",
+   "who": "Nessa",
+   "year": 9
   }
  ],
  "memory_summary": "",
