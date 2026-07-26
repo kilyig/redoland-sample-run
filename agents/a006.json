@@ -7608,6 +7608,13 @@
    "text": "Bram, that's the easiest price I've heard in nine years, and I'd have paid it without being asked. Nessa and Fina stand with the rest of the blood we're trying to keep running \u2014 that's not a concession, that's the whole point of this room.",
    "who": "Esa",
    "year": 9
+  },
+  {
+   "eid": "e003967",
+   "kind": "say",
+   "text": "Bram, I'll hold you to that word and I won't forget which room you said it in \u2014 and I want Roan to hear me say the same back: Fina's your blood and mine to protect, and the only thing Mako's two lines have over us is that he started counting sooner. We're counting now.",
+   "who": "Taric",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -7616,7 +7623,7 @@
  "name": "Taric",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "male",
  "siblings": [],
  "strength": 38,
