@@ -166,3 +166,4 @@
 {"eid": "e004047", "year": 9, "phase": "convo", "kind": "say", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "Bram's outside that knot and he knows it \u2014 two call-offs in front of the whole village and nobody moved to his side either time, so he's got food and no weight behind him. That's a man who's going to start making himself useful to someone just to have a name at his back, and I'd rather it not be ours.", "payload": {}}
 {"eid": "e004048", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e004049", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e004050", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
