@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 53,
  "alive": true,
  "birth_year": 0,
@@ -7488,6 +7488,13 @@
    "kind": "take",
    "text": "Fina takes 3 from the pile (pile now 9).",
    "who": "Fina",
+   "year": 9
+  },
+  {
+   "eid": "e003918",
+   "kind": "convo",
+   "text": "Taric gathers Bram, Kael to talk.",
+   "who": "Taric",
    "year": 9
   }
  ],

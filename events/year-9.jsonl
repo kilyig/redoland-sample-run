@@ -34,3 +34,4 @@
 {"eid": "e003915", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e003916", "year": 9, "phase": "scramble", "kind": "take", "speaker": "a001", "who": "Bram", "audience": "public", "text": "Bram takes 3 from the pile (pile now 12).", "payload": {"amount": 3}}
 {"eid": "e003917", "year": 9, "phase": "scramble", "kind": "take", "speaker": "a015", "who": "Fina", "audience": "public", "text": "Fina takes 3 from the pile (pile now 9).", "payload": {"amount": 3}}
+{"eid": "e003918", "year": 9, "phase": "convo", "kind": "convo", "speaker": "a006", "who": "Taric", "audience": ["a006", "a001", "a004"], "text": "Taric gathers Bram, Kael to talk.", "payload": {}}
