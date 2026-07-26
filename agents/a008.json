@@ -4250,6 +4250,13 @@
    "text": "Zinn gives 1 food to Nessa.",
    "who": "Zinn",
    "year": 9
+  },
+  {
+   "eid": "e004023",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Fina.",
+   "who": "Nessa",
+   "year": 9
   }
  ],
  "memory_summary": "",
