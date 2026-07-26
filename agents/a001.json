@@ -5293,6 +5293,13 @@
    "text": "I'm looking for a door. What I want to know is whether you're offering to show me one, or just asking the question to see what I say.",
    "who": "Bram",
    "year": 9
+  },
+  {
+   "eid": "e003921",
+   "kind": "take",
+   "text": "Mako takes 3 from the pile (pile now 6).",
+   "who": "Mako",
+   "year": 9
   }
  ],
  "memory_summary": "",
