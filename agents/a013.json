@@ -3802,6 +3802,13 @@
    "text": "Roan, one more thing before I go \u2014 if Mako comes to you with anything while I'm with Ryn, don't answer him without me, because he's got zero food and eighty-three strength and a daughter who's counting on him, and that combination doesn't stay quiet for long.",
    "who": "Nessa",
    "year": 9
+  },
+  {
+   "eid": "e003934",
+   "kind": "say",
+   "text": "Nessa's right about Mako \u2014 zero food and that kind of strength is a man who's already doing the math on his neighbors, so Roan, if he comes to you before she's back, be ordinary but be watching what he asks first. I'll keep my five quiet and stay close to this house today.",
+   "who": "Fina",
+   "year": 9
   }
  ],
  "memory_summary": "",
