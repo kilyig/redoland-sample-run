@@ -5977,6 +5977,13 @@
    "text": "That means something to me \u2014 more than I'll probably say out loud again. Now let's talk about Bram, because he took three from a pile that gave everyone more than usual and he's still breathing down Roan's neck, and I want to know if you think Fina changes what Roan's willing to risk this year.",
    "who": "Dell",
    "year": 9
+  },
+  {
+   "eid": "e003944",
+   "kind": "say",
+   "text": "Fina changes everything about Roan's calculus \u2014 a man with a newborn daughter doesn't swing at Bram unless the odds are so lopsided it's not a risk at all, which means Bram gets bolder this year because Roan gets quieter. What worries me more is that Bram knows it too.",
+   "who": "Ryn",
+   "year": 9
   }
  ],
  "memory_summary": "",
