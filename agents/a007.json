@@ -6156,6 +6156,13 @@
    "text": "",
    "who": "Sela",
    "year": 9
+  },
+  {
+   "eid": "e003916",
+   "kind": "take",
+   "text": "Bram takes 3 from the pile (pile now 12).",
+   "who": "Bram",
+   "year": 9
   }
  ],
  "memory_summary": "",
