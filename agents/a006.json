@@ -7657,6 +7657,13 @@
    "text": "Roan, I've said my piece and I've made my price known \u2014 but I'll say one more thing while we're waiting on you: a man who feeds his daughter without being asked and stands in a line without being told is already inside this circle, whether he's named it or not. Say the word and let's close.",
    "who": "Bram",
    "year": 9
+  },
+  {
+   "eid": "e003974",
+   "kind": "say",
+   "text": "Roan, I've pressed you enough and I'll stop \u2014 Bram's right that your actions have already spoken, and I won't drag a man across a line he's already standing on. What I will say is this: the circle's closed whether you name it or not, and when Mako's moment comes, I'll be counting on you the same way I count on Taric, which is to say completely.",
+   "who": "Vela",
+   "year": 9
   }
  ],
  "memory_summary": "",
