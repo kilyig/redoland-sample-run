@@ -5426,6 +5426,13 @@
    "text": "Roan, I've watched you feed your daughter three times this year and stand in the line against Bram without being asked \u2014 that's already the answer Bram's looking for, and I think you know it. Say it out loud so we can all walk out of here carrying the same weight.",
    "who": "Esa",
    "year": 9
+  },
+  {
+   "eid": "e003972",
+   "kind": "say",
+   "text": "Roan, the room's done its work asking \u2014 I'll say the last thing and then I'm done pressing: Fina's got your face and Nessa's stubbornness and she's going to need both of you standing when Mako's children are old enough to want what she's got. One word closes this circle.",
+   "who": "Vela",
+   "year": 9
   }
  ],
  "memory_summary": "",
