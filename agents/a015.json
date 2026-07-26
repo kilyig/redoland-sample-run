@@ -524,6 +524,13 @@
    "text": "Fina gathers Roan, Nessa to talk.",
    "who": "Fina",
    "year": 9
+  },
+  {
+   "eid": "e003923",
+   "kind": "say",
+   "text": "Eron is gone and I'm still not sure what happened \u2014 I need to know what you two saw and whether we think it was his time or something worse. I've got five food now and I'm not going thin, but I want us to think about who we're sitting close to this year before anyone else moves first.",
+   "who": "Fina",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -535,7 +542,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "female",
  "siblings": [
   "a012"
