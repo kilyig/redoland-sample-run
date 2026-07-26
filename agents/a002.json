@@ -5655,6 +5655,13 @@
    "text": "I'm in \u2014 and I'll say it plain so there's no room for anyone to remember it differently: when Mako moves, I stand with this circle, before you ask. But I want one thing named clearly now, while it's just us: Nessa and Fina don't get caught in the middle of whatever that moment looks like. That's my price, and it's a cheap one.",
    "who": "Bram",
    "year": 9
+  },
+  {
+   "eid": "e003966",
+   "kind": "say",
+   "text": "Bram, that's the easiest price I've heard in nine years, and I'd have paid it without being asked. Nessa and Fina stand with the rest of the blood we're trying to keep running \u2014 that's not a concession, that's the whole point of this room.",
+   "who": "Esa",
+   "year": 9
   }
  ],
  "memory_summary": "",
