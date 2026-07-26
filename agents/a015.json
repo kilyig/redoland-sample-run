@@ -545,6 +545,13 @@
    "text": "Nessa, I hear the count you're making and I won't argue it \u2014 Eron fed me and I ate what he gave, and now he's gone, and that's a weight I carry. But Fina's mine, not a door and not a debt, and I'll spend every food I have before I let her go thin. Tell me who you think moves first this year, because I'd rather plan in this room than find out in the open.",
    "who": "Roan",
    "year": 9
+  },
+  {
+   "eid": "e003926",
+   "kind": "say",
+   "text": "Roan, I believe you, and I'm holding you to it \u2014 but Nessa's right that Eron's lesson is the one I'm carrying into this year, so I'm not giving before I know my own count is safe. Dell is sitting on nine food and nobody's explained that to me yet; a woman that heavy while others go thin either took too much or has people feeding her, and either way I want to know before she becomes a problem for us.",
+   "who": "Fina",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -556,7 +563,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "female",
  "siblings": [
   "a012"
