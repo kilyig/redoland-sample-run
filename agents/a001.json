@@ -5433,6 +5433,13 @@
    "text": "Roan, the room's done its work asking \u2014 I'll say the last thing and then I'm done pressing: Fina's got your face and Nessa's stubbornness and she's going to need both of you standing when Mako's children are old enough to want what she's got. One word closes this circle.",
    "who": "Vela",
    "year": 9
+  },
+  {
+   "eid": "e003973",
+   "kind": "say",
+   "text": "Roan, I've said my piece and I've made my price known \u2014 but I'll say one more thing while we're waiting on you: a man who feeds his daughter without being asked and stands in a line without being told is already inside this circle, whether he's named it or not. Say the word and let's close.",
+   "who": "Bram",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -5441,7 +5448,7 @@
  "name": "Bram",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [],
  "strength": 58,
