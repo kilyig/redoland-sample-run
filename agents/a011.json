@@ -6362,6 +6362,13 @@
    "text": "Vela gives 1 food to Bram.",
    "who": "Vela",
    "year": 9
+  },
+  {
+   "eid": "e004125",
+   "kind": "pass",
+   "text": "",
+   "who": "Dell",
+   "year": 9
   }
  ],
  "memory_summary": "",
