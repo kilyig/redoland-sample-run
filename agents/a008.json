@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 41,
  "alive": true,
  "birth_year": 0,
@@ -4032,6 +4032,13 @@
    "kind": "take",
    "text": "Dell takes 2 from the pile (pile now 0).",
    "who": "Dell",
+   "year": 9
+  },
+  {
+   "eid": "e003955",
+   "kind": "convo",
+   "text": "Mako gathers Zinn to talk.",
+   "who": "Mako",
    "year": 9
   }
  ],
