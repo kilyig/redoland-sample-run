@@ -2949,6 +2949,13 @@
    "text": "Taric's right \u2014 five is better than three, so after you've talked to Fina, Roan, I'll pull Esa and Vela in and we stand at the pile together before the sun drops, just long enough for Bram to do his counting. But I want to say this once and not again: if Vela's loyalties are still split the way they've been, her standing with us makes the circle look bigger and feel thinner, and I'd rather know which it is before I lean on her in a fight.",
    "who": "Kael",
    "year": 9
+  },
+  {
+   "eid": "e003896",
+   "kind": "say",
+   "text": "Kael, I've watched Vela hold this circle through harder years than this one \u2014 she fed Bram, yes, but she also stood with us when he swung, and I'd rather test her loyalty by standing next to her at the pile than by sitting in a corner deciding she's soft. Bring her in. If she breaks, we'll know it before it costs us, and if she holds, we're five instead of three.",
+   "who": "Roan",
+   "year": 9
   }
  ],
  "memory_summary": "Bram came for me in year three with the whole village watching, and the circle \u2014 Sela, Kael, Esa, Taric, Vela, Ryn, Dav, Dell \u2014 turned him back without a word from me. That's the debt I carry heaviest. Sela had Eron with me in year three, and later had Nessa with Bram \u2014 which put a splinter in the circle that never fully healed; Mako gave Sela food the hour Nessa was born, which told us he'd bought something from her, though she never said what. Kael watched Vela feeding Bram three times over and called her on it; she never answered, and the circle started closing walls around her quietly. Dell and Dav stood with me when Bram attacked, and Dav put food in my hand once when I had nothing \u2014 I remember that. Eron came out of the world already watching for me, already feeding me and Sela before I had to ask; that boy has been my sturdiest wall. Nessa fed Eron four times in lean years, and she's Bram's blood, so I told Eron to keep that door cracked but not open all the way. Fina was born to Nessa and me \u2014 Nessa asked, I accepted, Bram gave Fina food the day she arrived, which sits strange in my chest. Bram came for Eron too, same as he came for me, and the whole village shut him down twice \u2014 a man who swings twice and misses twice is either broken or patient, and I haven't decided which.",
@@ -2957,7 +2964,7 @@
  "name": "Roan",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "male",
  "siblings": [],
  "strength": 49,

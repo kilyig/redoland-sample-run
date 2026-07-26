@@ -7440,6 +7440,13 @@
    "text": "Taric's right \u2014 five is better than three, so after you've talked to Fina, Roan, I'll pull Esa and Vela in and we stand at the pile together before the sun drops, just long enough for Bram to do his counting. But I want to say this once and not again: if Vela's loyalties are still split the way they've been, her standing with us makes the circle look bigger and feel thinner, and I'd rather know which it is before I lean on her in a fight.",
    "who": "Kael",
    "year": 9
+  },
+  {
+   "eid": "e003896",
+   "kind": "say",
+   "text": "Kael, I've watched Vela hold this circle through harder years than this one \u2014 she fed Bram, yes, but she also stood with us when he swung, and I'd rather test her loyalty by standing next to her at the pile than by sitting in a corner deciding she's soft. Bring her in. If she breaks, we'll know it before it costs us, and if she holds, we're five instead of three.",
+   "who": "Roan",
+   "year": 9
   }
  ],
  "memory_summary": "",
