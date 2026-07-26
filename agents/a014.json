@@ -3016,6 +3016,13 @@
    "text": "",
    "who": "Zinn",
    "year": 9
+  },
+  {
+   "eid": "e003979",
+   "kind": "convo",
+   "text": "Mako gathers Zinn to talk.",
+   "who": "Mako",
+   "year": 9
   }
  ],
  "memory_summary": "",
