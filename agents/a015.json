@@ -559,6 +559,13 @@
    "text": "Dell and Ryn have been running food back and forth between them for two years \u2014 it's not hoarding, it's a household, and a household that size with that much food is either a wall or a weight depending on which side of it you're standing on. What I want to know is whether Ryn would stand with us if Bram moves again, because Dell follows Ryn, and Ryn with nine food behind her is a different kind of ally than Ryn with two.",
    "who": "Roan",
    "year": 9
+  },
+  {
+   "eid": "e003928",
+   "kind": "say",
+   "text": "Ryn stood with us against Bram without being asked \u2014 that's not nothing, and if she'd stand again she's worth more to us than any food count she's carrying. Nessa, do you know her well enough to sound her out, or would it go better coming from Roan? I want to know where she sits before someone else does the asking.",
+   "who": "Fina",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -570,7 +577,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [
   "a012"
