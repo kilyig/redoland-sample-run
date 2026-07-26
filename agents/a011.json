@@ -6019,6 +6019,13 @@
    "text": "Agreed \u2014 if Bram moves on Roan you don't wait for me to come to you, you shout and I run, because the time it takes to send a messenger is the time Roan bleeds. One more thing before we're done: you're forty-six, Ryn, and I know what that means for the years ahead, but you're still the steadiest thing left standing in this village after Dav went, and I need you to treat your five food the way you'd treat your own life, because to me they're the same thing.",
    "who": "Dell",
    "year": 9
+  },
+  {
+   "eid": "e003950",
+   "kind": "say",
+   "text": "You said something I'm going to carry \u2014 treat the five like my own life, and I will. The last thing I want before we close: if this year starts moving fast and you need to act before you've had time to talk to me, don't wait, you know my mind well enough to move for both of us.",
+   "who": "Ryn",
+   "year": 9
   }
  ],
  "memory_summary": "",
