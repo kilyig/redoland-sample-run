@@ -5956,6 +5956,13 @@
    "text": "Dell, I came away with five from your hand and nothing from the pile \u2014 I'm not going to pretend that doesn't sit wrong with me, because you've been feeding me like a child and I'm supposed to be the mother. Tell me what you need going into this year, and I mean what you actually need, not what you'll say to keep me from worrying.",
    "who": "Ryn",
    "year": 9
+  },
+  {
+   "eid": "e003941",
+   "kind": "say",
+   "text": "Eleven food and two satiation \u2014 I'm not running thin yet, and the five I gave you was mine to give without it hurting me, so don't fold that into something it isn't. What I actually need is to know you'll eat before you give anything away this year, because I watched Dav go and I am not watching you go the same way.",
+   "who": "Dell",
+   "year": 9
   }
  ],
  "memory_summary": "",
@@ -5967,7 +5974,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "female",
  "siblings": [],
  "strength": 85,
