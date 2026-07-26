@@ -5363,6 +5363,13 @@
    "text": "Bram, I'll say what Vela and Esa are circling around but haven't quite landed on: you've got a daughter in Nessa and she's got a daughter in Fina, which means you're already a grandfather whether this village names it or not, and that bloodline needs you standing, not swinging at walls until someone finally calls your bluff. What I want to offer you is simple \u2014 a place in this circle that costs you nothing but the next swing \u2014 and what I want in return is equally simple: when Mako decides his two children are enough to make his own rules, you stand with us before we have to ask.",
    "who": "Taric",
    "year": 9
+  },
+  {
+   "eid": "e003963",
+   "kind": "say",
+   "text": "Taric's said the whole thing \u2014 Mako's the shape this village is growing into whether we name it or not, and Bram, you're not the problem anymore, you're the counter-weight, if you choose to be. Nessa and Fina are your blood running forward and Mako's already got two lines of his own; the arithmetic on that only gets harder if you're standing outside this room when it tips. So tell me plainly: are you in, or are you still deciding?",
+   "who": "Vela",
+   "year": 9
   }
  ],
  "memory_summary": "",
