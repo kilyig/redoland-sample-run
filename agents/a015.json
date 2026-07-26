@@ -699,6 +699,13 @@
    "text": "Sela gives 1 food to Nessa.",
    "who": "Sela",
    "year": 9
+  },
+  {
+   "eid": "e003994",
+   "kind": "convo",
+   "text": "Bram gathers Nessa, Fina to talk.",
+   "who": "Bram",
+   "year": 9
   }
  ],
  "memory_summary": "",
