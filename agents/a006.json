@@ -7503,6 +7503,13 @@
    "text": "Bram, you've tried the village twice now and walked away empty both times \u2014 I'm not saying that to twist the knife, I'm saying it because a man who keeps swinging at walls does it until he finds a door, and I'd rather know now whether you're looking for a door or whether you're done swinging.",
    "who": "Taric",
    "year": 9
+  },
+  {
+   "eid": "e003920",
+   "kind": "say",
+   "text": "I'm looking for a door. What I want to know is whether you're offering to show me one, or just asking the question to see what I say.",
+   "who": "Bram",
+   "year": 9
   }
  ],
  "memory_summary": "",
