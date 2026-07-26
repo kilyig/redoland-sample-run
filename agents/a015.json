@@ -538,6 +538,13 @@
    "text": "Eron starved \u2014 I watched him give food away until there was nothing left to eat, and I couldn't stop it. Fina, you're my blood and I'm glad you're fed, but I need you to hear this: a man who gives until he dies is a lesson, not just a loss, so hold what you have before you give it to anyone. Roan, you took Eron's food for years and I never counted against you for it, but I'm counting now \u2014 I need to know you see Fina as yours to protect, not just yours to take from.",
    "who": "Nessa",
    "year": 9
+  },
+  {
+   "eid": "e003925",
+   "kind": "say",
+   "text": "Nessa, I hear the count you're making and I won't argue it \u2014 Eron fed me and I ate what he gave, and now he's gone, and that's a weight I carry. But Fina's mine, not a door and not a debt, and I'll spend every food I have before I let her go thin. Tell me who you think moves first this year, because I'd rather plan in this room than find out in the open.",
+   "who": "Roan",
+   "year": 9
   }
  ],
  "memory_summary": "",
