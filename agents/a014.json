@@ -2792,6 +2792,13 @@
    "text": "eats 0 food",
    "who": "Zinn",
    "year": 8
+  },
+  {
+   "eid": "e003881",
+   "kind": "inject",
+   "text": "Eron has died. (Eron dies)",
+   "who": "the village",
+   "year": 8
   }
  ],
  "memory_summary": "",

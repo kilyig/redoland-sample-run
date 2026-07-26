@@ -6,8 +6,8 @@
   "steps": 0
  },
  "next_aid": 15,
- "next_eid": 3880,
- "next_pile_bonus": 0,
+ "next_eid": 3881,
+ "next_pile_bonus": 12,
  "params": {
   "actions_per_year": 10,
   "big5_sigma": 8.0,

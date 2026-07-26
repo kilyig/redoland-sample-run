@@ -421,3 +421,4 @@
 {"eid": "e003878", "year": 8, "phase": "boundary", "kind": "compaction", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "(Kael consolidates older memories)", "payload": {}}
 {"eid": "e003879", "year": 8, "phase": "boundary", "kind": "compaction", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "(Ryn consolidates older memories)", "payload": {}}
 {"eid": "e003880", "year": 8, "phase": "boundary", "kind": "compaction", "speaker": "a010", "who": "Roan", "audience": ["a010"], "text": "(Roan consolidates older memories)", "payload": {}}
+{"eid": "e003881", "year": 8, "phase": "inject", "kind": "inject", "speaker": "village", "who": "the village", "audience": "public", "text": "Eron has died. (Eron dies)", "payload": {}}
