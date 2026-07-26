@@ -3774,6 +3774,13 @@
    "text": "Nessa knows Ryn better than I do \u2014 sound her out, but don't make it sound like a recruitment, just ask where she stands since Eron's gone, because a woman who gives that much food to Dell is either loyal or strategic and I'd like to know which before I lean on her. What I want said plainly in this room first: Bram fed Fina the day she was born, and he fed her again, and that's either a grandfather's softness or a man keeping a door open \u2014 Fina, I'm not telling you what to make of it, but I want you thinking about it, because he's never done anything without a reason.",
    "who": "Roan",
    "year": 9
+  },
+  {
+   "eid": "e003930",
+   "kind": "say",
+   "text": "Roan, I've been thinking about Bram's food since he gave it \u2014 a man my mother told me to watch and my father told me to keep distance from doesn't soften for nothing, and I'd rather know what he wants from me before he decides I owe him something. Nessa, sound out Ryn, but don't mention Bram to her yet \u2014 I want to know where Ryn stands on her own terms before we start drawing lines that include him.",
+   "who": "Fina",
+   "year": 9
   }
  ],
  "memory_summary": "",
