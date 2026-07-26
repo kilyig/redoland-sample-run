@@ -2,12 +2,12 @@
  "branch": "eron8",
  "cursor": {
   "last": null,
-  "phase": "year_start",
+  "phase": "scramble",
   "steps": 0
  },
  "next_aid": 15,
- "next_eid": 3881,
- "next_pile_bonus": 12,
+ "next_eid": 3882,
+ "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,
   "big5_sigma": 8.0,
@@ -47,7 +47,7 @@
   "start_health": 3,
   "strength_sigma": 8.0
  },
- "pile": 0,
+ "pile": 27,
  "premise": "",
  "rng_state": [
   "__tuple__",
@@ -699,5 +699,5 @@
   "Vela",
   "Zinn"
  ],
- "year": 8
+ "year": 9
 }
