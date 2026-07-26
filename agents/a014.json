@@ -2911,6 +2911,13 @@
    "text": "Sela's right, Nessa \u2014 Fina's the thread that keeps Roan inside our circle whether he knows it or not, so go to him soon, and when you do, don't make it sound like business. What I want said here before we scatter: the three of us are the wall now, and I won't let Eron's death shrink us down to two or one.",
    "who": "Zinn",
    "year": 9
+  },
+  {
+   "eid": "e003910",
+   "kind": "say",
+   "text": "The three of us are the wall \u2014 I hear that, Zinn, and I'm holding it. I'm going to the pile now, and when I'm back we're going to talk about Mako, because a man who fathered you and took five without a word to anyone is a man who's decided this year is different, and I want us ready before he decides what different means.",
+   "who": "Sela",
+   "year": 9
   }
  ],
  "memory_summary": "",
