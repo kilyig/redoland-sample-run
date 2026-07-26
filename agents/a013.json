@@ -3592,6 +3592,13 @@
    "text": "Vela takes 2 from the pile (pile now 17).",
    "who": "Vela",
    "year": 9
+  },
+  {
+   "eid": "e003900",
+   "kind": "convo",
+   "text": "Zinn gathers Sela, Nessa to talk.",
+   "who": "Zinn",
+   "year": 9
   }
  ],
  "memory_summary": "",
