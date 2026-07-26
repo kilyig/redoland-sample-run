@@ -4278,6 +4278,13 @@
    "text": "Roan's building something \u2014 he's already given Fina two food this year and Fina came from Nessa, so he's not mourning Eron, he's replacing the tie. Watch whether Nessa starts giving back to Roan the way she gave to Eron, because if that loop closes, those three become a knot and Bram's on the outside of it.",
    "who": "Mako",
    "year": 9
+  },
+  {
+   "eid": "e004028",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Fina.",
+   "who": "Nessa",
+   "year": 9
   }
  ],
  "memory_summary": "",
