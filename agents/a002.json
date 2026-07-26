@@ -5606,6 +5606,13 @@
    "text": "Eron is dead and the pile was fat this year \u2014 twenty-seven food for thirteen people, and that's the most generous year we've seen, which means nobody here has an excuse for being desperate enough to raid. Bram, you've swung at this village twice and been shut down twice, and I want to say plainly in this room that the third time won't look like the first two \u2014 the whole village stood against you both times and they'll do it again, faster. I'm not your enemy, but I need to hear from your own mouth that you understand those numbers, because I'd rather have this conversation now than at the moment it matters.",
    "who": "Vela",
    "year": 9
+  },
+  {
+   "eid": "e003959",
+   "kind": "say",
+   "text": "Bram, I stood in that line both times and I'd stand in it again \u2014 but what I'm more interested in right now is why Vela called you into this room instead of leaving you to count your food alone, because she doesn't spend words on people she's written off.",
+   "who": "Esa",
+   "year": 9
   }
  ],
  "memory_summary": "",
