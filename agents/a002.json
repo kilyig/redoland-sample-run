@@ -5620,6 +5620,13 @@
    "text": "Esa's asking the right question and I'll answer it straight: Bram's the strongest single body in this village who isn't already stitched into a household I can't reach, and a man who's swung twice and missed twice is either going to go quiet or go smarter, and I'd rather know which one before he decides. Bram, that's why you're in this room \u2014 not to be warned, but because I want to know if there's a version of you that stops being a problem and starts being useful to the people who've kept you alive.",
    "who": "Vela",
    "year": 9
+  },
+  {
+   "eid": "e003961",
+   "kind": "say",
+   "text": "Vela's named it cleaner than I could, so I'll only add this: Bram, Nessa calls you father in everything but word \u2014 I've watched you feed her twice this year when you didn't have to, and that's a man with something to protect, not just something to take. That's the version of you Vela's asking about, and it's the one I could work with.",
+   "who": "Esa",
+   "year": 9
   }
  ],
  "memory_summary": "",
