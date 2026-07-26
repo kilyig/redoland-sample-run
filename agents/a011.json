@@ -5949,6 +5949,13 @@
    "text": "Ryn gathers Dell to talk.",
    "who": "Ryn",
    "year": 9
+  },
+  {
+   "eid": "e003940",
+   "kind": "say",
+   "text": "Dell, I came away with five from your hand and nothing from the pile \u2014 I'm not going to pretend that doesn't sit wrong with me, because you've been feeding me like a child and I'm supposed to be the mother. Tell me what you need going into this year, and I mean what you actually need, not what you'll say to keep me from worrying.",
+   "who": "Ryn",
+   "year": 9
   }
  ],
  "memory_summary": "",
