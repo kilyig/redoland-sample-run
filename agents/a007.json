@@ -6373,6 +6373,13 @@
    "text": "Roan gives 1 food to Fina.",
    "who": "Roan",
    "year": 9
+  },
+  {
+   "eid": "e004027",
+   "kind": "pass",
+   "text": "",
+   "who": "Sela",
+   "year": 9
   }
  ],
  "memory_summary": "",
