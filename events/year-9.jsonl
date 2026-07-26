@@ -283,3 +283,4 @@
 {"eid": "e004164", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e004165", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e004166", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
+{"eid": "e004167", "year": 9, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
