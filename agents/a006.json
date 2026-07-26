@@ -7419,6 +7419,13 @@
    "text": "Kael, I'm going to the pile now \u2014 two food, no more, nothing that makes me a target \u2014 and then I want the three of us standing together in plain sight before the hour's out, because a circle that's seen is a circle that gets counted. Roan, talk to Fina today, and when you do, don't pitch her anything, just let her know her father's watching and her grandfather's standing close \u2014 that's enough for now.",
    "who": "Taric",
    "year": 9
+  },
+  {
+   "eid": "e003893",
+   "kind": "say",
+   "text": "Taric, take two and come back fast \u2014 and Roan, the word you want to give Fina isn't grandfather, it's father, because a man who calls himself grandfather while she's still finding her feet in this world has already put distance between them, and she'll feel it. Bring her in close or don't bring her in at all.",
+   "who": "Kael",
+   "year": 9
   }
  ],
  "memory_summary": "",
