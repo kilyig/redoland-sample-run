@@ -3606,6 +3606,13 @@
    "text": "Eron's gone and I don't have words for it yet, but I need us to keep breathing \u2014 Nessa, what are you holding, and Sela, I want to know before anyone else moves on that pile whether you got enough.",
    "who": "Zinn",
    "year": 9
+  },
+  {
+   "eid": "e003902",
+   "kind": "say",
+   "text": "I haven't touched the pile yet \u2014 I couldn't move when they said his name. Tell me what you two have and I'll go take what we need before it's gone.",
+   "who": "Sela",
+   "year": 9
   }
  ],
  "memory_summary": "",
