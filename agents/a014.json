@@ -2869,6 +2869,13 @@
    "text": "Sela, go \u2014 pile's still at seventeen and you need to move before Kael or Bram get another turn. Nessa, I'm at eight and you're at six; between us and whatever Sela takes, we're not starving this year.",
    "who": "Zinn",
    "year": 9
+  },
+  {
+   "eid": "e003904",
+   "kind": "say",
+   "text": "I'm going, I'm going \u2014 two food, maybe three, enough to breathe. Zinn, eight is solid; Nessa, six with Fina to feed is the number I want to talk about before this day is out.",
+   "who": "Sela",
+   "year": 9
   }
  ],
  "memory_summary": "",
