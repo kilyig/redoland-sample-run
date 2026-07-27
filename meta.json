@@ -2,7 +2,7 @@
  "branch": "eron8",
  "cursor": {
   "last": "a014",
-  "phase": "scramble",
+  "phase": "year_end",
   "steps": 405
  },
  "next_aid": 15,
@@ -678,7 +678,7 @@
    2780949226,
    3779513327,
    1087500180,
-   155
+   171
   ],
   null
  ],
