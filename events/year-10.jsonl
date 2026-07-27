@@ -110,3 +110,4 @@
 {"eid": "e004411", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e004412", "year": 10, "phase": "scramble", "kind": "give", "speaker": "a001", "who": "Bram", "audience": "public", "text": "Bram gives 1 food to Nessa.", "payload": {"target": "a013", "amount": 1}}
 {"eid": "e004413", "year": 10, "phase": "convo", "kind": "convo", "speaker": "a004", "who": "Kael", "audience": ["a004", "a003", "a010"], "text": "Kael gathers Esa, Roan to talk.", "payload": {}}
+{"eid": "e004414", "year": 10, "phase": "convo", "kind": "say", "speaker": "a004", "who": "Kael", "audience": ["a004", "a003", "a010"], "text": "Esa, I watched you give food to Bram twice just now, and I need you to tell me what that is \u2014 because if you're buying protection from him, I understand it, but I need to know, and if you're doing it for some other reason, I need to know that too.", "payload": {}}
