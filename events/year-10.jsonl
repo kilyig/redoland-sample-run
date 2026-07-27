@@ -277,3 +277,4 @@
 {"eid": "e004578", "year": 10, "phase": "convo", "kind": "convo", "speaker": "a004", "who": "Kael", "audience": ["a004", "a003", "a010"], "text": "Kael gathers Esa, Roan to talk.", "payload": {}}
 {"eid": "e004579", "year": 10, "phase": "convo", "kind": "say", "speaker": "a004", "who": "Kael", "audience": ["a004", "a003", "a010"], "text": "Esa, I'm not asking you to stop feeding him \u2014 I'm asking you to tell me what it cost you to start, because a woman who makes that calculation alone in the first year after losing Taric is a woman I need to understand, not judge.", "payload": {}}
 {"eid": "e004580", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
+{"eid": "e004581", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
