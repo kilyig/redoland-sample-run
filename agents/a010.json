@@ -1,5 +1,5 @@
 {
- "actions_used_year": 3,
+ "actions_used_year": 4,
  "age": 41,
  "alive": true,
  "birth_year": 0,
@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 0,
  "health": 1,
  "hp": 100,
  "id": "a010",
@@ -2689,6 +2689,13 @@
    "kind": "say",
    "text": "Esa, I'm not asking you to stop feeding him \u2014 I'm asking you to tell me what it cost you to start, because a woman who makes that calculation alone in the first year after losing Taric is a woman I need to understand, not judge.",
    "who": "Kael",
+   "year": 10
+  },
+  {
+   "eid": "e004590",
+   "kind": "give",
+   "text": "Roan gives 1 food to Fina.",
+   "who": "Roan",
    "year": 10
   }
  ],
