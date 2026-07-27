@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 6,
+ "food": 7,
  "health": 2,
  "hp": 100,
  "id": "a009",
@@ -1617,6 +1617,13 @@
    "kind": "take",
    "text": "Fina takes 2 from the pile (pile now 0).",
    "who": "Fina",
+   "year": 11
+  },
+  {
+   "eid": "e004714",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
    "year": 11
   }
  ],

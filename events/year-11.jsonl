@@ -33,3 +33,4 @@
 {"eid": "e004711", "year": 11, "phase": "scramble", "kind": "take", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela takes 2 from the pile (pile now 2).", "payload": {"amount": 2}}
 {"eid": "e004712", "year": 11, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 2 food to Ryn.", "payload": {"target": "a009", "amount": 2}}
 {"eid": "e004713", "year": 11, "phase": "scramble", "kind": "take", "speaker": "a015", "who": "Fina", "audience": "public", "text": "Fina takes 2 from the pile (pile now 0).", "payload": {"amount": 2}}
+{"eid": "e004714", "year": 11, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 1 food to Ryn.", "payload": {"target": "a009", "amount": 1}}
