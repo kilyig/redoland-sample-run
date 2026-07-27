@@ -4752,6 +4752,13 @@
    "text": "Zinn, I've said what I had to say \u2014 now it's your move, not mine. If Fina's been giving food with no ask attached, she's already thinking, and a word from you through Nessa lands softer than anything I could send. Let me know what she says before you close the door either way.",
    "who": "Mako",
    "year": 11
+  },
+  {
+   "eid": "e004845",
+   "kind": "give",
+   "text": "Fina gives 1 food to Nessa.",
+   "who": "Fina",
+   "year": 11
   }
  ],
  "memory_summary": "",

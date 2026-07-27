@@ -7440,6 +7440,13 @@
    "text": "Nessa gives 1 food to Fina.",
    "who": "Nessa",
    "year": 11
+  },
+  {
+   "eid": "e004845",
+   "kind": "give",
+   "text": "Fina gives 1 food to Nessa.",
+   "who": "Fina",
+   "year": 11
   }
  ],
  "memory_summary": "",

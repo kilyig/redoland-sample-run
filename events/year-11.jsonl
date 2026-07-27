@@ -164,3 +164,4 @@
 {"eid": "e004842", "year": 11, "phase": "convo", "kind": "say", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "Zinn, I've said what I had to say \u2014 now it's your move, not mine. If Fina's been giving food with no ask attached, she's already thinking, and a word from you through Nessa lands softer than anything I could send. Let me know what she says before you close the door either way.", "payload": {}}
 {"eid": "e004843", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e004844", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
+{"eid": "e004845", "year": 11, "phase": "scramble", "kind": "give", "speaker": "a015", "who": "Fina", "audience": "public", "text": "Fina gives 1 food to Nessa.", "payload": {"target": "a013", "amount": 1}}
