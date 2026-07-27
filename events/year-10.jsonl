@@ -175,3 +175,4 @@
 {"eid": "e004476", "year": 10, "phase": "scramble", "kind": "give", "speaker": "a003", "who": "Esa", "audience": "public", "text": "Esa gives 1 food to Bram.", "payload": {"target": "a001", "amount": 1}}
 {"eid": "e004477", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e004478", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a014", "who": "Zinn", "audience": ["a014"], "text": "", "payload": {}}
+{"eid": "e004479", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
