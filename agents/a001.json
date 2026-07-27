@@ -6567,6 +6567,13 @@
    "text": "Understood \u2014 I'll go to Fina now and I won't say a word about Kael or Vela. But if you get to Vela's door and she's already moved toward Mako, don't knock \u2014 come straight to me, because that changes everything I need to decide before dark.",
    "who": "Bram",
    "year": 11
+  },
+  {
+   "eid": "e004696",
+   "kind": "say",
+   "text": "One more thing before you go \u2014 Zinn took three from the pile this morning, which is more than she needed and more than I'd expect from a woman sitting light last year, and I want to know if Mako put food in her hands before the pile opened or if she's just eating for herself now.",
+   "who": "Nessa",
+   "year": 11
   }
  ],
  "memory_summary": "",
