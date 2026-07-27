@@ -6497,6 +6497,13 @@
    "text": "Roan's dead and Fina's got nobody but you and me now \u2014 that's not nothing, that's a wall we didn't have yesterday. I want you feeding her steady and keeping her close, and if anyone in this village starts counting her food out loud the way Vela counted it last year, you tell me before you tell them.",
    "who": "Bram",
    "year": 11
+  },
+  {
+   "eid": "e004686",
+   "kind": "say",
+   "text": "Roan's death sat on me harder than I expected, and I'm still sorting out whether that means Fina leans on us more now or whether she learns to stand harder \u2014 I think it's both, and I think we need to let her decide which before we start building walls around her without asking. What I need from you this year is plain: the pile's at six and you've already taken two, and I need to know if you're done or if you're counting on more, because Fina's twenty food draws eyes and I won't be the last person in this village to notice that you're sitting light.",
+   "who": "Nessa",
+   "year": 11
   }
  ],
  "memory_summary": "",
