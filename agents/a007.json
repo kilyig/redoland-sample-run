@@ -12,7 +12,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 8,
+ "food": 9,
  "health": 2,
  "hp": 100,
  "id": "a007",
@@ -4664,6 +4664,13 @@
    "kind": "give",
    "text": "Esa gives 1 food to Bram.",
    "who": "Esa",
+   "year": 11
+  },
+  {
+   "eid": "e004884",
+   "kind": "give",
+   "text": "Zinn gives 1 food to Sela.",
+   "who": "Zinn",
    "year": 11
   }
  ],
