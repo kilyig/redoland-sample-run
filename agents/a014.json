@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "Your mother is Sela \u2014 strong, clear-eyed, and she chose me knowing exactly what she was choosing; trust her judgment before you trust mine. Watch before you speak, and watch longer than you think you need to; silence is not weakness, it's how you learn who people are before they know you're learning. Bram fathered your half-sister Nessa, which makes him kin-adjacent and not an enemy, but he's a man who reaches for food early and hit first in year three \u2014 keep that in mind when the pile runs short. No one has wronged us yet, but we have no blood here except each other, and that is the only thing in this village I'd spend my last food to protect.",
- "food": 5,
+ "food": 6,
  "health": 1,
  "hp": 100,
  "id": "a014",
@@ -3841,6 +3841,13 @@
    "kind": "give",
    "text": "Mako gives 1 food to Zinn.",
    "who": "Mako",
+   "year": 10
+  },
+  {
+   "eid": "e004395",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Zinn.",
+   "who": "Nessa",
    "year": 10
   }
  ],

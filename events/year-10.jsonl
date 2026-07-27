@@ -91,3 +91,4 @@
 {"eid": "e004392", "year": 10, "phase": "scramble", "kind": "give", "speaker": "a010", "who": "Roan", "audience": "public", "text": "Roan gives 1 food to Fina.", "payload": {"target": "a015", "amount": 1}}
 {"eid": "e004393", "year": 10, "phase": "scramble", "kind": "give", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn gives 1 food to Dell.", "payload": {"target": "a011", "amount": 1}}
 {"eid": "e004394", "year": 10, "phase": "scramble", "kind": "give", "speaker": "a008", "who": "Mako", "audience": "public", "text": "Mako gives 1 food to Zinn.", "payload": {"target": "a014", "amount": 1}}
+{"eid": "e004395", "year": 10, "phase": "scramble", "kind": "give", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa gives 1 food to Zinn.", "payload": {"target": "a014", "amount": 1}}
