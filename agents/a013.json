@@ -5174,6 +5174,13 @@
    "text": "Roan is gone and the pile closed before I even stood up \u2014 I'm sitting on one food, satiation's dropping, and I need to know what you two are holding before this year gets away from us.",
    "who": "Sela",
    "year": 11
+  },
+  {
+   "eid": "e004741",
+   "kind": "say",
+   "text": "I've got three food and satiation's fine for now, but Sela \u2014 one food with a long year ahead is too thin, take one of mine before we talk about anything else.",
+   "who": "Zinn",
+   "year": 11
   }
  ],
  "memory_summary": "",
