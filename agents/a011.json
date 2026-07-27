@@ -1,5 +1,5 @@
 {
- "actions_used_year": 6,
+ "actions_used_year": 7,
  "age": 29,
  "alive": true,
  "birth_year": 2,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "Dell \u2014 you came into a village that's already sorting itself into those who share and those who take, and the trick of it is that the takers don't announce themselves. Watch Bram and Mako; they moved as one at the pile before anyone else had eaten, and men who coordinate that early are already thinking about who they can afford to leave behind. Your blood is your anchor: Ryn stood beside me when it cost her something, and that makes her as close to kin as anyone not born from the same line. Trust people who say the same thing two years running when the numbers are hard \u2014 and trust nobody who only finds you useful when the pile is full.",
- "food": 6,
+ "food": 5,
  "health": 2,
  "hp": 100,
  "id": "a011",
@@ -6858,6 +6858,13 @@
    "kind": "give",
    "text": "Bram gives 1 food to Nessa.",
    "who": "Bram",
+   "year": 10
+  },
+  {
+   "eid": "e004424",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
    "year": 10
   }
  ],
