@@ -5195,6 +5195,13 @@
    "text": "Nessa, the village can see eighteen on you same as I can \u2014 so the question isn't whether you're holding food, it's whether you're going to say it in front of your mother and sister or make us treat your silence like a wall again.",
    "who": "Zinn",
    "year": 11
+  },
+  {
+   "eid": "e004744",
+   "kind": "say",
+   "text": "Nessa, eighteen food is not a secret and I'm not asking you to share it \u2014 I'm asking you to stop making your family guess at numbers that are already visible to every person in this village, because the silence costs more than the food does.",
+   "who": "Sela",
+   "year": 11
   }
  ],
  "memory_summary": "",
