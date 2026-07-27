@@ -131,3 +131,4 @@
 {"eid": "e004809", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e004810", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e004811", "year": 11, "phase": "scramble", "kind": "give", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa gives 1 food to Fina.", "payload": {"target": "a015", "amount": 1}}
+{"eid": "e004812", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
