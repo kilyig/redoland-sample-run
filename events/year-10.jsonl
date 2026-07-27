@@ -94,3 +94,4 @@
 {"eid": "e004395", "year": 10, "phase": "scramble", "kind": "give", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa gives 1 food to Zinn.", "payload": {"target": "a014", "amount": 1}}
 {"eid": "e004396", "year": 10, "phase": "scramble", "kind": "give", "speaker": "a001", "who": "Bram", "audience": "public", "text": "Bram gives 1 food to Nessa.", "payload": {"target": "a013", "amount": 1}}
 {"eid": "e004397", "year": 10, "phase": "scramble", "kind": "give", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn gives 1 food to Dell.", "payload": {"target": "a011", "amount": 1}}
+{"eid": "e004398", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "", "payload": {}}
