@@ -82,3 +82,4 @@
 {"eid": "e004383", "year": 10, "phase": "convo", "kind": "convo", "speaker": "a011", "who": "Dell", "audience": ["a011", "a009"], "text": "Dell gathers Ryn to talk.", "payload": {}}
 {"eid": "e004384", "year": 10, "phase": "convo", "kind": "say", "speaker": "a011", "who": "Dell", "audience": ["a011", "a009"], "text": "Vela's been feeding Bram for two years running \u2014 food straight from her hand to his \u2014 and now she's asking where I stand, which means either she's woken up to what she's been doing or she's asking on his behalf, and I need to know which before I let her count me in her circle.", "payload": {}}
 {"eid": "e004385", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
+{"eid": "e004386", "year": 10, "phase": "convo", "kind": "convo", "speaker": "a011", "who": "Dell", "audience": ["a011", "a009"], "text": "Dell gathers Ryn to talk.", "payload": {}}
