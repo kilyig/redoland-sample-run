@@ -4437,6 +4437,13 @@
    "text": "Sela gathers Nessa, Zinn to talk.",
    "who": "Sela",
    "year": 11
+  },
+  {
+   "eid": "e004740",
+   "kind": "say",
+   "text": "Roan is gone and the pile closed before I even stood up \u2014 I'm sitting on one food, satiation's dropping, and I need to know what you two are holding before this year gets away from us.",
+   "who": "Sela",
+   "year": 11
   }
  ],
  "memory_summary": "",
