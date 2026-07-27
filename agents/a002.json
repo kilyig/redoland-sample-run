@@ -6502,6 +6502,13 @@
    "text": "Bram's right that we need Dell's answer, but I want to be plain about something this room is dancing around: Dell has eleven food and eighty-five strength, and if she's standing with Mako when he moves, the arithmetic in this room changes fast \u2014 so when I go to her, I'm not just asking where she stands, I'm offering her a reason to stand here instead.",
    "who": "Ryn",
    "year": 10
+  },
+  {
+   "eid": "e004359",
+   "kind": "say",
+   "text": "Ryn, go to Dell today, not tomorrow \u2014 and when you do, don't frame it as a choice between us and Mako, frame it as math: fifteen food on Fina's back is a number Dell can count as easily as anyone, and a woman with eighty-five strength knows what it means to be the one who decides which way that goes. Bring her answer back before the day turns.",
+   "who": "Bram",
+   "year": 10
   }
  ],
  "memory_summary": "",
