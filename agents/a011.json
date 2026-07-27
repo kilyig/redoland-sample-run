@@ -7139,6 +7139,13 @@
    "text": "Ryn, Roan's gone and the pile's got four left and I haven't touched it yet \u2014 tell me your food count right now, because you're forty-eight and I am not going to let you run thin while Zinn's sitting on three and Nessa's got sixteen. After that I want to talk about Vela, because we never finished that conversation and a woman who was waking up to Bram a year ago is either all the way awake by now or she's been swallowed back into his circle, and I need to know which before this year moves any further.",
    "who": "Dell",
    "year": 11
+  },
+  {
+   "eid": "e004700",
+   "kind": "say",
+   "text": "Four food, Dell \u2014 and two satiation, which means I eat before anything else leaves my hands, same as I promised you. Vela I can't read clean yet; she named Bram's name herself in that circle last year, which was something, but she kept feeding him right through it, and a woman who wakes up and still opens her hand is either not all the way awake or she's paying a debt she hasn't told us about. I want to hear her say his name again this year, unprompted, before I count her as anything more than a useful neighbor.",
+   "who": "Ryn",
+   "year": 11
   }
  ],
  "memory_summary": "",
