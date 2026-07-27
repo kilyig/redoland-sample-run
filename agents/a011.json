@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 30,
  "alive": true,
  "birth_year": 2,
@@ -7124,6 +7124,13 @@
    "kind": "take",
    "text": "Esa takes 2 from the pile (pile now 4).",
    "who": "Esa",
+   "year": 11
+  },
+  {
+   "eid": "e004698",
+   "kind": "convo",
+   "text": "Dell gathers Ryn to talk.",
+   "who": "Dell",
    "year": 11
   }
  ],
