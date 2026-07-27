@@ -6670,6 +6670,13 @@
    "text": "Ryn, pile's empty and I've got three food \u2014 tell me your number before anything else, because the year's already running and I won't let last year's pattern repeat where you end up thin while I'm still counting.",
    "who": "Dell",
    "year": 10
+  },
+  {
+   "eid": "e004373",
+   "kind": "say",
+   "text": "Nine food, Dell \u2014 I'm standing better than last year. I need to tell you something before the day gets louder: Vela's circle is asking where you stand, and they asked me to answer for you, and I told them I'd bring the question to you myself. Where are you?",
+   "who": "Ryn",
+   "year": 10
   }
  ],
  "memory_summary": "",
