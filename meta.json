@@ -2,18 +2,8 @@
  "branch": "eron8",
  "cursor": {
   "last": "a011",
-  "phase": "talk",
-  "steps": 7,
-  "talk": {
-   "group": [
-    "a011",
-    "a009"
-   ],
-   "guard": 11,
-   "initiator": "a011",
-   "last": "a009",
-   "opened": true
-  }
+  "phase": "scramble",
+  "steps": 7
  },
  "next_aid": 15,
  "next_eid": 4710,
