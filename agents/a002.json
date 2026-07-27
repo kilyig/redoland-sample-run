@@ -6376,6 +6376,13 @@
    "text": "Vela just told the whole room my food count, and now everyone in this circle knows I'm carrying fifteen \u2014 that's the thing I'm sitting with right now, not Mako.",
    "who": "Fina",
    "year": 10
+  },
+  {
+   "eid": "e004341",
+   "kind": "say",
+   "text": "Fina, Vela counting your food out loud in a closed room isn't the same as Mako counting it in the open \u2014 every person here already had eyes, and what Vela bought us by naming it is that nobody in this circle can pretend they didn't know. The question I want answered is whether Mako knows, because he wasn't in this room.",
+   "who": "Roan",
+   "year": 10
   }
  ],
  "memory_summary": "",
