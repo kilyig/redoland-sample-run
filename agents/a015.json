@@ -2204,6 +2204,13 @@
    "text": "Zinn's blood is mine before it's Mako's, but she's been running food to Sela all morning and Sela's his daughter \u2014 so the question I can't answer from here is whether Zinn knows she's in the middle of something, or whether she just thinks she's keeping her sister fed. I'm not ready to close the door on her yet, but I want to know where that food chain ends before I tell her anything that matters.",
    "who": "Fina",
    "year": 11
+  },
+  {
+   "eid": "e004826",
+   "kind": "give",
+   "text": "Zinn gives 1 food to Sela.",
+   "who": "Zinn",
+   "year": 11
   }
  ],
  "memory_summary": "",

@@ -5307,6 +5307,13 @@
    "text": "Fina's young and she's got food and she's not kin to either of us \u2014 I'd stand behind it if the terms were right and she came willing, but I want to know what you're thinking for the cost split before we open any doors, because twenty-five food means she can afford to be choosy and I don't want us looking desperate when we're not.",
    "who": "Mako",
    "year": 11
+  },
+  {
+   "eid": "e004826",
+   "kind": "give",
+   "text": "Zinn gives 1 food to Sela.",
+   "who": "Zinn",
+   "year": 11
   }
  ],
  "memory_summary": "",
