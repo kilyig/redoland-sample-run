@@ -1266,6 +1266,13 @@
    "text": "I'll stand when Mako moves \u2014 that's said and I won't unsay it. But I want to hear Bram say it in this room today, because last year he made that promise to Vela and Taric and me with fewer witnesses, and a promise that's only been spoken once hasn't been tested yet.",
    "who": "Roan",
    "year": 10
+  },
+  {
+   "eid": "e004346",
+   "kind": "say",
+   "text": "Bram, Roan's asking the right thing and I'll name why it matters more this year than last: Taric's the one who held you to your word before, and Taric's gone, so the promise you made in that room needs to be remade in this one where everyone who's left can hear it.",
+   "who": "Esa",
+   "year": 10
   }
  ],
  "memory_summary": "",
