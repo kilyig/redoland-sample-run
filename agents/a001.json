@@ -1,6 +1,6 @@
 {
  "actions_used_year": 10,
- "age": 39,
+ "age": 40,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -10,8 +10,8 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
- "health": 1,
+ "food": 0,
+ "health": 2,
  "hp": 100,
  "id": "a001",
  "intelligence_tokens": 5416,
@@ -5796,6 +5796,20 @@
    "kind": "give",
    "text": "Vela gives 1 food to Bram.",
    "who": "Vela",
+   "year": 9
+  },
+  {
+   "eid": "e004284",
+   "kind": "eat",
+   "text": "eats 2 food",
+   "who": "Bram",
+   "year": 9
+  },
+  {
+   "eid": "e004289",
+   "kind": "death",
+   "text": "Taric starves at age 53.",
+   "who": "the village",
    "year": 9
   }
  ],
