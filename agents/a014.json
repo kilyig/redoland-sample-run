@@ -4430,6 +4430,13 @@
    "text": "Dell gives 1 food to Vela.",
    "who": "Dell",
    "year": 11
+  },
+  {
+   "eid": "e004739",
+   "kind": "convo",
+   "text": "Sela gathers Nessa, Zinn to talk.",
+   "who": "Sela",
+   "year": 11
   }
  ],
  "memory_summary": "",
