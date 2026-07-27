@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 42,
  "alive": true,
  "birth_year": 0,
@@ -4543,6 +4543,13 @@
    "kind": "take",
    "text": "Sela takes 2 from the pile (pile now 0).",
    "who": "Sela",
+   "year": 10
+  },
+  {
+   "eid": "e004368",
+   "kind": "convo",
+   "text": "Mako gathers Zinn to talk.",
+   "who": "Mako",
    "year": 10
   }
  ],
