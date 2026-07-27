@@ -5979,6 +5979,13 @@
    "text": "Bram's word is down and I'll hold him to it the same way Taric would have \u2014 which means now I want to hear from Ryn and Zinn, because they're in this room and they've been quiet through every name that's been spoken. Ryn, you've got nine food and enough strength that Mako's first calculation includes you; where you stand is not a small thing.",
    "who": "Vela",
    "year": 10
+  },
+  {
+   "eid": "e004353",
+   "kind": "say",
+   "text": "Ryn, I'll add the plain thing Vela left off the end: Dell feeds you every year, and Dell's quiet in the same direction Mako is \u2014 so when you answer Vela's question, answer both halves of it.",
+   "who": "Esa",
+   "year": 10
   }
  ],
  "memory_summary": "",
