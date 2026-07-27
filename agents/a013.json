@@ -5202,6 +5202,13 @@
    "text": "Nessa, eighteen food is not a secret and I'm not asking you to share it \u2014 I'm asking you to stop making your family guess at numbers that are already visible to every person in this village, because the silence costs more than the food does.",
    "who": "Sela",
    "year": 11
+  },
+  {
+   "eid": "e004745",
+   "kind": "say",
+   "text": "Nessa, Sela's right and you know she's right \u2014 eighteen food and a dead child's father and a whole year ahead, I'd be quiet too, but this is the room where quiet costs us most. Say the number, say what you're planning to do with it, and we'll figure the rest out together.",
+   "who": "Zinn",
+   "year": 11
   }
  ],
  "memory_summary": "",
