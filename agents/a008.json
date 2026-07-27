@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 42,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 4,
  "health": 2,
  "hp": 100,
  "id": "a008",
@@ -4522,6 +4522,13 @@
    "kind": "take",
    "text": "Nessa takes 3 from the pile (pile now 6).",
    "who": "Nessa",
+   "year": 10
+  },
+  {
+   "eid": "e004308",
+   "kind": "take",
+   "text": "Mako takes 2 from the pile (pile now 4).",
+   "who": "Mako",
    "year": 10
   }
  ],
