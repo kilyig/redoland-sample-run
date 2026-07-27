@@ -5251,6 +5251,13 @@
    "text": "Fina just put one food in my hand with nothing asked for \u2014 that's the first time she's moved toward anyone outside Roan's circle, and Roan's dead now, so she's looking for somewhere to stand. You've got her through Nessa; I think it's time we let that door open a little wider.",
    "who": "Mako",
    "year": 11
+  },
+  {
+   "eid": "e004808",
+   "kind": "give",
+   "text": "Sela gives 2 food to Zinn.",
+   "who": "Sela",
+   "year": 11
   }
  ],
  "memory_summary": "",
