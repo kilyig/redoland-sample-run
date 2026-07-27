@@ -3513,6 +3513,13 @@
    "text": "Zinn, I've got five \u2014 I'll give you two right now, before anyone asks where it went. Nessa, tell me your number and we sort the rest after.",
    "who": "Sela",
    "year": 10
+  },
+  {
+   "eid": "e004328",
+   "kind": "say",
+   "text": "Sela, hold the two until I hear Nessa \u2014 I want the full count before anything moves hands.",
+   "who": "Zinn",
+   "year": 10
   }
  ],
  "memory_summary": "",
@@ -3524,7 +3531,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "female",
  "siblings": [
   "a012",
