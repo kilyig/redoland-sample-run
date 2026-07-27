@@ -6574,6 +6574,13 @@
    "text": "One more thing before you go \u2014 Zinn took three from the pile this morning, which is more than she needed and more than I'd expect from a woman sitting light last year, and I want to know if Mako put food in her hands before the pile opened or if she's just eating for herself now.",
    "who": "Nessa",
    "year": 11
+  },
+  {
+   "eid": "e004697",
+   "kind": "take",
+   "text": "Esa takes 2 from the pile (pile now 4).",
+   "who": "Esa",
+   "year": 11
   }
  ],
  "memory_summary": "",
