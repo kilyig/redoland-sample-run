@@ -4334,6 +4334,13 @@
    "text": "Fina, I need that number from your mouth before we walk out of here \u2014 \"something low\" isn't something I can hold to if Kael or Mako catches me mid-sentence, so pick it and say it now, and I'll carry the same one.",
    "who": "Nessa",
    "year": 10
+  },
+  {
+   "eid": "e004323",
+   "kind": "say",
+   "text": "Eight. If anyone catches me mid-step and asks flat, I came into the year with six and took two \u2014 I've got eight, I'm fine, nothing to see. That's the number; hold it and don't blink.",
+   "who": "Fina",
+   "year": 10
   }
  ],
  "memory_summary": "",
