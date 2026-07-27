@@ -275,3 +275,4 @@
 {"eid": "e004576", "year": 10, "phase": "scramble", "kind": "give", "speaker": "a014", "who": "Zinn", "audience": "public", "text": "Zinn gives 1 food to Nessa.", "payload": {"target": "a013", "amount": 1}}
 {"eid": "e004577", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e004578", "year": 10, "phase": "convo", "kind": "convo", "speaker": "a004", "who": "Kael", "audience": ["a004", "a003", "a010"], "text": "Kael gathers Esa, Roan to talk.", "payload": {}}
+{"eid": "e004579", "year": 10, "phase": "convo", "kind": "say", "speaker": "a004", "who": "Kael", "audience": ["a004", "a003", "a010"], "text": "Esa, I'm not asking you to stop feeding him \u2014 I'm asking you to tell me what it cost you to start, because a woman who makes that calculation alone in the first year after losing Taric is a woman I need to understand, not judge.", "payload": {}}
