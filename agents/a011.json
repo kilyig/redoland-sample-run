@@ -7174,6 +7174,13 @@
    "text": "Nessa's been feeding Fina since before Roan was gone \u2014 food moving that direction through most of last year, which means either Nessa already counts her as someone worth protecting or she's been building a claim on her loyalty, and either way Fina knows Nessa's name better than she knows ours. That's the thread I'd pull second; the first one I'd pull is going to Fina directly, today, before anyone else does, and letting her see a woman who's been watching this village longer than she's been alive and isn't trying to count her food.",
    "who": "Ryn",
    "year": 11
+  },
+  {
+   "eid": "e004705",
+   "kind": "say",
+   "text": "Then I'm going to Fina before the pile settles \u2014 but I want you to come with me, because a woman who just lost her father doesn't need one face, she needs two, and yours carries something mine doesn't yet. We'll walk in talking about Roan, not about her food, and let her tell us what she's afraid of before we say anything about what we can offer.",
+   "who": "Dell",
+   "year": 11
   }
  ],
  "memory_summary": "",
@@ -7185,7 +7192,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [],
  "strength": 85,
