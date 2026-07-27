@@ -6509,6 +6509,13 @@
    "text": "Ryn, go to Dell today, not tomorrow \u2014 and when you do, don't frame it as a choice between us and Mako, frame it as math: fifteen food on Fina's back is a number Dell can count as easily as anyone, and a woman with eighty-five strength knows what it means to be the one who decides which way that goes. Bring her answer back before the day turns.",
    "who": "Bram",
    "year": 10
+  },
+  {
+   "eid": "e004360",
+   "kind": "say",
+   "text": "Zinn, we're still waiting on your name \u2014 Bram's got his word out, Ryn's walking to Dell before dark, and the only silence left in this room is yours. I know Mako's your father and I'm not asking you to hate him, I'm asking you to decide who you're protecting when it matters.",
+   "who": "Esa",
+   "year": 10
   }
  ],
  "memory_summary": "",
