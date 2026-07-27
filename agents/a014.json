@@ -3723,6 +3723,13 @@
    "text": "Zinn's the one this room is waiting on, not me \u2014 I've said my word and I'll hold it. But I want to name something while we're all here: Ryn just told us she'll talk to Dell, and Dell's been moving food to Ryn for years, which means that conversation either brings Dell into this circle or it tells us something we need to know before Mako moves. I'd rather know Dell's answer now than find out she's standing on the wrong side when it counts.",
    "who": "Bram",
    "year": 10
+  },
+  {
+   "eid": "e004358",
+   "kind": "say",
+   "text": "Bram's right that we need Dell's answer, but I want to be plain about something this room is dancing around: Dell has eleven food and eighty-five strength, and if she's standing with Mako when he moves, the arithmetic in this room changes fast \u2014 so when I go to her, I'm not just asking where she stands, I'm offering her a reason to stand here instead.",
+   "who": "Ryn",
+   "year": 10
   }
  ],
  "memory_summary": "",
