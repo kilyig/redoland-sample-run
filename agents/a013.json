@@ -5083,6 +5083,13 @@
    "text": "Vela's door I'll knock before sundown \u2014 but Bram, hear me: if she's planning something that turns away from us, I need you to already know which direction you'll move, because I won't be the one standing in the open holding a story about family loyalty while you're still deciding. Go to Fina now, stay close, and don't tell her anything about Kael or Vela until I'm back.",
    "who": "Nessa",
    "year": 11
+  },
+  {
+   "eid": "e004695",
+   "kind": "say",
+   "text": "Understood \u2014 I'll go to Fina now and I won't say a word about Kael or Vela. But if you get to Vela's door and she's already moved toward Mako, don't knock \u2014 come straight to me, because that changes everything I need to decide before dark.",
+   "who": "Bram",
+   "year": 11
   }
  ],
  "memory_summary": "",
