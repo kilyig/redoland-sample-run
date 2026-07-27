@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 25,
  "alive": true,
  "birth_year": 6,
@@ -3491,6 +3491,13 @@
    "kind": "take",
    "text": "Sela takes 2 from the pile (pile now 0).",
    "who": "Sela",
+   "year": 10
+  },
+  {
+   "eid": "e004325",
+   "kind": "convo",
+   "text": "Zinn gathers Sela, Nessa to talk.",
+   "who": "Zinn",
    "year": 10
   }
  ],
