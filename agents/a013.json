@@ -5069,6 +5069,13 @@
    "text": "Before I go to Kael, I want to know one thing you haven't told me yet \u2014 Vela's been feeding you for years and she's been quiet this morning, and a woman who goes quiet after she's been loud is either finished or planning, and I need to know which one you think it is.",
    "who": "Nessa",
    "year": 11
+  },
+  {
+   "eid": "e004693",
+   "kind": "say",
+   "text": "Vela's fifty-five and she watched Taric die \u2014 a woman that age with that much history doesn't go quiet because she's done, she goes quiet because she's deciding something she hasn't said yet. I don't know which way she's deciding, and that's what bothers me. Get to Kael first, but don't leave Vela's door dark \u2014 I want you to know what she's sitting on before she opens it herself.",
+   "who": "Bram",
+   "year": 11
   }
  ],
  "memory_summary": "",
