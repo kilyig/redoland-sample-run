@@ -210,3 +210,4 @@
 {"eid": "e004888", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e004889", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "", "payload": {}}
 {"eid": "e004890", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e004891", "year": 11, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 1 food to Ryn.", "payload": {"target": "a009", "amount": 1}}
