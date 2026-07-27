@@ -152,3 +152,4 @@
 {"eid": "e004830", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "", "payload": {}}
 {"eid": "e004831", "year": 11, "phase": "scramble", "kind": "give", "speaker": "a014", "who": "Zinn", "audience": "public", "text": "Zinn gives 1 food to Sela.", "payload": {"target": "a007", "amount": 1}}
 {"eid": "e004832", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "", "payload": {}}
+{"eid": "e004833", "year": 11, "phase": "scramble", "kind": "give", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa gives 1 food to Fina.", "payload": {"target": "a015", "amount": 1}}
