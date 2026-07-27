@@ -4635,6 +4635,13 @@
    "text": "Zinn, I've got two food and fifty-eight strength and I'm the smallest number in this circle \u2014 but I'm Nessa's father and I'll be standing when Mako moves, and that means I need to know you're standing too before I walk out of this room. If you won't say it for the circle, say it for her.",
    "who": "Bram",
    "year": 10
+  },
+  {
+   "eid": "e004367",
+   "kind": "say",
+   "text": "Zinn, I've said everything I have to say to this room and I meant every word of it \u2014 but you're the last door standing open, and if you walk out of here without naming where you stand, I'm going to have to carry that back to Dell and tell her the circle isn't as solid as I promised it was.",
+   "who": "Ryn",
+   "year": 10
   }
  ],
  "memory_summary": "",
