@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 2,
  "health": 2,
  "hp": 100,
  "id": "a008",
@@ -5222,6 +5222,13 @@
    "kind": "give",
    "text": "Zinn gives 1 food to Sela.",
    "who": "Zinn",
+   "year": 11
+  },
+  {
+   "eid": "e004791",
+   "kind": "give",
+   "text": "Fina gives 1 food to Mako.",
+   "who": "Fina",
    "year": 11
   }
  ],
