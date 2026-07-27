@@ -98,3 +98,4 @@
 {"eid": "e004776", "year": 11, "phase": "convo", "kind": "say", "speaker": "a015", "who": "Fina", "audience": ["a015", "a013"], "text": "Mako's one food from desperate and I know it \u2014 so tell me if he's spoken to you, because a man with that strength doesn't stay quiet when he's hungry, and I'd rather know what he's already said to you before I decide whether to move first or wait for him to.", "payload": {}}
 {"eid": "e004777", "year": 11, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 1 food to Ryn.", "payload": {"target": "a009", "amount": 1}}
 {"eid": "e004778", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
+{"eid": "e004779", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
