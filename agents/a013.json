@@ -5062,6 +5062,13 @@
    "text": "Kael's a good read \u2014 one food at fifty-five means he's already decided this year is about survival, not positioning, and a man in that place will take any hand that's offered. Go to him before he goes to Mako, because Mako will make the same calculation I would and he'll move first. I'll stay close to Fina and keep my mouth shut until you tell me what Kael said.",
    "who": "Bram",
    "year": 11
+  },
+  {
+   "eid": "e004692",
+   "kind": "say",
+   "text": "Before I go to Kael, I want to know one thing you haven't told me yet \u2014 Vela's been feeding you for years and she's been quiet this morning, and a woman who goes quiet after she's been loud is either finished or planning, and I need to know which one you think it is.",
+   "who": "Nessa",
+   "year": 11
   }
  ],
  "memory_summary": "",
@@ -5073,7 +5080,7 @@
   "a001"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [
   "a012",
