@@ -280,3 +280,4 @@
 {"eid": "e004581", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e004582", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e004583", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "", "payload": {}}
+{"eid": "e004584", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
