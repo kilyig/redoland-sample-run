@@ -173,3 +173,4 @@
 {"eid": "e004851", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e004852", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e004853", "year": 11, "phase": "convo", "kind": "convo", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "Mako gathers Zinn to talk.", "payload": {}}
+{"eid": "e004854", "year": 11, "phase": "convo", "kind": "say", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "Fina just gave another one to Nessa \u2014 she's moving food toward people who matter to her, and we're already in that circle whether we named it or not. Say what needs saying to her, Zinn; the moment's not going to stay open forever.", "payload": {}}
