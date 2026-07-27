@@ -150,3 +150,4 @@
 {"eid": "e004451", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e004452", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e004453", "year": 10, "phase": "convo", "kind": "convo", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "Mako gathers Zinn to talk.", "payload": {}}
+{"eid": "e004454", "year": 10, "phase": "convo", "kind": "say", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "Zinn's feeding Nessa again \u2014 I watched her give twice in the last stretch, and Nessa's got eleven still, so that's not charity, that's a loop that's been running since before Eron died. You've been in that loop longer than anyone; if Fina starts looking to spread, Nessa's the door she'll come through, not me.", "payload": {}}
