@@ -4336,6 +4336,13 @@
    "text": "Nessa, I've watched you lose Roan this year and I'm not asking you to pretend that's nothing \u2014 but eighteen food and a daughter who needs eating and a village full of eyes means this silence is going to get answered one way or another, and I'd rather it get answered by your mouth than by someone else's arithmetic.",
    "who": "Zinn",
    "year": 11
+  },
+  {
+   "eid": "e004748",
+   "kind": "say",
+   "text": "Nessa, I've buried Eron and now I've buried Roan, and I will not bury you or Fina because you decided your plans were too delicate to say out loud in front of the only people in this village who would bleed for you \u2014 so say the number, say what Fina needs, and tell me what you're building with eighteen food, because silence is a luxury we don't have anymore.",
+   "who": "Sela",
+   "year": 11
   }
  ],
  "memory_summary": "From Year 1 to 6, what I carry:\n\nRoan came to me first \u2014 practical, quiet, and he meant it. We made Eron together in Year 3, and Eron spent the next six years feeding me out of his own hands when I came up empty from the pile. That debt lives in my chest and now he's gone.\n\nBram asked me twice and I said no both times until Year 5 when I had nothing and Mako was circling \u2014 I said yes to Bram with my back against the wall, not my heart open. He kept his word about no raids for a full year, but he's tried to take from Roan, Vela, and Eron since, and the village turned him back every time. Nessa is his blood and I can't undo that.\n\nMako watched me in silence for three years \u2014 handed me food when I was starving in Year 5, asked for nothing back, and then finally said plainly he wanted a child. I believed him because a man who stays quiet that long has already counted the cost. We made Zinn together in Year 6, and he's fed her before himself since.\n\nVela sat in our protection circle and fed Bram on the side without a word. I never forgot it.\n\nDav starved in Year 7. Ryn lost him; Dell lost her father. The Ryn-Dell loop of food trading felt like grief turned into motion.\n\nEron is gone now. He fed Roan to the end, same as he fed me \u2014 and that tells me everything about who he was.",
@@ -4344,7 +4351,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [],
  "strength": 73,
