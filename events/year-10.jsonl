@@ -107,3 +107,4 @@
 {"eid": "e004408", "year": 10, "phase": "convo", "kind": "say", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "Seventeen in one hand is a target whether Fina knows it or not, and Roan's the only one she's feeding \u2014 that's a small circle for a woman holding that much weight. If someone moves on her, we want to be close enough that she remembers we didn't, not close enough that we're in the middle of it.", "payload": {}}
 {"eid": "e004409", "year": 10, "phase": "scramble", "kind": "give", "speaker": "a003", "who": "Esa", "audience": "public", "text": "Esa gives 1 food to Bram.", "payload": {"target": "a001", "amount": 1}}
 {"eid": "e004410", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
+{"eid": "e004411", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
