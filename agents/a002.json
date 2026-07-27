@@ -6404,6 +6404,13 @@
    "text": "I'll stand when Mako moves \u2014 I've been saying it for two years and I'm done saying it, so let that be the last time anyone asks me. What I want from everyone in this room is the same thing I'm giving: not a promise to think about it, a promise to move before the arithmetic runs out. Fina, that means you too \u2014 fifteen food makes you a target, and a target who hesitates when the moment comes is worse than no ally at all.",
    "who": "Vela",
    "year": 10
+  },
+  {
+   "eid": "e004345",
+   "kind": "say",
+   "text": "I'll stand when Mako moves \u2014 that's said and I won't unsay it. But I want to hear Bram say it in this room today, because last year he made that promise to Vela and Taric and me with fewer witnesses, and a promise that's only been spoken once hasn't been tested yet.",
+   "who": "Roan",
+   "year": 10
   }
  ],
  "memory_summary": "",
