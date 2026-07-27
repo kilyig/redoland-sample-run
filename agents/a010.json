@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 41,
  "alive": true,
  "birth_year": 0,
@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 1,
  "health": 1,
  "hp": 100,
  "id": "a010",
@@ -2276,6 +2276,13 @@
    "kind": "say",
    "text": "Esa, Roan \u2014 the pile's gone and I've got two food in hand, same as Roan, and the thing I want said between us before anyone else starts talking is this: Taric's dead and that leaves Esa alone, which is the kind of thing a man like Bram notices before we do. I'm asking plainly whether either of you needs food to stay fed through the year, because I'd rather give it now than watch another person in this circle starve.",
    "who": "Kael",
+   "year": 10
+  },
+  {
+   "eid": "e004392",
+   "kind": "give",
+   "text": "Roan gives 1 food to Fina.",
+   "who": "Roan",
    "year": 10
   }
  ],

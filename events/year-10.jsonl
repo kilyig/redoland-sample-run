@@ -88,3 +88,4 @@
 {"eid": "e004389", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e004390", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
 {"eid": "e004391", "year": 10, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e004392", "year": 10, "phase": "scramble", "kind": "give", "speaker": "a010", "who": "Roan", "audience": "public", "text": "Roan gives 1 food to Fina.", "payload": {"target": "a015", "amount": 1}}

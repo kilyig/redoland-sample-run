@@ -6719,6 +6719,13 @@
    "text": "Ryn, you're the one she came to, which means she reads you as the door to me \u2014 so I want to know how she sounded when she asked: did she sound like a woman who's finally counting the cost of what she's been handing Bram, or did she sound like a woman running an errand for someone else?",
    "who": "Dell",
    "year": 10
+  },
+  {
+   "eid": "e004392",
+   "kind": "give",
+   "text": "Roan gives 1 food to Fina.",
+   "who": "Roan",
+   "year": 10
   }
  ],
  "memory_summary": "",
