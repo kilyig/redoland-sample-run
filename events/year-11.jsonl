@@ -115,3 +115,4 @@
 {"eid": "e004793", "year": 11, "phase": "convo", "kind": "convo", "speaker": "a015", "who": "Fina", "audience": ["a015", "a013"], "text": "Fina gathers Nessa to talk.", "payload": {}}
 {"eid": "e004794", "year": 11, "phase": "convo", "kind": "say", "speaker": "a015", "who": "Fina", "audience": ["a015", "a013"], "text": "I gave him one food already, just now \u2014 a bone, not a bond, and I didn't make a show of it. Nessa, I need to know if Zinn's told him anything about what I'm carrying, because if she's been feeding Sela and talking to Mako in the same breath, I want to know that before I decide how much I trust her.", "payload": {}}
 {"eid": "e004795", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e004796", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "", "payload": {}}
