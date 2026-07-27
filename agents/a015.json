@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "Your brother Eron kept me alive this year \u2014 find him first in any hard season and do not let pride stop you from asking. The circle to trust is Kael, Vela, Esa, and Taric; they have held together under pressure and that is the only test that counts. Watch Mako and his blood carefully \u2014 he is not cruel, but he feeds himself before he feeds the village, and a man like that will count you as a neighbor only as long as it costs him nothing. Bram swung at this village and walked away; a man who swings once has already decided the rest of us are targets, so keep your distance and keep your count, and never let him see what you have before you know what he needs.",
- "food": 22,
+ "food": 23,
  "health": 2,
  "hp": 100,
  "id": "a015",
@@ -1978,6 +1978,13 @@
    "eid": "e004755",
    "kind": "give",
    "text": "Nessa gives 1 food to Sela.",
+   "who": "Nessa",
+   "year": 11
+  },
+  {
+   "eid": "e004756",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Fina.",
    "who": "Nessa",
    "year": 11
   }
