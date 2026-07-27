@@ -3520,6 +3520,13 @@
    "text": "Sela, hold the two until I hear Nessa \u2014 I want the full count before anything moves hands.",
    "who": "Zinn",
    "year": 10
+  },
+  {
+   "eid": "e004329",
+   "kind": "say",
+   "text": "Nessa, you took three from the pile and gave one to Zinn already \u2014 I need to hear the number you're sitting on now, because Zinn's at one and I won't move food around blind when my youngest daughter might go short this year.",
+   "who": "Sela",
+   "year": 10
   }
  ],
  "memory_summary": "",
