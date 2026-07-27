@@ -1,9 +1,9 @@
 {
  "branch": "eron8",
  "cursor": {
-  "last": "a015",
+  "last": "a001",
   "phase": "scramble",
-  "steps": 65
+  "steps": 66
  },
  "next_aid": 15,
  "next_eid": 4796,
@@ -678,7 +678,7 @@
    1049307613,
    1725381929,
    3519362082,
-   19
+   31
   ],
   null
  ],
