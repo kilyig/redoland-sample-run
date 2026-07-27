@@ -4502,6 +4502,13 @@
    "text": "Bram, the room's been patient and I won't add another layer of asking \u2014 but I want everyone here to hear me say that I've been feeding this man for three years because I believed that word he gave last year, and if he says it again now, in front of seven witnesses instead of three, that's a debt I'll keep paying.",
    "who": "Vela",
    "year": 10
+  },
+  {
+   "eid": "e004348",
+   "kind": "say",
+   "text": "Bram, I'll say it plain so you don't have to carry it alone: I've got thirty-three strength and I know what that number is worth in a fight, but I'll be standing next to you when Mako moves and that matters more than my arm. Say the word in this room and let's close.",
+   "who": "Esa",
+   "year": 10
   }
  ],
  "memory_summary": "",
