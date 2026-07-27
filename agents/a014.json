@@ -3674,6 +3674,13 @@
    "text": "Bram, Fina's right and I've said my part already \u2014 so I'll say just this once more and then I'm done pressing: you stood with Nessa and fed her all year, which means you're already past the line in everything that matters, and the word this room needs is a short one.",
    "who": "Roan",
    "year": 10
+  },
+  {
+   "eid": "e004351",
+   "kind": "say",
+   "text": "When Mako moves, I stand with this circle \u2014 that's the word, and it's the same one I gave last year, and it'll be the same one I give next year if I have to. Fina, Nessa \u2014 that's the reason I'm in this room, not the politics.",
+   "who": "Bram",
+   "year": 10
   }
  ],
  "memory_summary": "",
