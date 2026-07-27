@@ -6670,6 +6670,13 @@
    "text": "Bram gives 1 food to Nessa.",
    "who": "Bram",
    "year": 10
+  },
+  {
+   "eid": "e004418",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 10
   }
  ],
  "memory_summary": "",
