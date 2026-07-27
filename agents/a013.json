@@ -4313,6 +4313,13 @@
    "text": "If anyone asks me directly, I'm keeping it simple \u2014 I've been holding careful all year and the pile was lean, nothing more to say than that. Nessa, your eleven is the bigger number to explain because people watched you take three from the pile on top of whatever you came in with; if someone does the count, we let them get it wrong before we correct them. And Roan's right that your two and my fifteen need to look like two separate households \u2014 don't walk close to me today.",
    "who": "Fina",
    "year": 10
+  },
+  {
+   "eid": "e004320",
+   "kind": "say",
+   "text": "Fina, \"let them get it wrong\" only works if we all get it wrong the same way \u2014 so say it plain: if anyone pins you with a number, what's the number you give them?",
+   "who": "Nessa",
+   "year": 10
   }
  ],
  "memory_summary": "",
@@ -4324,7 +4331,7 @@
   "a001"
  ],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [
   "a012",
