@@ -5356,6 +5356,13 @@
    "text": "Mako's one food from desperate and I know it \u2014 so tell me if he's spoken to you, because a man with that strength doesn't stay quiet when he's hungry, and I'd rather know what he's already said to you before I decide whether to move first or wait for him to.",
    "who": "Fina",
    "year": 11
+  },
+  {
+   "eid": "e004777",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 11
   }
  ],
  "memory_summary": "",
