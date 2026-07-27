@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 2,
  "health": 3,
  "hp": 100,
  "id": "a004",
@@ -2217,6 +2217,13 @@
    "kind": "give",
    "text": "Bram gives 1 food to Nessa.",
    "who": "Bram",
+   "year": 11
+  },
+  {
+   "eid": "e004716",
+   "kind": "give",
+   "text": "Dell gives 1 food to Kael.",
+   "who": "Dell",
    "year": 11
   }
  ],
