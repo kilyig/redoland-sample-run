@@ -4348,6 +4348,13 @@
    "text": "Zinn gathers Sela, Nessa to talk.",
    "who": "Zinn",
    "year": 10
+  },
+  {
+   "eid": "e004326",
+   "kind": "say",
+   "text": "Pile's gone before I got to it and I'm sitting on one food \u2014 Nessa, you gave me one this morning and I haven't forgotten it, but I need to know what you two are holding before I figure out whether I'm going to eat this year or not.",
+   "who": "Zinn",
+   "year": 10
   }
  ],
  "memory_summary": "",
