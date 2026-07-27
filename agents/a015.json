@@ -2092,6 +2092,13 @@
    "text": "Dell gives 1 food to Ryn.",
    "who": "Dell",
    "year": 11
+  },
+  {
+   "eid": "e004784",
+   "kind": "pass",
+   "text": "",
+   "who": "Fina",
+   "year": 11
   }
  ],
  "memory_summary": "",
