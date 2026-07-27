@@ -7195,6 +7195,13 @@
    "text": "Before we walk through Fina's door, I want to say one thing out loud that I've been carrying quiet: Kael's sitting on one food and fifty-five years, and nobody's feeding him, and a man who's been solid in this village that long doesn't deserve to starve in the background while we're all watching Fina's number. If he's still breathing when we come back from Fina, I want to give him something.",
    "who": "Dell",
    "year": 11
+  },
+  {
+   "eid": "e004708",
+   "kind": "say",
+   "text": "Kael's been quiet so long this village has started forgetting he's counting too \u2014 and a man who's been around that long has seen every shape trouble comes in before anyone else names it. Give him something, and give it where people can see you do it, because generosity toward the old ones says something about who you are before you've had to prove it the hard way. We'll go to Fina first, then Kael, and we'll let the day do the rest.",
+   "who": "Ryn",
+   "year": 11
   }
  ],
  "memory_summary": "",
