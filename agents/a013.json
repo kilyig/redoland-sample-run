@@ -5209,6 +5209,13 @@
    "text": "Nessa, Sela's right and you know she's right \u2014 eighteen food and a dead child's father and a whole year ahead, I'd be quiet too, but this is the room where quiet costs us most. Say the number, say what you're planning to do with it, and we'll figure the rest out together.",
    "who": "Zinn",
    "year": 11
+  },
+  {
+   "eid": "e004746",
+   "kind": "say",
+   "text": "Nessa, Zinn just said what I've been trying not to say for two years \u2014 you go quiet in exactly the rooms where quiet does the most damage, and I think you know that, so I'm asking you one more time, plainly, as your mother: eighteen food, what are you doing with it, and is Fina accounted for in that number or separate from it?",
+   "who": "Sela",
+   "year": 11
   }
  ],
  "memory_summary": "",
