@@ -4376,6 +4376,13 @@
    "text": "Nessa, you took three from the pile and gave one to Zinn already \u2014 I need to hear the number you're sitting on now, because Zinn's at one and I won't move food around blind when my youngest daughter might go short this year.",
    "who": "Sela",
    "year": 10
+  },
+  {
+   "eid": "e004330",
+   "kind": "say",
+   "text": "Nessa, I'm not asking to take from you \u2014 I'm asking so I know the shape of what we've got before I decide whether Sela needs to spend her five on me or whether we can stretch it different.",
+   "who": "Zinn",
+   "year": 10
   }
  ],
  "memory_summary": "",
