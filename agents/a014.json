@@ -4696,6 +4696,13 @@
    "text": "Zinn gives 1 food to Sela.",
    "who": "Zinn",
    "year": 11
+  },
+  {
+   "eid": "e004827",
+   "kind": "convo",
+   "text": "Mako gathers Zinn to talk.",
+   "who": "Mako",
+   "year": 11
   }
  ],
  "memory_summary": "",
