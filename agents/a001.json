@@ -5888,6 +5888,13 @@
    "text": "Taric's dead and the pile's gone again and we're twelve people now, which means what I'm about to say matters more than it did last year: Mako's sitting on four food, Ryn's got nine, Fina's got fifteen, and Nessa's got eleven \u2014 and if Bram and I are the only ones in this room with our eyes open, we're going to have a very short year. I want to know right now who in this room is still counting Mako as the shape this village is growing into, because with Taric gone, I don't have the patience to spend another year circling the same question.",
    "who": "Vela",
    "year": 10
+  },
+  {
+   "eid": "e004340",
+   "kind": "say",
+   "text": "Vela just told the whole room my food count, and now everyone in this circle knows I'm carrying fifteen \u2014 that's the thing I'm sitting with right now, not Mako.",
+   "who": "Fina",
+   "year": 10
   }
  ],
  "memory_summary": "",
