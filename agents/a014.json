@@ -4416,6 +4416,13 @@
    "text": "Dell gives 1 food to Kael.",
    "who": "Dell",
    "year": 11
+  },
+  {
+   "eid": "e004717",
+   "kind": "give",
+   "text": "Bram gives 1 food to Nessa.",
+   "who": "Bram",
+   "year": 11
   }
  ],
  "memory_summary": "",
