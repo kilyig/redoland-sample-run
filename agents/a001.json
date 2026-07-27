@@ -6049,6 +6049,13 @@
    "text": "Zinn's been feeding Nessa all year and that's a fact this room already knew \u2014 what I want from her is the word, same as the room wanted it from me, because a choice that's only lived in food and not in words is a choice that bends when her father's in the room asking her to remember whose blood she came from.",
    "who": "Bram",
    "year": 10
+  },
+  {
+   "eid": "e004363",
+   "kind": "say",
+   "text": "Zinn, I've watched you feed Nessa from the moment you were born into this village, and I won't pretend I don't know why \u2014 so I'll say the thing nobody else has said plainly: if Mako moves on Fina's food, Nessa's in the middle of that, and you can't protect her from both sides at once. Say the word, and you're not choosing against your father, you're choosing for your sister.",
+   "who": "Vela",
+   "year": 10
   }
  ],
  "memory_summary": "",
