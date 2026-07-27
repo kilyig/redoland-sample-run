@@ -5237,6 +5237,13 @@
    "text": "Nessa, I'm done asking twice \u2014 if you won't say it, I'm going to sit here and say nothing back, and Sela and I will plan around you the same way you're planning around us. Eighteen food means you're not starving, and Fina's not starving, so the part I actually need to know is whether you're going to spend any of it in a way that brings someone else's attention down on this family before we're ready for it.",
    "who": "Zinn",
    "year": 11
+  },
+  {
+   "eid": "e004750",
+   "kind": "say",
+   "text": "Nessa, I'm going to stop asking and start telling: Fina is three years old in a village where Roan just starved and the pile ran dry before I could stand, and if eighteen food is sitting in your hands while you stay silent, then the only thing I can read from that is that you're planning something that doesn't fit cleanly into what Zinn and I would approve \u2014 so I need you to either say what it is, or give me one food for Fina right now as proof that your plans don't put her second.",
+   "who": "Sela",
+   "year": 11
   }
  ],
  "memory_summary": "",

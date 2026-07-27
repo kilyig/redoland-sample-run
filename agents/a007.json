@@ -4350,6 +4350,13 @@
    "text": "Nessa, I'm done asking twice \u2014 if you won't say it, I'm going to sit here and say nothing back, and Sela and I will plan around you the same way you're planning around us. Eighteen food means you're not starving, and Fina's not starving, so the part I actually need to know is whether you're going to spend any of it in a way that brings someone else's attention down on this family before we're ready for it.",
    "who": "Zinn",
    "year": 11
+  },
+  {
+   "eid": "e004750",
+   "kind": "say",
+   "text": "Nessa, I'm going to stop asking and start telling: Fina is three years old in a village where Roan just starved and the pile ran dry before I could stand, and if eighteen food is sitting in your hands while you stay silent, then the only thing I can read from that is that you're planning something that doesn't fit cleanly into what Zinn and I would approve \u2014 so I need you to either say what it is, or give me one food for Fina right now as proof that your plans don't put her second.",
+   "who": "Sela",
+   "year": 11
   }
  ],
  "memory_summary": "From Year 1 to 6, what I carry:\n\nRoan came to me first \u2014 practical, quiet, and he meant it. We made Eron together in Year 3, and Eron spent the next six years feeding me out of his own hands when I came up empty from the pile. That debt lives in my chest and now he's gone.\n\nBram asked me twice and I said no both times until Year 5 when I had nothing and Mako was circling \u2014 I said yes to Bram with my back against the wall, not my heart open. He kept his word about no raids for a full year, but he's tried to take from Roan, Vela, and Eron since, and the village turned him back every time. Nessa is his blood and I can't undo that.\n\nMako watched me in silence for three years \u2014 handed me food when I was starving in Year 5, asked for nothing back, and then finally said plainly he wanted a child. I believed him because a man who stays quiet that long has already counted the cost. We made Zinn together in Year 6, and he's fed her before himself since.\n\nVela sat in our protection circle and fed Bram on the side without a word. I never forgot it.\n\nDav starved in Year 7. Ryn lost him; Dell lost her father. The Ryn-Dell loop of food trading felt like grief turned into motion.\n\nEron is gone now. He fed Roan to the end, same as he fed me \u2014 and that tells me everything about who he was.",
@@ -4358,7 +4365,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "female",
  "siblings": [],
  "strength": 73,
