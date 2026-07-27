@@ -5874,6 +5874,13 @@
    "text": "Sela takes 2 from the pile (pile now 0).",
    "who": "Sela",
    "year": 10
+  },
+  {
+   "eid": "e004338",
+   "kind": "convo",
+   "text": "Vela gathers Bram, Esa, Ryn, Roan, Nessa, Zinn, Fina to talk.",
+   "who": "Vela",
+   "year": 10
   }
  ],
  "memory_summary": "",
