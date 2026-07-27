@@ -4201,6 +4201,13 @@
    "text": "Esa takes 2 from the pile (pile now 13).",
    "who": "Esa",
    "year": 10
+  },
+  {
+   "eid": "e004304",
+   "kind": "take",
+   "text": "Vela takes 2 from the pile (pile now 11).",
+   "who": "Vela",
+   "year": 10
   }
  ],
  "memory_summary": "",
