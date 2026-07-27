@@ -7160,6 +7160,13 @@
    "text": "I'll take the two, Dell, and I won't argue about it \u2014 but I want us to talk about Fina before the day closes, because Roan's gone and she's got twenty food and no father standing beside her anymore, and that's the number that changes everything about how this year runs.",
    "who": "Ryn",
    "year": 11
+  },
+  {
+   "eid": "e004703",
+   "kind": "say",
+   "text": "Twenty food and no father is a woman who's about to learn very fast who counts her as kin and who counts her as a larder \u2014 and I want to be the first name she hears, not Bram's, not Mako's. She's twenty-four and strong enough to matter in a fight, and if she's half as sharp as Nessa she already knows the number on her back is dangerous. What do you know about how she and Nessa read each other, because that's the thread I'd pull first.",
+   "who": "Dell",
+   "year": 11
   }
  ],
  "memory_summary": "",
@@ -7171,7 +7178,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [],
  "strength": 85,
