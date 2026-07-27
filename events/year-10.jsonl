@@ -2,3 +2,4 @@
 {"eid": "e004303", "year": 10, "phase": "scramble", "kind": "take", "speaker": "a003", "who": "Esa", "audience": "public", "text": "Esa takes 2 from the pile (pile now 13).", "payload": {"amount": 2}}
 {"eid": "e004304", "year": 10, "phase": "scramble", "kind": "take", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela takes 2 from the pile (pile now 11).", "payload": {"amount": 2}}
 {"eid": "e004305", "year": 10, "phase": "scramble", "kind": "give", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa gives 1 food to Zinn.", "payload": {"target": "a014", "amount": 1}}
+{"eid": "e004306", "year": 10, "phase": "scramble", "kind": "take", "speaker": "a001", "who": "Bram", "audience": "public", "text": "Bram takes 2 from the pile (pile now 9).", "payload": {"amount": 2}}

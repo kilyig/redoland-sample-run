@@ -1077,6 +1077,13 @@
    "text": "Nessa gives 1 food to Zinn.",
    "who": "Nessa",
    "year": 10
+  },
+  {
+   "eid": "e004306",
+   "kind": "take",
+   "text": "Bram takes 2 from the pile (pile now 9).",
+   "who": "Bram",
+   "year": 10
   }
  ],
  "memory_summary": "",
