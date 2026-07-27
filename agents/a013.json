@@ -5251,6 +5251,13 @@
    "text": "Nessa, I've said everything I have to say and so has Sela \u2014 so I'm going to do the one thing neither of us has done yet, which is stop talking and let the silence sit, because you've heard us and you know what we need and the next sound in this room should come from you.",
    "who": "Zinn",
    "year": 11
+  },
+  {
+   "eid": "e004752",
+   "kind": "give",
+   "text": "Zinn gives 1 food to Sela.",
+   "who": "Zinn",
+   "year": 11
   }
  ],
  "memory_summary": "",

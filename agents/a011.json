@@ -7272,6 +7272,13 @@
    "text": "Dell gives 1 food to Vela.",
    "who": "Dell",
    "year": 11
+  },
+  {
+   "eid": "e004752",
+   "kind": "give",
+   "text": "Zinn gives 1 food to Sela.",
+   "who": "Zinn",
+   "year": 11
   }
  ],
  "memory_summary": "",
