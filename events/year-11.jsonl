@@ -94,3 +94,4 @@
 {"eid": "e004772", "year": 11, "phase": "scramble", "kind": "give", "speaker": "a014", "who": "Zinn", "audience": "public", "text": "Zinn gives 1 food to Sela.", "payload": {"target": "a007", "amount": 1}}
 {"eid": "e004773", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
 {"eid": "e004774", "year": 11, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e004775", "year": 11, "phase": "convo", "kind": "convo", "speaker": "a015", "who": "Fina", "audience": ["a015", "a013"], "text": "Fina gathers Nessa to talk.", "payload": {}}
