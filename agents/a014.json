@@ -3569,6 +3569,13 @@
    "text": "Nessa, I'm done asking. You've got Fina to feed and that's a real weight \u2014 but Zinn has one food and she's your blood the same as Fina is, so if you're sitting on something and you're choosing not to say it to your sister's face, that's a choice I'll remember longer than you want me to.",
    "who": "Sela",
    "year": 10
+  },
+  {
+   "eid": "e004336",
+   "kind": "say",
+   "text": "Nessa, eleven food \u2014 that's what the village can see on you right now, same as I can. Say the number or don't, but you're not hiding it from me.",
+   "who": "Zinn",
+   "year": 10
   }
  ],
  "memory_summary": "",
@@ -3580,7 +3587,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "female",
  "siblings": [
   "a012",
