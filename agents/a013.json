@@ -5377,6 +5377,13 @@
    "text": "Fina gathers Nessa to talk.",
    "who": "Fina",
    "year": 11
+  },
+  {
+   "eid": "e004787",
+   "kind": "say",
+   "text": "He hasn't come to me yet, but Zinn's been feeding Sela steady and Mako gave Zinn food last year \u2014 I don't know if that's a man keeping his daughter alive or a man buying quiet from someone who might warn him when a target's worth moving on. What I want to know from you right now is whether you'd be willing to give Mako one food, just enough to take the edge off desperate, because a hungry man with eighty-three strength is more dangerous than one who's been thrown a bone and made to feel like a neighbor.",
+   "who": "Fina",
+   "year": 11
   }
  ],
  "memory_summary": "",
