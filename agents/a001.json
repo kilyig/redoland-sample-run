@@ -6518,6 +6518,13 @@
    "text": "Twenty is already out there \u2014 Vela named it in a room last year and half this village was listening, so the quiet ship has sailed. What I can do is make sure the number people are counting by year's end is smaller, and I'll start with Sela and Zinn because food that moves to blood doesn't look like weakness, it looks like family. But Bram, I need you to hear this plainly: if Mako decides Fina's twenty is worth the trouble before we've scattered enough of it, two food and fifty-eight strength isn't the wall she needs.",
    "who": "Nessa",
    "year": 11
+  },
+  {
+   "eid": "e004689",
+   "kind": "say",
+   "text": "You're right that I'm not the wall she needs \u2014 so tell me who is, because if Mako moves on Fina this year, I need to know before it happens which names in this village will stand up and which ones will wait to see who wins. Vela and Esa made me a promise in that room, and I need to know if that promise still has teeth with Taric and Roan both in the ground.",
+   "who": "Bram",
+   "year": 11
   }
  ],
  "memory_summary": "",
@@ -6526,7 +6533,7 @@
  "name": "Bram",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "male",
  "siblings": [],
  "strength": 58,
