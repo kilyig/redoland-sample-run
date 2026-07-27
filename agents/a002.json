@@ -6663,6 +6663,13 @@
    "text": "Esa gives 1 food to Bram.",
    "who": "Esa",
    "year": 10
+  },
+  {
+   "eid": "e004412",
+   "kind": "give",
+   "text": "Bram gives 1 food to Nessa.",
+   "who": "Bram",
+   "year": 10
   }
  ],
  "memory_summary": "",
