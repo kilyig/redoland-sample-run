@@ -6712,6 +6712,13 @@
    "text": "Dell gathers Ryn to talk.",
    "who": "Dell",
    "year": 10
+  },
+  {
+   "eid": "e004387",
+   "kind": "say",
+   "text": "Ryn, you're the one she came to, which means she reads you as the door to me \u2014 so I want to know how she sounded when she asked: did she sound like a woman who's finally counting the cost of what she's been handing Bram, or did she sound like a woman running an errand for someone else?",
+   "who": "Dell",
+   "year": 10
   }
  ],
  "memory_summary": "",
@@ -6723,7 +6730,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [],
  "strength": 85,
