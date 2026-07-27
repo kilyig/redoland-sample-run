@@ -7181,6 +7181,13 @@
    "text": "Then I'm going to Fina before the pile settles \u2014 but I want you to come with me, because a woman who just lost her father doesn't need one face, she needs two, and yours carries something mine doesn't yet. We'll walk in talking about Roan, not about her food, and let her tell us what she's afraid of before we say anything about what we can offer.",
    "who": "Dell",
    "year": 11
+  },
+  {
+   "eid": "e004706",
+   "kind": "say",
+   "text": "I'll go with you, and I won't say Roan's name like a strategy \u2014 I'll say it because I watched him stand more times than most men here and I meant it when I counted him as solid. Let Fina do the talking first; grief tells you more about a person than anything they'd say when they're composed. If she cries, we sit with her; if she's already counting, we count with her and let her see we're not surprised.",
+   "who": "Ryn",
+   "year": 11
   }
  ],
  "memory_summary": "",
