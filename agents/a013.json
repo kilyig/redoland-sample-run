@@ -4460,6 +4460,13 @@
    "text": "Fina, Vela counting your food out loud in a closed room isn't the same as Mako counting it in the open \u2014 every person here already had eyes, and what Vela bought us by naming it is that nobody in this circle can pretend they didn't know. The question I want answered is whether Mako knows, because he wasn't in this room.",
    "who": "Roan",
    "year": 10
+  },
+  {
+   "eid": "e004342",
+   "kind": "say",
+   "text": "Mako's got eyes the same as the rest of us \u2014 he counted Fina's food the moment the year turned, same as I did, same as you did. The room isn't the thing protecting her; what protects her is whether we move before he decides she's worth the trouble.",
+   "who": "Esa",
+   "year": 10
   }
  ],
  "memory_summary": "",
