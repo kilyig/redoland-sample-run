@@ -1112,6 +1112,13 @@
    "text": "Sela takes 2 from the pile (pile now 0).",
    "who": "Sela",
    "year": 10
+  },
+  {
+   "eid": "e004311",
+   "kind": "convo",
+   "text": "Nessa gathers Fina, Roan to talk.",
+   "who": "Nessa",
+   "year": 10
   }
  ],
  "memory_summary": "",

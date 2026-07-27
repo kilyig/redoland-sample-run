@@ -7,3 +7,4 @@
 {"eid": "e004308", "year": 10, "phase": "scramble", "kind": "take", "speaker": "a008", "who": "Mako", "audience": "public", "text": "Mako takes 2 from the pile (pile now 4).", "payload": {"amount": 2}}
 {"eid": "e004309", "year": 10, "phase": "scramble", "kind": "take", "speaker": "a010", "who": "Roan", "audience": "public", "text": "Roan takes 2 from the pile (pile now 2).", "payload": {"amount": 2}}
 {"eid": "e004310", "year": 10, "phase": "scramble", "kind": "take", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela takes 2 from the pile (pile now 0).", "payload": {"amount": 2}}
+{"eid": "e004311", "year": 10, "phase": "convo", "kind": "convo", "speaker": "a013", "who": "Nessa", "audience": ["a013", "a015", "a010"], "text": "Nessa gathers Fina, Roan to talk.", "payload": {}}
