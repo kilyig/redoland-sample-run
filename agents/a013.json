@@ -4264,6 +4264,13 @@
    "text": "Pile's gone and I'm sitting on eleven, which is more than I'd like anyone to count for long \u2014 Fina, you're at fifteen and that number draws eyes, so I need to know if you've had anyone approach you yet this morning. Roan, Bram took two and said nothing to me beforehand, and that's new.",
    "who": "Nessa",
    "year": 10
+  },
+  {
+   "eid": "e004313",
+   "kind": "say",
+   "text": "Nobody's come to me yet, but fifteen food makes a man a target and I know it \u2014 I took two from the pile and kept quiet because anything more would've been a declaration. Fina, don't let anyone count your food twice in one morning, and if Mako comes near you without Nessa beside him, come find me first.",
+   "who": "Roan",
+   "year": 10
   }
  ],
  "memory_summary": "",
