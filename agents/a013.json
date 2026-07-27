@@ -4551,6 +4551,13 @@
    "text": "Ryn, I'll say the thing Esa's pointing at without the softening: if Dell and Mako are moving in the same direction, and you're eating Dell's food, then you're already inside whatever that circle is whether you've named it or not \u2014 so tell this room now, before the question answers itself. Zinn, that goes for you too; you're Mako's blood and I won't pretend that's nothing, but blood isn't the same as a choice, and this room is offering you the chance to make one.",
    "who": "Vela",
    "year": 10
+  },
+  {
+   "eid": "e004355",
+   "kind": "say",
+   "text": "Vela, I'll answer both halves because you asked plainly: I stand with this circle against Mako if he moves, same as I stood with it against Bram \u2014 and Dell is my blood, not my leash, and if you're asking whether her choices pull mine, you haven't been watching as closely as you think. What I want said before we close is that \"quiet in the same direction\" is not the same as a choice, and I'll have that conversation with Dell myself before anyone in this room decides what her silence means.",
+   "who": "Ryn",
+   "year": 10
   }
  ],
  "memory_summary": "",
