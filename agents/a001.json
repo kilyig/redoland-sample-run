@@ -6490,6 +6490,13 @@
    "text": "Bram gathers Nessa to talk.",
    "who": "Bram",
    "year": 11
+  },
+  {
+   "eid": "e004685",
+   "kind": "say",
+   "text": "Roan's dead and Fina's got nobody but you and me now \u2014 that's not nothing, that's a wall we didn't have yesterday. I want you feeding her steady and keeping her close, and if anyone in this village starts counting her food out loud the way Vela counted it last year, you tell me before you tell them.",
+   "who": "Bram",
+   "year": 11
   }
  ],
  "memory_summary": "",
@@ -6498,7 +6505,7 @@
  "name": "Bram",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "male",
  "siblings": [],
  "strength": 58,
