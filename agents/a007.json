@@ -1,6 +1,6 @@
 {
  "actions_used_year": 3,
- "age": 32,
+ "age": 33,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -12,7 +12,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 1,
  "health": 2,
  "hp": 100,
  "id": "a007",
@@ -4160,6 +4160,20 @@
    "kind": "pass",
    "text": "",
    "who": "Sela",
+   "year": 10
+  },
+  {
+   "eid": "e004667",
+   "kind": "eat",
+   "text": "eats 1 food",
+   "who": "Sela",
+   "year": 10
+  },
+  {
+   "eid": "e004671",
+   "kind": "death",
+   "text": "Roan starves at age 41.",
+   "who": "the village",
    "year": 10
   }
  ],

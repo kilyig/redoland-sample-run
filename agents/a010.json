@@ -1,19 +1,19 @@
 {
  "actions_used_year": 4,
  "age": 41,
- "alive": true,
+ "alive": false,
  "birth_year": 0,
  "bore_this_year": false,
  "children": [
   "a012",
   "a015"
  ],
- "death_cause": null,
- "death_year": null,
+ "death_cause": "starvation",
+ "death_year": 10,
  "father_note": "",
  "food": 0,
- "health": 1,
- "hp": 100,
+ "health": 0,
+ "hp": 0,
  "id": "a010",
  "intelligence_tokens": 1196,
  "memory_raw": [
@@ -2702,6 +2702,13 @@
    "eid": "e004626",
    "kind": "pass",
    "text": "",
+   "who": "Roan",
+   "year": 10
+  },
+  {
+   "eid": "e004670",
+   "kind": "eat",
+   "text": "eats 0 food",
    "who": "Roan",
    "year": 10
   }
