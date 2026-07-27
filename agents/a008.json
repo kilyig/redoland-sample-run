@@ -5321,6 +5321,13 @@
    "text": "Mako gathers Zinn to talk.",
    "who": "Mako",
    "year": 11
+  },
+  {
+   "eid": "e004828",
+   "kind": "say",
+   "text": "The split should come from her side mostly \u2014 she's sitting on twenty-five and we're not, so if she wants to build something here she pays two and you pay one, and if she balks at that she wasn't serious. I'll stay quiet and let you do the asking; you're closer to her through Nessa and a father making the offer himself reads as hungry.",
+   "who": "Mako",
+   "year": 11
   }
  ],
  "memory_summary": "",
@@ -5329,7 +5336,7 @@
  "name": "Mako",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [],
  "strength": 83,
