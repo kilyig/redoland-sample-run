@@ -6439,6 +6439,13 @@
    "text": "Bram, every person in this room has named what they'll do \u2014 the only name missing is yours, and a man who takes food and gives food and makes deals and stays quiet exactly when the room needs him to speak is a man I'm going to start counting differently than I have been.",
    "who": "Fina",
    "year": 10
+  },
+  {
+   "eid": "e004350",
+   "kind": "say",
+   "text": "Bram, Fina's right and I've said my part already \u2014 so I'll say just this once more and then I'm done pressing: you stood with Nessa and fed her all year, which means you're already past the line in everything that matters, and the word this room needs is a short one.",
+   "who": "Roan",
+   "year": 10
   }
  ],
  "memory_summary": "",
