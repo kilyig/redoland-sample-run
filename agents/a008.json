@@ -5370,6 +5370,13 @@
    "text": "Mako gathers Zinn to talk.",
    "who": "Mako",
    "year": 11
+  },
+  {
+   "eid": "e004842",
+   "kind": "say",
+   "text": "Zinn, I've said what I had to say \u2014 now it's your move, not mine. If Fina's been giving food with no ask attached, she's already thinking, and a word from you through Nessa lands softer than anything I could send. Let me know what she says before you close the door either way.",
+   "who": "Mako",
+   "year": 11
   }
  ],
  "memory_summary": "",
@@ -5378,7 +5385,7 @@
  "name": "Mako",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "male",
  "siblings": [],
  "strength": 83,
