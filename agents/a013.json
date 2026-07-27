@@ -4628,6 +4628,13 @@
    "text": "Zinn, I've been watching you hold your tongue through every name this room has spoken, and I'll tell you what I told Dell when Dav's loyalties were in question: the longer you stay silent, the more the room fills in the answer for you, and you won't like what they write. You've been choosing Nessa with your hands all year \u2014 say it with your mouth and let this room close.",
    "who": "Ryn",
    "year": 10
+  },
+  {
+   "eid": "e004366",
+   "kind": "say",
+   "text": "Zinn, I've got two food and fifty-eight strength and I'm the smallest number in this circle \u2014 but I'm Nessa's father and I'll be standing when Mako moves, and that means I need to know you're standing too before I walk out of this room. If you won't say it for the circle, say it for her.",
+   "who": "Bram",
+   "year": 10
   }
  ],
  "memory_summary": "",
