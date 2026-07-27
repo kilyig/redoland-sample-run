@@ -7132,6 +7132,13 @@
    "text": "Dell gathers Ryn to talk.",
    "who": "Dell",
    "year": 11
+  },
+  {
+   "eid": "e004699",
+   "kind": "say",
+   "text": "Ryn, Roan's gone and the pile's got four left and I haven't touched it yet \u2014 tell me your food count right now, because you're forty-eight and I am not going to let you run thin while Zinn's sitting on three and Nessa's got sixteen. After that I want to talk about Vela, because we never finished that conversation and a woman who was waking up to Bram a year ago is either all the way awake by now or she's been swallowed back into his circle, and I need to know which before this year moves any further.",
+   "who": "Dell",
+   "year": 11
   }
  ],
  "memory_summary": "",
@@ -7143,7 +7150,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "female",
  "siblings": [],
  "strength": 85,
