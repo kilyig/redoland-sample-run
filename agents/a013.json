@@ -5272,6 +5272,13 @@
    "text": "Nessa gives 1 food to Fina.",
    "who": "Nessa",
    "year": 11
+  },
+  {
+   "eid": "e004757",
+   "kind": "convo",
+   "text": "Fina gathers Nessa to talk.",
+   "who": "Fina",
+   "year": 11
   }
  ],
  "memory_summary": "",
