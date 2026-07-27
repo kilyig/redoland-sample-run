@@ -7188,6 +7188,13 @@
    "text": "I'll go with you, and I won't say Roan's name like a strategy \u2014 I'll say it because I watched him stand more times than most men here and I meant it when I counted him as solid. Let Fina do the talking first; grief tells you more about a person than anything they'd say when they're composed. If she cries, we sit with her; if she's already counting, we count with her and let her see we're not surprised.",
    "who": "Ryn",
    "year": 11
+  },
+  {
+   "eid": "e004707",
+   "kind": "say",
+   "text": "Before we walk through Fina's door, I want to say one thing out loud that I've been carrying quiet: Kael's sitting on one food and fifty-five years, and nobody's feeding him, and a man who's been solid in this village that long doesn't deserve to starve in the background while we're all watching Fina's number. If he's still breathing when we come back from Fina, I want to give him something.",
+   "who": "Dell",
+   "year": 11
   }
  ],
  "memory_summary": "",
@@ -7199,7 +7206,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [],
  "strength": 85,
