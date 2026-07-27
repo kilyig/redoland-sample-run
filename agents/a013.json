@@ -5006,6 +5006,13 @@
    "text": "Zinn takes 3 from the pile (pile now 6).",
    "who": "Zinn",
    "year": 11
+  },
+  {
+   "eid": "e004684",
+   "kind": "convo",
+   "text": "Bram gathers Nessa to talk.",
+   "who": "Bram",
+   "year": 11
   }
  ],
  "memory_summary": "",
