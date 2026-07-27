@@ -6035,6 +6035,13 @@
    "text": "Zinn, we're still waiting on your name \u2014 Bram's got his word out, Ryn's walking to Dell before dark, and the only silence left in this room is yours. I know Mako's your father and I'm not asking you to hate him, I'm asking you to decide who you're protecting when it matters.",
    "who": "Esa",
    "year": 10
+  },
+  {
+   "eid": "e004361",
+   "kind": "say",
+   "text": "Zinn, I'll say one thing to make the room easier for you: no one here is asking you to stand against your father's blood, we're asking you to stand with Nessa \u2014 and you've been feeding Nessa all year, so the truth is you've already been making this choice, you just haven't named it yet.",
+   "who": "Ryn",
+   "year": 10
   }
  ],
  "memory_summary": "",
