@@ -2050,6 +2050,13 @@
    "text": "Fina gathers Nessa to talk.",
    "who": "Fina",
    "year": 11
+  },
+  {
+   "eid": "e004769",
+   "kind": "say",
+   "text": "I'm eating, Fina \u2014 I'm not Roan, I won't give until I'm hollow. But twenty-three on your back is the number I'm losing sleep over, not mine, because Mako's at one food and eighty-three strength and you're the heaviest person in this village right now, and that math doesn't need explaining.",
+   "who": "Fina",
+   "year": 11
   }
  ],
  "memory_summary": "",
@@ -2061,7 +2068,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "female",
  "siblings": [
   "a012"
