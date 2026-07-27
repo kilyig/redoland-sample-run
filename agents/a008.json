@@ -4754,6 +4754,13 @@
    "text": "Fina's young and she's never seen a year where the pile runs dry before half the village gets to it \u2014 she doesn't know yet that seventeen is a debt she owes to everyone watching. I'm going to find a reason to pass near her today, nothing that looks like approach, just enough that she knows my face isn't a threat. If she's smart, she'll start spreading before someone makes the decision for her.",
    "who": "Mako",
    "year": 10
+  },
+  {
+   "eid": "e004433",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 10
   }
  ],
  "memory_summary": "",
