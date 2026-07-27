@@ -6406,6 +6406,13 @@
    "text": "Sela gives 1 food to Zinn.",
    "who": "Sela",
    "year": 10
+  },
+  {
+   "eid": "e004554",
+   "kind": "give",
+   "text": "Fina gives 1 food to Roan.",
+   "who": "Fina",
+   "year": 10
   }
  ],
  "memory_summary": "",
