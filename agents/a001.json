@@ -6511,6 +6511,13 @@
    "text": "I'm done at two \u2014 I'm not going to sit on a pile while Fina draws every eye in the village and I look like I'm waiting to take from her. What I need from you is simple: keep some of that twenty quiet, give a little here and there so nobody can point at one number and say that's the target, and make sure she understands that generosity this year is cheaper than a fight.",
    "who": "Bram",
    "year": 11
+  },
+  {
+   "eid": "e004688",
+   "kind": "say",
+   "text": "Twenty is already out there \u2014 Vela named it in a room last year and half this village was listening, so the quiet ship has sailed. What I can do is make sure the number people are counting by year's end is smaller, and I'll start with Sela and Zinn because food that moves to blood doesn't look like weakness, it looks like family. But Bram, I need you to hear this plainly: if Mako decides Fina's twenty is worth the trouble before we've scattered enough of it, two food and fifty-eight strength isn't the wall she needs.",
+   "who": "Nessa",
+   "year": 11
   }
  ],
  "memory_summary": "",
