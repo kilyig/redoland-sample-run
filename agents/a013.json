@@ -4565,6 +4565,13 @@
    "text": "Zinn, Ryn's spoken and I'll hold her to it \u2014 but you're the name that's still unspoken, and you're Mako's blood and Sela's daughter and I'm not going to pretend that's simple, so I'm asking you directly: when Mako moves, where do you stand?",
    "who": "Esa",
    "year": 10
+  },
+  {
+   "eid": "e004357",
+   "kind": "say",
+   "text": "Zinn's the one this room is waiting on, not me \u2014 I've said my word and I'll hold it. But I want to name something while we're all here: Ryn just told us she'll talk to Dell, and Dell's been moving food to Ryn for years, which means that conversation either brings Dell into this circle or it tells us something we need to know before Mako moves. I'd rather know Dell's answer now than find out she's standing on the wrong side when it counts.",
+   "who": "Bram",
+   "year": 10
   }
  ],
  "memory_summary": "",
