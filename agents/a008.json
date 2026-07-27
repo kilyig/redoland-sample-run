@@ -1,5 +1,5 @@
 {
- "actions_used_year": 8,
+ "actions_used_year": 9,
  "age": 42,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 2,
  "health": 2,
  "hp": 100,
  "id": "a008",
@@ -4976,6 +4976,13 @@
    "eid": "e004559",
    "kind": "say",
    "text": "Fina gave one to Roan just now and Sela gave one to me \u2014 the food's moving, but not toward you yet, and I want to know if you're still sitting on three before I decide whether to hold what I've got or put something your way.",
+   "who": "Mako",
+   "year": 10
+  },
+  {
+   "eid": "e004561",
+   "kind": "give",
+   "text": "Mako gives 1 food to Zinn.",
    "who": "Mako",
    "year": 10
   }
