@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 32,
  "alive": true,
  "birth_year": 0,
@@ -12,7 +12,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 5,
+ "food": 3,
  "health": 2,
  "hp": 100,
  "id": "a007",
@@ -3599,6 +3599,13 @@
    "eid": "e004337",
    "kind": "say",
    "text": "Eleven food and silence \u2014 Nessa, I love you, but that combination tells me you've already decided something without telling us what it is, and I need you to understand that Zinn is going to eat this year whether you speak or not, because I'm giving her two of my five right now. What I want from you isn't the food \u2014 it's the reason you went quiet in front of your sister and your mother.",
+   "who": "Sela",
+   "year": 10
+  },
+  {
+   "eid": "e004370",
+   "kind": "give",
+   "text": "Sela gives 2 food to Zinn.",
    "who": "Sela",
    "year": 10
   }

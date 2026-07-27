@@ -6649,6 +6649,13 @@
    "text": "Sela takes 2 from the pile (pile now 0).",
    "who": "Sela",
    "year": 10
+  },
+  {
+   "eid": "e004370",
+   "kind": "give",
+   "text": "Sela gives 2 food to Zinn.",
+   "who": "Sela",
+   "year": 10
   }
  ],
  "memory_summary": "",

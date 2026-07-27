@@ -4558,6 +4558,13 @@
    "text": "Zinn, pile's gone and you're sitting on one food \u2014 that's too thin for a year that's already started dry. How much did Nessa give you before the pile ran out, and is she going to keep coming?",
    "who": "Mako",
    "year": 10
+  },
+  {
+   "eid": "e004370",
+   "kind": "give",
+   "text": "Sela gives 2 food to Zinn.",
+   "who": "Sela",
+   "year": 10
   }
  ],
  "memory_summary": "",

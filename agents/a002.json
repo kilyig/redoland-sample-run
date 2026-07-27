@@ -6565,6 +6565,13 @@
    "text": "Zinn, I've said everything I have to say to this room and I meant every word of it \u2014 but you're the last door standing open, and if you walk out of here without naming where you stand, I'm going to have to carry that back to Dell and tell her the circle isn't as solid as I promised it was.",
    "who": "Ryn",
    "year": 10
+  },
+  {
+   "eid": "e004370",
+   "kind": "give",
+   "text": "Sela gives 2 food to Zinn.",
+   "who": "Sela",
+   "year": 10
   }
  ],
  "memory_summary": "",
