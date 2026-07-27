@@ -1133,6 +1133,13 @@
    "text": "Nobody's come to me yet, but fifteen food makes a man a target and I know it \u2014 I took two from the pile and kept quiet because anything more would've been a declaration. Fina, don't let anyone count your food twice in one morning, and if Mako comes near you without Nessa beside him, come find me first.",
    "who": "Roan",
    "year": 10
+  },
+  {
+   "eid": "e004314",
+   "kind": "say",
+   "text": "Fina, I need to hear from your own mouth whether anyone's come to you \u2014 because fifteen is a number that doesn't stay quiet, and if Bram's already counted it, his silence to me this morning means something I don't like. Roan, the fact that Bram took two without a word and didn't look my way is either him pulling back from me or him deciding he doesn't need to explain himself anymore, and I'm not sure which one worries me more.",
+   "who": "Nessa",
+   "year": 10
   }
  ],
  "memory_summary": "",
