@@ -7216,6 +7216,13 @@
    "text": "That's the right choice, and I'll say so to anyone who asks me why the pile still had food in it when we walked away \u2014 it'll mean more coming from someone who isn't you. Go let them see it, and then we find Fina.",
    "who": "Ryn",
    "year": 11
+  },
+  {
+   "eid": "e004711",
+   "kind": "take",
+   "text": "Vela takes 2 from the pile (pile now 2).",
+   "who": "Vela",
+   "year": 11
   }
  ],
  "memory_summary": "",
