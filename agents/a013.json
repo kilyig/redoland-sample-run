@@ -4544,6 +4544,13 @@
    "text": "Ryn, I'll add the plain thing Vela left off the end: Dell feeds you every year, and Dell's quiet in the same direction Mako is \u2014 so when you answer Vela's question, answer both halves of it.",
    "who": "Esa",
    "year": 10
+  },
+  {
+   "eid": "e004354",
+   "kind": "say",
+   "text": "Ryn, I'll say the thing Esa's pointing at without the softening: if Dell and Mako are moving in the same direction, and you're eating Dell's food, then you're already inside whatever that circle is whether you've named it or not \u2014 so tell this room now, before the question answers itself. Zinn, that goes for you too; you're Mako's blood and I won't pretend that's nothing, but blood isn't the same as a choice, and this room is offering you the chance to make one.",
+   "who": "Vela",
+   "year": 10
   }
  ],
  "memory_summary": "",
