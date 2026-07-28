@@ -3478,6 +3478,13 @@
    "text": "After dark is good \u2014 I'll find you. But Nessa, I've got twenty food already and I'm the target you're naming, so before we move anything around, I want to know whether Mako's spoken to you this morning or whether his two from the pile is the only move he's made so far.",
    "who": "Fina",
    "year": 13
+  },
+  {
+   "eid": "e005538",
+   "kind": "say",
+   "text": "Mako hasn't come to me this morning \u2014 his two from the pile and his silence since is the whole of what I've seen from him, and that stillness is the part I don't trust. A man who took three last year and pulled back to two this year is either being careful about how he looks, or he's already decided the pile isn't where the food he wants is coming from.",
+   "who": "Nessa",
+   "year": 13
   }
  ],
  "memory_summary": "",
