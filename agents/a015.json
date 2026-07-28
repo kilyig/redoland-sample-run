@@ -3772,6 +3772,13 @@
    "text": "Talia (female, age 21; str 64, int 5070, mem 18061; O58 C54 E47 A56 N48) is born to Sela and Mako.",
    "who": "the village",
    "year": 13
+  },
+  {
+   "eid": "e005650",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Talia.",
+   "who": "Nessa",
+   "year": 13
   }
  ],
  "memory_summary": "",
