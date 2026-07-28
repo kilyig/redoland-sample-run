@@ -5704,6 +5704,13 @@
    "text": "Zinn, the pile ran dry before half the village got there and you're sitting on four \u2014 that's too thin going into a long year, and I'm giving you one of mine before anyone starts watching who has what. I want to know what happened with Fina; she's got eighteen still and she gave food to Bram twice last year, which means she's building something with him, and I need to know if that door is already closed before I stop thinking about it.",
    "who": "Mako",
    "year": 13
+  },
+  {
+   "eid": "e005609",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Fina.",
+   "who": "Nessa",
+   "year": 13
   }
  ],
  "memory_summary": "",
