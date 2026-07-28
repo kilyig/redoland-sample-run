@@ -5643,6 +5643,13 @@
    "text": "You're right \u2014 go through Nessa and don't let my name come up first. If Fina asks about me, let her ask twice before you answer.",
    "who": "Mako",
    "year": 12
+  },
+  {
+   "eid": "e005011",
+   "kind": "give",
+   "text": "Bram gives 1 food to Nessa.",
+   "who": "Bram",
+   "year": 12
   }
  ],
  "memory_summary": "",

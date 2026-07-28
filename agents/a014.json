@@ -5004,6 +5004,13 @@
    "text": "Nessa, I need to ask you something and I want you to hear it as your sister before you hear it as anything else \u2014 Fina's been moving food toward us for two years now and she's got no man left since Roan died, and I want to know if you'd be the one to bring me close to her, just to talk, nothing decided yet.",
    "who": "Zinn",
    "year": 12
+  },
+  {
+   "eid": "e005011",
+   "kind": "give",
+   "text": "Bram gives 1 food to Nessa.",
+   "who": "Bram",
+   "year": 12
   }
  ],
  "memory_summary": "",
