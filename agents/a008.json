@@ -6638,6 +6638,13 @@
    "text": "Mako gathers Zinn, Talia to talk.",
    "who": "Mako",
    "year": 13
+  },
+  {
+   "eid": "e005680",
+   "kind": "say",
+   "text": "Talia, you came into this world today and I'm your father \u2014 whatever you hear from others about this village, you come to me or Zinn first. Zinn, she's blood to both of us now; keep her close to Nessa's circle and away from Bram until she finds her feet.",
+   "who": "Mako",
+   "year": 13
   }
  ],
  "memory_summary": "",
@@ -6646,7 +6653,7 @@
  "name": "Mako",
  "parents": [],
  "repro_done_year": true,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [],
  "strength": 83,
