@@ -7615,6 +7615,13 @@
    "text": "Ryn gathers Dell to talk.",
    "who": "Ryn",
    "year": 12
+  },
+  {
+   "eid": "e004972",
+   "kind": "say",
+   "text": "Dell, I've got ten food and two satiation \u2014 better than last year, same worry underneath. Mako just took three from the pile in one reach, which means he's counting on something, and I want to know what before the rest of that pile disappears. Have you talked to Fina this year yet?",
+   "who": "Ryn",
+   "year": 12
   }
  ],
  "memory_summary": "",
