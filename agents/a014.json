@@ -5592,6 +5592,13 @@
    "text": "Zinn, I gave you two before I called this meeting, so your number's not the one I'm sitting with \u2014 Nessa, you took three from the pile this morning and Bram took three and I watched you feed each other all last year, and I need you to say out loud, right now, whether Bram knows what you're holding and whether that's why he took three. I'm not your enemy and I'm not Bram's enemy, but I cannot protect this family from a deal I don't know the terms of.",
    "who": "Sela",
    "year": 13
+  },
+  {
+   "eid": "e005588",
+   "kind": "say",
+   "text": "Nessa, Sela's asking the right question and so am I \u2014 you and Bram moved food back and forth all year like a settled pair, and if there's a deal there, I'd rather know it from you than watch it play out in front of us. I'm not going to push you the way I used to, but I need to know if Bram's counting your food as partly his, because if he is, that changes what we can do with it.",
+   "who": "Zinn",
+   "year": 13
   }
  ],
  "memory_summary": "",
@@ -5603,7 +5610,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 0,
+ "says_used_year": 1,
  "sex": "female",
  "siblings": [
   "a012",
