@@ -4941,6 +4941,13 @@
    "text": "Mako gathers Zinn to talk.",
    "who": "Mako",
    "year": 12
+  },
+  {
+   "eid": "e005002",
+   "kind": "say",
+   "text": "Pile's gone and I've got three food with satiation still low \u2014 I need to eat before the year closes, so I'm not giving anything away today. You sitting steady?",
+   "who": "Mako",
+   "year": 12
   }
  ],
  "memory_summary": "",
