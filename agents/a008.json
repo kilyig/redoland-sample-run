@@ -6462,6 +6462,13 @@
    "text": "Fina gave two to Bram last year and one to Esa, which isn't nothing, but she also gave me one and she's still feeding Nessa \u2014 that's not a woman who's closed a door, that's a woman spreading weight while she decides. I'll go to her through Nessa this year, and I mean it this time, not just a plan we keep naming.",
    "who": "Mako",
    "year": 13
+  },
+  {
+   "eid": "e005617",
+   "kind": "give",
+   "text": "Ryn gives 2 food to Dell.",
+   "who": "Ryn",
+   "year": 13
   }
  ],
  "memory_summary": "",
