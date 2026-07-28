@@ -3534,6 +3534,13 @@
    "text": "Esa gathers Bram, Nessa, Fina to talk.",
    "who": "Esa",
    "year": 13
+  },
+  {
+   "eid": "e005547",
+   "kind": "say",
+   "text": "Bram, you took three from the pile and I took none \u2014 I'm sitting at zero food and one satiation, and if I don't eat before the year turns I don't wake up. I'm asking plainly: can this circle spare one food for the woman who's been feeding it?",
+   "who": "Esa",
+   "year": 13
   }
  ],
  "memory_summary": "",
