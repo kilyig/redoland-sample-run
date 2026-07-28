@@ -86,3 +86,4 @@
 {"eid": "e005052", "year": 12, "phase": "convo", "kind": "say", "speaker": "a007", "who": "Sela", "audience": ["a007", "a013", "a014"], "text": "Nessa, I can see eight on you same as Zinn can, so I'm not waiting on a secret \u2014 I'm waiting on your voice, because the last two years taught me that your silence means you're counting something we don't know about yet, and I'd rather hear it from you than piece it together after the fact.", "payload": {}}
 {"eid": "e005053", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e005054", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "", "payload": {}}
+{"eid": "e005055", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
