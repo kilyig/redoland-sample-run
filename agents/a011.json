@@ -7657,6 +7657,13 @@
    "text": "Then I'm gone \u2014 and Ryn, if it costs you a favor to slow him down, I'll pay that debt back before the year closes.",
    "who": "Dell",
    "year": 12
+  },
+  {
+   "eid": "e004978",
+   "kind": "take",
+   "text": "Esa takes 2 from the pile (pile now 6).",
+   "who": "Esa",
+   "year": 12
   }
  ],
  "memory_summary": "",
