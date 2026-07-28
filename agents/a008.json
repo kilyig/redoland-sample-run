@@ -1,6 +1,6 @@
 {
  "actions_used_year": 4,
- "age": 44,
+ "age": 45,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -10,8 +10,8 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
- "health": 1,
+ "food": 1,
+ "health": 2,
  "hp": 100,
  "id": "a008",
  "intelligence_tokens": 3906,
@@ -6320,6 +6320,13 @@
    "eid": "e005511",
    "kind": "pass",
    "text": "",
+   "who": "Mako",
+   "year": 12
+  },
+  {
+   "eid": "e005517",
+   "kind": "eat",
+   "text": "eats 2 food",
    "who": "Mako",
    "year": 12
   }
