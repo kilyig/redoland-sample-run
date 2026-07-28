@@ -7755,6 +7755,13 @@
    "text": "Ryn gathers Dell to talk.",
    "who": "Ryn",
    "year": 12
+  },
+  {
+   "eid": "e005040",
+   "kind": "say",
+   "text": "Dell, before you go \u2014 Fina gave food to Bram just now, which means she's not just inside Mako's door, she's opening Bram's too, and a woman spreading food that wide is either buying protection from every direction or she doesn't know yet which walls are load-bearing. Come back to me with what she says about Bram, not just Mako.",
+   "who": "Ryn",
+   "year": 12
   }
  ],
  "memory_summary": "",

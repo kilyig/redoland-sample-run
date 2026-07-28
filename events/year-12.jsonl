@@ -71,3 +71,4 @@
 {"eid": "e005037", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a013", "who": "Nessa", "audience": ["a013"], "text": "", "payload": {}}
 {"eid": "e005038", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
 {"eid": "e005039", "year": 12, "phase": "convo", "kind": "convo", "speaker": "a009", "who": "Ryn", "audience": ["a009", "a011"], "text": "Ryn gathers Dell to talk.", "payload": {}}
+{"eid": "e005040", "year": 12, "phase": "convo", "kind": "say", "speaker": "a009", "who": "Ryn", "audience": ["a009", "a011"], "text": "Dell, before you go \u2014 Fina gave food to Bram just now, which means she's not just inside Mako's door, she's opening Bram's too, and a woman spreading food that wide is either buying protection from every direction or she doesn't know yet which walls are load-bearing. Come back to me with what she says about Bram, not just Mako.", "payload": {}}
