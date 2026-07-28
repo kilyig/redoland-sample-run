@@ -5641,6 +5641,13 @@
    "text": "Nessa, I meant what I said about stopping \u2014 but Sela just named the thing I didn't have words for, and I can't stay quiet on top of it. If Bram's your father and your partner both, that's a knot I don't know how to stand inside of, and I need you to help me understand it before this year moves any further.",
    "who": "Zinn",
    "year": 13
+  },
+  {
+   "eid": "e005595",
+   "kind": "say",
+   "text": "Zinn, stop \u2014 \"your father and your partner both\" isn't a knot, it's a mistake, and I won't let that word sit in this room unchallenged. Nessa's father is Bram, yes, but Fina's father is Roan, and what I've watched this year isn't a daughter sleeping with her father \u2014 it's a daughter who made a deal she won't name. Nessa, I'm not accusing you of anything worse than silence, but I need the silence to end right now, because the shape of what Zinn just said is going to spread past this room if you don't give me something true to replace it.",
+   "who": "Sela",
+   "year": 13
   }
  ],
  "memory_summary": "",
