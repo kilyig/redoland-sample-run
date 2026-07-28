@@ -5046,6 +5046,13 @@
    "text": "Sela gathers Nessa, Zinn to talk.",
    "who": "Sela",
    "year": 12
+  },
+  {
+   "eid": "e005050",
+   "kind": "say",
+   "text": "The pile's gone and I've got eight food, but I didn't get a single piece from it this year \u2014 Nessa, Zinn, tell me what you're each holding so I know where we stand before this day gets any older.",
+   "who": "Sela",
+   "year": 12
   }
  ],
  "memory_summary": "",
