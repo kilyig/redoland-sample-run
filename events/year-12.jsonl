@@ -68,3 +68,4 @@
 {"eid": "e005034", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e005035", "year": 12, "phase": "convo", "kind": "convo", "speaker": "a004", "who": "Kael", "audience": ["a004", "a002", "a003"], "text": "Kael gathers Vela, Esa to talk.", "payload": {}}
 {"eid": "e005036", "year": 12, "phase": "convo", "kind": "say", "speaker": "a004", "who": "Kael", "audience": ["a004", "a002", "a003"], "text": "The pile's gone and I've got one food in hand \u2014 same as last year before things got tight \u2014 so I want to know where the two of you stand before Mako finishes counting his take and starts looking at the rest of us.", "payload": {}}
+{"eid": "e005037", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a013", "who": "Nessa", "audience": ["a013"], "text": "", "payload": {}}
