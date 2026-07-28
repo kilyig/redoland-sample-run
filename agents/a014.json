@@ -4955,6 +4955,13 @@
    "text": "I'm at five, satiation's fine \u2014 don't worry about me. But Mako, three food with satiation low means you eat before year-end no matter what, so don't let anyone talk you into giving before you've fed yourself.",
    "who": "Zinn",
    "year": 12
+  },
+  {
+   "eid": "e005004",
+   "kind": "say",
+   "text": "Good \u2014 five puts you safe. I'm watching Fina; she's sitting on twenty-four and she gave you one at the start of this year, which means she's still thinking about us. Once I've eaten and the year settles, I want to know if you've had any words with her about the child offer, because that window won't stay open much longer.",
+   "who": "Mako",
+   "year": 12
   }
  ],
  "memory_summary": "",
