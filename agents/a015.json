@@ -3513,6 +3513,13 @@
    "text": "Good \u2014 come to me first, always, before you act on anything Zinn says about him, because she loves him and she loves us both and that means she'll soften whatever she tells you without meaning to. The thing I want you to hold going into that conversation is this: Mako gave Zinn food twice last year, and a man doesn't feed his daughter out of sentiment alone when he's sitting light on food \u2014 he's buying something, and I want to know what it is before you're alone with her and she hands you a half-truth dressed up as a warning.",
    "who": "Nessa",
    "year": 13
+  },
+  {
+   "eid": "e005543",
+   "kind": "say",
+   "text": "I'll carry that with me \u2014 Mako feeding Zinn when he was sitting light isn't kindness, it's a ledger, and I want to know what he thinks she owes him before she's standing between us and him without knowing it. Go careful today, Nessa, and don't let Bram see how much you're watching his food \u2014 a man who just took three is counting who noticed.",
+   "who": "Fina",
+   "year": 13
   }
  ],
  "memory_summary": "",
@@ -3524,7 +3531,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [
   "a012"
