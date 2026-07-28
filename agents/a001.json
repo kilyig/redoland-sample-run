@@ -7085,6 +7085,13 @@
    "text": "Bram, I'll give you one food today \u2014 not because you asked and not because I owe it, but because you fed Nessa all last year and I don't forget that. Say plainly what you need from us this year, because one food from the pile going into twelve months with Mako sitting on three isn't something any of us can afford to dance around.",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004995",
+   "kind": "say",
+   "text": "Bram, take the one from Fina and take one from me too \u2014 two food doesn't fix a long year but it's the difference between a man who can afford to wait and a man who has to move before he's ready. What I need to hear from you in return is whether Vela's still inside this circle or whether her silence this morning means something I should be walking toward right now.",
+   "who": "Nessa",
+   "year": 12
   }
  ],
  "memory_summary": "",
