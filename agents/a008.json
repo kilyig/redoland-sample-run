@@ -5615,6 +5615,13 @@
    "text": "Good \u2014 five puts you safe. I'm watching Fina; she's sitting on twenty-four and she gave you one at the start of this year, which means she's still thinking about us. Once I've eaten and the year settles, I want to know if you've had any words with her about the child offer, because that window won't stay open much longer.",
    "who": "Mako",
    "year": 12
+  },
+  {
+   "eid": "e005005",
+   "kind": "say",
+   "text": "I haven't said a word to her yet \u2014 I kept waiting for the right moment and the year kept moving. But Fina's been coming toward us on her own, Mako, and I think that's better than any door I could have opened. Give me a few days after you've eaten and I'll find a reason to sit near her through Nessa.",
+   "who": "Zinn",
+   "year": 12
   }
  ],
  "memory_summary": "",
