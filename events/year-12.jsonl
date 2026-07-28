@@ -179,3 +179,4 @@
 {"eid": "e005145", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e005146", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e005147", "year": 12, "phase": "convo", "kind": "convo", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "Mako gathers Zinn to talk.", "payload": {}}
+{"eid": "e005148", "year": 12, "phase": "convo", "kind": "say", "speaker": "a008", "who": "Mako", "audience": ["a008", "a014"], "text": "Kael's got one food left and Vela gave it straight back to him \u2014 that's not a man buying a seat, that's two people keeping each other warm while the year runs out. I don't think he's got the food to make a child offer even if he wanted to, so let's not waste worry on him.", "payload": {}}

@@ -5417,6 +5417,13 @@
    "text": "Mako gathers Zinn to talk.",
    "who": "Mako",
    "year": 12
+  },
+  {
+   "eid": "e005148",
+   "kind": "say",
+   "text": "Kael's got one food left and Vela gave it straight back to him \u2014 that's not a man buying a seat, that's two people keeping each other warm while the year runs out. I don't think he's got the food to make a child offer even if he wanted to, so let's not waste worry on him.",
+   "who": "Mako",
+   "year": 12
   }
  ],
  "memory_summary": "",
