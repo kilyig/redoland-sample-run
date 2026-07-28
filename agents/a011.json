@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 32,
  "alive": true,
  "birth_year": 2,
@@ -4211,6 +4211,13 @@
    "eid": "e005568",
    "kind": "say",
    "text": "I'm going now \u2014 and Ryn, if she feeds me while I'm sitting with her, I'll know she's been practicing that gesture so long it's become reflex, and reflex is what you break before it becomes loyalty.",
+   "who": "Dell",
+   "year": 13
+  },
+  {
+   "eid": "e005570",
+   "kind": "convo",
+   "text": "Dell gathers Fina to talk.",
    "who": "Dell",
    "year": 13
   }

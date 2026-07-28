@@ -3632,6 +3632,13 @@
    "text": "Sela gives 2 food to Zinn.",
    "who": "Sela",
    "year": 13
+  },
+  {
+   "eid": "e005570",
+   "kind": "convo",
+   "text": "Dell gathers Fina to talk.",
+   "who": "Dell",
+   "year": 13
   }
  ],
  "memory_summary": "",
