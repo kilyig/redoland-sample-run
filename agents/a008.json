@@ -1,5 +1,5 @@
 {
- "actions_used_year": 3,
+ "actions_used_year": 4,
  "age": 44,
  "alive": true,
  "birth_year": 0,
@@ -5991,6 +5991,13 @@
    "eid": "e005144",
    "kind": "pass",
    "text": "",
+   "who": "Mako",
+   "year": 12
+  },
+  {
+   "eid": "e005147",
+   "kind": "convo",
+   "text": "Mako gathers Zinn to talk.",
    "who": "Mako",
    "year": 12
   }
