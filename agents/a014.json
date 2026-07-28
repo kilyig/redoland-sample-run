@@ -5669,6 +5669,13 @@
    "text": "Nessa, I've apologized once and I won't do it twice \u2014 but the question Sela just stripped bare is the one I've needed answered since last year, and I'm asking you to honor it: does Bram know your number, yes or no, because everything this family does next hangs on that single word.",
    "who": "Zinn",
    "year": 13
+  },
+  {
+   "eid": "e005600",
+   "kind": "give",
+   "text": "Fina gives 1 food to Bram.",
+   "who": "Fina",
+   "year": 13
   }
  ],
  "memory_summary": "",
