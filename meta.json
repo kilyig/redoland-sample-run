@@ -11,14 +11,14 @@
     "a013",
     "a015"
    ],
-   "guard": 7,
+   "guard": 8,
    "initiator": "a003",
-   "last": "a001",
+   "last": "a003",
    "opened": true
   }
  },
  "next_aid": 15,
- "next_eid": 5554,
+ "next_eid": 5555,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,
@@ -690,7 +690,7 @@
    820806666,
    1799654207,
    658251369,
-   307
+   310
   ],
   null
  ],
