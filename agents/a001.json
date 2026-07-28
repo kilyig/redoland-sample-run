@@ -7239,6 +7239,13 @@
    "text": "Nessa walking with you is the right call, Vela, and I'll make it three \u2014 a woman alone with twenty-four food is a target, but three women moving together before dark is a statement Mako reads before he reads anything else. Nessa, I know you haven't said your word yet in this room, and I'm not pressing you for a speech \u2014 just tell me you're walking with us tonight.",
    "who": "Esa",
    "year": 12
+  },
+  {
+   "eid": "e005027",
+   "kind": "say",
+   "text": "Nessa, I'll stand next to you and Fina both tonight and every night Mako's watching \u2014 but this room doesn't close without your voice in it, because I've buried two men who backed me quietly and said nothing out loud, and I'm not building another wall on silence. One sentence is all this circle needs from you.",
+   "who": "Vela",
+   "year": 12
   }
  ],
  "memory_summary": "",
