@@ -7734,6 +7734,13 @@
    "text": "Fina, I'm Dell \u2014 I watched your father stand in this village more times than most people count, and I wanted to find you before the day got loud, not to talk about food or circles or who's watching your number, but just to say that Roan was solid and I'm sorry he's gone.",
    "who": "Dell",
    "year": 12
+  },
+  {
+   "eid": "e005033",
+   "kind": "give",
+   "text": "Fina gives 1 food to Bram.",
+   "who": "Fina",
+   "year": 12
   }
  ],
  "memory_summary": "",
