@@ -5893,6 +5893,13 @@
    "text": "Zinn, Fina is sitting on twenty-four food and no one in this village has ever held that much at once \u2014 I don't know if she's brilliant or building a wall between herself and the rest of us, but either way I want to understand her before someone like Bram decides to.",
    "who": "Talia",
    "year": 13
+  },
+  {
+   "eid": "e005670",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Fina.",
+   "who": "Nessa",
+   "year": 13
   }
  ],
  "memory_summary": "",
