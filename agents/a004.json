@@ -1,5 +1,5 @@
 {
- "actions_used_year": 3,
+ "actions_used_year": 4,
  "age": 56,
  "alive": true,
  "birth_year": 0,
@@ -1657,6 +1657,13 @@
    "kind": "give",
    "text": "Sela gives 1 food to Zinn.",
    "who": "Sela",
+   "year": 12
+  },
+  {
+   "eid": "e005096",
+   "kind": "convo",
+   "text": "Kael gathers Vela, Esa to talk.",
+   "who": "Kael",
    "year": 12
   }
  ],

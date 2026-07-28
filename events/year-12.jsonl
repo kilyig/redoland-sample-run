@@ -127,3 +127,4 @@
 {"eid": "e005093", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
 {"eid": "e005094", "year": 12, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 1 food to Ryn.", "payload": {"target": "a009", "amount": 1}}
 {"eid": "e005095", "year": 12, "phase": "scramble", "kind": "give", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela gives 1 food to Zinn.", "payload": {"target": "a014", "amount": 1}}
+{"eid": "e005096", "year": 12, "phase": "convo", "kind": "convo", "speaker": "a004", "who": "Kael", "audience": ["a004", "a002", "a003"], "text": "Kael gathers Vela, Esa to talk.", "payload": {}}
