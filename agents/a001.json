@@ -1,6 +1,6 @@
 {
  "actions_used_year": 4,
- "age": 41,
+ "age": 42,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -10,8 +10,8 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
- "health": 1,
+ "food": 1,
+ "health": 2,
  "hp": 100,
  "id": "a001",
  "intelligence_tokens": 5416,
@@ -6985,6 +6985,13 @@
    "eid": "e004950",
    "kind": "pass",
    "text": "",
+   "who": "Bram",
+   "year": 11
+  },
+  {
+   "eid": "e004954",
+   "kind": "eat",
+   "text": "eats 2 food",
    "who": "Bram",
    "year": 11
   }

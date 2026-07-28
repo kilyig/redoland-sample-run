@@ -1,6 +1,6 @@
 {
  "actions_used_year": 8,
- "age": 43,
+ "age": 44,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -11,7 +11,7 @@
  "death_year": null,
  "father_note": "",
  "food": 0,
- "health": 2,
+ "health": 1,
  "hp": 100,
  "id": "a008",
  "intelligence_tokens": 3906,
@@ -5502,6 +5502,13 @@
    "kind": "give",
    "text": "Esa gives 1 food to Bram.",
    "who": "Esa",
+   "year": 11
+  },
+  {
+   "eid": "e004959",
+   "kind": "eat",
+   "text": "eats 0 food",
+   "who": "Mako",
    "year": 11
   }
  ],
