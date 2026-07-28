@@ -4983,6 +4983,13 @@
    "text": "You're right that I've been slow \u2014 but Mako, I need to say this plainly: Fina's twenty-five and she's got her own counting to do, and if she catches a whiff of us watching her food before she's chosen us, we lose her faster than any other man could take her. Let me go to her through Nessa the way I'd go to a friend, not a plan.",
    "who": "Zinn",
    "year": 12
+  },
+  {
+   "eid": "e005008",
+   "kind": "say",
+   "text": "You're right \u2014 go through Nessa and don't let my name come up first. If Fina asks about me, let her ask twice before you answer.",
+   "who": "Mako",
+   "year": 12
   }
  ],
  "memory_summary": "",
