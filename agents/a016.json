@@ -174,6 +174,13 @@
    "text": "Zinn, what's plain and true about Talia is that she came into this room asking the right questions before I even knew to ask them \u2014 tell Fina that, if she asks, because a woman who counts food the way Fina does will respect someone who counts people the same way. Talia, you've got the right instinct with Nessa, just don't move so careful that you look like you're moving careful.",
    "who": "Mako",
    "year": 13
+  },
+  {
+   "eid": "e005685",
+   "kind": "say",
+   "text": "Mako, when you say don't move so careful that I look careful \u2014 that's harder than it sounds for someone who came into this world today with everyone already watching. Zinn, you know me better than anyone here does; am I the kind of person who can walk into a circle without making it obvious I want to be in it?",
+   "who": "Talia",
+   "year": 13
   }
  ],
  "memory_summary": "",
@@ -185,7 +192,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [
   "a012",
