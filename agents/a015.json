@@ -3506,6 +3506,13 @@
    "text": "A word it is, then \u2014 I'll find something kind to say about Sela and let that open the door, because Zinn's soft on her sister and that's the easiest way in. Nessa, if she tells me anything that changes what I think about tonight, I'll come to you before I act on it, not after.",
    "who": "Fina",
    "year": 13
+  },
+  {
+   "eid": "e005542",
+   "kind": "say",
+   "text": "Good \u2014 come to me first, always, before you act on anything Zinn says about him, because she loves him and she loves us both and that means she'll soften whatever she tells you without meaning to. The thing I want you to hold going into that conversation is this: Mako gave Zinn food twice last year, and a man doesn't feed his daughter out of sentiment alone when he's sitting light on food \u2014 he's buying something, and I want to know what it is before you're alone with her and she hands you a half-truth dressed up as a warning.",
+   "who": "Nessa",
+   "year": 13
   }
  ],
  "memory_summary": "",
