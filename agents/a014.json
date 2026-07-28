@@ -1,5 +1,5 @@
 {
- "actions_used_year": 2,
+ "actions_used_year": 3,
  "age": 27,
  "alive": true,
  "birth_year": 6,
@@ -4989,6 +4989,13 @@
    "kind": "say",
    "text": "You're right \u2014 go through Nessa and don't let my name come up first. If Fina asks about me, let her ask twice before you answer.",
    "who": "Mako",
+   "year": 12
+  },
+  {
+   "eid": "e005009",
+   "kind": "convo",
+   "text": "Zinn gathers Nessa to talk.",
+   "who": "Zinn",
    "year": 12
   }
  ],
