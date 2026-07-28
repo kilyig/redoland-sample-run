@@ -3716,6 +3716,13 @@
    "text": "",
    "who": "Fina",
    "year": 13
+  },
+  {
+   "eid": "e005626",
+   "kind": "give",
+   "text": "Mako gives 1 food to Zinn.",
+   "who": "Mako",
+   "year": 13
   }
  ],
  "memory_summary": "",
