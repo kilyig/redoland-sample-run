@@ -12,3 +12,4 @@
 {"eid": "e004978", "year": 12, "phase": "scramble", "kind": "take", "speaker": "a003", "who": "Esa", "audience": "public", "text": "Esa takes 2 from the pile (pile now 6).", "payload": {"amount": 2}}
 {"eid": "e004979", "year": 12, "phase": "scramble", "kind": "give", "speaker": "a015", "who": "Fina", "audience": "public", "text": "Fina gives 1 food to Zinn.", "payload": {"target": "a014", "amount": 1}}
 {"eid": "e004980", "year": 12, "phase": "scramble", "kind": "take", "speaker": "a014", "who": "Zinn", "audience": "public", "text": "Zinn takes 2 from the pile (pile now 4).", "payload": {"amount": 2}}
+{"eid": "e004981", "year": 12, "phase": "convo", "kind": "convo", "speaker": "a015", "who": "Fina", "audience": ["a015", "a013"], "text": "Fina gathers Nessa to talk.", "payload": {}}
