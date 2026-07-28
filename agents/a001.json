@@ -8443,6 +8443,13 @@
    "text": "Sela gives 1 food to Talia.",
    "who": "Sela",
    "year": 13
+  },
+  {
+   "eid": "e005658",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Fina.",
+   "who": "Nessa",
+   "year": 13
   }
  ],
  "memory_summary": "",
