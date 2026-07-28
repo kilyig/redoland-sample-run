@@ -1,5 +1,5 @@
 {
- "actions_used_year": 2,
+ "actions_used_year": 3,
  "age": 34,
  "alive": true,
  "birth_year": 0,
@@ -4993,6 +4993,13 @@
    "kind": "give",
    "text": "Dell gives 1 food to Ryn.",
    "who": "Dell",
+   "year": 12
+  },
+  {
+   "eid": "e005075",
+   "kind": "convo",
+   "text": "Sela gathers Nessa, Zinn to talk.",
+   "who": "Sela",
    "year": 12
   }
  ],
