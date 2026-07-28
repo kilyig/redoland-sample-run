@@ -7650,6 +7650,13 @@
    "text": "Go, Dell \u2014 I'll watch him. And if he moves toward Fina before you get there, I won't just find you fast, I'll put myself between them long enough for you to arrive, even if I have to ask him something that costs me a favor to ask.",
    "who": "Ryn",
    "year": 12
+  },
+  {
+   "eid": "e004977",
+   "kind": "say",
+   "text": "Then I'm gone \u2014 and Ryn, if it costs you a favor to slow him down, I'll pay that debt back before the year closes.",
+   "who": "Dell",
+   "year": 12
   }
  ],
  "memory_summary": "",
@@ -7661,7 +7668,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [],
  "strength": 85,
