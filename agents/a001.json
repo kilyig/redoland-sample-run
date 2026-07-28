@@ -7169,6 +7169,13 @@
    "text": "Bram's named the teeth and I'll name the jaw: Fina's twenty-four food is the thing Mako's already counted, which means our window to look like a wall is shorter than we'd like. Nessa, I've watched you feed half this village for three years and say almost nothing \u2014 so say something now, in this room, because the word we're building here needs your voice in it, not just your blood.",
    "who": "Vela",
    "year": 12
+  },
+  {
+   "eid": "e005017",
+   "kind": "say",
+   "text": "Nessa, I'll say what Vela left unsaid: Fina's twenty-four food is the number that ends this conversation one way or another, because Mako knows it as well as we do, and a man with three food and two bloodlines who hasn't moved yet is a man waiting to see whether Fina stands with him or stands against him. If she's already feeding Zinn \u2014 and she is \u2014 then the question isn't whether Mako moves, it's whether he moves on us or with us, and I need your answer on that before this room closes.",
+   "who": "Esa",
+   "year": 12
   }
  ],
  "memory_summary": "",
