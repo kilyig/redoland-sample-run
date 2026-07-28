@@ -7148,6 +7148,13 @@
    "text": "Taric's gone and Roan's gone and this village is twelve people with Mako sitting on three food and two bloodlines \u2014 so I'm not opening this room to talk around the edges. Bram, you made a word last year and I held it; Nessa, you've been the one who matters in that household since before anyone said so out loud. I want to know, the four of us, whether we're counting heads together when the pile opens next year, or whether I need to stop pretending this circle has more weight than it does.",
    "who": "Vela",
    "year": 12
+  },
+  {
+   "eid": "e005014",
+   "kind": "say",
+   "text": "Vela's asked the question I've been holding since Taric died, so I'll say it plain: yes, I'm counting with this room, and I've been buying Bram's word with food because I had nothing else to buy it with, and I'm not ashamed of that trade. What I need to know before we close is whether Bram's word holds without Nessa standing behind it, or whether it's the other way around \u2014 because those are two different circles and I want to know which one I'm actually in.",
+   "who": "Esa",
+   "year": 12
   }
  ],
  "memory_summary": "",
