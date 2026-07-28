@@ -3499,6 +3499,13 @@
    "text": "Zinn will tell you what she knows, but she'll tell it sideways \u2014 she never names her father flat out, she circles it and lets you read between. Go to her, but go easy and give her something first, a word or a food, because Zinn talks more when she doesn't feel like she's being asked to choose.",
    "who": "Nessa",
    "year": 13
+  },
+  {
+   "eid": "e005541",
+   "kind": "say",
+   "text": "A word it is, then \u2014 I'll find something kind to say about Sela and let that open the door, because Zinn's soft on her sister and that's the easiest way in. Nessa, if she tells me anything that changes what I think about tonight, I'll come to you before I act on it, not after.",
+   "who": "Fina",
+   "year": 13
   }
  ],
  "memory_summary": "",
@@ -3510,7 +3517,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [
   "a012"
