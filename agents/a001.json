@@ -7232,6 +7232,13 @@
    "text": "Bram's right that visible is better than waiting, and I'll go to Fina before dark \u2014 but I want to name one thing before this room closes: Mako's three food means he needs to eat before the year turns or he starts the next one desperate, and a desperate man with two bloodlines looks at twenty-four food differently than a patient one. If he moves this year, it won't be a raid with witnesses, it'll be a conversation with Fina alone, and that's why I want Nessa walking with me when I go, not standing somewhere Mako can find her separate.",
    "who": "Vela",
    "year": 12
+  },
+  {
+   "eid": "e005026",
+   "kind": "say",
+   "text": "Nessa walking with you is the right call, Vela, and I'll make it three \u2014 a woman alone with twenty-four food is a target, but three women moving together before dark is a statement Mako reads before he reads anything else. Nessa, I know you haven't said your word yet in this room, and I'm not pressing you for a speech \u2014 just tell me you're walking with us tonight.",
+   "who": "Esa",
+   "year": 12
   }
  ],
  "memory_summary": "",
