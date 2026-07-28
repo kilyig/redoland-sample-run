@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 56,
  "alive": true,
  "birth_year": 0,
@@ -4268,6 +4268,13 @@
    "kind": "give",
    "text": "Bram gives 1 food to Nessa.",
    "who": "Bram",
+   "year": 12
+  },
+  {
+   "eid": "e005012",
+   "kind": "convo",
+   "text": "Vela gathers Bram, Esa, Nessa to talk.",
+   "who": "Vela",
    "year": 12
   }
  ],
