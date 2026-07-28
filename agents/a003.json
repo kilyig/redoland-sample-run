@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 0,
+ "food": 1,
  "health": 2,
  "hp": 100,
  "id": "a003",
@@ -1755,6 +1755,13 @@
    "kind": "give",
    "text": "Mako gives 1 food to Talia.",
    "who": "Mako",
+   "year": 13
+  },
+  {
+   "eid": "e005700",
+   "kind": "give",
+   "text": "Bram gives 1 food to Esa.",
+   "who": "Bram",
    "year": 13
   }
  ],
