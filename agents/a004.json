@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 56,
  "alive": true,
  "birth_year": 0,
@@ -1489,6 +1489,13 @@
    "kind": "give",
    "text": "Fina gives 1 food to Bram.",
    "who": "Fina",
+   "year": 12
+  },
+  {
+   "eid": "e005035",
+   "kind": "convo",
+   "text": "Kael gathers Vela, Esa to talk.",
+   "who": "Kael",
    "year": 12
   }
  ],
