@@ -8345,6 +8345,13 @@
    "text": "",
    "who": "Bram",
    "year": 13
+  },
+  {
+   "eid": "e005630",
+   "kind": "give",
+   "text": "Sela gives 1 food to Mako.",
+   "who": "Sela",
+   "year": 13
   }
  ],
  "memory_summary": "",
