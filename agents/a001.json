@@ -7190,6 +7190,13 @@
    "text": "Fina's inside this circle whether she knows it yet or not \u2014 she's Nessa's daughter and Roan's blood and she's been watching this village since she was born into it, and that's not a girl who feeds her way into Mako's house without knowing exactly what she's doing. Nessa, you're the one who can say that to her in a way she'll hear, which means you're still the name I'm waiting on in this room.",
    "who": "Vela",
    "year": 12
+  },
+  {
+   "eid": "e005020",
+   "kind": "say",
+   "text": "Nessa, Vela's right that you're the one who can reach Fina \u2014 but I'll say the harder thing: if Fina's twenty-four food goes to Mako, this circle doesn't lose a piece, it loses the center, and no amount of standing visible saves us from that arithmetic. So before we close this room, I need to hear from you whether you've already had this conversation with her, or whether we're building a wall around a gap we haven't measured yet.",
+   "who": "Esa",
+   "year": 12
   }
  ],
  "memory_summary": "",
