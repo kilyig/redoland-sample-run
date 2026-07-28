@@ -5634,6 +5634,13 @@
    "text": "Nessa, I've run out of patient words and I've run out of clever ones \u2014 so here's what's left: you are my daughter, Bram is your father's rival and a man who has tried to raid this family twice, and if this is the year I can still make a child, I need to know whether the blood I'm building toward has a clean path or one that runs through him first.",
    "who": "Sela",
    "year": 13
+  },
+  {
+   "eid": "e005594",
+   "kind": "say",
+   "text": "Nessa, I meant what I said about stopping \u2014 but Sela just named the thing I didn't have words for, and I can't stay quiet on top of it. If Bram's your father and your partner both, that's a knot I don't know how to stand inside of, and I need you to help me understand it before this year moves any further.",
+   "who": "Zinn",
+   "year": 13
   }
  ],
  "memory_summary": "",
@@ -5645,7 +5652,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [
   "a012",
