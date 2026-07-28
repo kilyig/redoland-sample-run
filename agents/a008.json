@@ -6504,6 +6504,13 @@
    "text": "Sela just put one in my hand and Zinn's sitting steadier now \u2014 that's good, but I want Zinn to hear me say this flat: go to Nessa today, not tomorrow, because Bram's got three food and he's been feeding Nessa all year and a man with something to offer doesn't wait while another man builds the path. If Fina's still open, she won't stay that way much longer.",
    "who": "Mako",
    "year": 13
+  },
+  {
+   "eid": "e005640",
+   "kind": "give",
+   "text": "Sela gives 1 food to Nessa.",
+   "who": "Sela",
+   "year": 13
   }
  ],
  "memory_summary": "",
