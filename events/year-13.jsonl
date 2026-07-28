@@ -94,3 +94,4 @@
 {"eid": "e005619", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e005620", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "", "payload": {}}
 {"eid": "e005621", "year": 13, "phase": "convo", "kind": "convo", "speaker": "a009", "who": "Ryn", "audience": ["a009", "a011"], "text": "Ryn gathers Dell to talk.", "payload": {}}
+{"eid": "e005622", "year": 13, "phase": "convo", "kind": "say", "speaker": "a009", "who": "Ryn", "audience": ["a009", "a011"], "text": "Go, Dell \u2014 and don't come back and tell me what she said, come back and tell me how she looked when she said it, because Fina's a woman who's been watching this village count her food since before her father's body was cold and she's learned to say the right thing to whoever's sitting across from her.", "payload": {}}
