@@ -7636,6 +7636,13 @@
    "text": "Last year Fina gave food to Mako \u2014 not a lot, but she gave it, which means he's already inside the door we thought we were going to knock on first. Go to her before anyone else does, and go without mentioning his name; if she brings him up herself, we'll know how far in she already is.",
    "who": "Ryn",
    "year": 12
+  },
+  {
+   "eid": "e004975",
+   "kind": "say",
+   "text": "I'm going to her now \u2014 but Ryn, I want you to watch Mako while I'm gone, not to follow him, just to see where he points himself after the pile, because a man who took three and is already sitting on three from before has room to be generous today and generosity toward Fina right now is the move I'd make if I were him. If he walks her direction before I get there, find me fast.",
+   "who": "Dell",
+   "year": 12
   }
  ],
  "memory_summary": "",
@@ -7647,7 +7654,7 @@
   "a005"
  ],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "female",
  "siblings": [],
  "strength": 85,
