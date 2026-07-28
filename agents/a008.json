@@ -1,5 +1,5 @@
 {
- "actions_used_year": 2,
+ "actions_used_year": 3,
  "age": 44,
  "alive": true,
  "birth_year": 0,
@@ -5852,6 +5852,13 @@
    "kind": "give",
    "text": "Dell gives 1 food to Ryn.",
    "who": "Dell",
+   "year": 12
+  },
+  {
+   "eid": "e005114",
+   "kind": "convo",
+   "text": "Mako gathers Zinn to talk.",
+   "who": "Mako",
    "year": 12
   }
  ],
