@@ -7568,6 +7568,13 @@
    "text": "Dell gives 1 food to Ryn.",
    "who": "Dell",
    "year": 12
+  },
+  {
+   "eid": "e005140",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Fina.",
+   "who": "Nessa",
+   "year": 12
   }
  ],
  "memory_summary": "",
