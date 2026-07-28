@@ -8084,6 +8084,13 @@
    "text": "Bram gives 1 food to Nessa.",
    "who": "Bram",
    "year": 12
+  },
+  {
+   "eid": "e005160",
+   "kind": "give",
+   "text": "Fina gives 1 food to Zinn.",
+   "who": "Fina",
+   "year": 12
   }
  ],
  "memory_summary": "",

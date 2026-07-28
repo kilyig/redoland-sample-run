@@ -1,5 +1,5 @@
 {
- "actions_used_year": 4,
+ "actions_used_year": 5,
  "age": 25,
  "alive": true,
  "birth_year": 8,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "Your brother Eron kept me alive this year \u2014 find him first in any hard season and do not let pride stop you from asking. The circle to trust is Kael, Vela, Esa, and Taric; they have held together under pressure and that is the only test that counts. Watch Mako and his blood carefully \u2014 he is not cruel, but he feeds himself before he feeds the village, and a man like that will count you as a neighbor only as long as it costs him nothing. Bram swung at this village and walked away; a man who swings once has already decided the rest of us are targets, so keep your distance and keep your count, and never let him see what you have before you know what he needs.",
- "food": 26,
+ "food": 25,
  "health": 2,
  "hp": 100,
  "id": "a015",
@@ -2994,6 +2994,13 @@
    "kind": "give",
    "text": "Bram gives 1 food to Nessa.",
    "who": "Bram",
+   "year": 12
+  },
+  {
+   "eid": "e005160",
+   "kind": "give",
+   "text": "Fina gives 1 food to Zinn.",
+   "who": "Fina",
    "year": 12
   }
  ],
