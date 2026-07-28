@@ -2624,6 +2624,13 @@
    "text": "Fina gives 1 food to Bram.",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e005045",
+   "kind": "convo",
+   "text": "Zinn gathers Fina to talk.",
+   "who": "Zinn",
+   "year": 12
   }
  ],
  "memory_summary": "",
