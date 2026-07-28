@@ -7099,6 +7099,13 @@
    "text": "Vela's silence worries me less than Mako's three \u2014 a woman who takes two and keeps her eyes down is a woman being careful, not a woman making a move, and I'd rather spend our breath on the problem that has eighty-three strength than the one that might just be tired. Bram, I'll give you one food before dark, same as I said, but I want your word on something in return: if Mako comes to you before he comes to me, you tell me what he asks first, not after you've already answered him.",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004997",
+   "kind": "say",
+   "text": "Bram, I'll give you one food before dark the same as Fina \u2014 but I want you to answer her question before you answer mine, because a man who fed us both all year and then came in light on pile day deserves to know that his word about Mako still matters, and I want to hear you say it in this room where only the three of us are listening.",
+   "who": "Nessa",
+   "year": 12
   }
  ],
  "memory_summary": "",

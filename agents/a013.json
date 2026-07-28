@@ -2962,6 +2962,13 @@
    "text": "Vela's silence worries me less than Mako's three \u2014 a woman who takes two and keeps her eyes down is a woman being careful, not a woman making a move, and I'd rather spend our breath on the problem that has eighty-three strength than the one that might just be tired. Bram, I'll give you one food before dark, same as I said, but I want your word on something in return: if Mako comes to you before he comes to me, you tell me what he asks first, not after you've already answered him.",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004997",
+   "kind": "say",
+   "text": "Bram, I'll give you one food before dark the same as Fina \u2014 but I want you to answer her question before you answer mine, because a man who fed us both all year and then came in light on pile day deserves to know that his word about Mako still matters, and I want to hear you say it in this room where only the three of us are listening.",
+   "who": "Nessa",
+   "year": 12
   }
  ],
  "memory_summary": "Bram gave me food from the day I was born \u2014 steadily, without asking anything back in words, though I always knew he was keeping count in his own way. Eron was the brother I spent those early years quietly feeding and worrying over, always too generous, always giving to Roan and Sela until there was nothing left; I couldn't stop it, and watching him starve after all that giving is the wound I carry most. Roan \u2014 I asked him to be Fina's father and he said no the first time, said yes the second, and then he fed her well right up until he starved the same way Eron did, too much out and not enough back. Bram tried to take Vela's food alone and the whole village rose against him, including me; he backed down, and I don't know yet whether that made him wiser or just more careful. Mako fathered Zinn on Sela and said nothing to either of us before he moved \u2014 that silence is the one I keep coming back to, the one my mother warned me about. Dell and Ryn move as one without needing words, and they proved it when they helped Dav strip Esa without being asked. Vela has fed Bram for years and held her tongue for him, and I've never fully understood why. Fina is alive and mine, and that is the thing I did right.",
@@ -2973,7 +2980,7 @@
   "a001"
  ],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "female",
  "siblings": [
   "a012",
