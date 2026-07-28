@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 3,
  "health": 2,
  "hp": 100,
  "id": "a001",
@@ -7854,6 +7854,13 @@
    "kind": "pass",
    "text": "",
    "who": "Bram",
+   "year": 12
+  },
+  {
+   "eid": "e005347",
+   "kind": "give",
+   "text": "Fina gives 1 food to Bram.",
+   "who": "Fina",
    "year": 12
   }
  ],
