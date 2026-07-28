@@ -44,3 +44,4 @@
 {"eid": "e005569", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
 {"eid": "e005570", "year": 13, "phase": "convo", "kind": "convo", "speaker": "a011", "who": "Dell", "audience": ["a011", "a015"], "text": "Dell gathers Fina to talk.", "payload": {}}
 {"eid": "e005571", "year": 13, "phase": "convo", "kind": "say", "speaker": "a011", "who": "Dell", "audience": ["a011", "a015"], "text": "Fina, I sat with your father once in a lean year when nobody else would and he talked about you the whole time \u2014 not your food count, not your strength, just you, and I've been meaning to find you since he went but I kept letting other things push in front of it, and I'm sorry for that.", "payload": {}}
+{"eid": "e005572", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
