@@ -5158,6 +5158,13 @@
    "text": "Nessa, I've said it three times now and the next thing I say won't be words \u2014 it'll be me walking to Bram and asking him directly what his daughter is buying with his food, and I promise you that conversation goes worse for everyone if it starts with him instead of you.",
    "who": "Sela",
    "year": 12
+  },
+  {
+   "eid": "e005083",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Sela.",
+   "who": "Nessa",
+   "year": 12
   }
  ],
  "memory_summary": "",
