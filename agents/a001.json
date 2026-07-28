@@ -7071,6 +7071,13 @@
    "text": "Pile's gone and I didn't get a piece of it \u2014 one food going into a long year is a problem, and I need both of you to know that before I ask anything of you. Fina, you're sitting on twenty-four and that number is a target the same way it was last year; I'm not asking you to give it to me, I'm asking you to keep moving it so nobody can point at a fixed number and start counting. Nessa, what did you learn from Vela and Kael before the year turned?",
    "who": "Bram",
    "year": 12
+  },
+  {
+   "eid": "e004993",
+   "kind": "say",
+   "text": "Bram, I didn't get to Vela before the year turned \u2014 things moved too fast \u2014 but here's what I know: she took two from the pile this morning without looking our way, and that's either habit or distance, and I can't tell which yet. What I can tell you is that one food going into a long year means you need something from Fina or me before dark, so say it plainly instead of circling it, and we'll tell you yes or no to your face.",
+   "who": "Nessa",
+   "year": 12
   }
  ],
  "memory_summary": "",
