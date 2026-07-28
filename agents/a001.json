@@ -7218,6 +7218,13 @@
    "text": "Bram, I hear you \u2014 and I'll stop counting Fina like a gap. But I want to name what I'm still sitting with: she's got twenty-four food and Mako's got three, and a man who's short on food in a village this size doesn't stay patient forever. The wall only holds if we're the first offer she gets, not the second.",
    "who": "Esa",
    "year": 12
+  },
+  {
+   "eid": "e005024",
+   "kind": "say",
+   "text": "Esa's right that patience runs out, and Mako's three food is already running his clock faster than he'd like us to know \u2014 so I want this circle to stop waiting for him to move and start moving first, and what that looks like is simple: Vela, Esa, you go visible with Fina before dark, not to warn her, just to be seen standing near her, because a man counting targets counts them differently when they've already got company.",
+   "who": "Bram",
+   "year": 12
   }
  ],
  "memory_summary": "",
@@ -7226,7 +7233,7 @@
  "name": "Bram",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "male",
  "siblings": [],
  "strength": 58,
