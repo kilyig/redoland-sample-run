@@ -3492,6 +3492,13 @@
    "text": "That last part is what I keep coming back to \u2014 a man with his strength who pulls back from the pile isn't going hungry, he's going quiet, and quiet Mako is the version I've been afraid of since Roan died. I want to talk to Zinn before dark, before you give me that food, because if she knows anything about what her father's thinking she'll tell it to me before she tells it to anyone else.",
    "who": "Fina",
    "year": 13
+  },
+  {
+   "eid": "e005540",
+   "kind": "say",
+   "text": "Zinn will tell you what she knows, but she'll tell it sideways \u2014 she never names her father flat out, she circles it and lets you read between. Go to her, but go easy and give her something first, a word or a food, because Zinn talks more when she doesn't feel like she's being asked to choose.",
+   "who": "Nessa",
+   "year": 13
   }
  ],
  "memory_summary": "",
