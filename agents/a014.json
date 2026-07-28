@@ -5102,6 +5102,13 @@
    "text": "Sela gathers Nessa, Zinn to talk.",
    "who": "Sela",
    "year": 12
+  },
+  {
+   "eid": "e005069",
+   "kind": "say",
+   "text": "Nessa, you've been giving food to Bram three times this morning while your mother hasn't eaten from the pile once \u2014 I'm not going to pretend I didn't see that, and I need you to tell me right now what that arrangement is, because eight food and a steady hand feeding Bram looks like a deal, and deals have terms I want to know before they cost us something.",
+   "who": "Sela",
+   "year": 12
   }
  ],
  "memory_summary": "",
