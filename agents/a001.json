@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 2,
  "health": 2,
  "hp": 100,
  "id": "a001",
@@ -7112,6 +7112,13 @@
    "kind": "say",
    "text": "If Mako comes to me before he comes to you, you hear it from my mouth before he gets an answer from mine \u2014 that's my word, and it holds the same whether Vela's in this circle or standing at his door. Fina, I'll take the one food from you and the one from Nessa, and I'll hold them until I need them, which means I'm not a burden on anyone before midsummer. Nessa, go to Vela today \u2014 not to test her, just to talk, because a woman who's been quiet that long either needs to be heard or needs to know someone's still looking her way.",
    "who": "Bram",
+   "year": 12
+  },
+  {
+   "eid": "e004999",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Bram.",
+   "who": "Nessa",
    "year": 12
   }
  ],

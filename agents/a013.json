@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 28,
  "alive": true,
  "birth_year": 5,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "Nessa, your mother is Sela \u2014 she made a hard choice in a hard year, and that means something; keep her close. Vela gave me food when she had no reason to, and I have not forgotten it, so watch her and learn what quiet generosity looks like before you decide it's weakness. Fear Mako most: he has strength, he has food, and he only started speaking when he had already decided something. Trust no one who has not paid a cost to stand beside you \u2014 words are free, and this village proved that to me the year it put nine bodies between me and one man's food.",
- "food": 8,
+ "food": 7,
  "health": 2,
  "hp": 100,
  "id": "a013",
@@ -2975,6 +2975,13 @@
    "kind": "say",
    "text": "If Mako comes to me before he comes to you, you hear it from my mouth before he gets an answer from mine \u2014 that's my word, and it holds the same whether Vela's in this circle or standing at his door. Fina, I'll take the one food from you and the one from Nessa, and I'll hold them until I need them, which means I'm not a burden on anyone before midsummer. Nessa, go to Vela today \u2014 not to test her, just to talk, because a woman who's been quiet that long either needs to be heard or needs to know someone's still looking her way.",
    "who": "Bram",
+   "year": 12
+  },
+  {
+   "eid": "e004999",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Bram.",
+   "who": "Nessa",
    "year": 12
   }
  ],

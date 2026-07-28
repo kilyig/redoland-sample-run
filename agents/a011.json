@@ -7692,6 +7692,13 @@
    "text": "Dell takes 2 from the pile (pile now 0).",
    "who": "Dell",
    "year": 12
+  },
+  {
+   "eid": "e004999",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Bram.",
+   "who": "Nessa",
+   "year": 12
   }
  ],
  "memory_summary": "",
