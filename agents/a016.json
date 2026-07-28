@@ -153,6 +153,13 @@
    "text": "Mako, I hear you \u2014 and I already went to Zinn before you called us here, so maybe your blood runs truer in me than I knew. I want to understand Fina before anyone else does; she's holding twenty-five food and that's either the safest person in this village to stand near or the most dangerous, and I can't tell which yet.",
    "who": "Talia",
    "year": 13
+  },
+  {
+   "eid": "e005682",
+   "kind": "say",
+   "text": "Fina's neither safe nor dangerous yet \u2014 she's deciding, and a woman with that much food and no man to answer to is listening for who speaks to her like a person instead of a prize. Talia, you're new and you don't carry my weight with her; that's worth something. Go to her through Nessa, say nothing about food, and just let her see your face a few times before the year closes.",
+   "who": "Mako",
+   "year": 13
   }
  ],
  "memory_summary": "",
