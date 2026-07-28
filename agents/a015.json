@@ -3597,6 +3597,13 @@
    "text": "Mako said nothing to me \u2014 not a word, not a look \u2014 and that's the answer I trust least, because silence on a man with two bloodlines and three food in hand means he's already past the talking stage. What I want from this room before it closes is a simple thing: if Mako comes to any one of us alone, we don't answer alone. We find each other first.",
    "who": "Esa",
    "year": 13
+  },
+  {
+   "eid": "e005556",
+   "kind": "say",
+   "text": "Esa's rule is the right one and I'll hold to it \u2014 Mako comes to any one of us, we stall him and find the others before a word goes back. Fina, you're the one he'll approach first if he moves, so I want you to know the stall before you need it: tell him you'll think on it, tell him your stomach's unsettled, tell him anything, but don't answer alone. Nessa, you're closer to her door than I am \u2014 stay that way.",
+   "who": "Bram",
+   "year": 13
   }
  ],
  "memory_summary": "",
