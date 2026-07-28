@@ -5566,6 +5566,13 @@
    "text": "Zinn takes 2 from the pile (pile now 2).",
    "who": "Zinn",
    "year": 12
+  },
+  {
+   "eid": "e004990",
+   "kind": "take",
+   "text": "Dell takes 2 from the pile (pile now 0).",
+   "who": "Dell",
+   "year": 12
   }
  ],
  "memory_summary": "",
