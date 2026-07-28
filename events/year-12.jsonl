@@ -303,3 +303,4 @@
 {"eid": "e005269", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e005270", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
 {"eid": "e005271", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
+{"eid": "e005272", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
