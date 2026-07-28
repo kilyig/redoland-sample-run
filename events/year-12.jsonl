@@ -293,3 +293,4 @@
 {"eid": "e005259", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "", "payload": {}}
 {"eid": "e005260", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e005261", "year": 12, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e005262", "year": 12, "phase": "scramble", "kind": "give", "speaker": "a015", "who": "Fina", "audience": "public", "text": "Fina gives 1 food to Esa.", "payload": {"target": "a003", "amount": 1}}
