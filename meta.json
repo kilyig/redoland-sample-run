@@ -3,10 +3,10 @@
  "cursor": {
   "last": "a015",
   "phase": "scramble",
-  "steps": 382
+  "steps": 383
  },
  "next_aid": 15,
- "next_eid": 5413,
+ "next_eid": 5414,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,
@@ -678,7 +678,7 @@
    3930913624,
    1780167422,
    567769752,
-   522
+   528
   ],
   null
  ],
