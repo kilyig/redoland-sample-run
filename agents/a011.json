@@ -7748,6 +7748,13 @@
    "text": "",
    "who": "Dell",
    "year": 12
+  },
+  {
+   "eid": "e005039",
+   "kind": "convo",
+   "text": "Ryn gathers Dell to talk.",
+   "who": "Ryn",
+   "year": 12
   }
  ],
  "memory_summary": "",
