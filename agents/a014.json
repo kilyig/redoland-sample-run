@@ -5235,6 +5235,13 @@
    "text": "Nessa gave me one food and went quiet again, and I'm going to let that sit for now rather than push harder in front of Zinn \u2014 but Nessa, I want you to hear this clearly: the food I take from you doesn't wipe the question, it just means I'm not going to your father about it today. Before this year is out, you're going to tell me what Bram gives back for what you give him, because no arrangement in this village runs one direction forever.",
    "who": "Sela",
    "year": 12
+  },
+  {
+   "eid": "e005101",
+   "kind": "give",
+   "text": "Bram gives 1 food to Nessa.",
+   "who": "Bram",
+   "year": 12
   }
  ],
  "memory_summary": "",
