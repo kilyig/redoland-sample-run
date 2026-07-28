@@ -5606,6 +5606,13 @@
    "text": "Nessa, you've gone quiet on us in this room more times than I can count and I have kept choosing to believe it's caution and not distance \u2014 but I'm forty-five next year, your sister is twenty-eight, and if Bram has a claim on your food or your loyalty that runs deeper than this family does, I need to know it now while I can still do something about it.",
    "who": "Sela",
    "year": 13
+  },
+  {
+   "eid": "e005590",
+   "kind": "say",
+   "text": "Nessa, I've watched you give to Bram more times than I can count and watched him give back, and I don't think that's nothing \u2014 but I also don't think it makes him yours or you his, and the thing Sela and I need to hear isn't whether you love him, it's whether he's got a hand on your counting. Say it plain: does Bram know your number before you move it, or does he just know your face?",
+   "who": "Zinn",
+   "year": 13
   }
  ],
  "memory_summary": "",
@@ -5617,7 +5624,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "female",
  "siblings": [
   "a012",
