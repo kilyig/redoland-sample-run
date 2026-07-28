@@ -8268,6 +8268,13 @@
    "text": "Sela gives 2 food to Zinn.",
    "who": "Sela",
    "year": 13
+  },
+  {
+   "eid": "e005569",
+   "kind": "pass",
+   "text": "",
+   "who": "Bram",
+   "year": 13
   }
  ],
  "memory_summary": "",
