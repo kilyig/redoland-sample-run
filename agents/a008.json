@@ -6666,6 +6666,13 @@
    "text": "Nessa's already given me something to work with \u2014 she's been feeding Fina steady, so there's a thread there I can pull without it looking like I'm pulling anything. I'll go sit near them, let Fina notice me first, and keep my mouth shut about food even if it's the only thing anyone's thinking about. Zinn, if Fina asks you about me before I get close enough to speak for myself, tell her something plain \u2014 not flattering, just true.",
    "who": "Talia",
    "year": 13
+  },
+  {
+   "eid": "e005684",
+   "kind": "say",
+   "text": "Zinn, what's plain and true about Talia is that she came into this room asking the right questions before I even knew to ask them \u2014 tell Fina that, if she asks, because a woman who counts food the way Fina does will respect someone who counts people the same way. Talia, you've got the right instinct with Nessa, just don't move so careful that you look like you're moving careful.",
+   "who": "Mako",
+   "year": 13
   }
  ],
  "memory_summary": "",
@@ -6674,7 +6681,7 @@
  "name": "Mako",
  "parents": [],
  "repro_done_year": true,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "male",
  "siblings": [],
  "strength": 83,
