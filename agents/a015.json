@@ -3464,6 +3464,13 @@
    "text": "Nessa, the pile's gone and I didn't get a piece of it \u2014 I came to you first before I figure out what that means. You took three, which is right, and Bram took three, which surprises me a little \u2014 tell me what you know about his morning before we decide anything.",
    "who": "Fina",
    "year": 13
+  },
+  {
+   "eid": "e005536",
+   "kind": "say",
+   "text": "Bram took three because he came in at one food and couldn't afford to look weak going into a year with Mako sitting on two \u2014 I think he moved fast while the pile was still fat and didn't ask anyone's permission, which is either him finally trusting his own judgment or him deciding he doesn't owe us the conversation first. What worries me more is you walking in empty-handed: you're the heaviest person in this village even without the pile, but a year is long and Mako knows how to count. Come find me after dark and I'll give you one from what I'm holding \u2014 quietly, not where anyone can watch the direction of it.",
+   "who": "Nessa",
+   "year": 13
   }
  ],
  "memory_summary": "",
