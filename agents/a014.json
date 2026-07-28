@@ -4969,6 +4969,13 @@
    "text": "I haven't said a word to her yet \u2014 I kept waiting for the right moment and the year kept moving. But Fina's been coming toward us on her own, Mako, and I think that's better than any door I could have opened. Give me a few days after you've eaten and I'll find a reason to sit near her through Nessa.",
    "who": "Zinn",
    "year": 12
+  },
+  {
+   "eid": "e005006",
+   "kind": "say",
+   "text": "A few days is all I'm asking \u2014 just don't let it stretch into waiting again the way it did last year. Fina's twenty-five and she's got more food than anyone in this village; that combination doesn't last, and the next man who notices her won't be as patient as I've been.",
+   "who": "Mako",
+   "year": 12
   }
  ],
  "memory_summary": "",
