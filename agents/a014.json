@@ -5053,6 +5053,13 @@
    "text": "The pile's gone and I've got eight food, but I didn't get a single piece from it this year \u2014 Nessa, Zinn, tell me what you're each holding so I know where we stand before this day gets any older.",
    "who": "Sela",
    "year": 12
+  },
+  {
+   "eid": "e005051",
+   "kind": "say",
+   "text": "I've got five \u2014 Fina gave me one before I took from the pile, so I'm not worried about eating. Nessa, say your number so Sela can stop holding her breath.",
+   "who": "Zinn",
+   "year": 12
   }
  ],
  "memory_summary": "",
@@ -5064,7 +5071,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "female",
  "siblings": [
   "a012",
