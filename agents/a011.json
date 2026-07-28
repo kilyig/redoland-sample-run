@@ -7643,6 +7643,13 @@
    "text": "I'm going to her now \u2014 but Ryn, I want you to watch Mako while I'm gone, not to follow him, just to see where he points himself after the pile, because a man who took three and is already sitting on three from before has room to be generous today and generosity toward Fina right now is the move I'd make if I were him. If he walks her direction before I get there, find me fast.",
    "who": "Dell",
    "year": 12
+  },
+  {
+   "eid": "e004976",
+   "kind": "say",
+   "text": "Go, Dell \u2014 I'll watch him. And if he moves toward Fina before you get there, I won't just find you fast, I'll put myself between them long enough for you to arrive, even if I have to ask him something that costs me a favor to ask.",
+   "who": "Ryn",
+   "year": 12
   }
  ],
  "memory_summary": "",
