@@ -5494,6 +5494,13 @@
    "text": "Esa gives 1 food to Bram.",
    "who": "Esa",
    "year": 12
+  },
+  {
+   "eid": "e005364",
+   "kind": "give",
+   "text": "Fina gives 1 food to Esa.",
+   "who": "Fina",
+   "year": 12
   }
  ],
  "memory_summary": "",
