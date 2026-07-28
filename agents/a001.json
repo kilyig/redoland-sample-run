@@ -7176,6 +7176,13 @@
    "text": "Nessa, I'll say what Vela left unsaid: Fina's twenty-four food is the number that ends this conversation one way or another, because Mako knows it as well as we do, and a man with three food and two bloodlines who hasn't moved yet is a man waiting to see whether Fina stands with him or stands against him. If she's already feeding Zinn \u2014 and she is \u2014 then the question isn't whether Mako moves, it's whether he moves on us or with us, and I need your answer on that before this room closes.",
    "who": "Esa",
    "year": 12
+  },
+  {
+   "eid": "e005018",
+   "kind": "say",
+   "text": "Fina feeding Zinn is a daughter being careful, not a daughter choosing sides \u2014 I know the difference because I watched her mother do the same thing for years. What I need said in this room is whether we're counting Fina as inside this circle or outside it, because if she's outside it, Mako doesn't need to move on us \u2014 he just waits until she feeds her way into his.",
+   "who": "Bram",
+   "year": 12
   }
  ],
  "memory_summary": "",
@@ -7184,7 +7191,7 @@
  "name": "Bram",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [],
  "strength": 58,
