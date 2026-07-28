@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 0,
+ "food": 1,
  "health": 2,
  "hp": 100,
  "id": "a001",
@@ -7252,6 +7252,13 @@
    "kind": "say",
    "text": "Nessa, Vela's right and so is Bram, and I'll add the last thing: I'm fifty-three years old with thirty-three strength and no blood in this village and no Taric to stand with me anymore, which means I have nothing left to offer this circle except my word and my willingness to be seen \u2014 and I'm giving both, tonight, walking with you. Say yes or say no, but say it.",
    "who": "Esa",
+   "year": 12
+  },
+  {
+   "eid": "e005029",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Bram.",
+   "who": "Nessa",
    "year": 12
   }
  ],
