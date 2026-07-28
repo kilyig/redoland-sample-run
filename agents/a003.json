@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 0,
+ "food": 1,
  "health": 2,
  "hp": 100,
  "id": "a003",
@@ -1405,6 +1405,13 @@
    "kind": "say",
    "text": "Fina, one more thing while the four of us are still the only ears in the room \u2014 you gave food to Mako last year, and I need to know whether that was your choice or his ask, because those are two different things and I'd rather hear the honest answer from you now than find out the shape of it when he comes to your door.",
    "who": "Bram",
+   "year": 13
+  },
+  {
+   "eid": "e005559",
+   "kind": "give",
+   "text": "Fina gives 1 food to Esa.",
+   "who": "Fina",
    "year": 13
   }
  ],
