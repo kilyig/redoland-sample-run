@@ -272,6 +272,13 @@
    "text": "",
    "who": "Talia",
    "year": 13
+  },
+  {
+   "eid": "e005723",
+   "kind": "give",
+   "text": "Fina gives 1 food to Nessa.",
+   "who": "Fina",
+   "year": 13
   }
  ],
  "memory_summary": "",
