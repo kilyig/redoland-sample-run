@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "Zinn is your blood-sister and she will stand for you before anyone else in this village does \u2014 go to her first when you don't know who to trust. Sela fed me when she didn't have to, and that is a debt I pass to you. Watch Bram: he has never moved against us, but he has called off two fights when the numbers turned, which tells you he counts before he commits \u2014 respect that, but don't lean on it. Hold enough food to eat, give just enough to be remembered, and don't let anyone see you hungry if you can help it.",
- "food": 4,
+ "food": 5,
  "health": 3,
  "hp": 100,
  "id": "a016",
@@ -250,6 +250,13 @@
    "kind": "pass",
    "text": "",
    "who": "Talia",
+   "year": 13
+  },
+  {
+   "eid": "e005710",
+   "kind": "give",
+   "text": "Mako gives 1 food to Talia.",
+   "who": "Mako",
    "year": 13
   }
  ],

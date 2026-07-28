@@ -1,5 +1,5 @@
 {
- "actions_used_year": 8,
+ "actions_used_year": 9,
  "age": 45,
  "alive": true,
  "birth_year": 0,
@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 0,
  "health": 2,
  "hp": 100,
  "id": "a008",
@@ -6735,6 +6735,13 @@
    "kind": "give",
    "text": "Dell gives 1 food to Ryn.",
    "who": "Dell",
+   "year": 13
+  },
+  {
+   "eid": "e005710",
+   "kind": "give",
+   "text": "Mako gives 1 food to Talia.",
+   "who": "Mako",
    "year": 13
   }
  ],
