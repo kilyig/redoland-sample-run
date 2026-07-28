@@ -8380,6 +8380,13 @@
    "text": "Sela gives 1 food to Nessa.",
    "who": "Sela",
    "year": 13
+  },
+  {
+   "eid": "e005643",
+   "kind": "pass",
+   "text": "",
+   "who": "Bram",
+   "year": 13
   }
  ],
  "memory_summary": "",
