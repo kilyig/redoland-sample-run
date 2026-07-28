@@ -5867,6 +5867,13 @@
    "text": "Kael just moved food to Vela with no history between them that I can name \u2014 that's a man buying a seat at a table, and I want to know whose table before the year closes. Keep your eyes open when you're near Nessa; if Kael's circling Fina through Vela, that's a shorter path to her than ours.",
    "who": "Mako",
    "year": 12
+  },
+  {
+   "eid": "e005118",
+   "kind": "give",
+   "text": "Esa gives 1 food to Bram.",
+   "who": "Esa",
+   "year": 12
   }
  ],
  "memory_summary": "",
