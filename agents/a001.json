@@ -7043,6 +7043,13 @@
    "text": "Zinn takes 2 from the pile (pile now 4).",
    "who": "Zinn",
    "year": 12
+  },
+  {
+   "eid": "e004989",
+   "kind": "take",
+   "text": "Zinn takes 2 from the pile (pile now 2).",
+   "who": "Zinn",
+   "year": 12
   }
  ],
  "memory_summary": "",

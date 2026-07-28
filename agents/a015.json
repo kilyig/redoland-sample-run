@@ -2505,6 +2505,13 @@
    "text": "I'll be back before anyone's had time to notice \u2014 and Nessa, if Zinn comes to you while I'm gone, don't tell her what we're doing, just keep her talking about something small.",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004989",
+   "kind": "take",
+   "text": "Zinn takes 2 from the pile (pile now 2).",
+   "who": "Zinn",
+   "year": 12
   }
  ],
  "memory_summary": "",
