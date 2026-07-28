@@ -119,3 +119,6 @@
 {"eid": "e005644", "year": 13, "phase": "scramble", "kind": "give", "speaker": "a015", "who": "Fina", "audience": "public", "text": "Fina gives 1 food to Bram.", "payload": {"target": "a001", "amount": 1}}
 {"eid": "e005645", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e005646", "year": 13, "phase": "scramble", "kind": "give", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa gives 1 food to Fina.", "payload": {"target": "a015", "amount": 1}}
+{"eid": "e005647", "year": 13, "phase": "proposal", "kind": "proposal", "speaker": "a007", "who": "Sela", "audience": ["a007", "a008"], "text": "Sela draws Mako aside to talk.", "payload": {}}
+{"eid": "e005648", "year": 13, "phase": "proposal", "kind": "propose", "speaker": "a007", "who": "Sela", "audience": ["a007", "a008"], "text": "Sela: have a child with me \u2014 I'll put in 2 of 3 food.", "payload": {}}
+{"eid": "e005649", "year": 13, "phase": "proposal", "kind": "birth", "speaker": "village", "who": "the village", "audience": "public", "text": "Talia (female, age 21; str 64, int 5070, mem 18061; O58 C54 E47 A56 N48) is born to Sela and Mako.", "payload": {"child": "a016", "mother": "a007", "father": "a008"}}

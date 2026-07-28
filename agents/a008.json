@@ -5,12 +5,13 @@
  "birth_year": 0,
  "bore_this_year": false,
  "children": [
-  "a014"
+  "a014",
+  "a016"
  ],
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 2,
  "health": 2,
  "hp": 100,
  "id": "a008",
@@ -6525,6 +6526,27 @@
    "text": "Nessa gives 1 food to Fina.",
    "who": "Nessa",
    "year": 13
+  },
+  {
+   "eid": "e005647",
+   "kind": "proposal",
+   "text": "Sela draws Mako aside to talk.",
+   "who": "Sela",
+   "year": 13
+  },
+  {
+   "eid": "e005648",
+   "kind": "propose",
+   "text": "Sela: have a child with me \u2014 I'll put in 2 of 3 food.",
+   "who": "Sela",
+   "year": 13
+  },
+  {
+   "eid": "e005649",
+   "kind": "birth",
+   "text": "Talia (female, age 21; str 64, int 5070, mem 18061; O58 C54 E47 A56 N48) is born to Sela and Mako.",
+   "who": "the village",
+   "year": 13
   }
  ],
  "memory_summary": "",
@@ -6532,7 +6554,7 @@
  "mother_note": "",
  "name": "Mako",
  "parents": [],
- "repro_done_year": false,
+ "repro_done_year": true,
  "says_used_year": 3,
  "sex": "male",
  "siblings": [],

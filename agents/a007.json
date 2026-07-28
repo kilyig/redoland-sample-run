@@ -1,18 +1,19 @@
 {
- "actions_used_year": 6,
+ "actions_used_year": 7,
  "age": 35,
  "alive": true,
  "birth_year": 0,
- "bore_this_year": false,
+ "bore_this_year": true,
  "children": [
   "a012",
   "a013",
-  "a014"
+  "a014",
+  "a016"
  ],
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 5,
+ "food": 3,
  "health": 2,
  "hp": 100,
  "id": "a007",
@@ -6114,6 +6115,27 @@
    "text": "Nessa gives 1 food to Fina.",
    "who": "Nessa",
    "year": 13
+  },
+  {
+   "eid": "e005647",
+   "kind": "proposal",
+   "text": "Sela draws Mako aside to talk.",
+   "who": "Sela",
+   "year": 13
+  },
+  {
+   "eid": "e005648",
+   "kind": "propose",
+   "text": "Sela: have a child with me \u2014 I'll put in 2 of 3 food.",
+   "who": "Sela",
+   "year": 13
+  },
+  {
+   "eid": "e005649",
+   "kind": "birth",
+   "text": "Talia (female, age 21; str 64, int 5070, mem 18061; O58 C54 E47 A56 N48) is born to Sela and Mako.",
+   "who": "the village",
+   "year": 13
   }
  ],
  "memory_summary": "From Year 1 to 6, what I carry:\n\nRoan came to me first \u2014 practical, quiet, and he meant it. We made Eron together in Year 3, and Eron spent the next six years feeding me out of his own hands when I came up empty from the pile. That debt lives in my chest and now he's gone.\n\nBram asked me twice and I said no both times until Year 5 when I had nothing and Mako was circling \u2014 I said yes to Bram with my back against the wall, not my heart open. He kept his word about no raids for a full year, but he's tried to take from Roan, Vela, and Eron since, and the village turned him back every time. Nessa is his blood and I can't undo that.\n\nMako watched me in silence for three years \u2014 handed me food when I was starving in Year 5, asked for nothing back, and then finally said plainly he wanted a child. I believed him because a man who stays quiet that long has already counted the cost. We made Zinn together in Year 6, and he's fed her before himself since.\n\nVela sat in our protection circle and fed Bram on the side without a word. I never forgot it.\n\nDav starved in Year 7. Ryn lost him; Dell lost her father. The Ryn-Dell loop of food trading felt like grief turned into motion.\n\nEron is gone now. He fed Roan to the end, same as he fed me \u2014 and that tells me everything about who he was.",
@@ -6121,7 +6143,7 @@
  "mother_note": "",
  "name": "Sela",
  "parents": [],
- "repro_done_year": false,
+ "repro_done_year": true,
  "says_used_year": 6,
  "sex": "female",
  "siblings": [],
