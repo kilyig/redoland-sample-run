@@ -7155,6 +7155,13 @@
    "text": "Vela's asked the question I've been holding since Taric died, so I'll say it plain: yes, I'm counting with this room, and I've been buying Bram's word with food because I had nothing else to buy it with, and I'm not ashamed of that trade. What I need to know before we close is whether Bram's word holds without Nessa standing behind it, or whether it's the other way around \u2014 because those are two different circles and I want to know which one I'm actually in.",
    "who": "Esa",
    "year": 12
+  },
+  {
+   "eid": "e005015",
+   "kind": "say",
+   "text": "My word holds with or without Nessa behind it \u2014 but the honest answer is that it's stronger with her, and that's not weakness, that's arithmetic. Esa, you've been feeding me through lean years and I'll say what that's worth: when Mako moves, you're the first person I'm standing next to, not the last. Vela, this circle has teeth \u2014 count the heads: you, me, Esa, Nessa, and Fina's twenty-four food behind all of it.",
+   "who": "Bram",
+   "year": 12
   }
  ],
  "memory_summary": "",
@@ -7163,7 +7170,7 @@
  "name": "Bram",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "male",
  "siblings": [],
  "strength": 58,
