@@ -4997,6 +4997,13 @@
    "text": "Zinn gathers Nessa to talk.",
    "who": "Zinn",
    "year": 12
+  },
+  {
+   "eid": "e005010",
+   "kind": "say",
+   "text": "Nessa, I need to ask you something and I want you to hear it as your sister before you hear it as anything else \u2014 Fina's been moving food toward us for two years now and she's got no man left since Roan died, and I want to know if you'd be the one to bring me close to her, just to talk, nothing decided yet.",
+   "who": "Zinn",
+   "year": 12
   }
  ],
  "memory_summary": "",
@@ -5008,7 +5015,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [
   "a012",
