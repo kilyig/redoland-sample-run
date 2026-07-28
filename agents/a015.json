@@ -2442,6 +2442,13 @@
    "text": "Fina gives 1 food to Zinn.",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004980",
+   "kind": "take",
+   "text": "Zinn takes 2 from the pile (pile now 4).",
+   "who": "Zinn",
+   "year": 12
   }
  ],
  "memory_summary": "",
