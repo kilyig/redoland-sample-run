@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 21,
  "alive": true,
  "birth_year": 13,
@@ -109,6 +109,13 @@
    "eid": "e005666",
    "kind": "say",
    "text": "Zinn, Fina is sitting on twenty-four food and no one in this village has ever held that much at once \u2014 I don't know if she's brilliant or building a wall between herself and the rest of us, but either way I want to understand her before someone like Bram decides to.",
+   "who": "Talia",
+   "year": 13
+  },
+  {
+   "eid": "e005668",
+   "kind": "convo",
+   "text": "Talia gathers Fina to talk.",
    "who": "Talia",
    "year": 13
   }
