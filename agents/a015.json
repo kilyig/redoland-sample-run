@@ -2477,6 +2477,13 @@
    "text": "You're right, I'll go take two now \u2014 but Nessa, I need you to hear me first: if Mako's already decided, going to Bram is the right move, but we have to go knowing what we're asking him for, not just hoping he stands with us again. Last year he said the word in front of seven witnesses and I believed it \u2014 what I need to know before we walk to him is whether you still do, because if his word's cracked since Roan died, I want to find that out in private, not with Mako watching.",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004985",
+   "kind": "say",
+   "text": "Bram's word holds until I see it crack, and I haven't seen it crack \u2014 what I've seen is a man who fed me all year without being asked, and that's worth more than seven witnesses. Go take your two, and when you come back, we walk to him together and we watch his face when we say Mako's name, because a man's face tells you more than his word does.",
+   "who": "Nessa",
+   "year": 12
   }
  ],
  "memory_summary": "",
