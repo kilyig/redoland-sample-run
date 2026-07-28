@@ -1,5 +1,5 @@
 {
- "actions_used_year": 6,
+ "actions_used_year": 7,
  "age": 42,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 4,
+ "food": 3,
  "health": 2,
  "hp": 100,
  "id": "a001",
@@ -7585,6 +7585,13 @@
   },
   {
    "eid": "e005150",
+   "kind": "give",
+   "text": "Bram gives 1 food to Nessa.",
+   "who": "Bram",
+   "year": 12
+  },
+  {
+   "eid": "e005158",
    "kind": "give",
    "text": "Bram gives 1 food to Nessa.",
    "who": "Bram",
