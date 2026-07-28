@@ -1,5 +1,5 @@
 {
- "actions_used_year": 3,
+ "actions_used_year": 4,
  "age": 32,
  "alive": true,
  "birth_year": 2,
@@ -4436,6 +4436,13 @@
    "kind": "give",
    "text": "Nessa gives 1 food to Fina.",
    "who": "Nessa",
+   "year": 13
+  },
+  {
+   "eid": "e005676",
+   "kind": "convo",
+   "text": "Dell gathers Ryn to talk.",
+   "who": "Dell",
    "year": 13
   }
  ],
