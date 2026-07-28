@@ -1,5 +1,5 @@
 {
- "actions_used_year": 4,
+ "actions_used_year": 5,
  "age": 56,
  "alive": true,
  "birth_year": 0,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 1,
+ "food": 0,
  "health": 3,
  "hp": 100,
  "id": "a004",
@@ -1720,6 +1720,13 @@
    "kind": "give",
    "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
+   "year": 12
+  },
+  {
+   "eid": "e005110",
+   "kind": "give",
+   "text": "Kael gives 1 food to Vela.",
+   "who": "Kael",
    "year": 12
   }
  ],
