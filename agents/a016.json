@@ -181,6 +181,13 @@
    "text": "Mako, when you say don't move so careful that I look careful \u2014 that's harder than it sounds for someone who came into this world today with everyone already watching. Zinn, you know me better than anyone here does; am I the kind of person who can walk into a circle without making it obvious I want to be in it?",
    "who": "Talia",
    "year": 13
+  },
+  {
+   "eid": "e005686",
+   "kind": "give",
+   "text": "Zinn gives 1 food to Sela.",
+   "who": "Zinn",
+   "year": 13
   }
  ],
  "memory_summary": "",
