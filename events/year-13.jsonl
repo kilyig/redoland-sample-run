@@ -123,3 +123,4 @@
 {"eid": "e005648", "year": 13, "phase": "proposal", "kind": "propose", "speaker": "a007", "who": "Sela", "audience": ["a007", "a008"], "text": "Sela: have a child with me \u2014 I'll put in 2 of 3 food.", "payload": {}}
 {"eid": "e005649", "year": 13, "phase": "proposal", "kind": "birth", "speaker": "village", "who": "the village", "audience": "public", "text": "Talia (female, age 21; str 64, int 5070, mem 18061; O58 C54 E47 A56 N48) is born to Sela and Mako.", "payload": {"child": "a016", "mother": "a007", "father": "a008"}}
 {"eid": "e005650", "year": 13, "phase": "scramble", "kind": "give", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa gives 1 food to Talia.", "payload": {"target": "a016", "amount": 1}}
+{"eid": "e005651", "year": 13, "phase": "scramble", "kind": "give", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn gives 1 food to Dell.", "payload": {"target": "a011", "amount": 1}}
