@@ -3527,6 +3527,13 @@
    "text": "Fina, before you go to Zinn \u2014 one thing I want said between us that I haven't said to anyone else: if Mako makes a move this year, not a raid but a conversation, the kind where he comes to you alone and makes it sound like sense, don't answer him on the spot, not even no. Bring it to me first, because the answer that sounds right in the moment he's standing in front of you is the one he's already planned for.",
    "who": "Nessa",
    "year": 13
+  },
+  {
+   "eid": "e005546",
+   "kind": "convo",
+   "text": "Esa gathers Bram, Nessa, Fina to talk.",
+   "who": "Esa",
+   "year": 13
   }
  ],
  "memory_summary": "",

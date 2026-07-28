@@ -8163,6 +8163,13 @@
    "text": "Zinn takes 1 from the pile (pile now 0).",
    "who": "Zinn",
    "year": 13
+  },
+  {
+   "eid": "e005546",
+   "kind": "convo",
+   "text": "Esa gathers Bram, Nessa, Fina to talk.",
+   "who": "Esa",
+   "year": 13
   }
  ],
  "memory_summary": "",
