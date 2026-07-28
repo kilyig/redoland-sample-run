@@ -2631,6 +2631,13 @@
    "text": "Zinn gathers Fina to talk.",
    "who": "Zinn",
    "year": 12
+  },
+  {
+   "eid": "e005046",
+   "kind": "say",
+   "text": "Fina, you've been putting food in people's hands all year and not asking for anything back \u2014 that's the kind of thing I notice and don't forget. I wanted to sit with you somewhere quiet, just us, because I think you're carrying more than you're saying and I'd like to know you better than I do.",
+   "who": "Zinn",
+   "year": 12
   }
  ],
  "memory_summary": "",
