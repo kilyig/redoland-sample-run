@@ -5137,6 +5137,13 @@
    "text": "Nessa, I'm your mother and I'm not going to sit here and watch you feed Bram three times in a morning while I'm going into this year lean \u2014 so say the terms out loud, right now, or I'm going to start treating that arrangement as a threat to this family instead of whatever you've decided it is.",
    "who": "Sela",
    "year": 12
+  },
+  {
+   "eid": "e005079",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
+   "who": "Ryn",
+   "year": 12
   }
  ],
  "memory_summary": "",
