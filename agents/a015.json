@@ -2491,6 +2491,13 @@
    "text": "Good \u2014 I'll take my two and come straight back to you, don't move far. And Nessa, when we find Bram, let me be the one to say Mako's name first \u2014 I want to see his face when he hears it from me, not from his daughter.",
    "who": "Fina",
    "year": 12
+  },
+  {
+   "eid": "e004987",
+   "kind": "say",
+   "text": "Go \u2014 and keep your face easy while you're at the pile, don't let Mako see you hurrying. I'll be right here.",
+   "who": "Nessa",
+   "year": 12
   }
  ],
  "memory_summary": "",
