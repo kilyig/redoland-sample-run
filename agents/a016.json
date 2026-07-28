@@ -132,6 +132,13 @@
    "text": "Nessa gives 1 food to Fina.",
    "who": "Nessa",
    "year": 13
+  },
+  {
+   "eid": "e005679",
+   "kind": "convo",
+   "text": "Mako gathers Zinn, Talia to talk.",
+   "who": "Mako",
+   "year": 13
   }
  ],
  "memory_summary": "",
