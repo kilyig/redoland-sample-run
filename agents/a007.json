@@ -5939,6 +5939,13 @@
    "text": "Nessa, Sela's asking the right question and so am I \u2014 you and Bram moved food back and forth all year like a settled pair, and if there's a deal there, I'd rather know it from you than watch it play out in front of us. I'm not going to push you the way I used to, but I need to know if Bram's counting your food as partly his, because if he is, that changes what we can do with it.",
    "who": "Zinn",
    "year": 13
+  },
+  {
+   "eid": "e005589",
+   "kind": "say",
+   "text": "Nessa, you've gone quiet on us in this room more times than I can count and I have kept choosing to believe it's caution and not distance \u2014 but I'm forty-five next year, your sister is twenty-eight, and if Bram has a claim on your food or your loyalty that runs deeper than this family does, I need to know it now while I can still do something about it.",
+   "who": "Sela",
+   "year": 13
   }
  ],
  "memory_summary": "From Year 1 to 6, what I carry:\n\nRoan came to me first \u2014 practical, quiet, and he meant it. We made Eron together in Year 3, and Eron spent the next six years feeding me out of his own hands when I came up empty from the pile. That debt lives in my chest and now he's gone.\n\nBram asked me twice and I said no both times until Year 5 when I had nothing and Mako was circling \u2014 I said yes to Bram with my back against the wall, not my heart open. He kept his word about no raids for a full year, but he's tried to take from Roan, Vela, and Eron since, and the village turned him back every time. Nessa is his blood and I can't undo that.\n\nMako watched me in silence for three years \u2014 handed me food when I was starving in Year 5, asked for nothing back, and then finally said plainly he wanted a child. I believed him because a man who stays quiet that long has already counted the cost. We made Zinn together in Year 6, and he's fed her before himself since.\n\nVela sat in our protection circle and fed Bram on the side without a word. I never forgot it.\n\nDav starved in Year 7. Ryn lost him; Dell lost her father. The Ryn-Dell loop of food trading felt like grief turned into motion.\n\nEron is gone now. He fed Roan to the end, same as he fed me \u2014 and that tells me everything about who he was.",
@@ -5947,7 +5954,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "female",
  "siblings": [],
  "strength": 73,
