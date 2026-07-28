@@ -7078,6 +7078,13 @@
    "text": "Bram, I didn't get to Vela before the year turned \u2014 things moved too fast \u2014 but here's what I know: she took two from the pile this morning without looking our way, and that's either habit or distance, and I can't tell which yet. What I can tell you is that one food going into a long year means you need something from Fina or me before dark, so say it plainly instead of circling it, and we'll tell you yes or no to your face.",
    "who": "Nessa",
    "year": 12
+  },
+  {
+   "eid": "e004994",
+   "kind": "say",
+   "text": "Bram, I'll give you one food today \u2014 not because you asked and not because I owe it, but because you fed Nessa all last year and I don't forget that. Say plainly what you need from us this year, because one food from the pile going into twelve months with Mako sitting on three isn't something any of us can afford to dance around.",
+   "who": "Fina",
+   "year": 12
   }
  ],
  "memory_summary": "",
