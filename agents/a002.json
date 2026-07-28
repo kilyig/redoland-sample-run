@@ -5284,6 +5284,13 @@
    "text": "Bram I haven't spoken to since that year he said he was looking for a door \u2014 and I believed him then, but a man who walks away from two fights doesn't stay patient forever, especially when Nessa's been feeding him hand to mouth like she's keeping him for something. What worries me isn't Bram alone \u2014 it's Bram and Nessa and Fina moving as one, which is three bodies and food enough to sit comfortable while the rest of us scrape. Esa, you've been quiet and you've been feeding him \u2014 I need to know if that's because you think he's yours or because you owe him something I don't know about.",
    "who": "Kael",
    "year": 13
+  },
+  {
+   "eid": "e005577",
+   "kind": "say",
+   "text": "Esa, I'll let you answer Kael's question, but while you're thinking I'll say what I'm sitting with: Bram and Nessa and Fina as one household is nineteen food and a hundred and sixty-two strength, and that's not a wall I can stand against if they decide I'm on the wrong side of it \u2014 which means everything I've spent keeping Bram friendly either pays off in the next bad year or it was the longest losing trade of my life. Kael, the thing I need from you before this room closes is whether you're willing to stand somewhere Mako and Bram can both see you standing, because a man with fifty-four strength and no food debt to either of them is rarer than either of those two know.",
+   "who": "Vela",
+   "year": 13
   }
  ],
  "memory_summary": "The village started with ten of us, and in those first years Kael pulled me and Esa and Sela and Ryn into a quiet circle against Bram and Mako, who ate fat while the rest of us counted crumbs. I made a private trade with Taric early \u2014 food for protection \u2014 and that debt ran both directions for years; he fed me lean seasons and I fed him lean ones, and I trusted him more than anyone. I spent food on Bram three times in year four trying to buy peace, and the circle caught me for it \u2014 Kael and Roan and Esa called me out hard, questioning whether I was trading away my safety for the feeling of it, and I had no clean answer. Ryn had a child with Dav and pulled slightly away from us; in year six Dav raided Esa, with Ryn and Dell backing him, and Esa submitted and lost food \u2014 I remember the shame of watching that and giving nothing. Dav starved the next year and that household dissolved. Bram swung twice at the village \u2014 once at Roan in year three, once at me \u2014 and both times the whole village shut him down; after the second time I brought him into a private room with Taric and Roan and he gave his word to stand with us against Mako when the moment came. Mako fathered Zinn on Sela and said almost nothing for seven years; he has always been the shape the village is growing into. Eron was Sela and Roan's child, fed generously by everyone near him. Taric is dead now, starved at fifty-three, and the loss sits in me like a cold stone.",
@@ -5292,7 +5299,7 @@
  "name": "Vela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "female",
  "siblings": [],
  "strength": 26,
