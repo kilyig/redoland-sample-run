@@ -3548,6 +3548,13 @@
    "text": "Esa, you've fed Bram through three lean years and you're not dying on my watch \u2014 take one from me right now, no question.",
    "who": "Nessa",
    "year": 13
+  },
+  {
+   "eid": "e005549",
+   "kind": "say",
+   "text": "Nessa, I'm taking it and I won't forget this \u2014 that's two debts I carry to this household now, and I intend to repay both. Bram, I need to hear from you too, not because I doubt Nessa, but because a circle that only speaks through its youngest voice isn't standing the way I thought we were.",
+   "who": "Esa",
+   "year": 13
   }
  ],
  "memory_summary": "",
