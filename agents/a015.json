@@ -4010,6 +4010,13 @@
    "text": "Bram gathers Nessa, Fina to talk.",
    "who": "Bram",
    "year": 13
+  },
+  {
+   "eid": "e005747",
+   "kind": "say",
+   "text": "Mako's got a new daughter with Sela \u2014 Talia \u2014 and that changes his count. Two bloodlines wasn't enough to make him move; three might be. Fina, you've still got the most food in this village and I want to know: has he spoken to you yet, even once, even small?",
+   "who": "Bram",
+   "year": 13
   }
  ],
  "memory_summary": "",

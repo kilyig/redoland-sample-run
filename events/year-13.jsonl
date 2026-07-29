@@ -219,3 +219,4 @@
 {"eid": "e005744", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e005745", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e005746", "year": 13, "phase": "convo", "kind": "convo", "speaker": "a001", "who": "Bram", "audience": ["a001", "a013", "a015"], "text": "Bram gathers Nessa, Fina to talk.", "payload": {}}
+{"eid": "e005747", "year": 13, "phase": "convo", "kind": "say", "speaker": "a001", "who": "Bram", "audience": ["a001", "a013", "a015"], "text": "Mako's got a new daughter with Sela \u2014 Talia \u2014 and that changes his count. Two bloodlines wasn't enough to make him move; three might be. Fina, you've still got the most food in this village and I want to know: has he spoken to you yet, even once, even small?", "payload": {}}
