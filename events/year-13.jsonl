@@ -204,3 +204,4 @@
 {"eid": "e005729", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e005730", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e005731", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "", "payload": {}}
+{"eid": "e005732", "year": 13, "phase": "convo", "kind": "convo", "speaker": "a016", "who": "Talia", "audience": ["a016", "a008"], "text": "Talia gathers Mako to talk.", "payload": {}}
