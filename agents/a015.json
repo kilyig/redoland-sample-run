@@ -4045,6 +4045,13 @@
    "text": "",
    "who": "Fina",
    "year": 13
+  },
+  {
+   "eid": "e005782",
+   "kind": "give",
+   "text": "Talia gives 1 food to Zinn.",
+   "who": "Talia",
+   "year": 13
   }
  ],
  "memory_summary": "",
