@@ -6785,6 +6785,13 @@
    "text": "Mako, you have nothing left and I have five \u2014 take two from me now, before the year closes and you're eating air.",
    "who": "Talia",
    "year": 13
+  },
+  {
+   "eid": "e005736",
+   "kind": "give",
+   "text": "Bram gives 1 food to Esa.",
+   "who": "Bram",
+   "year": 13
   }
  ],
  "memory_summary": "",

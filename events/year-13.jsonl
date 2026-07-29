@@ -208,3 +208,4 @@
 {"eid": "e005733", "year": 13, "phase": "convo", "kind": "say", "speaker": "a016", "who": "Talia", "audience": ["a016", "a008"], "text": "Mako, you have nothing left and I have five \u2014 take two from me now, before the year closes and you're eating air.", "payload": {}}
 {"eid": "e005734", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e005735", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
+{"eid": "e005736", "year": 13, "phase": "scramble", "kind": "give", "speaker": "a001", "who": "Bram", "audience": "public", "text": "Bram gives 1 food to Esa.", "payload": {"target": "a003", "amount": 1}}
