@@ -6778,6 +6778,13 @@
    "text": "Talia gathers Mako to talk.",
    "who": "Talia",
    "year": 13
+  },
+  {
+   "eid": "e005733",
+   "kind": "say",
+   "text": "Mako, you have nothing left and I have five \u2014 take two from me now, before the year closes and you're eating air.",
+   "who": "Talia",
+   "year": 13
   }
  ],
  "memory_summary": "",
