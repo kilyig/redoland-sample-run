@@ -210,3 +210,4 @@
 {"eid": "e005735", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e005736", "year": 13, "phase": "scramble", "kind": "give", "speaker": "a001", "who": "Bram", "audience": "public", "text": "Bram gives 1 food to Esa.", "payload": {"target": "a003", "amount": 1}}
 {"eid": "e005737", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
+{"eid": "e005738", "year": 13, "phase": "scramble", "kind": "give", "speaker": "a016", "who": "Talia", "audience": "public", "text": "Talia gives 1 food to Mako.", "payload": {"target": "a008", "amount": 1}}
