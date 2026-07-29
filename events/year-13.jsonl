@@ -275,3 +275,4 @@
 {"eid": "e005800", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e005801", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "", "payload": {}}
 {"eid": "e005802", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
+{"eid": "e005803", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
