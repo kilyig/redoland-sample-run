@@ -240,3 +240,20 @@
 {"eid": "e006322", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e006323", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "", "payload": {}}
 {"eid": "e006324", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
+{"eid": "e006325", "year": 14, "phase": "eat", "kind": "eat", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "eats 1 food", "payload": {}}
+{"eid": "e006326", "year": 14, "phase": "eat", "kind": "eat", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "eats 1 food", "payload": {}}
+{"eid": "e006327", "year": 14, "phase": "eat", "kind": "eat", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "eats 2 food", "payload": {}}
+{"eid": "e006328", "year": 14, "phase": "eat", "kind": "eat", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "eats 1 food", "payload": {}}
+{"eid": "e006329", "year": 14, "phase": "eat", "kind": "eat", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "eats 1 food", "payload": {}}
+{"eid": "e006330", "year": 14, "phase": "eat", "kind": "eat", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "eats 1 food", "payload": {}}
+{"eid": "e006331", "year": 14, "phase": "eat", "kind": "eat", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "eats 1 food", "payload": {}}
+{"eid": "e006332", "year": 14, "phase": "eat", "kind": "eat", "speaker": "a011", "who": "Dell", "audience": ["a011"], "text": "eats 0 food", "payload": {}}
+{"eid": "e006333", "year": 14, "phase": "mortality", "kind": "death", "speaker": "village", "who": "the village", "audience": "public", "text": "Dell starves at age 33.", "payload": {"agent": "a011", "cause": "starvation"}}
+{"eid": "e006334", "year": 14, "phase": "eat", "kind": "eat", "speaker": "a013", "who": "Nessa", "audience": ["a013"], "text": "eats 1 food", "payload": {}}
+{"eid": "e006335", "year": 14, "phase": "eat", "kind": "eat", "speaker": "a014", "who": "Zinn", "audience": ["a014"], "text": "eats 2 food", "payload": {}}
+{"eid": "e006336", "year": 14, "phase": "eat", "kind": "eat", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "eats 1 food", "payload": {}}
+{"eid": "e006337", "year": 14, "phase": "eat", "kind": "eat", "speaker": "a016", "who": "Talia", "audience": ["a016"], "text": "eats 1 food", "payload": {}}
+{"eid": "e006338", "year": 14, "phase": "boundary", "kind": "compaction", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "(Bram consolidates older memories)", "payload": {}}
+{"eid": "e006339", "year": 14, "phase": "boundary", "kind": "compaction", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "(Esa consolidates older memories)", "payload": {}}
+{"eid": "e006340", "year": 14, "phase": "boundary", "kind": "compaction", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "(Kael consolidates older memories)", "payload": {}}
+{"eid": "e006341", "year": 14, "phase": "boundary", "kind": "compaction", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "(Fina consolidates older memories)", "payload": {}}

@@ -1,6 +1,6 @@
 {
  "actions_used_year": 5,
- "age": 58,
+ "age": 59,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 1,
  "health": 2,
  "hp": 100,
  "id": "a002",
@@ -6921,6 +6921,20 @@
    "kind": "give",
    "text": "Talia gives 1 food to Mako.",
    "who": "Talia",
+   "year": 14
+  },
+  {
+   "eid": "e006326",
+   "kind": "eat",
+   "text": "eats 1 food",
+   "who": "Vela",
+   "year": 14
+  },
+  {
+   "eid": "e006333",
+   "kind": "death",
+   "text": "Dell starves at age 33.",
+   "who": "the village",
    "year": 14
   }
  ],
