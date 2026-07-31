@@ -657,6 +657,13 @@
    "text": "Zinn's been quiet too long and I'm done waiting on it \u2014 Talia, give her the food now and let's close this room. What I know is this: Kael's got four food, no allies I can name, and he's fifty-eight years old in a village where men his age start dying on their own, so whatever he's counting toward, we're not it.",
    "who": "Mako",
    "year": 14
+  },
+  {
+   "eid": "e006149",
+   "kind": "say",
+   "text": "Mako, I hear you \u2014 we're done talking about Kael for now, and you're right that he's probably just a man getting old and scared. But I want you to eat before we scatter; you said two food and I'm watching you hold it like it's someone else's.",
+   "who": "Talia",
+   "year": 14
   }
  ],
  "memory_summary": "",
@@ -668,7 +675,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [
   "a012",
