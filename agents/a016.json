@@ -636,6 +636,13 @@
    "text": "Mako's right \u2014 I'll give Zinn one food in the open before this day closes, and I'd rather do it where Kael can see it than where he can't. But Zinn, I still want your read on him; you've been in this village longer than I have and you know what a man looks like when he's building toward something versus just hoarding against a hard year.",
    "who": "Talia",
    "year": 14
+  },
+  {
+   "eid": "e006146",
+   "kind": "say",
+   "text": "Zinn hasn't spoken yet and I'm not going to keep talking into her silence \u2014 Zinn, one word is enough, even just whether he's looked at you differently since the pile dropped. Talia, give her the food in the open like you said; I'll be where I can be seen when you do it.",
+   "who": "Mako",
+   "year": 14
   }
  ],
  "memory_summary": "",
