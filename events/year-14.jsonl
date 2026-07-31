@@ -168,3 +168,4 @@
 {"eid": "e006250", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a016", "who": "Talia", "audience": ["a016"], "text": "", "payload": {}}
 {"eid": "e006251", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a007", "who": "Sela", "audience": ["a007"], "text": "", "payload": {}}
 {"eid": "e006252", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a016", "who": "Talia", "audience": "public", "text": "Talia gives 1 food to Zinn.", "payload": {"target": "a014", "amount": 1}}
+{"eid": "e006253", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
