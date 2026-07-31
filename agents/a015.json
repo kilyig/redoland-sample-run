@@ -4724,6 +4724,13 @@
    "text": "Talia gives 1 food to Mako.",
    "who": "Talia",
    "year": 14
+  },
+  {
+   "eid": "e006233",
+   "kind": "give",
+   "text": "Sela gives 1 food to Nessa.",
+   "who": "Sela",
+   "year": 14
   }
  ],
  "memory_summary": "",
