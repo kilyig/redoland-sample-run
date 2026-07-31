@@ -587,6 +587,13 @@
    "text": "Talia gives 1 food to Mako.",
    "who": "Talia",
    "year": 14
+  },
+  {
+   "eid": "e006139",
+   "kind": "convo",
+   "text": "Mako gathers Zinn, Talia to talk.",
+   "who": "Mako",
+   "year": 14
   }
  ],
  "memory_summary": "",

@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 46,
  "alive": true,
  "birth_year": 0,
@@ -3578,6 +3578,13 @@
    "kind": "give",
    "text": "Talia gives 1 food to Mako.",
    "who": "Talia",
+   "year": 14
+  },
+  {
+   "eid": "e006139",
+   "kind": "convo",
+   "text": "Mako gathers Zinn, Talia to talk.",
+   "who": "Mako",
    "year": 14
   }
  ],
