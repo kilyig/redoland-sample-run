@@ -109,3 +109,4 @@
 {"eid": "e006191", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela gives 1 food to Talia.", "payload": {"target": "a016", "amount": 1}}
 {"eid": "e006192", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e006193", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a016", "who": "Talia", "audience": ["a016"], "text": "", "payload": {}}
+{"eid": "e006194", "year": 14, "phase": "convo", "kind": "convo", "speaker": "a011", "who": "Dell", "audience": ["a011", "a009"], "text": "Dell gathers Ryn to talk.", "payload": {}}
