@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 4,
  "health": 2,
  "hp": 100,
  "id": "a008",
@@ -3921,6 +3921,13 @@
    "kind": "give",
    "text": "Vela gives 1 food to Esa.",
    "who": "Vela",
+   "year": 14
+  },
+  {
+   "eid": "e006235",
+   "kind": "give",
+   "text": "Talia gives 1 food to Mako.",
+   "who": "Talia",
    "year": 14
   }
  ],
