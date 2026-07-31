@@ -4409,6 +4409,13 @@
    "text": "Nessa, Bram's right that the room's waiting on you, and I'm not going to pretend I'm not \u2014 you've had more time with Vela than either of us and if she said something, even something small that didn't seem like a count at the time, I want to hear it before we walk to her door carrying wrong assumptions. A man who takes four off the pile without warning his own people first has already moved somewhere in his head, and if Vela knows where Kael's head is, that's the only map we've got tonight.",
    "who": "Fina",
    "year": 14
+  },
+  {
+   "eid": "e006165",
+   "kind": "say",
+   "text": "Nessa, I've been patient through two rounds of asking and I won't make it a third \u2014 say what you know about Vela and Kael right now, or tonight we walk to her door blind and whatever happens there is on both of us.",
+   "who": "Bram",
+   "year": 14
   }
  ],
  "memory_summary": "",
