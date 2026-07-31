@@ -71,3 +71,4 @@
 {"eid": "e006153", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e006154", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a001", "who": "Bram", "audience": "public", "text": "Bram gives 1 food to Nessa.", "payload": {"target": "a013", "amount": 1}}
 {"eid": "e006155", "year": 14, "phase": "convo", "kind": "convo", "speaker": "a011", "who": "Dell", "audience": ["a011", "a002"], "text": "Dell gathers Vela to talk.", "payload": {}}
+{"eid": "e006156", "year": 14, "phase": "convo", "kind": "say", "speaker": "a011", "who": "Dell", "audience": ["a011", "a002"], "text": "Vela, I walked over here meaning to ask you about Bram \u2014 but watching you and Kael this morning, I think I've been asking the wrong question, and I'd rather hear what you two are planning with those four he pulled than talk about Bram at all.", "payload": {}}
