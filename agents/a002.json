@@ -6292,6 +6292,13 @@
    "text": "Talia walking away with three tells me Mako coached her \u2014 that's not a child learning the pile, that's a household running a play, and the play is that Mako stays modest while his people drain what's there before anyone objects. Vela, you're right to name it. The question I'm sitting with now is whether we pull Talia into a conversation before she's fully his, or whether that door's already closed.",
    "who": "Kael",
    "year": 14
+  },
+  {
+   "eid": "e006095",
+   "kind": "say",
+   "text": "Talia's door isn't closed yet \u2014 she's twenty-two and she fed Mako and Zinn both last year, which means she's loyal but she's also been watching who gets hungry and who doesn't, and a girl that age who pays attention can be reached if the offer is right. But I won't try her until I know what we're offering, because going to Mako's daughter empty-handed is worse than not going at all. Kael, what do you have that she'd want enough to hear out a woman twice her age?",
+   "who": "Vela",
+   "year": 14
   }
  ],
  "memory_summary": "The village started with ten of us, and in those first years Kael pulled me and Esa and Sela and Ryn into a quiet circle against Bram and Mako, who ate fat while the rest of us counted crumbs. I made a private trade with Taric early \u2014 food for protection \u2014 and that debt ran both directions for years; he fed me lean seasons and I fed him lean ones, and I trusted him more than anyone. I spent food on Bram three times in year four trying to buy peace, and the circle caught me for it \u2014 Kael and Roan and Esa called me out hard, questioning whether I was trading away my safety for the feeling of it, and I had no clean answer. Ryn had a child with Dav and pulled slightly away from us; in year six Dav raided Esa, with Ryn and Dell backing him, and Esa submitted and lost food \u2014 I remember the shame of watching that and giving nothing. Dav starved the next year and that household dissolved. Bram swung twice at the village \u2014 once at Roan in year three, once at me \u2014 and both times the whole village shut him down; after the second time I brought him into a private room with Taric and Roan and he gave his word to stand with us against Mako when the moment came. Mako fathered Zinn on Sela and said almost nothing for seven years; he has always been the shape the village is growing into. Eron was Sela and Roan's child, fed generously by everyone near him. Taric is dead now, starved at fifty-three, and the loss sits in me like a cold stone.",
@@ -6300,7 +6307,7 @@
  "name": "Vela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [],
  "strength": 26,
