@@ -552,6 +552,13 @@
    "text": "Talia takes 3 from the pile (pile now 6).",
    "who": "Talia",
    "year": 14
+  },
+  {
+   "eid": "e006106",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Zinn.",
+   "who": "Nessa",
+   "year": 14
   }
  ],
  "memory_summary": "",
