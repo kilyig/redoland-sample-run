@@ -13,7 +13,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 11,
+ "food": 12,
  "health": 2,
  "hp": 100,
  "id": "a007",
@@ -7227,6 +7227,13 @@
    "kind": "give",
    "text": "Sela gives 1 food to Nessa.",
    "who": "Sela",
+   "year": 14
+  },
+  {
+   "eid": "e006218",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Sela.",
+   "who": "Nessa",
    "year": 14
   }
  ],
