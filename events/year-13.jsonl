@@ -355,3 +355,4 @@
 {"eid": "e005880", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
 {"eid": "e005881", "year": 13, "phase": "convo", "kind": "convo", "speaker": "a009", "who": "Ryn", "audience": ["a009", "a011"], "text": "Ryn gathers Dell to talk.", "payload": {}}
 {"eid": "e005882", "year": 13, "phase": "convo", "kind": "say", "speaker": "a009", "who": "Ryn", "audience": ["a009", "a011"], "text": "Eat before you go, Dell \u2014 not a suggestion, a condition, because I need you sharp when you walk through Fina's door and a woman at satiation two who's already giving food away is one bad year from being the one we're worrying about instead of the one doing the worrying. I'll be here when you come back.", "payload": {}}
+{"eid": "e005883", "year": 13, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
