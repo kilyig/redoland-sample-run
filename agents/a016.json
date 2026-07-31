@@ -762,6 +762,13 @@
    "text": "",
    "who": "Talia",
    "year": 14
+  },
+  {
+   "eid": "e006185",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Sela.",
+   "who": "Nessa",
+   "year": 14
   }
  ],
  "memory_summary": "",
