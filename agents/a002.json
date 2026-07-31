@@ -6257,6 +6257,13 @@
    "text": "I took nothing yet \u2014 the pile still had six when Kael moved and I was watching Talia take three before I could get there, so I'm sitting on seven from last year and the pile's still open. Esa, what are you holding, and who's still hungry enough to drain what's left before we can touch it?",
    "who": "Vela",
    "year": 14
+  },
+  {
+   "eid": "e006090",
+   "kind": "say",
+   "text": "I'm holding nothing \u2014 zero food, one satiation, and if that pile empties before I reach it I don't see the next year. Mako took two and Talia took three and between them and Kael that's nine gone before I blinked, so I need to move now. Vela, will you hold that six until I get there, or are we walking together?",
+   "who": "Esa",
+   "year": 14
   }
  ],
  "memory_summary": "The village started with ten of us, and in those first years Kael pulled me and Esa and Sela and Ryn into a quiet circle against Bram and Mako, who ate fat while the rest of us counted crumbs. I made a private trade with Taric early \u2014 food for protection \u2014 and that debt ran both directions for years; he fed me lean seasons and I fed him lean ones, and I trusted him more than anyone. I spent food on Bram three times in year four trying to buy peace, and the circle caught me for it \u2014 Kael and Roan and Esa called me out hard, questioning whether I was trading away my safety for the feeling of it, and I had no clean answer. Ryn had a child with Dav and pulled slightly away from us; in year six Dav raided Esa, with Ryn and Dell backing him, and Esa submitted and lost food \u2014 I remember the shame of watching that and giving nothing. Dav starved the next year and that household dissolved. Bram swung twice at the village \u2014 once at Roan in year three, once at me \u2014 and both times the whole village shut him down; after the second time I brought him into a private room with Taric and Roan and he gave his word to stand with us against Mako when the moment came. Mako fathered Zinn on Sela and said almost nothing for seven years; he has always been the shape the village is growing into. Eron was Sela and Roan's child, fed generously by everyone near him. Taric is dead now, starved at fifty-three, and the loss sits in me like a cold stone.",
