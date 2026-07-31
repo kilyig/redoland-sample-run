@@ -4766,6 +4766,13 @@
    "text": "Fina gives 1 food to Zinn.",
    "who": "Fina",
    "year": 14
+  },
+  {
+   "eid": "e006241",
+   "kind": "pass",
+   "text": "",
+   "who": "Fina",
+   "year": 14
   }
  ],
  "memory_summary": "",
