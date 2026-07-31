@@ -790,6 +790,13 @@
    "text": "Sela gives 1 food to Talia.",
    "who": "Sela",
    "year": 14
+  },
+  {
+   "eid": "e006193",
+   "kind": "pass",
+   "text": "",
+   "who": "Talia",
+   "year": 14
   }
  ],
  "memory_summary": "",
