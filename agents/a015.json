@@ -4542,6 +4542,13 @@
    "text": "",
    "who": "Fina",
    "year": 14
+  },
+  {
+   "eid": "e006189",
+   "kind": "give",
+   "text": "Vela gives 1 food to Esa.",
+   "who": "Vela",
+   "year": 14
   }
  ],
  "memory_summary": "",
