@@ -4374,6 +4374,13 @@
    "text": "Nessa gives 1 food to Esa.",
    "who": "Nessa",
    "year": 14
+  },
+  {
+   "eid": "e006160",
+   "kind": "convo",
+   "text": "Bram gathers Nessa, Fina to talk.",
+   "who": "Bram",
+   "year": 14
   }
  ],
  "memory_summary": "",
