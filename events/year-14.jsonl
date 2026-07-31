@@ -2,3 +2,4 @@
 {"eid": "e006084", "year": 14, "phase": "scramble", "kind": "take", "speaker": "a004", "who": "Kael", "audience": "public", "text": "Kael takes 4 from the pile (pile now 11).", "payload": {"amount": 4}}
 {"eid": "e006085", "year": 14, "phase": "scramble", "kind": "take", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa takes 2 from the pile (pile now 9).", "payload": {"amount": 2}}
 {"eid": "e006086", "year": 14, "phase": "scramble", "kind": "take", "speaker": "a016", "who": "Talia", "audience": "public", "text": "Talia takes 3 from the pile (pile now 6).", "payload": {"amount": 3}}
+{"eid": "e006087", "year": 14, "phase": "convo", "kind": "convo", "speaker": "a004", "who": "Kael", "audience": ["a004", "a002", "a003"], "text": "Kael gathers Vela, Esa to talk.", "payload": {}}

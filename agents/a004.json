@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 58,
  "alive": true,
  "birth_year": 0,
@@ -2294,6 +2294,13 @@
    "kind": "take",
    "text": "Talia takes 3 from the pile (pile now 6).",
    "who": "Talia",
+   "year": 14
+  },
+  {
+   "eid": "e006087",
+   "kind": "convo",
+   "text": "Kael gathers Vela, Esa to talk.",
+   "who": "Kael",
    "year": 14
   }
  ],
