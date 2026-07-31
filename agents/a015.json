@@ -4416,6 +4416,13 @@
    "text": "Nessa, I've been patient through two rounds of asking and I won't make it a third \u2014 say what you know about Vela and Kael right now, or tonight we walk to her door blind and whatever happens there is on both of us.",
    "who": "Bram",
    "year": 14
+  },
+  {
+   "eid": "e006166",
+   "kind": "say",
+   "text": "Nessa, I've said my piece twice now and I'll let Bram's words carry the weight \u2014 but I'll add this: if you're holding something back to protect someone, tell us that much, because a silence that comes from loyalty reads different than a silence that comes from not knowing, and right now I can't tell which one this is.",
+   "who": "Fina",
+   "year": 14
   }
  ],
  "memory_summary": "",
@@ -4427,7 +4434,7 @@
   "a010"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [
   "a012"
