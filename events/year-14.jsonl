@@ -1,1 +1,2 @@
 {"eid": "e006083", "year": 14, "phase": "setup", "kind": "narrate", "speaker": "village", "who": "the village", "audience": "public", "text": "Year 14: 15 food appears in the pile for 12 people.", "payload": {}}
+{"eid": "e006084", "year": 14, "phase": "scramble", "kind": "take", "speaker": "a004", "who": "Kael", "audience": "public", "text": "Kael takes 4 from the pile (pile now 11).", "payload": {"amount": 4}}
