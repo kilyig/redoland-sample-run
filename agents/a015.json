@@ -4437,6 +4437,13 @@
    "text": "Nessa, I'm not pushing harder than Bram just did, but I'll tell you what I'm reading from your silence: you know something and it's costing you to sit on it, and whatever you owe Vela, she's not in this room right now and we are. Say it or tell me you can't, and I'll stop asking.",
    "who": "Fina",
    "year": 14
+  },
+  {
+   "eid": "e006169",
+   "kind": "say",
+   "text": "Nessa, I've said everything a father can say and I'm not saying it again \u2014 but I want you to look at me, not at the floor, and tell me one word: is Vela still with us, or isn't she?",
+   "who": "Bram",
+   "year": 14
   }
  ],
  "memory_summary": "",
