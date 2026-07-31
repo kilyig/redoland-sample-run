@@ -629,6 +629,13 @@
    "text": "Zinn, say your piece \u2014 I'm not moving anything until I hear it, but while we wait I want Talia to know this: \"standing somewhere he didn't expect\" means standing with us visibly, so that Kael counts you as attached before he decides to test it. One food moving between you and Zinn in the open today does more than anything we say in here.",
    "who": "Mako",
    "year": 14
+  },
+  {
+   "eid": "e006145",
+   "kind": "say",
+   "text": "Mako's right \u2014 I'll give Zinn one food in the open before this day closes, and I'd rather do it where Kael can see it than where he can't. But Zinn, I still want your read on him; you've been in this village longer than I have and you know what a man looks like when he's building toward something versus just hoarding against a hard year.",
+   "who": "Talia",
+   "year": 14
   }
  ],
  "memory_summary": "",
@@ -640,7 +647,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [
   "a012",
