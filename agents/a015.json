@@ -4381,6 +4381,13 @@
    "text": "Bram gathers Nessa, Fina to talk.",
    "who": "Bram",
    "year": 14
+  },
+  {
+   "eid": "e006161",
+   "kind": "say",
+   "text": "Fina's right \u2014 Vela before dark, no later. But Nessa, you haven't said a word yet and you're the one whose ear Vela's closest to, so tell me: has she said anything to you in the last few days that sounded like she was making a new count?",
+   "who": "Bram",
+   "year": 14
   }
  ],
  "memory_summary": "",

@@ -76,3 +76,4 @@
 {"eid": "e006158", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e006159", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa gives 1 food to Esa.", "payload": {"target": "a003", "amount": 1}}
 {"eid": "e006160", "year": 14, "phase": "convo", "kind": "convo", "speaker": "a001", "who": "Bram", "audience": ["a001", "a013", "a015"], "text": "Bram gathers Nessa, Fina to talk.", "payload": {}}
+{"eid": "e006161", "year": 14, "phase": "convo", "kind": "say", "speaker": "a001", "who": "Bram", "audience": ["a001", "a013", "a015"], "text": "Fina's right \u2014 Vela before dark, no later. But Nessa, you haven't said a word yet and you're the one whose ear Vela's closest to, so tell me: has she said anything to you in the last few days that sounded like she was making a new count?", "payload": {}}
