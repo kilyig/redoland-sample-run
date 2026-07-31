@@ -1,5 +1,5 @@
 {
- "actions_used_year": 9,
+ "actions_used_year": 10,
  "age": 50,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 12,
+ "food": 11,
  "health": 2,
  "hp": 100,
  "id": "a009",
@@ -3296,6 +3296,13 @@
    "eid": "e005882",
    "kind": "say",
    "text": "Eat before you go, Dell \u2014 not a suggestion, a condition, because I need you sharp when you walk through Fina's door and a woman at satiation two who's already giving food away is one bad year from being the one we're worrying about instead of the one doing the worrying. I'll be here when you come back.",
+   "who": "Ryn",
+   "year": 13
+  },
+  {
+   "eid": "e005885",
+   "kind": "give",
+   "text": "Ryn gives 1 food to Dell.",
    "who": "Ryn",
    "year": 13
   }
