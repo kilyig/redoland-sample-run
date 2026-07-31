@@ -1,5 +1,5 @@
 {
- "actions_used_year": 9,
+ "actions_used_year": 10,
  "age": 44,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 6,
+ "food": 5,
  "health": 2,
  "hp": 100,
  "id": "a001",
@@ -9779,6 +9779,13 @@
    "kind": "give",
    "text": "Dell gives 1 food to Ryn.",
    "who": "Dell",
+   "year": 14
+  },
+  {
+   "eid": "e006289",
+   "kind": "give",
+   "text": "Bram gives 1 food to Nessa.",
+   "who": "Bram",
    "year": 14
   }
  ],
