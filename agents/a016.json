@@ -622,6 +622,13 @@
    "text": "Zinn, while Mako waits on your answer \u2014 I want to say that if Kael's counting bodies before he moves, he's counting mine as new and unattached, which makes me either easy to ignore or easy to approach. If he does circle, I'd rather he find me already standing somewhere he didn't expect.",
    "who": "Talia",
    "year": 14
+  },
+  {
+   "eid": "e006144",
+   "kind": "say",
+   "text": "Zinn, say your piece \u2014 I'm not moving anything until I hear it, but while we wait I want Talia to know this: \"standing somewhere he didn't expect\" means standing with us visibly, so that Kael counts you as attached before he decides to test it. One food moving between you and Zinn in the open today does more than anything we say in here.",
+   "who": "Mako",
+   "year": 14
   }
  ],
  "memory_summary": "",
