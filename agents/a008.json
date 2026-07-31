@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 2,
+ "food": 3,
  "health": 2,
  "hp": 100,
  "id": "a008",
@@ -3571,6 +3571,13 @@
    "kind": "take",
    "text": "Zinn takes 2 from the pile (pile now 0).",
    "who": "Zinn",
+   "year": 14
+  },
+  {
+   "eid": "e006138",
+   "kind": "give",
+   "text": "Talia gives 1 food to Mako.",
+   "who": "Talia",
    "year": 14
   }
  ],

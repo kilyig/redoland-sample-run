@@ -4325,6 +4325,13 @@
    "text": "Zinn takes 2 from the pile (pile now 0).",
    "who": "Zinn",
    "year": 14
+  },
+  {
+   "eid": "e006138",
+   "kind": "give",
+   "text": "Talia gives 1 food to Mako.",
+   "who": "Talia",
+   "year": 14
   }
  ],
  "memory_summary": "",
