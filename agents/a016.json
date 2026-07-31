@@ -650,6 +650,13 @@
    "text": "Zinn, I'm going to give you that food right now whether you answer or not \u2014 but I'd sleep easier tonight knowing you'd noticed something about Kael, even nothing, because nothing is also an answer.",
    "who": "Talia",
    "year": 14
+  },
+  {
+   "eid": "e006148",
+   "kind": "say",
+   "text": "Zinn's been quiet too long and I'm done waiting on it \u2014 Talia, give her the food now and let's close this room. What I know is this: Kael's got four food, no allies I can name, and he's fifty-eight years old in a village where men his age start dying on their own, so whatever he's counting toward, we're not it.",
+   "who": "Mako",
+   "year": 14
   }
  ],
  "memory_summary": "",
