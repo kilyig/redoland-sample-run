@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 33,
  "alive": true,
  "birth_year": 2,
@@ -5122,6 +5122,13 @@
    "kind": "take",
    "text": "Zinn takes 2 from the pile (pile now 0).",
    "who": "Zinn",
+   "year": 14
+  },
+  {
+   "eid": "e006110",
+   "kind": "convo",
+   "text": "Dell gathers Ryn to talk.",
+   "who": "Dell",
    "year": 14
   }
  ],
