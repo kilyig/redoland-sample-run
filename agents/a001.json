@@ -9367,6 +9367,13 @@
    "text": "Nessa, I'm still waiting on you \u2014 Fina's told me what she's seen and I've told you what I need, and the only voice missing in this room is yours. If Vela's said something to you that you haven't said to us, now's the time, not tonight at her door when it's already too late to change what we walk in carrying.",
    "who": "Bram",
    "year": 14
+  },
+  {
+   "eid": "e006164",
+   "kind": "say",
+   "text": "Nessa, Bram's right that the room's waiting on you, and I'm not going to pretend I'm not \u2014 you've had more time with Vela than either of us and if she said something, even something small that didn't seem like a count at the time, I want to hear it before we walk to her door carrying wrong assumptions. A man who takes four off the pile without warning his own people first has already moved somewhere in his head, and if Vela knows where Kael's head is, that's the only map we've got tonight.",
+   "who": "Fina",
+   "year": 14
   }
  ],
  "memory_summary": "",
