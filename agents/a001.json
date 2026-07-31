@@ -9752,6 +9752,13 @@
    "text": "Fina gives 1 food to Bram.",
    "who": "Fina",
    "year": 14
+  },
+  {
+   "eid": "e006282",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 14
   }
  ],
  "memory_summary": "",
