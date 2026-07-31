@@ -137,3 +137,4 @@
 {"eid": "e006219", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa gives 1 food to Bram.", "payload": {"target": "a001", "amount": 1}}
 {"eid": "e006220", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa gives 1 food to Bram.", "payload": {"target": "a001", "amount": 1}}
 {"eid": "e006221", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
+{"eid": "e006222", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
