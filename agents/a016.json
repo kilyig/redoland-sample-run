@@ -706,6 +706,13 @@
    "text": "Nessa gives 1 food to Zinn.",
    "who": "Nessa",
    "year": 14
+  },
+  {
+   "eid": "e006174",
+   "kind": "give",
+   "text": "Bram gives 1 food to Nessa.",
+   "who": "Bram",
+   "year": 14
   }
  ],
  "memory_summary": "",
