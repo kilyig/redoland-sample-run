@@ -9773,6 +9773,13 @@
    "text": "Fina gives 1 food to Dell.",
    "who": "Fina",
    "year": 14
+  },
+  {
+   "eid": "e006287",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 14
   }
  ],
  "memory_summary": "",
