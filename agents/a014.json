@@ -3268,6 +3268,13 @@
    "text": "Zinn, before you go \u2014 if Talia says anything about Mako's food, how much he's told her he's holding, come back to me before you bring it to Sela, because two food on a man with his strength means he's either been giving it away to someone we don't see, or he's been lying about what he has. Either answer changes the shape of this morning.",
    "who": "Nessa",
    "year": 14
+  },
+  {
+   "eid": "e006130",
+   "kind": "say",
+   "text": "Nessa, I heard you \u2014 Mako's two food comes back to me before it goes to Sela. I'm going now.",
+   "who": "Zinn",
+   "year": 14
   }
  ],
  "memory_summary": "I came into this village with Sela and Mako as my parents, Eron and Nessa as my siblings. From the first year, Nessa and Sela fed me when I was thin; I fed them back, and Mako gave me food more times than I can count \u2014 I owe all three of them.\n\nBram attacked Vela and then Eron on two separate years; both times the whole village stood as one wall and he called it off. I was in that wall both times. He feeds Nessa steadily and she gives back to him, which I still don't fully understand, but he has never wronged me directly and he is Nessa's father.\n\nEron died \u2014 not in a fight, but of starvation, and I was not able to stop it. He had been feeding Roan for years and Roan had been feeding him back; Eron's food left with him, and Roan carried some of it. That loss still sits in me.\n\nFina was born to Nessa and Roan. Roan fed her steadily after her birth, and then Roan starved too. Fina is Nessa's daughter and therefore my blood through Nessa, and she has been feeding me unprompted for two years running \u2014 that is a debt I hold warmly.\n\nMako took five from the pile in year eight without warning anyone, and Sela read it as a man who had stopped counting us in his plans. I have not fully settled what I think of it; he has kept giving me food since, but the question never closed.",
@@ -3279,7 +3286,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "female",
  "siblings": [
   "a012",
