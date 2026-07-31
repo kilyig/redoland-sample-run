@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "Nessa, your mother is Sela \u2014 she made a hard choice in a hard year, and that means something; keep her close. Vela gave me food when she had no reason to, and I have not forgotten it, so watch her and learn what quiet generosity looks like before you decide it's weakness. Fear Mako most: he has strength, he has food, and he only started speaking when he had already decided something. Trust no one who has not paid a cost to stand beside you \u2014 words are free, and this village proved that to me the year it put nine bodies between me and one man's food.",
- "food": 14,
+ "food": 15,
  "health": 2,
  "hp": 100,
  "id": "a013",
@@ -2429,6 +2429,13 @@
    "kind": "say",
    "text": "Kael hasn't said a word to me this morning and that four off the pile is the thing I can't stop turning over \u2014 a man who runs with Vela and Esa doesn't move that big without a reason, so either he's scared of something or he's decided something, and I don't know which is worse. Bram, I'll give you one food today, same as I said I would, but I want us to find Vela before dark because if Kael's drifting I need to hear it from her face before I hear it from his actions.",
    "who": "Fina",
+   "year": 14
+  },
+  {
+   "eid": "e006154",
+   "kind": "give",
+   "text": "Bram gives 1 food to Nessa.",
+   "who": "Bram",
    "year": 14
   }
  ],

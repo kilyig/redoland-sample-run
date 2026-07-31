@@ -664,6 +664,13 @@
    "text": "Mako, I hear you \u2014 we're done talking about Kael for now, and you're right that he's probably just a man getting old and scared. But I want you to eat before we scatter; you said two food and I'm watching you hold it like it's someone else's.",
    "who": "Talia",
    "year": 14
+  },
+  {
+   "eid": "e006154",
+   "kind": "give",
+   "text": "Bram gives 1 food to Nessa.",
+   "who": "Bram",
+   "year": 14
   }
  ],
  "memory_summary": "",
