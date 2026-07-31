@@ -9556,6 +9556,13 @@
    "text": "Vela gives 1 food to Esa.",
    "who": "Vela",
    "year": 14
+  },
+  {
+   "eid": "e006210",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 14
   }
  ],
  "memory_summary": "",
