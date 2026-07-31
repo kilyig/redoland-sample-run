@@ -9416,6 +9416,13 @@
    "text": "Nessa, I've got seventeen food and I'm sitting quiet in a room where your father just asked you the only question that matters \u2014 I'm not going to add a fourth voice to it, but I'll say this: whatever you tell him right now, I'll hold it between the three of us and not carry it past this door.",
    "who": "Fina",
    "year": 14
+  },
+  {
+   "eid": "e006171",
+   "kind": "give",
+   "text": "Zinn gives 1 food to Sela.",
+   "who": "Zinn",
+   "year": 14
   }
  ],
  "memory_summary": "",
