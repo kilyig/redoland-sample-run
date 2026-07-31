@@ -94,3 +94,4 @@
 {"eid": "e006176", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e006177", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a014", "who": "Zinn", "audience": "public", "text": "Zinn gives 1 food to Sela.", "payload": {"target": "a007", "amount": 1}}
 {"eid": "e006178", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a008", "who": "Mako", "audience": "public", "text": "Mako gives 1 food to Talia.", "payload": {"target": "a016", "amount": 1}}
+{"eid": "e006179", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a014", "who": "Zinn", "audience": "public", "text": "Zinn gives 1 food to Sela.", "payload": {"target": "a007", "amount": 1}}
