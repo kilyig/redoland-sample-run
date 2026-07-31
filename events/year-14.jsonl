@@ -119,3 +119,4 @@
 {"eid": "e006201", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a011", "who": "Dell", "audience": "public", "text": "Dell gives 1 food to Ryn.", "payload": {"target": "a009", "amount": 1}}
 {"eid": "e006202", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa gives 1 food to Bram.", "payload": {"target": "a001", "amount": 1}}
 {"eid": "e006203", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a016", "who": "Talia", "audience": ["a016"], "text": "", "payload": {}}
+{"eid": "e006204", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a008", "who": "Mako", "audience": ["a008"], "text": "", "payload": {}}
