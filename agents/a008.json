@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 4,
+ "food": 5,
  "health": 2,
  "hp": 100,
  "id": "a008",
@@ -4166,6 +4166,13 @@
    "kind": "give",
    "text": "Sela gives 1 food to Talia.",
    "who": "Sela",
+   "year": 14
+  },
+  {
+   "eid": "e006320",
+   "kind": "give",
+   "text": "Talia gives 1 food to Mako.",
+   "who": "Talia",
    "year": 14
   }
  ],
