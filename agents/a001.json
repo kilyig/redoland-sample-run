@@ -9353,6 +9353,13 @@
    "text": "Fina's right \u2014 Vela before dark, no later. But Nessa, you haven't said a word yet and you're the one whose ear Vela's closest to, so tell me: has she said anything to you in the last few days that sounded like she was making a new count?",
    "who": "Bram",
    "year": 14
+  },
+  {
+   "eid": "e006162",
+   "kind": "say",
+   "text": "Vela's said nothing to me that sounded like a new count, but she's been watching Kael the way you watch someone you're not sure of anymore \u2014 more careful than warm \u2014 and that gap between them is either him pulling away from her or her pulling away from him, and either way it's worth knowing which before we walk to her door tonight.",
+   "who": "Fina",
+   "year": 14
   }
  ],
  "memory_summary": "",
