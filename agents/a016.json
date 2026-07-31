@@ -594,6 +594,13 @@
    "text": "Mako gathers Zinn, Talia to talk.",
    "who": "Mako",
    "year": 14
+  },
+  {
+   "eid": "e006140",
+   "kind": "say",
+   "text": "Pile's gone again and I've got two food \u2014 I'm not thin yet but I'm not sitting easy either. Talia, you took three from the pile which is right; Zinn, you've got three and Nessa gave you one already, so that's four \u2014 that's where I want you both before I start worrying about anything else. Tell me what you each saw when Kael took four.",
+   "who": "Mako",
+   "year": 14
   }
  ],
  "memory_summary": "",
