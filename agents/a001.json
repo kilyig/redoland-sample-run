@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 44,
  "alive": true,
  "birth_year": 0,
@@ -9296,6 +9296,13 @@
    "kind": "give",
    "text": "Talia gives 1 food to Mako.",
    "who": "Talia",
+   "year": 14
+  },
+  {
+   "eid": "e006150",
+   "kind": "convo",
+   "text": "Bram gathers Nessa, Fina to talk.",
+   "who": "Bram",
    "year": 14
   }
  ],
