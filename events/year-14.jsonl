@@ -209,3 +209,4 @@
 {"eid": "e006291", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela gives 1 food to Esa.", "payload": {"target": "a003", "amount": 1}}
 {"eid": "e006292", "year": 14, "phase": "scramble", "kind": "give", "speaker": "a003", "who": "Esa", "audience": "public", "text": "Esa gives 1 food to Bram.", "payload": {"target": "a001", "amount": 1}}
 {"eid": "e006293", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
+{"eid": "e006294", "year": 14, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
