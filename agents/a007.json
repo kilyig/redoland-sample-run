@@ -1,6 +1,6 @@
 {
  "actions_used_year": 10,
- "age": 35,
+ "age": 36,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": true,
@@ -13,7 +13,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 7,
+ "food": 6,
  "health": 2,
  "hp": 100,
  "id": "a007",
@@ -6842,6 +6842,13 @@
    "kind": "give",
    "text": "Bram gives 1 food to Nessa.",
    "who": "Bram",
+   "year": 13
+  },
+  {
+   "eid": "e006070",
+   "kind": "eat",
+   "text": "eats 1 food",
+   "who": "Sela",
    "year": 13
   }
  ],
