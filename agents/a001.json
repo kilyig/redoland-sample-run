@@ -9815,6 +9815,13 @@
    "text": "Esa gives 1 food to Bram.",
    "who": "Esa",
    "year": 14
+  },
+  {
+   "eid": "e006307",
+   "kind": "give",
+   "text": "Dell gives 1 food to Ryn.",
+   "who": "Dell",
+   "year": 14
   }
  ],
  "memory_summary": "",
