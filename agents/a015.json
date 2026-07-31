@@ -4423,6 +4423,13 @@
    "text": "Nessa, I've said my piece twice now and I'll let Bram's words carry the weight \u2014 but I'll add this: if you're holding something back to protect someone, tell us that much, because a silence that comes from loyalty reads different than a silence that comes from not knowing, and right now I can't tell which one this is.",
    "who": "Fina",
    "year": 14
+  },
+  {
+   "eid": "e006167",
+   "kind": "say",
+   "text": "Nessa, the room's done asking nicely \u2014 you're my blood and I'll say it plain in front of Fina: if you're protecting Vela's secret because you owe her something, that debt just got smaller than what you owe me. Say it.",
+   "who": "Bram",
+   "year": 14
   }
  ],
  "memory_summary": "",
