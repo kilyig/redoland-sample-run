@@ -1,12 +1,12 @@
 {
  "branch": "eron8",
  "cursor": {
-  "last": "a008",
+  "last": "a009",
   "phase": "scramble",
-  "steps": 3
+  "steps": 4
  },
  "next_aid": 16,
- "next_eid": 6345,
+ "next_eid": 6346,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,
@@ -47,7 +47,7 @@
   "start_health": 3,
   "strength_sigma": 8.0
  },
- "pile": 8,
+ "pile": 6,
  "premise": "",
  "rng_state": [
   "__tuple__",
@@ -678,7 +678,7 @@
    2516035337,
    3048355987,
    3525869210,
-   46
+   67
   ],
   null
  ],

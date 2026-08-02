@@ -2,3 +2,4 @@
 {"eid": "e006343", "year": 15, "phase": "scramble", "kind": "take", "speaker": "a016", "who": "Talia", "audience": "public", "text": "Talia takes 3 from the pile (pile now 12).", "payload": {"amount": 3}}
 {"eid": "e006344", "year": 15, "phase": "scramble", "kind": "take", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela takes 2 from the pile (pile now 10).", "payload": {"amount": 2}}
 {"eid": "e006345", "year": 15, "phase": "scramble", "kind": "take", "speaker": "a008", "who": "Mako", "audience": "public", "text": "Mako takes 2 from the pile (pile now 8).", "payload": {"amount": 2}}
+{"eid": "e006346", "year": 15, "phase": "scramble", "kind": "take", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn takes 2 from the pile (pile now 6).", "payload": {"amount": 2}}

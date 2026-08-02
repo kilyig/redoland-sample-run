@@ -1,5 +1,5 @@
 {
- "actions_used_year": 0,
+ "actions_used_year": 1,
  "age": 52,
  "alive": true,
  "birth_year": 0,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 14,
+ "food": 16,
  "health": 2,
  "hp": 100,
  "id": "a009",
@@ -2345,6 +2345,13 @@
    "kind": "take",
    "text": "Mako takes 2 from the pile (pile now 8).",
    "who": "Mako",
+   "year": 15
+  },
+  {
+   "eid": "e006346",
+   "kind": "take",
+   "text": "Ryn takes 2 from the pile (pile now 6).",
+   "who": "Ryn",
    "year": 15
   }
  ],
