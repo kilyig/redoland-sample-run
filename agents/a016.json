@@ -1273,6 +1273,13 @@
    "text": "Kael, I lost Dell in this room while I was holding fifteen food and still couldn't save her, and that arithmetic has been sitting in my chest ever since \u2014 so whatever you're carrying, I know what it looks like from the outside and I know it doesn't get lighter by going unsaid. Say it or don't, but you're not the only one in this circle who's been standing at the edge of something they can't name.",
    "who": "Ryn",
    "year": 15
+  },
+  {
+   "eid": "e005211",
+   "kind": "say",
+   "text": "Kael, I've been quiet too long in my own life to push a man for words he's not ready for \u2014 but I'll say this once and leave it: you've been standing in this room longer than anyone except Vela, and a room with you silent in it feels like a roof with a missing beam, and I'd rather know where the gap is than wake up one morning and find it came down in the night.",
+   "who": "Roan",
+   "year": 15
   }
  ],
  "memory_summary": "",
