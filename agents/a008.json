@@ -1,6 +1,6 @@
 {
  "actions_used_year": 9,
- "age": 47,
+ "age": 48,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 8,
+ "food": 7,
  "health": 2,
  "hp": 100,
  "id": "a008",
@@ -4816,6 +4816,13 @@
    "eid": "e006623",
    "kind": "pass",
    "text": "",
+   "who": "Mako",
+   "year": 15
+  },
+  {
+   "eid": "e006727",
+   "kind": "eat",
+   "text": "eats 1 food",
    "who": "Mako",
    "year": 15
   }

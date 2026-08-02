@@ -1,6 +1,6 @@
 {
  "actions_used_year": 5,
- "age": 52,
+ "age": 53,
  "alive": true,
  "birth_year": 0,
  "bore_this_year": false,
@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 17,
+ "food": 16,
  "health": 2,
  "hp": 100,
  "id": "a009",
@@ -3170,6 +3170,13 @@
    "eid": "e006719",
    "kind": "pass",
    "text": "",
+   "who": "Ryn",
+   "year": 15
+  },
+  {
+   "eid": "e006728",
+   "kind": "eat",
+   "text": "eats 1 food",
    "who": "Ryn",
    "year": 15
   }
