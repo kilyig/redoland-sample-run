@@ -23,3 +23,4 @@
 {"eid": "e005174", "year": 15, "phase": "scramble", "kind": "take", "speaker": "a010", "who": "Roan", "audience": "public", "text": "Roan takes 2 from the pile (pile now 3).", "payload": {"amount": 2}}
 {"eid": "e005175", "year": 15, "phase": "scramble", "kind": "take", "speaker": "a012", "who": "Eron", "audience": "public", "text": "Eron takes 2 from the pile (pile now 1).", "payload": {"amount": 2}}
 {"eid": "e005176", "year": 15, "phase": "scramble", "kind": "take", "speaker": "a009", "who": "Ryn", "audience": "public", "text": "Ryn takes 1 from the pile (pile now 0).", "payload": {"amount": 1}}
+{"eid": "e005177", "year": 15, "phase": "convo", "kind": "convo", "speaker": "a008", "who": "Mako", "audience": ["a008", "a016"], "text": "Mako gathers Joren to talk.", "payload": {}}
