@@ -1210,6 +1210,13 @@
    "text": "Kael, I've stood in circles with you when it mattered and you've always said the hard thing before anyone else had to \u2014 so whatever's keeping your mouth shut right now, I'd rather hear it from you than keep watching this room fill up the silence for you.",
    "who": "Eron",
    "year": 15
+  },
+  {
+   "eid": "e005202",
+   "kind": "say",
+   "text": "Kael, I've called out silence in this room before and I'll call it out again \u2014 you're six food and two satiation, which means you're not dying, so whatever's stopping your mouth right now isn't hunger. Say the count yourself or I'll spend the rest of this year wondering what else you're not saying, and that's not a thought I want to carry into a long year with you.",
+   "who": "Vela",
+   "year": 15
   }
  ],
  "memory_summary": "",
