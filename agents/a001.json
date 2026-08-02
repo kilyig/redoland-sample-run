@@ -5405,6 +5405,13 @@
    "text": "Bram, Dell is gone and I'm not going to pretend I came to you for small talk \u2014 you took six from the pile this morning and I need to understand what that means for the people still standing, because six from a pile meant for eleven either means you know something about this year that the rest of us don't, or you've decided the room stopped watching, and I want to know which before I decide where I stand.",
    "who": "Ryn",
    "year": 15
+  },
+  {
+   "eid": "e006468",
+   "kind": "say",
+   "text": "One satiation going into the year \u2014 I eat six or I don't make it to whatever comes next. I'm not going to pretend that didn't cost someone, but a dead man's no use to anyone when Mako's sitting comfortable with three bloodlines and eighty-three strength. You came to me because Dell's gone and you're holding sixteen food alone \u2014 so tell me straight: are you looking for a wall to stand next to, or are you already counting which wall is worth standing next to?",
+   "who": "Bram",
+   "year": 15
   }
  ],
  "memory_summary": "Ryn turned me down, Dell turned me down, Sela turned me down twice before she said yes in Year 5 \u2014 and Mako slipped her food the same day she finally agreed, which I haven't forgotten. Nessa is my blood, born of that yes, and Fina is Nessa's daughter with Roan, which makes her mine to protect even if the village never named it that way. I swung at Roan once and got the whole village in my face; I swung at Vela and Nessa stood in the line against me \u2014 that landed harder than the numbers did. Dav stripped Esa bare with Ryn and Dell beside him, and I watched it happen; Esa fed me anyway through lean year after lean year, which is a debt I carry. Vela kept feeding me too, building credit she finally called in when Mako started to look like a third bloodline growing. We made a circle \u2014 Vela, Esa, Taric, Roan, me \u2014 to stand against him when he moved, and then Taric starved and Roan starved and Dell starved and the circle got smaller every year. Mako's got Zinn and Talia now; I've got Nessa and Fina and six food and fifty-eight strength, and the circle I'm still counting on is thinner than the one I joined.",
@@ -5413,7 +5420,7 @@
  "name": "Bram",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 5,
+ "says_used_year": 6,
  "sex": "male",
  "siblings": [],
  "strength": 58,
