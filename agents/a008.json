@@ -1,5 +1,5 @@
 {
- "actions_used_year": 4,
+ "actions_used_year": 5,
  "age": 47,
  "alive": true,
  "birth_year": 0,
@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 5,
+ "food": 4,
  "health": 2,
  "hp": 100,
  "id": "a008",
@@ -4488,6 +4488,13 @@
    "kind": "give",
    "text": "Zinn gives 1 food to Sela.",
    "who": "Zinn",
+   "year": 15
+  },
+  {
+   "eid": "e006470",
+   "kind": "give",
+   "text": "Mako gives 1 food to Zinn.",
+   "who": "Mako",
    "year": 15
   }
  ],
