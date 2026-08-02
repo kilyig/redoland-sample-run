@@ -1462,6 +1462,13 @@
    "text": "Sela gives 1 food to Zinn.",
    "who": "Sela",
    "year": 15
+  },
+  {
+   "eid": "e006447",
+   "kind": "pass",
+   "text": "",
+   "who": "Talia",
+   "year": 15
   }
  ],
  "memory_summary": "",
