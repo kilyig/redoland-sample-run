@@ -1490,6 +1490,13 @@
    "text": "Mako gathers Zinn, Talia to talk.",
    "who": "Mako",
    "year": 15
+  },
+  {
+   "eid": "e006454",
+   "kind": "say",
+   "text": "Zinn, Nessa's already given you three food this stretch and Fina gave you one on top of that \u2014 you're not walking to her empty-handed, which means she owes you nothing and you owe her nothing, and that's the only way to have a conversation that's actually free. Go now.",
+   "who": "Mako",
+   "year": 15
   }
  ],
  "memory_summary": "",
