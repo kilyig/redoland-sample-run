@@ -210,3 +210,4 @@
 {"eid": "e006551", "year": 15, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e006552", "year": 15, "phase": "convo", "kind": "convo", "speaker": "a015", "who": "Fina", "audience": ["a015", "a013"], "text": "Fina gathers Nessa to talk.", "payload": {}}
 {"eid": "e006553", "year": 15, "phase": "convo", "kind": "say", "speaker": "a015", "who": "Fina", "audience": ["a015", "a013"], "text": "Nessa, I'm done waiting for him to call the meeting \u2014 if he wants to know where I stand, he can come to my door this time, not the other way around. What I need from you right now is simple: are you with me or are you still counting yourself as his, because I can't plan around an answer I don't have.", "payload": {}}
+{"eid": "e006554", "year": 15, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
