@@ -1154,6 +1154,13 @@
    "text": "Kael, Mako \u2014 I've asked twice and I'll ask once more, because Vela's got fifteen and she's looking for a place to put some of it, and a man who stays quiet when food is moving usually ends up with less than he needed and more than he wanted to explain.",
    "who": "Roan",
    "year": 15
+  },
+  {
+   "eid": "e005194",
+   "kind": "say",
+   "text": "Eleven food, satiation two \u2014 I'm not thin, and I already moved two to Mako before this circle gathered, so he's sitting at seven now. Kael, the room's asked three times and you're still quiet, which is its own kind of answer, so just say the number.",
+   "who": "Joren",
+   "year": 15
   }
  ],
  "memory_summary": "",
@@ -1165,7 +1172,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 3,
+ "says_used_year": 4,
  "sex": "male",
  "siblings": [
   "a014"
