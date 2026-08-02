@@ -1,12 +1,12 @@
 {
  "branch": "eron8",
  "cursor": {
-  "last": "a009",
+  "last": "a003",
   "phase": "scramble",
-  "steps": 309
+  "steps": 310
  },
  "next_aid": 16,
- "next_eid": 6698,
+ "next_eid": 6699,
  "next_pile_bonus": 0,
  "params": {
   "actions_per_year": 10,
@@ -678,7 +678,7 @@
    409076436,
    3705259035,
    3161163299,
-   148
+   156
   ],
   null
  ],
