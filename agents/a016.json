@@ -1231,6 +1231,13 @@
    "text": "Bram takes 6 from the pile (pile now 0).",
    "who": "Bram",
    "year": 15
+  },
+  {
+   "eid": "e006367",
+   "kind": "give",
+   "text": "Zinn gives 1 food to Sela.",
+   "who": "Zinn",
+   "year": 15
   }
  ],
  "memory_summary": "",

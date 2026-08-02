@@ -13,7 +13,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 8,
+ "food": 9,
  "health": 2,
  "hp": 100,
  "id": "a007",
@@ -7703,6 +7703,13 @@
    "kind": "say",
    "text": "Nessa, you're right that Ryn is sitting on sixteen food with no outlet for it \u2014 and a woman that full and that alone is either going to find someone to give it to, or someone is going to come and take it, and I'd rather we're the ones who know her answer before it becomes a decision she makes without us. What do you know about whether she's spoken to anyone since Dell died?",
    "who": "Sela",
+   "year": 15
+  },
+  {
+   "eid": "e006367",
+   "kind": "give",
+   "text": "Zinn gives 1 food to Sela.",
+   "who": "Zinn",
    "year": 15
   }
  ],
