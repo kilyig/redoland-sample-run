@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 12,
+ "food": 13,
  "health": 2,
  "hp": 100,
  "id": "a001",
@@ -5180,6 +5180,13 @@
    "kind": "say",
    "text": "Bram, the door between Nessa and Zinn is the one I've been watching since year eleven and I still can't read it clean \u2014 but here's what I know: Nessa feeds Zinn, Zinn feeds Sela, and Sela sleeps next to Mako, which means anything we say in a closed room can walk to him in three steps without anyone meaning to carry it. So before Kael comes back from Ryn, I want the two of us decided on what we tell Nessa and what we don't, because a woman who loves Bram and feeds Mako's bloodline is not a safe wall to lean the whole plan against.",
    "who": "Vela",
+   "year": 15
+  },
+  {
+   "eid": "e006396",
+   "kind": "give",
+   "text": "Nessa gives 1 food to Bram.",
+   "who": "Nessa",
    "year": 15
   }
  ],
