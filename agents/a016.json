@@ -1308,6 +1308,13 @@
    "text": "Kael, I'll say what Eron didn't finish saying: take his two food, eat, and when you're ready to name whatever this is, I'll be the first one standing close enough to hear it without making it a room event. You've been in this circle longer than my son has been alive.",
    "who": "Fina",
    "year": 15
+  },
+  {
+   "eid": "e005216",
+   "kind": "say",
+   "text": "Kael, this room has said everything it has to say and I've added my share \u2014 so I'm going to stop asking and start doing what I should have done ten minutes ago: Eron, put your two food in his hand now, and Kael, when you're ready to talk, I meant what I said about finding me first.",
+   "who": "Ryn",
+   "year": 15
   }
  ],
  "memory_summary": "",
