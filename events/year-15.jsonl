@@ -114,3 +114,4 @@
 {"eid": "e006455", "year": 15, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
 {"eid": "e006456", "year": 15, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
 {"eid": "e006457", "year": 15, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e006458", "year": 15, "phase": "scramble", "kind": "give", "speaker": "a014", "who": "Zinn", "audience": "public", "text": "Zinn gives 1 food to Sela.", "payload": {"target": "a007", "amount": 1}}
