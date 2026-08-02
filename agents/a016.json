@@ -1238,6 +1238,13 @@
    "text": "Kael, you're fifty-nine years old and this room has been asking you a simple question for longer than it should have taken \u2014 if the silence is grief, say it's grief; if it's something else, say that; but the quiet itself is what worries me, and I've buried enough people in this village to know that the ones who stop talking are usually the ones we lose next.",
    "who": "Ryn",
    "year": 15
+  },
+  {
+   "eid": "e005206",
+   "kind": "say",
+   "text": "Kael, I've said my piece and I'll say it once more because this is the last time I'll say it: whatever you're carrying, the circle you're standing in is the one that's kept you alive through twelve years of lean seasons, and silence is a debt you don't want to owe it.",
+   "who": "Mako",
+   "year": 15
   }
  ],
  "memory_summary": "",
