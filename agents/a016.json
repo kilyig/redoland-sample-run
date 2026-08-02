@@ -1084,6 +1084,13 @@
    "text": "Two food, Mako \u2014 it's already in your hand. I want you standing at the end of this year, and that's not charity, that's math.",
    "who": "Joren",
    "year": 15
+  },
+  {
+   "eid": "e005184",
+   "kind": "say",
+   "text": "Seven food in my hand now, and I'll remember that you moved without being asked twice. That's a thing I've only seen a few people do in this village, and most of them are dead, so hold onto it \u2014 it'll serve you longer than food will.",
+   "who": "Mako",
+   "year": 15
   }
  ],
  "memory_summary": "",
