@@ -1329,6 +1329,13 @@
    "text": "Kael, eat the food Eron put in your hand and don't make us watch you hold it \u2014 and when you're ready to say the thing, I'm the one who'll hear it without turning it into a room event, same as I said before.",
    "who": "Fina",
    "year": 15
+  },
+  {
+   "eid": "e005219",
+   "kind": "say",
+   "text": "Kael's quiet is sitting wrong in my stomach and I don't know what to do with it, so I'm going to say the thing I've been holding since this morning \u2014 I ate, I'm at three satiation, I've got four food in my hand, and the only thing left that's bothering me is that a man who's been the steadiest voice in this room for twelve years just went somewhere none of us can follow, and I don't know if that's grief or something worse.",
+   "who": "Roan",
+   "year": 15
   }
  ],
  "memory_summary": "",
