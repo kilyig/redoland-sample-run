@@ -10,7 +10,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 16,
+ "food": 17,
  "health": 2,
  "hp": 100,
  "id": "a009",
@@ -2625,6 +2625,13 @@
    "kind": "give",
    "text": "Mako gives 1 food to Zinn.",
    "who": "Mako",
+   "year": 15
+  },
+  {
+   "eid": "e006472",
+   "kind": "give",
+   "text": "Bram gives 1 food to Ryn.",
+   "who": "Bram",
    "year": 15
   }
  ],
