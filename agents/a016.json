@@ -1392,6 +1392,13 @@
    "text": "Zinn, I've said what needs saying and so has Talia \u2014 eat first, then go, and don't make it a long conversation with Nessa, just a passing one. The less it looks like a meeting, the more she'll say.",
    "who": "Mako",
    "year": 15
+  },
+  {
+   "eid": "e006427",
+   "kind": "give",
+   "text": "Zinn gives 1 food to Sela.",
+   "who": "Zinn",
+   "year": 15
   }
  ],
  "memory_summary": "",
