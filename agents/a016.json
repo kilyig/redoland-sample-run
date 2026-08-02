@@ -1140,6 +1140,13 @@
    "text": "Kael, Mako \u2014 I want your counts before Vela starts moving food, because I've got four in my hand and I'll eat one of them tonight, but if either of you is sitting below three I'd rather know that before I do anything else. Eron and Fina are solid; it's the rest of this room I haven't heard from yet.",
    "who": "Roan",
    "year": 15
+  },
+  {
+   "eid": "e005192",
+   "kind": "say",
+   "text": "Ten food, satiation two \u2014 I'm not the one reaching. Kael and Mako, say your numbers before Vela starts moving, because I want this room to know who's thin before the food does.",
+   "who": "Eron",
+   "year": 15
   }
  ],
  "memory_summary": "",
