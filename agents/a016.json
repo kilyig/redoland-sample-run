@@ -1287,6 +1287,13 @@
    "text": "Kael, I'm done asking you to speak \u2014 but I'm not done watching, and the watching is going to get heavier the longer you hold whatever this is, so when you're ready, find me before you find the room, because some things are easier to say once before you have to say them eight times.",
    "who": "Ryn",
    "year": 15
+  },
+  {
+   "eid": "e005213",
+   "kind": "say",
+   "text": "Kael, I've said what I had to say and so has everyone else in this room \u2014 so I'll just put this one thing in the air and leave it there: you're fifty-nine, same as Vela, and the years ahead of both of you are shorter than the years behind, and I'd like the ones that are left to be said ones, not silent ones.",
+   "who": "Roan",
+   "year": 15
   }
  ],
  "memory_summary": "",
