@@ -1252,6 +1252,13 @@
    "text": "Kael, I've watched you go quiet before and waited for the room to pull you back \u2014 but I've got five food in my hand now thanks to Eron, and I'll hold every one of them until you say something, because a man who goes silent at fifty-nine in a village that's already buried five people is either grieving or planning, and this circle needs to know which one it is.",
    "who": "Ryn",
    "year": 15
+  },
+  {
+   "eid": "e005208",
+   "kind": "say",
+   "text": "Kael, I'm going to say what this room hasn't said yet: I've known you longer than anyone left standing, and I've seen you go quiet twice before \u2014 once when Bram was circling you, once when Taric died \u2014 and both times the silence ended the same way, with you naming something the rest of us had missed. So I'll stop asking for a count and ask instead: what is it you're not ready to say?",
+   "who": "Vela",
+   "year": 15
   }
  ],
  "memory_summary": "",
