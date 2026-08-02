@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 5,
+ "food": 6,
  "health": 2,
  "hp": 100,
  "id": "a008",
@@ -4656,6 +4656,13 @@
    "kind": "pass",
    "text": "",
    "who": "Mako",
+   "year": 15
+  },
+  {
+   "eid": "e006536",
+   "kind": "give",
+   "text": "Talia gives 1 food to Mako.",
+   "who": "Talia",
    "year": 15
   }
  ],
