@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 4,
+ "food": 5,
  "health": 2,
  "hp": 100,
  "id": "a003",
@@ -1244,6 +1244,13 @@
    "kind": "pass",
    "text": "",
    "who": "Esa",
+   "year": 15
+  },
+  {
+   "eid": "e006434",
+   "kind": "give",
+   "text": "Bram gives 1 food to Esa.",
+   "who": "Bram",
    "year": 15
   }
  ],
