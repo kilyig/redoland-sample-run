@@ -1063,6 +1063,13 @@
    "text": "Five food and satiation two \u2014 I'm not at the edge, but I've been at the edge before and I know how fast it comes. You said say it to you first, and I'll hold that, but I want you to know I'll say it before I need it, not after. That's the lesson Taric left me.",
    "who": "Mako",
    "year": 15
+  },
+  {
+   "eid": "e005181",
+   "kind": "say",
+   "text": "Taric \u2014 I don't know that name yet, but I'd like to. And I'll say the thing that's sitting in the back of my head: five food on you with the pile already empty means if this year runs longer than last, you're the thinnest person in your own blood, and I'd rather move something now than have you say it to me when there's nothing left to move.",
+   "who": "Joren",
+   "year": 15
   }
  ],
  "memory_summary": "",
@@ -1074,7 +1081,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 1,
+ "says_used_year": 2,
  "sex": "male",
  "siblings": [
   "a014"
