@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 35,
+ "food": 36,
  "health": 2,
  "hp": 100,
  "id": "a003",
@@ -1118,6 +1118,13 @@
    "kind": "say",
    "text": "Kael, I'm going to stop saying your name and start watching your face, because you've heard everything this room has to say and you're still quiet, and that tells me the words aren't the thing you need right now. Eron put two food in your hand \u2014 eat them, and I'll be here when you're ready.",
    "who": "Fina",
+   "year": 15
+  },
+  {
+   "eid": "e005223",
+   "kind": "give",
+   "text": "Vela gives 1 food to Esa.",
+   "who": "Vela",
    "year": 15
   }
  ],
