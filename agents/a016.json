@@ -1385,6 +1385,13 @@
    "text": "Zinn, before you walk out that door \u2014 you've got two food now and I want you eating before you sit down with Nessa, because a hungry woman reads everything as threat and I need you reading her clear. Go eat, then go to her.",
    "who": "Talia",
    "year": 15
+  },
+  {
+   "eid": "e006426",
+   "kind": "say",
+   "text": "Zinn, I've said what needs saying and so has Talia \u2014 eat first, then go, and don't make it a long conversation with Nessa, just a passing one. The less it looks like a meeting, the more she'll say.",
+   "who": "Mako",
+   "year": 15
   }
  ],
  "memory_summary": "",
