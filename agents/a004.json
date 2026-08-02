@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 3,
+ "food": 4,
  "health": 2,
  "hp": 100,
  "id": "a004",
@@ -1783,6 +1783,13 @@
    "kind": "give",
    "text": "Talia gives 1 food to Zinn.",
    "who": "Talia",
+   "year": 15
+  },
+  {
+   "eid": "e006411",
+   "kind": "give",
+   "text": "Vela gives 1 food to Kael.",
+   "who": "Vela",
    "year": 15
   }
  ],
