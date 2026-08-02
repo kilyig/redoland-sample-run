@@ -1175,6 +1175,13 @@
    "text": "Kael, I named your count because someone had to, but I'd rather hear the next number from your own mouth \u2014 Mako's at seven and Roan's at four, and if Vela's moving food this circle needs to know which direction to point it before she decides for us.",
    "who": "Joren",
    "year": 15
+  },
+  {
+   "eid": "e005197",
+   "kind": "say",
+   "text": "Three food in my hand, satiation two \u2014 I'm not at the edge yet but I'm the shortest count in this room, and I'll say it plain before anyone has to name it for me the way Joren named Kael's. Vela, if you're moving food and looking for a direction, you've found it.",
+   "who": "Ryn",
+   "year": 15
   }
  ],
  "memory_summary": "",
