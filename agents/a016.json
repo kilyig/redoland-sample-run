@@ -1224,6 +1224,13 @@
    "text": "Kael, I'm twenty-three and new enough to this room that I'm still learning which silences mean something and which ones don't \u2014 but you've got six food and two satiation and this whole circle watching, so whatever the silence is about, now's the time to let it out.",
    "who": "Joren",
    "year": 15
+  },
+  {
+   "eid": "e005204",
+   "kind": "say",
+   "text": "Seven food, satiation two \u2014 Joren already named it before I had the chance, and I didn't correct him because the number was right. Kael, I've watched you carry this room through harder years than this one, so whatever's sitting behind that silence, I'd rather hear it from you than wonder about it all year the way Vela said.",
+   "who": "Mako",
+   "year": 15
   }
  ],
  "memory_summary": "",
