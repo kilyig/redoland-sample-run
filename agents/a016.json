@@ -1343,6 +1343,13 @@
    "text": "Mako, Bram's got thirteen food plus whatever Nessa keeps feeding him, and Nessa's been giving to him steady for two years now \u2014 I don't know if she's afraid of him or aligned with him, but either way he's not building alone. We need to know which it is before we assume Nessa's still ours to count on.",
    "who": "Talia",
    "year": 15
+  },
+  {
+   "eid": "e006420",
+   "kind": "say",
+   "text": "Zinn, you know Nessa better than either of us \u2014 not from the outside, but from years of food passing both ways between you. Ask her something plain today, not about Bram, just let her talk, and you'll hear it in what she doesn't say.",
+   "who": "Mako",
+   "year": 15
   }
  ],
  "memory_summary": "",
