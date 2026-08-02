@@ -1329,6 +1329,13 @@
    "text": "Mako gathers Zinn, Talia to talk.",
    "who": "Mako",
    "year": 15
+  },
+  {
+   "eid": "e006418",
+   "kind": "say",
+   "text": "Bram took six from the pile \u2014 six, in front of everyone, when the pile had eight left and half the village hadn't moved yet. That's not a man getting old and scared, that's a man who decided this year he stops pretending to care what the village thinks of him. We need to know what he's building before he decides he has enough behind him to move on someone.",
+   "who": "Mako",
+   "year": 15
   }
  ],
  "memory_summary": "",
