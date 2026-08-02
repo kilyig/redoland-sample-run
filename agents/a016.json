@@ -1448,6 +1448,13 @@
    "text": "Zinn gives 1 food to Sela.",
    "who": "Zinn",
    "year": 15
+  },
+  {
+   "eid": "e006445",
+   "kind": "pass",
+   "text": "",
+   "who": "Talia",
+   "year": 15
   }
  ],
  "memory_summary": "",
