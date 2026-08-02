@@ -1,5 +1,5 @@
 {
- "actions_used_year": 8,
+ "actions_used_year": 9,
  "age": 47,
  "alive": true,
  "birth_year": 0,
@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 7,
+ "food": 6,
  "health": 2,
  "hp": 100,
  "id": "a008",
@@ -4691,6 +4691,13 @@
    "kind": "give",
    "text": "Talia gives 1 food to Mako.",
    "who": "Talia",
+   "year": 15
+  },
+  {
+   "eid": "e006546",
+   "kind": "give",
+   "text": "Mako gives 1 food to Talia.",
+   "who": "Mako",
    "year": 15
   }
  ],
