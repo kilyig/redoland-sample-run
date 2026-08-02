@@ -1364,6 +1364,13 @@
    "text": "Zinn, Talia's right about the sounds \u2014 you've been in that loop with Nessa longer than anyone, so trust what your gut tells you when she talks, not what your head wants to hear. One more thing: whatever you learn, come back to us before you do anything with it, because if Bram's got Nessa and Nessa's got thirteen food moving his way, the last thing we need is you handling that alone.",
    "who": "Mako",
    "year": 15
+  },
+  {
+   "eid": "e006423",
+   "kind": "say",
+   "text": "Zinn, I want to add one thing before you go to Nessa: Ryn's sitting on sixteen food and she's been quiet about it, which means either she's staying out of whatever Bram's building or she's already decided where she stands and doesn't need to say it out loud. If Bram ever decides to move on someone, the first thing he'll count is whether Ryn's weight is behind him or against him \u2014 so when you're reading Nessa, see if Ryn's name comes up at all.",
+   "who": "Talia",
+   "year": 15
   }
  ],
  "memory_summary": "",
@@ -1375,7 +1382,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [
   "a012",
