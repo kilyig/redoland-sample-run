@@ -99,3 +99,4 @@
 {"eid": "e006440", "year": 15, "phase": "convo", "kind": "say", "speaker": "a009", "who": "Ryn", "audience": ["a009", "a004"], "text": "I'll hear it. But Kael \u2014 Vela sitting thin while Bram took six from the pile this morning and nobody said a word is the thing I need you to explain to me next, because if he's taking that much in year fifteen and your circle is still quiet, I need to know whether the quiet is patience or fear.", "payload": {}}
 {"eid": "e006441", "year": 15, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e006442", "year": 15, "phase": "scramble", "kind": "pass", "speaker": "a003", "who": "Esa", "audience": ["a003"], "text": "", "payload": {}}
+{"eid": "e006443", "year": 15, "phase": "scramble", "kind": "pass", "speaker": "a001", "who": "Bram", "audience": ["a001"], "text": "", "payload": {}}
