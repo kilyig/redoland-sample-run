@@ -181,3 +181,4 @@
 {"eid": "e006522", "year": 15, "phase": "scramble", "kind": "pass", "speaker": "a009", "who": "Ryn", "audience": ["a009"], "text": "", "payload": {}}
 {"eid": "e006523", "year": 15, "phase": "scramble", "kind": "give", "speaker": "a016", "who": "Talia", "audience": "public", "text": "Talia gives 1 food to Mako.", "payload": {"target": "a008", "amount": 1}}
 {"eid": "e006524", "year": 15, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
+{"eid": "e006525", "year": 15, "phase": "scramble", "kind": "pass", "speaker": "a015", "who": "Fina", "audience": ["a015"], "text": "", "payload": {}}
