@@ -1042,6 +1042,13 @@
    "text": "Mako gathers Joren to talk.",
    "who": "Mako",
    "year": 15
+  },
+  {
+   "eid": "e005178",
+   "kind": "say",
+   "text": "Joren, I've been meaning to finish what I started last year before the room got loud \u2014 you said you were watching the same thing Vela was watching, and I want to know if that's still true, because you're twenty-three and I'm forty-seven and I've buried enough people in this village to know that the ones who watch close live longer than the ones who don't. What's your satiation going into this year?",
+   "who": "Mako",
+   "year": 15
   }
  ],
  "memory_summary": "",
