@@ -7669,6 +7669,13 @@
    "text": "I haven't seen Mako and Bram so much as look at each other this year, and that's the part that keeps catching in my throat \u2014 because two years ago they were the two men most likely to come apart at the seams, and now there's nothing between them, not even visible tension. Sela, I don't know what Mako's built, but I know he doesn't stop planning and I know I've been part of how he moved his pieces without understanding the whole board. I think we need to count our numbers together \u2014 yours, mine, Nessa's \u2014 and decide whether we're able to stand in front of whatever's coming, because I'd rather know our weakness now than find it when someone else is already moving.",
    "who": "Zinn",
    "year": 15
+  },
+  {
+   "eid": "e006360",
+   "kind": "say",
+   "text": "Zinn's right \u2014 so here it is plain: eight food, sixteen food, two food, that's twenty-six between the three of us against Bram's twelve and whatever Talia's holding for Mako. The numbers favor us, but strength doesn't \u2014 Bram is fifty-eight, Mako is eighty-three, and if those two have stopped watching each other, I want to know whether Nessa's sixteen and my eight together with whatever Ryn is carrying is enough to make raiding us a losing calculation before someone decides to find out.",
+   "who": "Sela",
+   "year": 15
   }
  ],
  "memory_summary": "From Year 1 to 6, what I carry:\n\nRoan came to me first \u2014 practical, quiet, and he meant it. We made Eron together in Year 3, and Eron spent the next six years feeding me out of his own hands when I came up empty from the pile. That debt lives in my chest and now he's gone.\n\nBram asked me twice and I said no both times until Year 5 when I had nothing and Mako was circling \u2014 I said yes to Bram with my back against the wall, not my heart open. He kept his word about no raids for a full year, but he's tried to take from Roan, Vela, and Eron since, and the village turned him back every time. Nessa is his blood and I can't undo that.\n\nMako watched me in silence for three years \u2014 handed me food when I was starving in Year 5, asked for nothing back, and then finally said plainly he wanted a child. I believed him because a man who stays quiet that long has already counted the cost. We made Zinn together in Year 6, and he's fed her before himself since.\n\nVela sat in our protection circle and fed Bram on the side without a word. I never forgot it.\n\nDav starved in Year 7. Ryn lost him; Dell lost her father. The Ryn-Dell loop of food trading felt like grief turned into motion.\n\nEron is gone now. He fed Roan to the end, same as he fed me \u2014 and that tells me everything about who he was.",
@@ -7677,7 +7684,7 @@
  "name": "Sela",
  "parents": [],
  "repro_done_year": false,
- "says_used_year": 4,
+ "says_used_year": 5,
  "sex": "female",
  "siblings": [],
  "strength": 73,
