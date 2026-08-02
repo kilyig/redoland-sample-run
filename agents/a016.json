@@ -1259,6 +1259,13 @@
    "text": "Zinn gathers Talia to talk.",
    "who": "Zinn",
    "year": 15
+  },
+  {
+   "eid": "e006403",
+   "kind": "say",
+   "text": "Talia, I'm not here to test you or carry questions from anyone else \u2014 I just want to know what you were reading this morning when you moved to that pile, because three food fast in a year that started with Bram taking six means someone in this village was thinking ahead, and I'd like to know if you were thinking the same thing everyone else was or something different.",
+   "who": "Zinn",
+   "year": 15
   }
  ],
  "memory_summary": "",
