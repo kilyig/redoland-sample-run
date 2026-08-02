@@ -1301,6 +1301,13 @@
    "text": "Kael, I've said your name more times in the last hour than I've said it in the last year, and I'm done adding to the pile \u2014 but I'll say one thing and let it sit: I've got ten food and I'll put two in your hand right now, not because you're thin but because a man who's holding something heavy should at least be holding it with a full stomach.",
    "who": "Eron",
    "year": 15
+  },
+  {
+   "eid": "e005215",
+   "kind": "say",
+   "text": "Kael, I'll say what Eron didn't finish saying: take his two food, eat, and when you're ready to name whatever this is, I'll be the first one standing close enough to hear it without making it a room event. You've been in this circle longer than my son has been alive.",
+   "who": "Fina",
+   "year": 15
   }
  ],
  "memory_summary": "",
