@@ -1091,6 +1091,13 @@
    "text": "Seven food in my hand now, and I'll remember that you moved without being asked twice. That's a thing I've only seen a few people do in this village, and most of them are dead, so hold onto it \u2014 it'll serve you longer than food will.",
    "who": "Mako",
    "year": 15
+  },
+  {
+   "eid": "e005185",
+   "kind": "give",
+   "text": "Roan gives 3 food to Fina.",
+   "who": "Roan",
+   "year": 15
   }
  ],
  "memory_summary": "",

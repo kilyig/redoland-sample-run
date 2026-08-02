@@ -1,5 +1,5 @@
 {
- "actions_used_year": 1,
+ "actions_used_year": 2,
  "age": 46,
  "alive": true,
  "birth_year": 0,
@@ -11,7 +11,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 7,
+ "food": 4,
  "health": 2,
  "hp": 100,
  "id": "a010",
@@ -1296,6 +1296,13 @@
    "kind": "take",
    "text": "Ryn takes 1 from the pile (pile now 0).",
    "who": "Ryn",
+   "year": 15
+  },
+  {
+   "eid": "e005185",
+   "kind": "give",
+   "text": "Roan gives 3 food to Fina.",
+   "who": "Roan",
    "year": 15
   }
  ],
