@@ -1203,6 +1203,13 @@
    "text": "Eron, I'll hold the fifteen and I won't argue the point \u2014 but Ryn, tell me when you're at five and holding, not before, because I'd rather know the number's stable than assume it is. Kael, you've let three people name your count in front of this whole circle and you still haven't opened your mouth, so I'll say it the way I'd want someone to say it to me: silence in a room full of witnesses is a choice, and the circle remembers the choice even when it forgets the reason.",
    "who": "Vela",
    "year": 15
+  },
+  {
+   "eid": "e005201",
+   "kind": "say",
+   "text": "Kael, I've stood in circles with you when it mattered and you've always said the hard thing before anyone else had to \u2014 so whatever's keeping your mouth shut right now, I'd rather hear it from you than keep watching this room fill up the silence for you.",
+   "who": "Eron",
+   "year": 15
   }
  ],
  "memory_summary": "",
