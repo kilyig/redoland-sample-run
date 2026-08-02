@@ -1245,6 +1245,13 @@
    "text": "Kael, I've said my piece and I'll say it once more because this is the last time I'll say it: whatever you're carrying, the circle you're standing in is the one that's kept you alive through twelve years of lean seasons, and silence is a debt you don't want to owe it.",
    "who": "Mako",
    "year": 15
+  },
+  {
+   "eid": "e005207",
+   "kind": "say",
+   "text": "Kael, I've watched you go quiet before and waited for the room to pull you back \u2014 but I've got five food in my hand now thanks to Eron, and I'll hold every one of them until you say something, because a man who goes silent at fifty-nine in a village that's already buried five people is either grieving or planning, and this circle needs to know which one it is.",
+   "who": "Ryn",
+   "year": 15
   }
  ],
  "memory_summary": "",
