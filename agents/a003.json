@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 6,
+ "food": 7,
  "health": 2,
  "hp": 100,
  "id": "a003",
@@ -1362,6 +1362,13 @@
    "eid": "e006472",
    "kind": "give",
    "text": "Bram gives 1 food to Ryn.",
+   "who": "Bram",
+   "year": 15
+  },
+  {
+   "eid": "e006475",
+   "kind": "give",
+   "text": "Bram gives 1 food to Esa.",
    "who": "Bram",
    "year": 15
   }
