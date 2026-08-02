@@ -1,5 +1,5 @@
 {
- "actions_used_year": 3,
+ "actions_used_year": 4,
  "age": 56,
  "alive": true,
  "birth_year": 0,
@@ -8,7 +8,7 @@
  "death_cause": null,
  "death_year": null,
  "father_note": "",
- "food": 10,
+ "food": 9,
  "health": 2,
  "hp": 100,
  "id": "a003",
@@ -1726,6 +1726,13 @@
    "eid": "e006603",
    "kind": "pass",
    "text": "",
+   "who": "Esa",
+   "year": 15
+  },
+  {
+   "eid": "e006610",
+   "kind": "give",
+   "text": "Esa gives 1 food to Bram.",
    "who": "Esa",
    "year": 15
   }
