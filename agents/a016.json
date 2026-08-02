@@ -1070,6 +1070,13 @@
    "text": "Taric \u2014 I don't know that name yet, but I'd like to. And I'll say the thing that's sitting in the back of my head: five food on you with the pile already empty means if this year runs longer than last, you're the thinnest person in your own blood, and I'd rather move something now than have you say it to me when there's nothing left to move.",
    "who": "Joren",
    "year": 15
+  },
+  {
+   "eid": "e005182",
+   "kind": "say",
+   "text": "Taric fed Vela through three lean years and died holding nothing \u2014 I watched it happen and I didn't stop it, and I've carried that ever since as the shape of a mistake I won't make again. You said you'd rather move something now, and I won't argue with that \u2014 put two food in my hand and I'll eat easier knowing you understand why.",
+   "who": "Mako",
+   "year": 15
   }
  ],
  "memory_summary": "",
