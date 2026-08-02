@@ -1336,6 +1336,13 @@
    "text": "Bram took six from the pile \u2014 six, in front of everyone, when the pile had eight left and half the village hadn't moved yet. That's not a man getting old and scared, that's a man who decided this year he stops pretending to care what the village thinks of him. We need to know what he's building before he decides he has enough behind him to move on someone.",
    "who": "Mako",
    "year": 15
+  },
+  {
+   "eid": "e006419",
+   "kind": "say",
+   "text": "Mako, Bram's got thirteen food plus whatever Nessa keeps feeding him, and Nessa's been giving to him steady for two years now \u2014 I don't know if she's afraid of him or aligned with him, but either way he's not building alone. We need to know which it is before we assume Nessa's still ours to count on.",
+   "who": "Talia",
+   "year": 15
   }
  ],
  "memory_summary": "",
@@ -1347,7 +1354,7 @@
   "a008"
  ],
  "repro_done_year": false,
- "says_used_year": 2,
+ "says_used_year": 3,
  "sex": "female",
  "siblings": [
   "a012",
