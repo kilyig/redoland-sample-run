@@ -1259,6 +1259,13 @@
    "text": "Kael, I'm going to say what this room hasn't said yet: I've known you longer than anyone left standing, and I've seen you go quiet twice before \u2014 once when Bram was circling you, once when Taric died \u2014 and both times the silence ended the same way, with you naming something the rest of us had missed. So I'll stop asking for a count and ask instead: what is it you're not ready to say?",
    "who": "Vela",
    "year": 15
+  },
+  {
+   "eid": "e005209",
+   "kind": "say",
+   "text": "Kael, the whole room's been saying your name into a wall for ten minutes and I've got four food and a son to keep alive, so I'll say the short version: if you're sick, say sick; if you're grieving, say grieving; if you're planning something I should know about, say that \u2014 because Vela's right that the quiet ones are usually the ones we lose, and I don't want to lose you without at least having asked.",
+   "who": "Fina",
+   "year": 15
   }
  ],
  "memory_summary": "",
