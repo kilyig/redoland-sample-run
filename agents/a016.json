@@ -1483,6 +1483,13 @@
    "text": "Fina gives 1 food to Zinn.",
    "who": "Fina",
    "year": 15
+  },
+  {
+   "eid": "e006453",
+   "kind": "convo",
+   "text": "Mako gathers Zinn, Talia to talk.",
+   "who": "Mako",
+   "year": 15
   }
  ],
  "memory_summary": "",
