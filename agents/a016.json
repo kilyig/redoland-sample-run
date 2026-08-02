@@ -1315,6 +1315,13 @@
    "text": "Kael, this room has said everything it has to say and I've added my share \u2014 so I'm going to stop asking and start doing what I should have done ten minutes ago: Eron, put your two food in his hand now, and Kael, when you're ready to talk, I meant what I said about finding me first.",
    "who": "Ryn",
    "year": 15
+  },
+  {
+   "eid": "e005217",
+   "kind": "say",
+   "text": "Kael, I'm putting two food in your hand and I'm done talking at you \u2014 but I'll say the last thing I have to say, and then I'll be quiet with the rest of them: you've never let this room carry something alone that you could share the weight of, and whatever this is, that's still true.",
+   "who": "Eron",
+   "year": 15
   }
  ],
  "memory_summary": "",
