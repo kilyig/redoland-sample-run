@@ -1266,6 +1266,13 @@
    "text": "Kael, the whole room's been saying your name into a wall for ten minutes and I've got four food and a son to keep alive, so I'll say the short version: if you're sick, say sick; if you're grieving, say grieving; if you're planning something I should know about, say that \u2014 because Vela's right that the quiet ones are usually the ones we lose, and I don't want to lose you without at least having asked.",
    "who": "Fina",
    "year": 15
+  },
+  {
+   "eid": "e005210",
+   "kind": "say",
+   "text": "Kael, I lost Dell in this room while I was holding fifteen food and still couldn't save her, and that arithmetic has been sitting in my chest ever since \u2014 so whatever you're carrying, I know what it looks like from the outside and I know it doesn't get lighter by going unsaid. Say it or don't, but you're not the only one in this circle who's been standing at the edge of something they can't name.",
+   "who": "Ryn",
+   "year": 15
   }
  ],
  "memory_summary": "",
