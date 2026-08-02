@@ -1,5 +1,5 @@
 {
- "actions_used_year": 4,
+ "actions_used_year": 5,
  "age": 52,
  "alive": true,
  "birth_year": 0,
@@ -2590,6 +2590,13 @@
    "kind": "give",
    "text": "Zinn gives 1 food to Sela.",
    "who": "Zinn",
+   "year": 15
+  },
+  {
+   "eid": "e006466",
+   "kind": "convo",
+   "text": "Ryn gathers Bram to talk.",
+   "who": "Ryn",
    "year": 15
   }
  ],
