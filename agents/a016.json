@@ -1161,6 +1161,13 @@
    "text": "Eleven food, satiation two \u2014 I'm not thin, and I already moved two to Mako before this circle gathered, so he's sitting at seven now. Kael, the room's asked three times and you're still quiet, which is its own kind of answer, so just say the number.",
    "who": "Joren",
    "year": 15
+  },
+  {
+   "eid": "e005195",
+   "kind": "say",
+   "text": "Kael, six food and satiation two \u2014 that's not thin but it's not fat either, and I'd rather you said it yourself than let Joren keep saying it for you, because a man who can't name his own count in front of witnesses is harder to trust when the year runs long.",
+   "who": "Eron",
+   "year": 15
   }
  ],
  "memory_summary": "",
