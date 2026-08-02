@@ -1182,6 +1182,13 @@
    "text": "Three food in my hand, satiation two \u2014 I'm not at the edge yet but I'm the shortest count in this room, and I'll say it plain before anyone has to name it for me the way Joren named Kael's. Vela, if you're moving food and looking for a direction, you've found it.",
    "who": "Ryn",
    "year": 15
+  },
+  {
+   "eid": "e005198",
+   "kind": "say",
+   "text": "Four food in my hand, satiation two \u2014 Ryn named it first and that's the right order, so Vela, Ryn is where your food goes before it goes anywhere else. Roan, eat your one tonight and stop holding it on my account; I've got four and I'll make it through.",
+   "who": "Fina",
+   "year": 15
   }
  ],
  "memory_summary": "",
