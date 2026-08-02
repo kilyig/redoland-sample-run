@@ -160,3 +160,4 @@
 {"eid": "e006501", "year": 15, "phase": "scramble", "kind": "give", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela gives 1 food to Talia.", "payload": {"target": "a016", "amount": 1}}
 {"eid": "e006502", "year": 15, "phase": "scramble", "kind": "pass", "speaker": "a004", "who": "Kael", "audience": ["a004"], "text": "", "payload": {}}
 {"eid": "e006503", "year": 15, "phase": "scramble", "kind": "give", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela gives 1 food to Talia.", "payload": {"target": "a016", "amount": 1}}
+{"eid": "e006504", "year": 15, "phase": "scramble", "kind": "pass", "speaker": "a002", "who": "Vela", "audience": ["a002"], "text": "", "payload": {}}
