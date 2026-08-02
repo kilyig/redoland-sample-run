@@ -1665,6 +1665,13 @@
    "text": "",
    "who": "Talia",
    "year": 15
+  },
+  {
+   "eid": "e006514",
+   "kind": "give",
+   "text": "Mako gives 1 food to Zinn.",
+   "who": "Mako",
+   "year": 15
   }
  ],
  "memory_summary": "",
