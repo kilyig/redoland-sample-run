@@ -155,3 +155,4 @@
 {"eid": "e006496", "year": 15, "phase": "scramble", "kind": "give", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela gives 1 food to Esa.", "payload": {"target": "a003", "amount": 1}}
 {"eid": "e006497", "year": 15, "phase": "scramble", "kind": "give", "speaker": "a007", "who": "Sela", "audience": "public", "text": "Sela gives 1 food to Talia.", "payload": {"target": "a016", "amount": 1}}
 {"eid": "e006498", "year": 15, "phase": "scramble", "kind": "give", "speaker": "a013", "who": "Nessa", "audience": "public", "text": "Nessa gives 1 food to Fina.", "payload": {"target": "a015", "amount": 1}}
+{"eid": "e006499", "year": 15, "phase": "convo", "kind": "convo", "speaker": "a015", "who": "Fina", "audience": ["a015", "a013"], "text": "Fina gathers Nessa to talk.", "payload": {}}
