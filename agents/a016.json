@@ -1196,6 +1196,13 @@
    "text": "Ryn, I've got ten and you've got three \u2014 here's two from me right now, before Vela has to move at all, because you fed Fina through years I wasn't watching closely enough and I haven't forgotten that. Vela, hold your fifteen; Ryn's covered, and I'd rather your store stay deep going into whatever this year brings next.",
    "who": "Eron",
    "year": 15
+  },
+  {
+   "eid": "e005200",
+   "kind": "say",
+   "text": "Eron, I'll hold the fifteen and I won't argue the point \u2014 but Ryn, tell me when you're at five and holding, not before, because I'd rather know the number's stable than assume it is. Kael, you've let three people name your count in front of this whole circle and you still haven't opened your mouth, so I'll say it the way I'd want someone to say it to me: silence in a room full of witnesses is a choice, and the circle remembers the choice even when it forgets the reason.",
+   "who": "Vela",
+   "year": 15
   }
  ],
  "memory_summary": "",
