@@ -1287,6 +1287,13 @@
    "text": "Zinn, eat something before we talk strategy \u2014 I have five food and you have one, and I'm not going to sit here turning over Bram's math with a sister who's running on empty. Take one from me now. Bram not caring what the village thinks is only a problem if he decides to move, and I want you strong enough to matter when that math gets counted.",
    "who": "Talia",
    "year": 15
+  },
+  {
+   "eid": "e006408",
+   "kind": "give",
+   "text": "Bram gives 1 food to Esa.",
+   "who": "Bram",
+   "year": 15
   }
  ],
  "memory_summary": "",
