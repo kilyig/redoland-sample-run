@@ -1231,6 +1231,13 @@
    "text": "Seven food, satiation two \u2014 Joren already named it before I had the chance, and I didn't correct him because the number was right. Kael, I've watched you carry this room through harder years than this one, so whatever's sitting behind that silence, I'd rather hear it from you than wonder about it all year the way Vela said.",
    "who": "Mako",
    "year": 15
+  },
+  {
+   "eid": "e005205",
+   "kind": "say",
+   "text": "Kael, you're fifty-nine years old and this room has been asking you a simple question for longer than it should have taken \u2014 if the silence is grief, say it's grief; if it's something else, say that; but the quiet itself is what worries me, and I've buried enough people in this village to know that the ones who stop talking are usually the ones we lose next.",
+   "who": "Ryn",
+   "year": 15
   }
  ],
  "memory_summary": "",
