@@ -1294,6 +1294,13 @@
    "text": "Kael, I've said what I had to say and so has everyone else in this room \u2014 so I'll just put this one thing in the air and leave it there: you're fifty-nine, same as Vela, and the years ahead of both of you are shorter than the years behind, and I'd like the ones that are left to be said ones, not silent ones.",
    "who": "Roan",
    "year": 15
+  },
+  {
+   "eid": "e005214",
+   "kind": "say",
+   "text": "Kael, I've said your name more times in the last hour than I've said it in the last year, and I'm done adding to the pile \u2014 but I'll say one thing and let it sit: I've got ten food and I'll put two in your hand right now, not because you're thin but because a man who's holding something heavy should at least be holding it with a full stomach.",
+   "who": "Eron",
+   "year": 15
   }
  ],
  "memory_summary": "",
