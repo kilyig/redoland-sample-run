@@ -1147,6 +1147,13 @@
    "text": "Ten food, satiation two \u2014 I'm not the one reaching. Kael and Mako, say your numbers before Vela starts moving, because I want this room to know who's thin before the food does.",
    "who": "Eron",
    "year": 15
+  },
+  {
+   "eid": "e005193",
+   "kind": "say",
+   "text": "Kael, Mako \u2014 I've asked twice and I'll ask once more, because Vela's got fifteen and she's looking for a place to put some of it, and a man who stays quiet when food is moving usually ends up with less than he needed and more than he wanted to explain.",
+   "who": "Roan",
+   "year": 15
   }
  ],
  "memory_summary": "",
