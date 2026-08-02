@@ -34,3 +34,4 @@
 {"eid": "e005185", "year": 15, "phase": "scramble", "kind": "give", "speaker": "a010", "who": "Roan", "audience": "public", "text": "Roan gives 3 food to Fina.", "payload": {"target": "a015", "amount": 3}}
 {"eid": "e005186", "year": 15, "phase": "scramble", "kind": "give", "speaker": "a003", "who": "Esa", "audience": "public", "text": "Esa gives 1 food to Vela.", "payload": {"target": "a002", "amount": 1}}
 {"eid": "e005187", "year": 15, "phase": "scramble", "kind": "give", "speaker": "a002", "who": "Vela", "audience": "public", "text": "Vela gives 1 food to Esa.", "payload": {"target": "a003", "amount": 1}}
+{"eid": "e005188", "year": 15, "phase": "convo", "kind": "convo", "speaker": "a010", "who": "Roan", "audience": ["a010", "a002", "a003", "a004", "a008", "a009", "a012", "a015", "a016"], "text": "Roan gathers Vela, Esa, Kael, Mako, Ryn, Eron, Fina, Joren to talk.", "payload": {}}
